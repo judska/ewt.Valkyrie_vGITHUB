@@ -1,0 +1,27 @@
+{game_entity
+	;© 2013 Zeke Wolff.
+	{volume "body1"
+		{component "body"}
+		{tags "body"}
+		{thickness 45
+			{front 50}
+			{bottom 14}
+		}
+	}
+	{volume "body2"
+		{component "body"}
+		{tags "body"}
+		{thickness 45
+			{front 50}
+			{bottom 14}
+		}
+	}
+	{volume "turret"
+		{thickness 45 0.3
+			{front	60}
+			{rear 	40}
+		} 
+	}
+	{obstacleId "tank"}
+	{Extension "p40_xx.mdl"}
+}

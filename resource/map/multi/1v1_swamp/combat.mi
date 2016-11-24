@@ -1,0 +1,58 @@
+{mission
+	{Entity "battle" 0xf000
+		{Position 248.94 59}
+		{Extender "speaker"
+			{SoundName "world/skirmish_environment/light_jungle_night2"}
+			{RecoveryTime 5}
+		}
+	}
+	{Entity "battle" 0xf001
+		{Position -884.06 -860.79}
+		{Extender "speaker"
+			{SoundName "world/skirmish_environment/light_jungle_night3"}
+			{RecoveryTime 5}
+		}
+	}
+	{Entity "battle" 0xf002
+		{Position 571.21 483.04}
+		{Extender "speaker"
+			{SoundName "world/skirmish_environment/dense_jungle_night2"}
+			{RecoveryTime 5}
+		}
+	}
+	{Entity "map_point" 0xc000
+		{Position -835.08 -1065.86}
+		{xform zl 55.64}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 1}
+	}
+	{Entity "map_point" 0xc007
+		{Position 962.5 760.28}
+		{xform zl -136.31}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 9}
+	}
+	{Tags "keep_places_without_door" 0x3000}
+	{Environment "skirmish/usa-hurtgen_b"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

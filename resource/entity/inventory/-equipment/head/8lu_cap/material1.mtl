@@ -1,0 +1,5 @@
+{material simple
+	{diffuse "8lu_cap"}
+	{blend none}
+	{tile}
+}

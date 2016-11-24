@@ -1,0 +1,11 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extender "stuff"
+		{item "ita_M33_alpino"}
+	}
+	{Extension "ita_M33_alpino.mdl"}
+	{Volume "select"
+	}
+	{Volume "body"
+	}
+}

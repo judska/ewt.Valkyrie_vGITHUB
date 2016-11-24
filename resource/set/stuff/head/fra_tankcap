@@ -1,0 +1,8 @@
+{item
+	{tag "smallitemin1hand"}
+	{entity "fra_tankcap"}
+	{mass 0.3}
+    {inventory
+        {link_bone "head"}
+    }
+}

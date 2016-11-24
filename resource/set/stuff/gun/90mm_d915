@@ -1,0 +1,5 @@
+{from "90mm_m3"     ; ARL44
+	{desc "90mm D.915"}
+	{fireSound "gun/85to100_cal/90mm_m3"}
+	("speed" s(1130))
+}

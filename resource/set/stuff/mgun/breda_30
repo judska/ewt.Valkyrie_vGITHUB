@@ -1,0 +1,10 @@
+{from "pattern mgun"
+	{tag "mgun_light"}
+	{filling "ammo mgun" 20}
+	{entity "breda_30"}
+	{fireSound	"mgun/breda_37_burst/"}
+ 	{reloadSound "breda30_reload"}
+
+	{rechargeTime 6}
+	("burst_short")
+}

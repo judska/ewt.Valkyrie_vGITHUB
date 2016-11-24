@@ -1,0 +1,171 @@
+{mission
+	{Entity "map_point" 0xc000
+		{Position -867.15 -68.21}
+		{xform zl -89.76}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 1}
+	}
+	{Entity "map_point" 0xc001
+		{Position -849.38 -67.65}
+		{xform zl -89.76}
+		{Extender "map_point"
+			{name a2}
+			{team a}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 2}
+	}
+	{Entity "map_point" 0xc002
+		{Position -1219.49 -6803.53}
+		{xform zl 86.18}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 3}
+	}
+	{Entity "map_point" 0xc003
+		{Position -1238.76 -6799.64}
+		{xform zl 86.18}
+		{Extender "map_point"
+			{name b2}
+			{team b}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 4}
+	}
+	{Entity "flag_point_1" 0x8002
+		{Position -949.66 -3456.64}
+		{xform zl -3.07}
+		{Extender "map_point"
+			{name f1}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 1}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 5}
+	}
+	{Entity "flag_point_2" 0x8003
+		{Position -3429.83 -3245.06 15.8}
+		{xform zl -3.07}
+		{Extender "map_point"
+			{name f2}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 2}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 6}
+	}
+	{Entity "flag_point_3" 0xc004
+		{Position 1444.83 -3679.8}
+		{xform zl -3.07}
+		{Extender "map_point"
+			{name f3}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 3}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 7}
+	}
+	{Tags "keep_places_without_door" 0x2182}
+	{Tags "keep_places_without_door" 0x2183}
+	{Tags "keep_places_without_door" 0x4830}
+	{Tags "keep_places_without_door" 0x6803}
+	{Tags "destroyed" 0x4053}
+	{Tags "keep_places_without_door" 0x1a0}
+	{Tags "keep_places_without_door" 0x203a}
+	{Tags "switch_right" 0x6047}
+	{Tags "keep_places_without_door" 0x1bf}
+	{Tags "keep_places_without_door" 0x5c15}
+	{Tags "keep_places_without_door" 0x23b}
+	{Tags "keep_places_without_door" 0x10f6}
+	{Tags "keep_places_without_door" 0x608e}
+	{Tags "keep_places_without_door" 0x3039}
+	{Tags "keep_places_without_door" 0x303b}
+	{Tags "keep_places_without_door" 0x303c}
+	{Tags "keep_places_without_door" 0x303e}
+	{Tags "keep_places_without_door" 0x6099}
+	{Tags "keep_places_without_door" 0x611e}
+	{Tags "keep_places_without_door" 0x354}
+	{Tags "keep_places_without_door" 0x355}
+	{Tags "keep_places_without_door" 0x359}
+	{Tags "keep_places_without_door" 0x35a}
+	{Tags "keep_places_without_door" 0x35b}
+	{Tags "keep_places_without_door" 0x35c}
+	{Tags "keep_places_without_door" 0x409}
+	{Tags "keep_places_without_door" 0x40a}
+	{Tags "keep_places_without_door" 0x40c}
+	{Tags "keep_places_without_door" 0x40f}
+	{Tags "keep_places_without_door" 0x410}
+	{Tags "keep_places_without_door" 0x46a}
+	{Tags "keep_places_without_door" 0x46d}
+	{Tags "keep_places_without_door" 0x68b}
+	{Tags "keep_places_without_door" 0x68c}
+	{Tags "keep_places_without_door" 0x3e9}
+	{Tags "keep_places_without_door" 0x3ea}
+	{Tags "keep_places_without_door" 0x3eb}
+	{Tags "keep_places_without_door" 0x74f}
+	{Tags "keep_places_without_door" 0x755}
+	{Tags "keep_places_without_door" 0xa12}
+	{Tags "keep_places_without_door" 0xa13}
+	{Tags "keep_places_without_door" 0xa14}
+	{Tags "keep_places_without_door" 0xa1d}
+	{Tags "keep_places_without_door" 0xa1e}
+	{Tags "keep_places_without_door" 0x1803}
+	{Tags "keep_places_without_door" 0x60a3}
+	{Tags "keep_places_without_door" 0x480a}
+	{Tags "keep_places_without_door" 0xc9e}
+	{Tags "keep_places_without_door" 0xc9f}
+	{Tags "keep_places_without_door" 0xca5}
+	{Tags "keep_places_without_door" 0x5802}
+	{Tags "keep_places_without_door" {0x104 "25"}}
+	{Environment "skirmish/usa-omaha"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

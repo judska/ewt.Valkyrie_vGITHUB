@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "h39"}
+	{blend none}
+}

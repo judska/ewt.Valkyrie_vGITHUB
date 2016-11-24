@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "rus_partizan3"}
+	{specular "rus_partizan3_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

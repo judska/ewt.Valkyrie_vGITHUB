@@ -1,0 +1,9 @@
+{material
+	{layer bump
+		{diffuse "#/red_normand/common/ground3"}
+	}
+	{layer bump
+		{diffuse "/texture/land/grass/gramma_8a"}
+		{bump "/texture/land/grass/gramma_8a_nm"}
+	}
+}

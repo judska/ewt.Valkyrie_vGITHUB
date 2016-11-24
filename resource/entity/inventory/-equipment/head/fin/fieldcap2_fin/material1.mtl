@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "fin_cap2"}
+	{blend none}
+}

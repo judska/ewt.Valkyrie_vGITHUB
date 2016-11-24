@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/pziv_ausfg_crash_inside"}
+	{blend test}
+}

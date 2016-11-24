@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "arl_44"}
+	{bump "arl_44_nm"}
+	{specular "arl_44_sm"}
+	{color "255 255 255 127"}
+	{blend none}
+}

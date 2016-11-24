@@ -1,0 +1,85 @@
+;Exported by: Admin
+;Date:        Sat Jan 03 22:38:08 2009
+;File:        E:\theGame\entity\inventory\-weapon\zb26\zb26.max
+{Skeleton
+	{animation
+		{sequence "on"}
+		{sequence "off"}
+	}
+	{bone "zb26"
+		{parameters "CommonMesh;ID=mgun;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "zb26.ply"}
+		{bone "foresight3"
+			{Position 17.2302	1.76408	0.354907}
+		}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				5.33328	1.9482	-0.495091
+			}
+		}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "zb26"}
+	{Position 5.26491	1.21386	-0.365088}
+}
+{Volume "select"
+	{Box 27.7845 9.72703 4.3449}
+	{Bone "zb26"}
+	{Position 5.07013	1.64344	0.306594}
+}
+{Extender "preview"
+	{"Stuff_primary"
+		{camera
+			{origin 6.55926	-6.088	30.6567}
+			{lookat 5.86767	-3.26707	13.4661}
+			{fov 45}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 14.334	-3.47562	2.40942}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0792752	0.197721	-0.452351}
+			}
+			{"2"
+				{type point}
+				{position -3.87232	10.86937	2.87135}
+			}
+		}
+	}
+	{"Stuff"
+		{camera
+			{origin 6.54763	-5.97502	29.9957}
+			{lookat 5.88264	-3.26258	13.4663}
+			{fov 40.7696}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 14.334	-3.47562	2.40942}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0792752	0.197721	-0.452351}
+			}
+			{"2"
+				{type point}
+				{position -3.87232	10.86937	2.87135}
+			}
+		}
+	}
+}

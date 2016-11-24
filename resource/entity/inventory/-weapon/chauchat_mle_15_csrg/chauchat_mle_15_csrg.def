@@ -1,0 +1,8 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{Extension "chauchat_mle_15_csrg.mdl"}
+	{extender "stuff"
+		{item "chauchat_mle_15"}
+	}
+	{nogroupmesh 1}
+}

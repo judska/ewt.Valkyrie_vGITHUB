@@ -1,0 +1,10 @@
+{from "pattern mgun"
+	{tag "mgun_light"}
+	{filling "ammo mgun" 25}
+	{entity "mg13"}
+	{fireSound	"mgun/mg13_burst/"}
+	{reloadSound "mg1_reload"}
+
+	{RechargeTime 2.0}
+	("burst_long")
+}

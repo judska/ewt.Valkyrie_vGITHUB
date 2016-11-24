@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "generic_african_infantry2_diffuse"}
+	{blend none}
+}

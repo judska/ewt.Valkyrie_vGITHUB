@@ -1,0 +1,275 @@
+{mission
+	{Entity "map_point" 0x8004
+		{Position 295.84 -2818.64}
+		{xform zl 89.18}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 5}
+	}
+	{Entity "map_point" 0x8005
+		{Position -235.95 -2811.94}
+		{xform zl 94.76}
+		{Extender "map_point"
+			{name a2}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 2}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 6}
+	}
+	{Entity "map_point" 0x8006
+		{Position -276.95 2774.2}
+		{xform zl -92.92}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 7}
+	}
+	{Entity "map_point" 0x8007
+		{Position 249.78 2774.55}
+		{xform zl -91.92}
+		{Extender "map_point"
+			{name b2}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 2}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 8}
+	}
+	{Entity "flag_point_1" 0x802f
+		{Position -3.54 -7.1}
+		{xform zl 46.79 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f1}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 1}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 48}
+	}
+	{Entity "flag_point_3" 0x8011
+		{Position 2216.18 4.05}
+		{xform zl 46.43 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f3}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 3}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 17}
+	}
+	{Entity "flag_point_2" 0x8013
+		{Position -2212.21 -20.46}
+		{xform zl 47.75 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f2}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 2}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 18}
+	}
+	{Entity "flag_point_4" 0xc001
+		{Position 1283.4 1124.07}
+		{xform zl 46.68 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f4}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 4}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 3}
+	}
+	{Entity "flag_point_5" 0xc002
+		{Position -1238.23 -1150.59}
+		{xform zl 43.96 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f5}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 5}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 4}
+	}
+	{Tags "keep_places_without_door" 0xc17}
+	{Tags "keep_places_without_door" 0xc38}
+	{Tags "keep_places_without_door" 0x68d}
+	{Tags "keep_places_without_door" 0xc3b}
+	{Tags "keep_places_without_door" 0x10bf}
+	{Tags "keep_places_without_door" 0x1832}
+	{Tags "keep_places_without_door" 0xbf8}
+	{Tags "keep_places_without_door" 0xbf9}
+	{Tags "keep_places_without_door" 0xbfa}
+	{Tags "keep_places_without_door" 0x11ed}
+	{Tags "keep_places_without_door" 0x893}
+	{Tags "keep_places_without_door" 0x8a3}
+	{Tags "keep_places_without_door" 0x67}
+	{Tags "keep_places_without_door" 0x440}
+	{Tags "keep_places_without_door" 0x483}
+	{Tags "keep_places_without_door" 0x4e4}
+	{Tags "keep_places_without_door" 0x4e5}
+	{Tags "keep_places_without_door" 0x4e7}
+	{Tags "keep_places_without_door" 0x128e}
+	{Tags "keep_places_without_door" 0x6b5}
+	{Tags "keep_places_without_door" 0x1153}
+	{Tags "keep_places_without_door" 0xaea}
+	{Tags "keep_places_without_door" 0x4022}
+	{Tags "keep_places_without_door" 0x402b}
+	{Tags "keep_places_without_door" 0x402c}
+	{Tags "keep_places_without_door" 0xc9e}
+	{Tags "keep_places_without_door" 0xc9f}
+	{Tags "keep_places_without_door" 0xca5}
+	{Tags "keep_places_without_door" 0x7000}
+	{Tags "keep_places_without_door" 0x703a}
+	{Tags "keep_places_without_door" 0x7044}
+	{Tags "keep_places_without_door" 0x7057}
+	{Tags "keep_places_without_door" 0x782f}
+	{Tags "keep_places_without_door" 0x7845}
+	{Tags "keep_places_without_door" 0x175b}
+	{Tags "keep_places_without_door" 0xf72}
+	{Tags "keep_places_without_door" 0x403b}
+	{Tags "keep_places_without_door" 0x305f}
+	{Tags "keep_places_without_door" 0x6822}
+	{Tags "keep_places_without_door" 0x139}
+	{Tags "keep_places_without_door" 0x14d}
+	{Tags "keep_places_without_door" 0x6049}
+	{Tags "keep_places_without_door" 0x604a}
+	{Tags "keep_places_without_door" 0x2038}
+	{Tags "keep_places_without_door" 0x15f}
+	{Tags "keep_places_without_door" 0x41b8}
+	{Tags "keep_places_without_door" 0x4200}
+	{Tags "keep_places_without_door" 0x4219}
+	{Tags "keep_places_without_door" 0x421a}
+	{Tags "keep_places_without_door" 0x421b}
+	{Tags "keep_places_without_door" 0x107f}
+	{Tags "keep_places_without_door" 0x1080}
+	{Tags "keep_places_without_door" 0x6861}
+	{Tags "keep_places_without_door" 0x5047}
+	{Tags "keep_places_without_door" 0x3c4}
+	{Tags "keep_places_without_door" 0x3c5}
+	{Tags "keep_places_without_door" 0x5856}
+	{Tags "keep_places_without_door" 0x5857}
+	{Tags "keep_places_without_door" 0x5858}
+	{Tags "keep_places_without_door" 0x5859}
+	{Tags "keep_places_without_door" 0x3816}
+	{Tags "keep_places_without_door" 0x709d}
+	{Tags "keep_places_without_door" 0x846}
+	{Environment "multi/multi_08"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

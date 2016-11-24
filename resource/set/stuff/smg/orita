@@ -1,0 +1,12 @@
+{from "ppsh"
+	{filling "ammo pistol" 32}
+	{entity "orita"}
+	{fireSound	"smg/orita_burst/"}
+
+	{recoveryTime 0.0816}
+	{burst
+		{short 7 1}
+		{long 15 3}
+	}
+	{rechargeTime 1.2}	
+}

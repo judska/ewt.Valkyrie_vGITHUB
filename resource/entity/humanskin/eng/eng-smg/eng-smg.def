@@ -1,0 +1,4 @@
+{Game_entity
+	{Extension "eng-smg.mdl"}
+	{tag "eng soldier"}
+}

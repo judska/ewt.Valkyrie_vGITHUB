@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "g_c_m3"}
+	{specular "g_c_m3_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

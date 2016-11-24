@@ -1,0 +1,50 @@
+-= Animation: break, Node Turret =-
+	Frame 0 {
+		Visibility 1
+		Position	-0.921939	-6.21236	-0.0012092
+		Orientation	-0.707107 0 0 0.707107
+	}
+	Frame 1 {
+		Orientation	-0.707078 0.00641741 0.00641741 0.707078
+	}
+	Frame 2 {
+		Orientation	-0.706773 0.0217173 0.0217173 0.706773
+	}
+	Frame 3 {
+		Orientation	-0.705977 0.0399646 0.0399646 0.705976
+	}
+	Frame 4 {
+		Orientation	-0.704946 0.0552329 0.0552329 0.704946
+	}
+	Frame 5 {
+		Orientation	-0.704416 0.0616284 0.0616284 0.704416
+	}
+	Frame 6 {
+		Orientation	-0.699682 0.0573735 0.059508 0.709657
+	}
+	Frame 7 {
+		Orientation	-0.68762 0.0463835 0.053433 0.722615
+	}
+	Frame 8 {
+		Orientation	-0.67142 0.0313794 0.043804 0.739116
+	}
+	Frame 9 {
+		Orientation	-0.654593 0.0149606 0.0313316 0.755184
+	}
+	Frame 10 {
+		Orientation	-0.641151 -0.000596851 0.017244 0.767221
+	}
+	Frame 11 {
+		Orientation	-0.635507 -0.0134381 0.00324314 0.771971
+	}
+	Frame 12 {
+		Orientation	-0.651621 -0.0305276 -0.0168562 0.757742
+	}
+	Frame 13 {
+		Orientation	-0.667347 -0.0427167 -0.0297803 0.742924
+	}
+	Frame 25 {
+		Visibility 1
+		Position	-0.921939	-6.21236	-0.0012092
+		Orientation	-0.667347 -0.0427167 -0.0297803 0.742924
+	}

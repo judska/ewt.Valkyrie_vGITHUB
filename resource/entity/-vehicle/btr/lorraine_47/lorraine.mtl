@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "/entity/-vehicle/btr/lorraine_37/lorraine"}
+	{specular "/entity/-vehicle/btr/lorraine_37/lorraine_sp"}
+	{color "229 229 229 25"}
+	{bump "/entity/-vehicle/btr/lorraine_37/lorraine_bp"}
+	{blend test}
+}

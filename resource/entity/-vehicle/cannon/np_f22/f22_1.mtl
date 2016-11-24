@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "f22"}
+	{specular "f22_sp"}	
+	{blend test}
+}

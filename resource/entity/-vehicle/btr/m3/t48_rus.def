@@ -1,0 +1,18 @@
+{entity
+	(include "t48.inc")
+
+	{extender "inventory"
+		{box
+			{item "eng_bullet57_qf6 apc" 93}
+			{item "eng_bullet57_qf6 fg" 5}
+		}
+	}
+	{Weaponry
+		{place "gun"
+			{weapon "57mm_oqf" filling "eng_bullet57_qf6 apc" 1}	
+			{RestoreIKAfterAim}
+		}
+	}
+
+	{texmod "rus"}
+}

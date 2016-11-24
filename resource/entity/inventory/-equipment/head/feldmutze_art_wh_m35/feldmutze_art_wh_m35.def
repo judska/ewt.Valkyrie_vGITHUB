@@ -1,0 +1,7 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extender "stuff"
+		{item "feldmutze_art_wh_m35"}
+	}
+	{Extension "feldmutze_m35.mdl"}
+}

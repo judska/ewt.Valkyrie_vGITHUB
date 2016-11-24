@@ -1,0 +1,40 @@
+{game_entity
+	{Extension "l640_xx.mdl"}
+	{obstacleId "tank"}
+	{volume "body1"
+		{tags "body"}
+		{component "body"}
+		{thickness 20
+		    {front  30}
+			{top	15}
+			{bottom	 5}
+			{rear   15}
+		}   
+	}
+	{volume "body2"
+		{tags "body"}
+		{component "body"}
+		{thickness 20
+		    {front  30}
+			{top	15}
+			{bottom	 5}
+			{rear   15}
+		}
+	}
+	{volume "body2"
+		{tags "body"}
+		{component "body"}
+		{thickness 20
+		    {front  30}
+			{top	15}
+			{bottom	 5}
+			{rear   15}
+		}
+	}
+	{volume "turret"
+		{thickness 30 0.3
+			{front  30}
+		}
+	}
+}
+

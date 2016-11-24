@@ -1,0 +1,8 @@
+{Actor
+	(include "/properties/stuff_small.ext")
+	{extender "stuff"
+		{item "cha_oficer_cap29"}
+	}
+	{Extension "cha_cap.mdl"}
+
+}

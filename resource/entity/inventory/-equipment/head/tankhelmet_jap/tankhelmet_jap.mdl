@@ -1,0 +1,47 @@
+;Exported by: Art
+;Date:        Sat Apr 02 23:50:09 2016
+;File:        E:\Autodesk\Low poly\freelance\DMS\helmets\Jap\tanker helmet\tanker helmet jap+.max
+{Skeleton
+	{bone "helmet_m38"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "helmet_m38.ply"}
+	}
+}
+{Volume "body"
+	{Sphere 2.54202}
+	{Bone "helmet_m38"}
+	{Position 0.291642	-0.0573442	3.02391}
+}
+{Volume "select"
+	{Box 8.34791 8.20985 7.71118}
+	{Bone "helmet_m38"}
+	{Position 0.343761	0.150715	3.14803}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 10.7089	-8.00871	5.40255}
+			{lookat 2.0347	-1.15359	3.00417}
+			{fov 22.6199}
+			{horizon -3.3864}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.171162	0.146829	-0.446256}
+			}
+			{"1"
+				{type directional}
+				{direction -0.189277	0.266067	0.378659}
+			}
+			{"2"
+				{type directional}
+				{direction -0.105484	-0.229601	-0.431458}
+			}
+		}
+	}
+}

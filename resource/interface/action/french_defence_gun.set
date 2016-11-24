@@ -1,0 +1,24 @@
+{action
+	{target ground}
+	{cursor "use"}
+	{fx "flashred"}
+	{item "french_defence_gun"}
+	{item_in_box}
+	{ShowCount}	
+	
+	
+	{button}
+	{AimEntities}	
+	{abledrag}
+	{ShowCount}
+	{instructions
+		{bind range 5}
+		{disable_action_restart}
+		{take_item}
+		{reserve_hands}
+		{animations "squat_repair_1 squat_repair_2" random loop totaltime 30}
+		{unreserve_hands}
+		{install "french_fieldgun" 0 exact_placement}
+		{fsm_request nocheck "hold-nothing"}
+	}
+}

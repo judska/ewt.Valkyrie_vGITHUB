@@ -1,0 +1,47 @@
+{entity
+	(include "b1bis.inc")
+	{extender "inventory"
+		{box
+			{item "bullet47 ap" 56}
+			{item "bullet47 fg" 43}
+			{item "bullet47 apcr" 5}			
+                        {item "bullet75 ap" 25}
+			{item "bullet75 fg" 33}
+			{item "bullet75 apcr" 5}
+			{item "ammo mgun" 1000}
+						{item "repair_kit" 2}
+ 
+
+		}
+	}
+
+	{Weaponry
+		("restore_ik_time")
+
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "47mm_sa35" filling "bullet47 ap"}
+			{foresight "foresight1"}
+			("abm_medium")
+			{basic}
+		}
+		{place "gun2"
+			{weapon "75mm_sa35" filling "bullet75 fg"}
+			{foresight "foresight2"}
+			{gunner "commander"}
+			{charger "commander"}
+			{rotate}
+			{basic}
+			("abm_medium")
+		}
+		{place "mgun"
+			{type "mgun_coaxial"}
+			{weapon "reibel" filled}
+			{foresight "foresight3"}
+			{gunner "gunner"}
+			{charger "gunner"}
+			{basic}
+			("abm_mgun")
+		}
+	}
+}

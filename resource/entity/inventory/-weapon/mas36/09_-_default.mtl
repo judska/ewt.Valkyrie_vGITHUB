@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/model/skr/wood_512/wood9"}
+	{specular "$/model/skr/wood_512/wood9_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

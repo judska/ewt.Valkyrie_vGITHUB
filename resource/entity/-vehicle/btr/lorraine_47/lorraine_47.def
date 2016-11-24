@@ -1,0 +1,135 @@
+{entity
+	(include "/properties/tank.ext")
+	(include "/properties/shadow/tank.inc"  scale(0.9))
+	(include "/properties/selection/vehicle.inc"  scale(1.0))
+	{collider "tank.light"}
+	{props "light" "-turret" "vision_vehicle_low" "muzzle_medium"}
+	;{targetClass "light_tank" "bullet"}
+	;{targetSelector "tank_bullet"}
+	
+	{patherId "tank.light"}
+	("armor_light" turret(8 6) body(12 10 10 8))
+	("armor_engine"  t(12))
+	
+	
+	{boarder
+			{anm "left"
+				{forward	{begin	"board_LowTank_left"} {end "seat_driver_car"} {base "close_driver"}}
+				{reverse 	{end	"emit_tank_1_hold"} {base "open_driver"}}
+			}
+			{anm "right"
+		        	{forward	{begin	"board_LowTank_left"} {end "squat_load_mortar"} {base "close_driver"}}
+				{reverse 	{end	"emit_tank_1_hold"} {base "open_driver"}}
+			}
+			{anm "charger"
+				{forward	{begin	"board_MiddleArmor"} {end "seat_armor"} {base "close"}}
+				{reverse 	{end	"emit_tank_1" 1} {base "open"}}
+			}
+			{anm "gunner"
+				{forward	{begin	"board_MiddleArmor"} {end "seat_armor"} {base "close"}}
+				{reverse 	{end	"emit_tank_1" 1} {base "open"}}
+			}
+			
+	}
+	("crew_human"		place(driver) door1(emit0) door2(emit0) visor(driver))
+	("crew_human"		place(commander) door1(emit2) door2(emit2) visor(driver))
+	("crew_human_visible_anm" place(gunner) door1(emit1) door2(emit1) visor(main) anm_left(gunner) anm_right(gunner))	
+	("crew_human_visible_anm" place(charger) door1(emit1) door2(emit1) visor(main) anm_left(charger) anm_right(charger))
+	{placer {place "gunner" {openForCrush 0}}}
+	
+	
+	
+ 	{sensor
+		{visor "main"
+			{bone "foresight1"}
+		}
+	}
+	{extender "inventory"
+		{box
+			{item "ammo bullet47 ap" 34}
+			{item "ammo bullet47 fg" 17}
+			{item "ammo bullet47 apcr" 5}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "47mm_sa1937_1" filling "ammo bullet47 ap" 1}  
+			("abm_medium")
+		}
+	}
+
+	("tracks")
+
+	{mass 8500}
+	{Chassis
+		("tank_trace" fx("tracks_mid") step(0.56) len(0.3))
+		{Locomotion ("locomotion")
+			{maxspeed   52}
+			{maxSpeedAtMaxTurn 30}
+			{StartTime  14}
+			{TurnStart  1.7}			
+			{TurnTime   9}
+			{TurnRadius 10} 
+    			{TurnStop   0.9}
+			{BrakeTime  1}
+			{StopTime   2}
+			{Gears      0.2 0.4 1}
+			{RearGears  0.35}		
+		}
+		{FuelBag
+			{volume 470 }	
+			{rate	135 }   
+			{remain 470 }
+			{fuel "fuel"}
+		}
+		{speed
+        	{Normal  12}
+    	}
+		{DisableMoveWhileFiring}
+	}
+	{Extension "lorraine37_47.mdl"}
+	{volume "body"
+		{tags "body"}
+		{component "body"}
+		{thickness 10}
+	}
+	{volume "body2"
+		{tags "body"}
+		{component "body"}
+		{thickness 5}
+	}
+	{volume "body_back"
+		{tags "body"}
+		{component "body"}
+		{thickness 10}
+	}
+	{Volume "engine"
+		{component "engine"}
+		{thickness 10}
+	}
+	{Volume "trackleft"
+		{thickness 10}
+	}
+	{Volume "trackright"
+		{thickness 10}
+	}
+	{volume "turret"
+		{component "turret"}
+		{thickness 12}
+	}
+	{Volume "gun"
+		{component "gun"}
+		{thickness 10}
+	}
+	{component "engine"	
+		{RepairTime 10}
+	}
+	{component "turret"
+		{RepairTime 20}
+	}
+	{component "gun"
+		{RepairTime 15}
+	}
+}

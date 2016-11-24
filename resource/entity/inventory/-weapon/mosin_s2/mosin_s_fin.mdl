@@ -1,0 +1,74 @@
+;Exported by: sergienko
+;Date:        Fri Jul 22 16:43:08 2005
+;File:        D:\tmp\mosin_s\mosina1.max
+{Skeleton
+	{bone "mosin_s_fin"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{LODView
+			{VolumeView "mosin_s_fin.ply"}
+		}
+		{bone "foresight3"
+			{Position 16.2639	1.59797	-0.262743}
+		}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				4.06222	1.54877	-0.314818
+			}
+		}
+	}
+}
+{Volume "select"
+	{Box 29.9047 11.1349 3.05727}
+	{Bone "mosin_s_fin"}
+	{Position 3.89291	1.11238	-0.287778}
+}
+{Volume "body"
+	{Box 23.1538 4.30972 1.17113}
+	{Bone "mosin_s_fin"}
+	{Position 3.31629	0.391461	-0.315923}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 5.18434	-2.6359	27.3993}
+			{lookat 4.05865	-0.774168	5.34955}
+			{fov 45}
+			{horizon 168}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.150319	-0.018287	-0.476518}
+			}
+			{"1"
+				{type directional}
+				{direction 0.160385	0.350124	-0.318888}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin 5.31341	-2.83309	30.7735}
+			{lookat 4.01594	-0.687259	5.35907}
+			{fov 45}
+			{horizon 160}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.150319	-0.018287	-0.476518}
+			}
+			{"1"
+				{type directional}
+				{direction 0.160385	0.350124	-0.318888}
+			}
+		}
+	}
+}

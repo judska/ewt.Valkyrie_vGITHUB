@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "rus_sailor"}
+	{specular "rus_sailor_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

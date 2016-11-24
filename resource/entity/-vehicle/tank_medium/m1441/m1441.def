@@ -1,0 +1,4 @@
+{game_entity
+	(include "m1441.inc")
+	("armor_medium" turret(42 25 25 6) body(30 25 25 6))
+}

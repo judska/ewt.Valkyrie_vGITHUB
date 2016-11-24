@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "fin_sweman"}
+	{blend none}
+}

@@ -1,0 +1,52 @@
+;Exported by: Luzhbin_M
+;Date:        Wed Apr 01 16:50:20 2009
+;File:        D:\Black\head_models\9_beret_tankist_RUMINIA\9_beret_tankist_RUMINIA.max
+{Skeleton
+	{bone "9_beret_tankist_ruminia"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "9_beret_tankist_ruminia.ply"}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	1
+				0	-1	0
+				-0.126442	0.0663326	3.22279
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 3.36133 2.9156 2.82349}
+	{Bone "9_beret_tankist_ruminia"}
+	{Position 0.203287	0.105886	3.64309}
+}
+{Volume "select"
+	{Box 7.32706 8.02016 6.53495}
+	{Bone "9_beret_tankist_ruminia"}
+	{Matrix34
+		1	0	0
+		0	0	1
+		0	-1	0
+		-0.126441	0.179827	3.3218
+	}
+}
+{Extender "preview"
+	{"stuff"
+		{camera
+			{origin 4.78431	4.89657	6.08365}
+			{lookat -11.6146	-11.4644	-1.44598}
+			{fov 45}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.338116	-0.33451	-0.154209}
+				{ambient 0x959595}
+			}
+		}
+	}
+}

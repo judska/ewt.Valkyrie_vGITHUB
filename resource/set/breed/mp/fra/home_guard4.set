@@ -1,0 +1,56 @@
+{breed
+ 
+	{skin "fr_civil_3"}
+	{portrait "fra_soldier1"}
+	{icon "home_guard"}
+	{icon_priority 0}
+	{nationality fr}
+	{armors
+		{head "hat2"}
+	}	
+	{perks
+		{"health" "100%"
+		}
+		{"health_regeneration" "100%"
+		}
+		{"stamina" "75%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" "mp_soldier"
+		}
+		{"speed" 0.8
+		}
+		{"tank"	0.6
+		}
+		{"vehicle" 0.8
+		}
+		{"cannon" 0.8
+		}
+		{"stealth"
+		}		
+		{"pistol" lvl_1
+		}
+		{"smg" lvl_1
+		}
+		{"mgun" lvl_1
+		}
+		{"rifle" lvl_1
+		}
+		{"rocketlauncher" lvl_1
+		}
+		{"melee" lvl_2
+		}
+	}
+	{veterancy
+		(include "veterancy_generic.inc")
+		("veterancy_1")
+	}
+	{inventory      
+		{item "mp40" filled}
+		{item "ammo pistol" 500}
+		{item "bandage" 3}
+		{item "grenade f1 2"}		
+		{in_hands 0}
+	}
+}

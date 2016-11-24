@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "hun_cap2"}
+	{blend none}
+}

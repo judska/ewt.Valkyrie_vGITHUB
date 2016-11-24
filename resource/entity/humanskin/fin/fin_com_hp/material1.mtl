@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "fin_officer1"}
+	{blend none}
+}

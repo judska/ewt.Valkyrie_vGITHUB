@@ -1,0 +1,14 @@
+;Exported by: Wibi
+;Date:        Tue May 05 23:19:29 2015
+;File:        C:\Users\Wibi\Pictures\ADRIAN Helmet test.max
+{Skeleton
+	{bone "default"
+		{parameters "Type = game_entity;Model = entity/cap/Adrian Helmet KMT;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "default.ply"}
+	}
+}

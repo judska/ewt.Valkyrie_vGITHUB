@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "hun_para"}
+	{specular "hun_para_spec"}
+	{color "255 255 255 25"}
+	{blend test}
+}

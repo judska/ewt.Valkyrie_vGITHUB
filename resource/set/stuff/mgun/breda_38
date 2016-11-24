@@ -1,0 +1,8 @@
+{from "pattern mgun"
+	{filling "ammo mgun" 24}
+	{entity "bredam38"}
+	{fireSound	"mgun/besa_burst"}
+	{reloadSound "breda30_reload"}
+	{rechargeTime 6}
+	("burst_medium")
+}

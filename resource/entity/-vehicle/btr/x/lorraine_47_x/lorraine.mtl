@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "/entity/-vehicle/btr/x/lorraine_37_x/lorraine_x"}
+	{blend test}
+}

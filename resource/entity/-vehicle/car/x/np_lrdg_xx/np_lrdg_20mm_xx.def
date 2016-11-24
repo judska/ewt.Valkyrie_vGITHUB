@@ -1,0 +1,29 @@
+{game_entity
+	{Extension "lrdg_20mm_xx.mdl"}
+	{Volume "body2"
+	}
+	{Volume "body3"
+	}
+	{Volume "gun"
+	}
+	{Volume "gun_rot"
+	}
+	{Volume "turret1_1"
+	}
+	{Volume "turret1_2"
+	}
+	{Volume "turret1_3"
+	}
+	{Volume "body"
+	}
+	{Volume "engine"
+	}
+	{Volume "wheelleft1"
+	}
+	{Volume "wheelleft2"
+	}
+	{Volume "wheelright1"
+	}
+	{Volume "wheelright2"
+	}
+}

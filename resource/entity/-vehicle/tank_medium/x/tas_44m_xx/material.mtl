@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "tas_xx"}
+	{bump "$/model/tas_bp"}
+	{specular "$/model/tas_sp"}
+	{color "229 229 229 25"}
+	{blend test}
+}

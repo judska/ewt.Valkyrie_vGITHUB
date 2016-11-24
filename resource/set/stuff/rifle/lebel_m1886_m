@@ -1,0 +1,19 @@
+{from "pattern rifle"
+	{tag "sniper rifle"}
+	{filling "ammo rifle" 8}
+	{entity "lebel_m1886"}
+	{fireSound "rifle/mas"}
+	{reloadSound "rifle_bolt_five"}
+	{recoveryTime 2.5}
+	("speed" s(850))
+	("accuracy_boost")
+	{desc "Marksman´s Lebel m1886"}
+	{special
+		{mode aim}
+		{PrepareTime 2}	
+		{PrepareCursor "aimed_shot2"}
+		{accuracy 2}
+		{damage 0.5}
+		
+	}
+}

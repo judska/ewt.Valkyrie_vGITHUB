@@ -1,0 +1,5 @@
+{from "pattern rifle"
+	{entity "mosin_fin"}
+	{fireSound "rifle/mosin_shot/"}
+	{reloadSound "mosin"}
+}

@@ -1,0 +1,16 @@
+{bullet
+	{tag "fg grenade"}
+	{inventory
+		{size 2 1}
+		{weight 40}
+	}	{mass 2}
+	{entity "ammo_mortar50_fgger"}
+
+        {detonationThickness 1}
+	
+	{damage blastwave
+		{energy 1.0}
+		{area 2.0 4.0}
+	}
+
+}

@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "jap_officer"}
+	{specular "jap_officer_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

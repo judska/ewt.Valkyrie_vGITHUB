@@ -1,0 +1,15 @@
+{game_entity
+	(include "/properties/stuff_flag.ext")
+	{Extension "mine_antitank_jap.mdl"}
+	{props "grenade" "contact"}
+;	{props "dynamite"}
+	{body {proper body sensible} {permit body}}
+	{extender "stuff"
+		{item "polemine_jap"}
+	}
+	{volume "body"
+		{thickness 1}
+		{able {blast}}
+		{able {contact}}
+	}
+}

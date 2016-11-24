@@ -1,0 +1,4 @@
+{from "fieldcap_rus"
+	{entity "feldmutze_art_wh_m35"}
+	{desc "Feldmütze mod.35"}
+}

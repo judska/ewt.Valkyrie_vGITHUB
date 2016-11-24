@@ -1,0 +1,343 @@
+{mission
+	{Entity "flag_point" 0x802f
+		{Position -853.17 -1043.82 57.14}
+		{xform zl 145.73}
+		{Extender "map_point"
+			{name f1}
+			{zoneA 30}
+			{zoneB 30}
+			{phase 0}
+			{order 1}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 48}
+	}
+	{Entity "map_point" 0xc000
+		{Position -3248.2 -6599.82}
+		{xform zl 73.65}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 1}
+	}
+	{Entity "map_point" 0x8014
+		{Position 3451.75 3087.15}
+		{xform zl -131.55}
+		{Extender "map_point"
+			{name a3}
+			{team a}
+			{phase 0}
+			{order 3}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 20}
+	}
+	{Entity "map_point" 0xc001
+		{Position 3937.49 2147.68}
+		{xform zl -151.66}
+		{Extender "map_point"
+			{name a2}
+			{team a}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 21}
+	}
+	{Entity "birds" 0xc400
+		{Position 5067.67 4716.18}
+	}
+	{Entity "birds" 0xc402
+		{Position 707.04 -4013.64}
+	}
+	{Entity "birds" 0xc404
+		{Position 1160.37 -3103.31}
+	}
+	{Entity "birds" 0xc405
+		{Position 410.25 3922.74}
+	}
+	{Entity "waterrun" 0xe802
+		{Position 1290.17 -2491.63 -30.96}
+		{Extender "speaker"
+			{SoundName "world/water/05"}
+		}
+	}
+	{Entity "waterrun" 0x8000
+		{Position 2022.17 -2443.81 -42.21}
+		{Extender "speaker"
+			{SoundName "world/water/05"}
+		}
+	}
+	{Entity "waterrun" 0x8001
+		{Position 584.44 -1932.63 -29.4}
+		{Extender "speaker"
+			{SoundName "world/water/03"}
+		}
+	}
+	{Entity "birds" 0x8005
+		{Position -4205.63 -3339.92 20.18}
+		{xform zl 44.97}
+		{Extender "speaker"
+			{SoundName "world/birds/00"}
+		}
+	}
+	{Entity "birds" 0x800a
+		{Position -1513.57 -3446.48 106.08}
+		{Extender "speaker"
+			{SoundName "world/birds/00"}
+		}
+	}
+	{Entity "birds" 0x800c
+		{Position -1127.12 -5006.37 47.86}
+		{Extender "speaker"
+			{SoundName "world/birds/00"}
+		}
+	}
+	{Entity "birds" 0xa000
+		{Position 4908.46 -4582.62 97.5}
+		{Extender "speaker"
+			{SoundName "world/village/00"}
+		}
+	}
+	{Entity "birds" 0xa001
+		{Position -2242.87 -1393.51 154.02}
+		{Extender "speaker"
+			{SoundName "world/village/01"}
+		}
+	}
+	{Entity "birds" 0xa002
+		{Position -4457.24 3099.82 58.86}
+		{Extender "speaker"
+			{SoundName "world/village/01"}
+		}
+	}
+	{Entity "birds" 0xa003
+		{Position 372.69 3658.44 -21.69}
+		{Extender "speaker"
+			{SoundName "world/cannonade/00"}
+		}
+	}
+	{Entity "chicken" 0x8021
+		{Position -2071.07 129.43}
+		{xform zl -119.61}
+		{Player 0}
+		{MID 28}
+	}
+	{Entity "chicken" 0x8022
+		{Position -2086.57 112.33}
+		{xform zl -125.14}
+		{Player 0}
+		{MID 29}
+	}
+	{Entity "chicken" 0x8027
+		{Position -2091.79 96.48}
+		{xform zl -166.53}
+		{TexMod "1"}
+		{Player 0}
+		{MID 34}
+	}
+	{Entity "chicken" 0x8029
+		{Position -2071.35 100.94}
+		{xform zl -125.14}
+		{Player 0}
+		{MID 36}
+	}
+	{Entity "map_point" 0xb000
+		{Position 4146.64 1644.2}
+		{xform zl -141.93}
+		{Extender "map_point"
+			{name a4}
+			{team a}
+			{phase 0}
+			{order 4}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 2}
+	}
+	{Entity "map_point" 0xb008
+		{Position -3841.2 -6255.66}
+		{xform zl 51.52}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 18}
+	}
+	{Entity "map_point" 0xb009
+		{Position 3807.16 2644.23}
+		{xform zl -133.94}
+		{Extender "map_point"
+			{name b3}
+			{team b}
+			{phase 0}
+			{order 3}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 23}
+	}
+	{Entity "map_point" 0xb00a
+		{Position -4469.23 -5775.63}
+		{xform zl 50.28}
+		{Extender "map_point"
+			{name b2}
+			{team b}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 46}
+	}
+	{Entity "map_point" 0xb00b
+		{Position -4933.2 -5519.76}
+		{xform zl 55.47}
+		{Extender "map_point"
+			{name b4}
+			{team b}
+			{phase 0}
+			{order 4}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 49}
+	}
+	{Entity "birds" 0x8006
+		{Position 1815.03 -246.08 100}
+	}
+	{Entity "map_point" 0x8011
+		{Position -5536.4 -5170.96}
+		{xform zl 59.01}
+		{Extender "map_point"
+			{name b5}
+			{team b}
+			{phase 0}
+			{order 5}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 8}
+	}
+	{Entity "map_point" 0x8012
+		{Position 3100.09 3511.13}
+		{xform zl -147.37}
+		{Extender "map_point"
+			{name a5}
+			{team a}
+			{phase 0}
+			{order 5}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 9}
+	}
+	{Tags "keep_places_without_door" 0x96}
+	{Tags "switch_left" 0x19b}
+	{Tags "switch_left" 0x19c}
+	{Tags "keep_places_without_door" 0x2cf}
+	{Tags "keep_places_without_door" 0x2d4}
+	{Tags "keep_places_without_door" 0x2d9}
+	{Tags "keep_places_without_door" 0x2de}
+	{Tags "keep_places_without_door" 0x2f4}
+	{Tags "keep_places_without_door" 0x2096}
+	{Tags "keep_places_without_door" 0x2097}
+	{Tags "keep_places_without_door" 0x4108}
+	{Tags "keep_places_without_door" 0x410d}
+	{Tags "keep_places_without_door" 0x40fa}
+	{Tags "keep_places_without_door" {0x4102 "03"}}
+	{Tags "keep_places_without_door" 0x4102}
+	{Tags "keep_places_without_door" 0x4107}
+	{Tags "keep_places_without_door" 0x4126}
+	{Tags "keep_places_without_door" 0x412b}
+	{Tags "keep_places_without_door" 0x4130}
+	{Tags "keep_places_without_door" 0x4135}
+	{Tags "keep_places_without_door" 0x413a}
+	{Tags "keep_places_without_door" 0x417f}
+	{Tags "keep_places_without_door" 0x4194}
+	{Tags "keep_places_without_door" 0x41a9}
+	{Tags "keep_places_without_door" 0x11e}
+	{Tags "keep_places_without_door" 0x4d5}
+	{Tags "keep_places_without_door" 0x4de}
+	{Tags "keep_places_without_door" 0x504}
+	{Tags "keep_places_without_door" 0x2068}
+	{Tags "keep_places_without_door" 0x518}
+	{Tags "keep_places_without_door" 0x51c}
+	{Tags "keep_places_without_door" 0x51d}
+	{Tags "keep_places_without_door" 0x601}
+	{Tags "keep_places_without_door" 0x753}
+	{Tags "keep_places_without_door" 0x7c9}
+	{Tags "keep_places_without_door" 0x4401}
+	{Tags "keep_places_without_door" 0x4b0}
+	{Tags "keep_places_without_door" {0x209c "point3"}}
+	{Brain 0x8021
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Brain 0x8022
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Brain 0x8027
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Brain 0x8029
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Environment "multi/multi_01"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Players
+		{count 17}
+		{diplomacy
+			1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+		}
+	}
+	{Fog 1}
+	{EntityManager {Enabled}
+		{CountScale "x0.5"}
+	}
+}

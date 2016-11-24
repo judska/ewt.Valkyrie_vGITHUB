@@ -1,0 +1,112 @@
+;Exported by: Chato59
+;
+;
+{Skeleton
+	{bone "elmetto_M33fanteRE"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{LODView
+			{VolumeView "elmetto_M33fanteRE.ply"}
+		}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	1
+				0	-1	0
+				-0.162603	-1.48698	1.68606
+			}
+		}
+	}
+}
+{Volume "select"
+	{Box 9.12936 6.18989 3.3075}
+	{Bone "elmetto_M33fanteRE"}
+	{Position 0.0407778	-0.15497	3.39032}
+}
+{Volume "body"
+	{Box 4.33744 4.55139 2.89156}
+	{Bone "elmetto_M33fanteRE"}
+	{Position 0.00675166	-0.15497	3.26509}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 6.04239	-3.77468	6.62905}
+			{lookat 0.215082	-0.0437293	3.55667}
+			{fov 45}
+			{horizon -0.556727}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 9.37868	-6.92502	11.4967}
+				{direction -0.328143	0.231258	-0.298064}
+				{theta 5.9}
+				{phi 17.8}
+			}
+			{"1"
+				{type point}
+				{position 5.16773	-7.69584	8.84734}
+			}
+			{"2"
+				{type spot}
+				{position 5.27698	-11.0718	3.84247}
+				{direction -0.19848	0.457308	-0.0384078}
+				{theta 7.4}
+				{phi 14}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin 7.09571	-4.1849	7.18903}
+			{lookat 0.204554	-0.036712	3.25448}
+			{fov 45}
+			{horizon -0.542125}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 9.37868	-6.92502	11.4967}
+				{direction -0.328143	0.231258	-0.298064}
+				{theta 5.9}
+				{phi 17.8}
+			}
+			{"1"
+				{type point}
+				{position -1.13084	1.62985	8.95043}
+			}
+		}
+	}
+	{"Stuff_secondary"
+		{camera
+			{origin 6.47136	-3.73713	6.83784}
+			{lookat 0.26476	0.00648861	3.61423}
+			{fov 45}
+			{horizon -0.533392}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 9.37868	-6.92502	11.4967}
+				{direction -0.328143	0.231258	-0.298064}
+				{theta 5.9}
+				{phi 17.8}
+			}
+			{"1"
+				{type point}
+				{position 5.16773	-7.69584	8.84734}
+			}
+			{"2"
+				{type spot}
+				{position 5.28839	-11.0718	4.5398}
+				{direction -0.197741	0.454588	-0.0651806}
+				{theta 7.4}
+				{phi 14}
+			}
+		}
+	}
+}

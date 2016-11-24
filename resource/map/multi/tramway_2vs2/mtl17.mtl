@@ -1,0 +1,9 @@
+{material
+	{layer bump
+		{diffuse "/texture/land/_reighstag/cobble 14dark"}
+	}
+	{layer bump
+		{diffuse "/texture/land/town/masonry_3a"}
+		{bump "/texture/land/town/masonry_3a_nm"}
+	}
+}

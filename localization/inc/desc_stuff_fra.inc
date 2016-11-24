@@ -1,0 +1,17 @@
+                {"beret_inf" "Beret"}
+                {"beret_tank" "Beret"}
+                {"cap_fl_fr" "Cap"}
+                {"cap_fr" "Cap"}
+                {"cap_fra" "Cap"}
+                {"cap_fra1" "Cap"}
+                {"cap_fra2" "Cap"}
+                {"fra_tankcap" "Cap"}
+                {"hat1" "Hat"}
+                {"hat2" "Hat"}
+                {"hat3" "Hat"}
+                {"hat1" "Hat"}
+                {"helmet1_fr" "Helmet"}
+                {"helmet2_fr" "Helmet"}
+                {"helmet3_fr" "Helmet"}
+                {"pol_helmet_m16" "Helmet"}
+                {"tarte" "Tarte"}

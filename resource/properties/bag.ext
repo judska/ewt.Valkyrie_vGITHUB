@@ -1,0 +1,26 @@
+;SDL
+game_entity
+
+{extender "stuff"}
+
+{volume "body"
+	{able clear {visible} {select} {contact_ground} {touch} {contact} {blast}}
+}
+
+{volume "select"
+	{able clear {select}}
+	{density 0}
+}
+
+{extender "inventory"
+    {box
+        {Size 4 4}
+        {Weight 100}
+    }
+}
+
+{obstacleID "stuff"}
+{collider "stuff"}
+{props "steel" "stuff" "collectable"}
+{simulation {able 1} {disableLinked 1}}
+{constrain ground}

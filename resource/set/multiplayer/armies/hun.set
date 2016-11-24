@@ -1,0 +1,7 @@
+{army
+	{id 5}
+	{title "HUN"}
+	{icon "/interface/pages/multi/flag_hun"}
+	{flag "/interface/scene/common/flag-hun"}
+}
+

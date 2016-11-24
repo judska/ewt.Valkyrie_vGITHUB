@@ -1,0 +1,67 @@
+{game_entity
+	(include "/properties/construction.inc")
+	{ObstacleId "construction"}
+	("armor_light" args 0.7)
+	{Extension "test.mdl"}
+	{props "fence" "wood" "construction" "animated_crush"}
+	{Volume "netting"
+		{thickness 0.2}
+		{tags "body" }
+		{able {visible 0} {bullet 0}}
+	}
+	{Volume "body3"
+		{thickness 0.2}
+		{tags "body"}
+		{able {visible 0} }
+	}
+	{Volume "body2"
+		{thickness 0.2}
+		{tags "body"}
+		{able {visible 0} }
+	}
+	{Volume "body1"
+		{thickness 0.2}
+		{tags "body"}
+		{able {visible 0} }
+	}
+	{Volume "body"
+		{thickness 0.2}
+		{tags "body"}
+		{able {visible 0} }
+	}
+	{lodclass "decor_medium"}
+       	{Placer
+		{place "cannon"
+			{linkbone 	"cannon"}
+			{entity 	"155gpf"}
+			{handlebone "basis"}
+			{turnoff {shadow}}
+		}
+		{place "sb_front"
+			{linkbone 	"sb1"}
+			{entity 	"sandbag2_round"}
+			{handlebone "basis"}
+			{turnoff {shadow}}
+		}
+                {place "sb_rear"
+			{linkbone 	"sb2"}
+			{entity 	"sandbag2_round"}
+			{handlebone "basis"}
+			{turnoff {shadow}}
+		}
+                {place "sb_right"
+			{linkbone 	"sb3"}
+			{entity 	"sandbag2_round"}
+			{handlebone "basis"}
+			{turnoff {shadow}}
+		}
+                {place "sb_left"
+			{linkbone 	"sb4"}
+			{entity 	"sandbag2_round"}
+			{handlebone "basis"}
+			{turnoff {shadow}}
+		}
+
+
+	}
+}

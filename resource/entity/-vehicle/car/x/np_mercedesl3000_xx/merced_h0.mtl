@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "mercedes_hun_xx"}
+	{blend test}
+}

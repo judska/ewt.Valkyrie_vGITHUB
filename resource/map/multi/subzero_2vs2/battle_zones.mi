@@ -1,0 +1,153 @@
+{mission
+	{Entity "map_point" 0x802d
+		{Position -2355.98 -3291.33}
+		{xform zl 42.5}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 5}
+	}
+	{Entity "map_point" 0x801c
+		{Position -3510.08 -1979.53}
+		{xform zl 26.09}
+		{Extender "map_point"
+			{name a2}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 6}
+	}
+	{Entity "map_point" 0x8014
+		{Position 2268.74 3351.42}
+		{xform zl -128.17}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 7}
+	}
+	{Entity "map_point" 0x802c
+		{Position 3597.67 2102.37}
+		{xform zl -144.77}
+		{Extender "map_point"
+			{name b2}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 9}
+	}
+	{Tags "keep_places_without_door" 0x1de}
+	{Tags "keep_places_without_door" 0x506c}
+	{Tags "keep_places_without_door" 0x2c2c}
+	{Tags "keep_places_without_door" 0x181c}
+	{Tags "keep_places_without_door" 0x1816}
+	{Tags "keep_places_without_door" 0x501e}
+	{Tags "keep_places_without_door" 0x600e}
+	{Tags "keep_places_without_door" 0x1df}
+	{Tags "keep_places_without_door" 0x402e}
+	{Tags "keep_places_without_door" 0x2c37}
+	{Tags "keep_places_without_door" 0x2c2d}
+	{Tags "keep_places_without_door" 0x2c00}
+	{Tags "keep_places_without_door" 0x7008}
+	{Tags "keep_places_without_door" 0x4038}
+	{Tags "keep_places_without_door" 0x4056}
+	{Tags "keep_places_without_door" 0x20b0}
+	{Tags "keep_places_without_door" 0x1f3}
+	{Tags "keep_places_without_door" 0x301b}
+	{Tags "keep_places_without_door" 0x3025}
+	{Tags "keep_places_without_door" 0x3027}
+	{Tags "keep_places_without_door" 0x6017}
+	{Tags "keep_places_without_door" 0x403d}
+	{Tags "keep_places_without_door" 0x2a0}
+	{Tags "keep_places_without_door" 0x2a1}
+	{Tags "keep_places_without_door" 0x2b4}
+	{Tags "keep_places_without_door" 0x5020}
+	{Tags "keep_places_without_door" 0x1035}
+	{Tags "keep_places_without_door" 0x404d}
+	{Tags "keep_places_without_door" 0x1043}
+	{Tags "keep_places_without_door" 0x2045}
+	{Tags "keep_places_without_door" 0x2046}
+	{Tags "keep_places_without_door" 0x40a3}
+	{Tags "keep_places_without_door" 0x2058}
+	{Tags "keep_places_without_door" 0x5047}
+	{Tags "keep_places_without_door" 0x5048}
+	{Tags "keep_places_without_door" 0x5052}
+	{Tags "keep_places_without_door" 0x1c5}
+	{Tags "keep_places_without_door" 0x2094}
+	{Tags "keep_places_without_door" 0x2095}
+	{Tags "keep_places_without_door" 0x1e2}
+	{Tags "keep_places_without_door" 0x60ef}
+	{Tags "keep_places_without_door" 0x2043}
+	{Tags "keep_places_without_door" 0x20d3}
+	{Tags "keep_places_without_door" 0x380e}
+	{Tags "keep_places_without_door" 0x1108}
+	{Tags "keep_places_without_door" 0x110c}
+	{Tags "keep_places_without_door" 0x516c}
+	{Tags "keep_places_without_door" 0x5176}
+	{Tags "keep_places_without_door" 0x3817}
+	{Tags "keep_places_without_door" 0x4172}
+	{Tags "keep_places_without_door" 0x3820}
+	{Tags "keep_places_without_door" 0x3821}
+	{Tags "keep_places_without_door" 0x619e}
+	{Tags "keep_places_without_door" 0x61c9}
+	{Tags "keep_places_without_door" 0x382e}
+	{Tags "keep_places_without_door" 0x620d}
+	{Tags "keep_places_without_door" 0x7803}
+	{Tags "keep_places_without_door" 0x781b}
+	{Tags "keep_places_without_door" 0x61e9}
+	{Tags "keep_places_without_door" 0x638}
+	{Tags "keep_places_without_door" 0x51d6}
+	{Tags "keep_places_without_door" 0x52bb}
+	{Tags "keep_places_without_door" 0x504e}
+	{Tags "keep_places_without_door" 0x493e}
+	{Tags "keep_places_without_door" 0x3026}
+	{Tags "keep_places_without_door" 0x1e0}
+	{Tags "keep_places_without_door" 0x1028}
+	{Environment "single/1/4-moscow"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

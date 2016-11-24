@@ -1,0 +1,240 @@
+{tags
+	{"human"
+		{"special"
+			{"hint" "Hint"}
+		}
+		(include "inc/desc_human_van.inc")
+		(include "inc/desc_human_fra.inc")
+		(include "inc/desc_human_hun.inc")
+		(include "inc/desc_human_fin.inc")
+		(include "inc/desc_human_ita.inc")
+		(include "inc/desc_human_chn.inc")
+	}
+	{"squad"
+		(include "inc/desc_squad_all.inc")
+	}
+	{"entity"
+		(include "inc/desc_entity_van.inc")
+		(include "inc/desc_entity_fra.inc")
+		(include "inc/desc_entity_hun.inc")
+		(include "inc/desc_entity_fin.inc")
+		(include "inc/desc_entity_ita.inc")
+		(include "inc/desc_entity_chn.inc")
+	}
+	{"ammo"
+		(include "inc/desc_ammo_van.inc")
+		(include "inc/desc_ammo_fin.inc")
+	}
+	{"weapon"
+		{"type"
+			{"secondary_flamer" "<f(arial_hq)><c(20a601)>Flamer</c>"}
+			{"secondary_flamer_left" "<f(arial_hq)><c(20a601)>Flamer Left</c>"}
+			{"secondary_flamer_right" "<f(arial_hq)><c(20a601)>Flamer Right</c>"}
+			{"secondary_rockets" "<f(arial_hq)><c(20a601)>Rockets</c>"}
+			{"secondary_main" "<f(arial_hq)><c(20a601)>Secondary</c>"}
+			{"mgun_main" "<f(arial_hq)><c(20a601)>Main</c>"}
+			{"mgun_main_heavy" "<f(arial_hq)><c(20a601)>Heavy</c>"}
+			{"mgun_aa" "<f(arial_hq)><c(20a601)>Anti-Aircraft</c>"}
+			{"mgun_coaxial" "<f(arial_hq)><c(20a601)>Coaxial</c>"}
+			{"mgun_hull" "<f(arial_hq)><c(20a601)>Hull</c>"}
+			{"mgun_hull_l" "<f(arial_hq)><c(20a601)>Hull Left</c>"}
+			{"mgun_hull_r" "<f(arial_hq)><c(20a601)>Hull Right</c>"}
+			{"mgun_hull_b" "<f(arial_hq)><c(20a601)>Hull Rear</c>"}
+			{"mgun_dual" "<f(arial_hq)><c(20a601)>Dual</c>"}
+			{"mgun_rear" "<f(arial_hq)><c(20a601)>Rear</c>"}
+			{"mgun_right" "<f(arial_hq)><c(20a601)>Right</c>"}
+			{"mgun_left" "<f(arial_hq)><c(20a601)>Left</c>"}
+			{"mgun_smoke" "<f(arial_hq)><c(20a601)>Smoke</c>"}
+			{"mgun_smoke_l" "<f(arial_hq)><c(20a601)>Left Smoke</c>"}
+			{"mgun_smoke_r" "<f(arial_hq)><c(20a601)>Right Smoke</c>"}
+			{"SMOG" "<f(arial_hq)><c(20a601)>smoke gun</c>"}
+			{"mgun_right_b" "<f(arial_hq)><c(20a601)>Right front</c>"}
+			{"mgun_left_b" "<f(arial_hq)><c(20a601)>Left back</c>"}
+			{"smoke" "<f(arial_hq)><c(20a601)>NBK39</c>"}
+			{"kampfpistole" "<f(arial_hq)><c(20a601)>Kampfpistole</c>"}
+		}
+		(include "inc/desc_weapon_van.inc")
+		(include "inc/desc_weapon_fra.inc")
+		(include "inc/desc_weapon_hun.inc")
+		(include "inc/desc_weapon_fin.inc")
+		(include "inc/desc_weapon_ita.inc")
+		(include "inc/desc_weapon_chn.inc")
+	}
+	{"container"
+		{"box" "Box"}
+		{"small_box" "Box"}
+	}
+	{"stuff"
+		{"37mm_m5" "37mm M5"}
+		{"37mm_hori" "37mm Type 38"}
+		{"antitank mine" "AT mine"}
+		{"antipersonnel mine" "AP mine"}
+		{"axe" "Axe"}
+		{"b33r" "Crate of beer bottles"}
+		{"balloon" "Fuel container"}
+		{"balloon_g" "Fuel container"}
+		{"bandage" "Bandage"}
+		{"barbwire_kit" "Barbed wire"}
+		{"barrel" "Barrel"}
+		{"beret_commando" "Beret"}
+		{"beret_eng" "Beret"}
+		{"beret_eng1" "Beret"}
+		{"beret_eng2" "Beret"}
+		{"beret_sas" "Beret"}
+		{"body_armor" "Body armor"}
+		{"browning_stan" "Browning mounted"}
+		{"can" "Can"}
+		{"cap_eng" "Field cap"}
+		{"cap1_ger" "Officer cap"}
+		{"cap1_rus" "Field cap"}
+		{"cap1_jap" "Officer cap"}
+		{"cap1_usa" "Officer cap"}
+		{"cap2_ger" "Officer cap"}
+		{"cap2_rus" "Field cap"}
+		{"cap3_rus" "Officer cap"}
+		{"cap_eng_afr" "Officer cap"}
+		{"cap_jap_off" "Field cap"}
+		{"cap_officer_eng" "Officer cap"}
+		{"chicken" "Chicken"}
+		{"commando-cap1" "Beret"}
+		{"cook_cap" "Cap"}
+		{"cord_wood" "Cord of wood"}
+		{"crow_bar" "Crowbar"}
+		{"drug" "Medicine"}
+		{"dynamite" "Dynamite"}
+		{"elf_cap" "Cap"}
+		{"f1" "AP grenade F1"}
+		{"fau_detail" "Rocket part"}
+		{"fieldcap1_ger" "Field cap"}
+		{"fieldcap1_jap" "Field cap"}
+		{"fieldcap1_rus" "Field cap"}
+		{"fieldcap_eng" "Field cap"}
+		{"fieldcap_ger" "Field cap"}
+		{"fieldcap_ger_tankmen" "Field cap"}
+		{"fieldcap_jap" "Field cap"}
+		{"fieldcap_rus" "Field cap"}
+		{"field_bag" "Field bag"}
+		{"filling_empty" "empty"}
+		{"flag" "Flag"}
+		{"hedgehog_kit" "Hedgehog"}
+		{"helmet1_ger" "Helmet"}
+		{"helmet1_eng" "Helmet"}
+		{"helmet1_eng_w" "Helmet"}
+		{"helmet1_jap" "Helmet"}
+		{"helmet1_jap_w" "Helmet"}
+		{"helmet1_rus" "Helmet"}
+		{"helmet1_rus_w" "Helmet"}
+		{"helmet1_usa" "Helmet"}
+		{"helmet2_eng" "Helmet"}
+		{"helmet2_eng_w" "Helmet"}
+		{"helmet2_ger" "Helmet"}
+		{"helmet2_rus" "Helmet"}
+		{"helmet2_usa" "Helmet"}
+		{"helmet2_jap" "Helmet"}
+		{"helmet3_ger" "Helmet"}
+		{"helmet3_jap" "Helmet"}
+		{"helmet4_ger" "Helmet"}
+		{"helmet4_usa" "Helmet"}
+		{"helmet5_ger" "Helmet"}
+		{"helmet_airborne_usa" "Helmet"}
+		{"helmet_jap" "Helmet"}
+		{"helmet_marine_usa" "Helmet"}
+		{"helmet_novice" "Helmet"}
+		{"helmet_paratrooper" "Helmet"}
+		{"helmet_usa_w" "Helmet"}
+		{"human" "body"}
+		{"kamikaze_bomb" "Explosives"}
+		{"knife" "knife"}
+		{"knife_ger" "Knife"}
+		{"knife_japan" "Knife"}
+		{"knife_rus" "Knife"}
+		{"knife_union" "Knife"}
+		{"m24" "AP grenade M24"}
+		{"m24x5" "AT grenade M24x5"}
+		{"m39" "AP grenade M39"}
+		{"m61" "AP grenade M61"}
+		{"matchbox" "Matchbox"}
+		{"medkit" "Medikit"}
+		{"mine antipersonnel" "AP mine"}
+		{"mine antitank" "AT mine"}
+		{"mine_antitank_jap" "AT high explosive mine"}
+		{"mine_detector" "Mine detector"}
+		{"mk1" "AP grenade Mk I"}
+		{"molotov_coctail" "Incendiary mixture"}
+		{"morphine" "Morphine"}
+		{"n73at" "AT grenade N73"}
+		{"petrol" "Fuel"}
+		{"plant" "Camouflage kit"}
+		{"pwm1" "AT grenade PWM-1"}
+		{"radioman_hat" "Radio operator hat"}
+		{"repair_kit" "Repair kit"}
+		{"rg42x3" "AT grenade RGD33x3 AT"}
+		{"rpg40" "AT grenade RPG-40"}
+		{"rpg43" "AT grenade RPG-43"}
+		{"rw_cap" "Tank cap"}
+		{"sandbag_kit" "Shovel and bags"}
+		{"sandbag_kit2" "Shovel and bags"}
+		{"satchel" "Satchel charge"}
+		{"santa_cap" "Cap"}
+		{"smoke" "Smoke grenade"}
+		{"smoke_paradrop_ammo" "Signal - ammo paradrop"}
+		{"smoke_paradrop_ammo_heavy" "Signal - heavy ammo paradrop"}
+		{"steak" "Beef steak"}
+		{"tankhelmet_jap" "Tank helmet"}
+		{"tankhelmet_rus" "Tank helmet"}
+		{"tankhelmet_usa" "Tank helmet"}
+		{"tank_balloon" "Fuel container"}
+		{"tank_cap1_ger" "Tank cap"}
+		{"tank_cap2_ger" "Tank cap"}
+		{"type3at" "Hand bomb"}
+		{"type3at_a" "AT grenade Type 3"}
+		{"type97" "AP grenade Type 97"}
+		{"type99" "AP grenade Type 99"}
+		{"type99at" "AT grenade Type 99"}
+		{"usmc-cap1" "Field cap"}
+		{"warden_furcap" "Field cap"}
+		{"water" "Water"}
+		{"winterhat" "Field cap"}
+		{"beret_commando1" "Beret"}
+		{"beret_eng3" "Beret"}
+		{"beret_eng4" "Beret"}
+		{"beret_eng5" "Beret"}
+		{"beret_eng6" "Beret"}
+		{"beret_sas1" "Beret"}
+		{"beret_sas2" "Beret"}
+		{"cap_eng_afr2" "Field cap"}
+		{"cap_eng2" "Officer cap"}
+		{"fieldcap_eng1" "Field cap"}
+		{"helmet3_eng" "Helmet"}
+		{"helmet3_eng_w" "Helmet"}
+		{"helmet4_eng" "Helmet"}
+		{"helmet5_eng" "Helmet"}
+		{"radioman_hat1" "Radio operator hat"}
+		{"ammunition_box_1" "Rifle/pistol ammos"}
+		{"ammunition_box_2" "AT-Rifle/MG ammos"}
+		{"ammunition_box_3" "Rocket/Rifle grenades"}
+		{"ammunition_box_4" "HMG ammos"}
+                {"1xsmokegun" "Smoke dispenser"}
+                {"2xsmokegun" "Smoke dispenser"}
+                {"3xsmokegun" "Smoke dispenser"}
+                {"smokecaller" "Smoke dispenser"}
+		{"spade_inv_foxhole_tank" "Trench Shovel"}
+		{"spade_inv_trenches" "Trench Shovel"}
+		{"spade_inv_trenches_mg" "Trench Shovel"}
+		{"spade_inv_trenches_mortar" "Trench Shovel"}
+		{"spade_inv_trenches_artillery" "Trench Shovel"}		
+		{"entrenching_tool" "Entrenching Spade"}
+		{"pilothelmet_eng" "Pilot helmet"}
+		{"jappilot_cap" "Pilot helmet"}
+		{"navy_pilot_helmet" "Pilot helmet"}
+		{"helmet_pilot_su" "Pilot helmet"}
+		{"fieldcap2_rus" "Field cap"}
+		{"fieldcap3_rus" "Field cap"}
+
+		(include "inc/desc_stuff_fra.inc")
+		(include "inc/desc_stuff_hun.inc")
+		(include "inc/desc_stuff_fin.inc")
+		(include "inc/desc_stuff_ita.inc")
+		(include "inc/desc_stuff_chn.inc")
+	}
+}

@@ -1,0 +1,35 @@
+{game_Entity
+	{Extension "su12_xx.mdl"}
+	{Volume "body"
+	}
+	{Volume "bodyback"
+	}
+	{Volume "cabin"
+	}
+	{Volume "engine"
+	}
+	{Volume "part1"
+	}
+	{Volume "part2"
+	}
+	{Volume "part3"
+	}
+	{Volume "gun"
+	}
+	{Volume "gun_rot"
+	}
+	{Volume "turret"
+	}
+	{Volume "wheelleft1"
+	}
+	{Volume "wheelleft2"
+	}
+	{Volume "wheelleft3"
+	}
+	{Volume "wheelright1"
+	}
+	{Volume "wheelright2"
+	}
+	{Volume "wheelright3"
+	}
+}

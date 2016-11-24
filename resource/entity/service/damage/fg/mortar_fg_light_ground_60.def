@@ -1,0 +1,7 @@
+{game_entity
+	{Skeleton}
+	{props "mortar_fg_light_ground_60"}
+	{extender "stuff"
+		{item "mortar_fg_light_ground_60"}
+	}
+}

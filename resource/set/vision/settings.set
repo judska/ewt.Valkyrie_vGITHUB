@@ -1,0 +1,221 @@
+{terms
+	{fin_noscope 					firing "fin_noscope"}
+	{welrod 					firing "welrod"}
+	{nagan_pb					firing "nagan_pb"}
+	{delisle					firing "de_lisle"}
+	{hdm						firing "hdm"}
+	{sten_v_silencer			firing "sten_v_silencer"}
+	{knife_ger  				firing "knife_ger"}
+	{knife_rus   				firing "knife_rus"}
+	{knife_union   				firing "knife_union"}
+	{knife_japan   				firing "knife_japan"}
+	{axe  						firing "axe"}
+	{crow_bar  					firing "crow_bar"}
+	{smoke   					firing "smoke"}
+	{smoke_paradrop_ammo   		firing "smoke_paradrop_ammo"}
+	{smoke_paradrop_ammo_heavy  firing "smoke_paradrop_ammo_heavy"}
+	{f1   						firing "f1"}
+	{m24   						firing "m24"}
+	{m39   						firing "m39"}
+	{m61   						firing "m61"}
+	{mk1   						firing "mk1"}
+	{satchel  					firing "satchel"}
+	{type97   					firing "type97"}
+	{type99   					firing "type99"}
+	{m24x5   					firing "m24x5"}
+	{molotov_coctail   			firing "molotov_coctail"}
+	{n73at   					firing "n73at"}
+	{pwm1   					firing "pwm1"}
+	{rg42x3   					firing "rg42x3"}
+	{rpg40   					firing "rpg40"}
+	{rpg43   					firing "rpg43"}
+	{type3at   					firing "type3at"}
+	{type3at_a   				firing "type3at_a"}
+	{type99at   				firing "type99at"}
+;ADD RIFLES
+	{zh_29   				firing "zh-29"}
+	{typezhongzheng 			firing "typezhongzheng"}
+	{pystykorva   				firing "pystykorva"}
+	{mauzer1924   				firing "mauzer1924"}
+	{mas36_grenade   			firing "mas36_grenade"}
+	{mas36  				firing "mas36"}
+	{mannlicher_m1895c   			firing "mannlicher_m1895c"}
+	{mannlicher_m1895   			firing "mannlicher_m1895"}
+	{lebel_m1886   				firing "lebel_m1886"}
+	{gewehrgranatgerat   			firing "gewehrgranatgerat"}
+	{feg_43m   				firing "feg_43m"}
+	{carcano_m91_38   			firing "carcano_m91-38"}
+	{carcano_m91  				firing "carcano_m91"}
+	{Carcano_m1891bayonet   		firing "Carcano_m1891bayonet"}
+	{berthier_m1916   			firing "berthier_m1916"}
+	{avs36  				firing "avs36"}
+;DEFAULT RIFLES
+	{type99rifle_at   			firing "type99rifle_at"}
+	{type99rifle   				firing "type99rifle"}
+	{type2rifle   				firing "type2rifle"}
+	{svt40   				firing "svt40"}
+	{sks   					firing "sks"}
+	{mosin   				firing "mosin"}
+	{mauzer   				firing "mauzer"}
+	{m2_carbine   				firing "m2_carbine"}
+	{m1_carbine  				firing "m1_carbine"}
+	{m1903   				firing "m1903"}
+	{m12_shotgun   				firing "m12_shotgun"}
+	{johnson   				firing "johnson"}
+	{garand   				firing "garand"}
+	{g43_scope   				firing "g43_scope"}
+	{g43   					firing "johnson"}
+	{em3_mark1   				firing "em3_mark1"}
+	{em3   					firing "em3"}
+ ;PTR
+	{type_97_antitank   			firing "type_97_antitank"}
+	{pzb39   				firing "pzb39"}
+	{ptrs   				firing "ptrs"}
+	{ptrd   					firing "ptrd"}
+	{boyes   				firing "boyes"}
+	{wz35   				firing "wz35"}
+	{solothurn   				firing "solothurn"}
+ ;SNIPER
+	{zb24_s   			firing "zb24_s"}
+	{mauser_zhongzheng_scope   				firing "mauser_zhongzheng_scope"}
+	{lebel_m1886_scoped   				firing "lebel_m1886_scoped"}
+	{carcano_m91_scoped   					firing "carcano_m91_scoped"}
+	{type99rifle_s   				firing "type99rifle_s"}
+	{mosin_s   				firing "mosin_s"}
+	{m1903a4  				firing "m1903a4"}
+	{g41   				firing "g41"}
+	{em2  				firing "em2"}
+;DEFAULT SMG
+	{type2smg   				firing "type2smg"}
+	{type100smg   				firing "type100smg"}
+	{thompson_m1928   				firing "thompson_m1928"}
+	{thompson_30  				firing "thompson_30"}
+	{thompson   				firing "thompson"}
+	{sten_v   				firing "sten_v"}
+	{sten   				firing "sten"}
+	{sg44   				firing "sg44"}
+	{ppsh41   				firing "ppsh41"}
+	{ppsh   					firing "ppsh"}
+	{pps43   				firing "pps43"}
+	{owen_gun   					firing "owen_gun"}
+	{mp40   				firing "mp40"}
+	{mp3008   				firing "mp3008"}
+	{mp28_50   				firing "mp28_50"}
+	{mp28   				firing "mp28"}
+	{m50reising   					firing "m50reising"}
+	{m3a   				firing "m3a"}
+;ADD SMG
+	{suomi_m31   				firing "suomi_m31"}
+	{ppd40   					firing "ppd40"}
+	{ppd   				firing "ppd"}
+	{mp18   				firing "mp18"}
+	{mas38   				firing "mas38"}
+	{mab_42   				firing "mab_42"}
+	{mab_38a   					firing "mab_38a"}
+	{danuvia_43m   				firing "danuvia_43m"}
+	{danuvia_39m 				firing "danuvia_39m"}
+;add pistol
+	{modele_1935   				firing "modele_1935"}
+	{mauser_pistol   					firing "mauser_pistol"}
+	{frommer_37m   				firing "frommer_37m"}
+	{Beretta_m1934stunn   				firing "Beretta_m1934stunn"}
+	{beretta_m1934  				firing "beretta_m1934"}
+;DEFAULT PISTOL
+	;{webley   				firing "webley"}
+	;{valter   					firing "valter"}
+	{tt   				firing "tt"}
+	{nambu   				firing "nambu"}
+	{nagan  				firing "nagan"}
+	{webley   				firing "webley"}
+	{valter   					firing "valter"}
+	{luger   					firing "luger"}
+	{flaergun   				firing "flaergun"}
+	{colt   				firing "colt"}
+;DEFAULT MG
+ 
+	{vickers_mgun  				firing "vickers_mgun"}
+	{vickers_k   				firing "vickers_k"}
+	{type99lmg   				firing "type99lmg"}
+	{type1hmg  				firing "type1hmg"}
+	{mg42_120   				firing "mg42_120"}
+	{mg42   				firing "mg42"}
+	{mg37   				firing "mg37"}
+	{mg34_x2   				firing "mg34_x2"}
+	{mg34_tower   				firing "mg34_tower"}
+	{mg34   					firing "mg34"}
+	{maxim_inv   				firing "maxim_inv"}
+	{maxim   					firing "maxim"}
+	;{johnson_m1941   				firing "johnson_m1941"}
+	{fg42  				firing "fg42"}
+	{dt   				firing "dt"}
+	{dshk   				firing "dshk"}
+	{ds					firing "ds"}
+	{dp   				firing "dp"}
+	{browning_x4   					firing "browning_x4"}
+	{browning_x2   				firing "browning_x2"}
+	{browning_m19a6  				firing "browning_m19a6"}
+	{browning_m19   				firing "browning_m19"}
+	{bren   				firing "bren"}
+	{besa					firing "besa"}
+	{bar					firing "bar"}
+
+;ADD MG
+	{zb26  				firing "zb26"}
+	{vickers_k_x2   				firing "vickers_k_x2"}
+	{solothurn_31m   				firing "solothurn_31m"}
+	{Reibel  				firing "Reibel"}
+	{mg13   				firing "mg13"}
+	{maxim_quad   				firing "maxim_quad"}
+	{maxim_norm   				firing "maxim_norm"}
+	{maxim_mg08   				firing "maxim_mg08"}
+	{maxim_indirect   				firing "maxim_indirect"}
+	{maxim_32   					firing "maxim_32"}
+	{lsm26   				firing "lsm26"}
+	{kgm40   					firing "kgm40"}
+	{johnson_m1941   				firing "johnson_m1941"}
+	{hotchkiss_132  				firing "hotchkiss_132"}
+	{hotchkiss132   				firing "hotchkiss132"}
+	{gebauer   				firing "gebauer"}
+	{fm_24_29_t					firing "fm_24-29_t"}
+	{fm_24_29   				firing "fm_24-29"}
+	{fiat_65_x2   					firing "fiat_65_x2"}
+	{fiat_65   				firing "fiat_65"}
+	{fiatm1914  				firing "fiatm1914"}
+	{dt_2x   				firing "dt_2x"}
+	{ckm_wz30   				firing "ckm_wz30"}
+	{chauchat_mle_15					firing "chauchat_mle_15"}
+	{browning_m17					firing "browning_m17"}
+	{breda_safat88   				firing "breda_safat88"}
+	{breda_38_x2  				firing "breda_38_x2"}
+	{breda_38   				firing "breda_38"}
+	{breda_30   				firing "breda_30"}
+	{bredam38x2				firing "bredam38x2"}
+	{bredam38				firing "bredam38"}
+	{schwarzlose				firing "8mm_schwarzlose"}
+	
+	{actor_tank    				actor  "tank"  }
+	{actor_cannon  				actor  "cannon"}
+	{human 		   			actor  "human" }
+    {zero 		   				actor  "zero" }
+	{vehicle_01    				actor  "vision_vehicle_minimum"}
+	{vehicle_02  				actor  "vision_vehicle_low"}
+	{vehicle_03   				actor  "vision_vehicle_medium"}
+	{vehicle_04    				actor  "vision_vehicle_high"}
+	{vehicle_05    				actor  "vision_vehicle_maximum"}
+	{cannon_01     				actor  "vision_cannon_minimum"}
+	{cannon_02     				actor  "vision_cannon_low"}
+	{cannon_03     				actor  "vision_cannon_medium"}
+	{cannon_04     				actor  "vision_cannon_high"}
+	{cannon_05     				actor  "vision_cannon_maximum"}
+	
+	{sniper		   				breed   "sniper"}
+}
+
+{ranges
+	{human
+		{human}
+	}
+	{vehicle
+		{vehicle_03}
+	}
+}

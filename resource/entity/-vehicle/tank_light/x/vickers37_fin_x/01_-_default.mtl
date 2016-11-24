@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "vickers_turret"}
+	{specular "$/model/vickers_turret_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

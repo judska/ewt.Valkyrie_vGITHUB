@@ -1,0 +1,9 @@
+{actor
+	(include "/properties/stuff_grenade.ext")
+	{Extension "kasapanos_4kg.mdl"}
+	{props "grenade" }
+	{extender "stuff"
+		{item "kasapanos"}
+	}
+	{props "grenade" "explosive_stuff"}
+}

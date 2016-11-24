@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "pol_helmet_wz31"}
+	{specular "$/model/skr/main_sp"}
+	{color "229 229 229 152"}
+	{blend none}
+}

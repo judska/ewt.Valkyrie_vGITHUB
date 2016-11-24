@@ -1,0 +1,94 @@
+;Exported by: Loki
+;Date:        Fri Aug 27 13:09:33 2010
+;File:        E:\PROGRAMS\3Ds Max 8\scenes\cap.max
+{Skeleton
+	{bone "basis"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "body"
+			{parameters "ID=body;"}
+			{Matrix34
+				-0.0114418	-0.999907	0.00739186
+				0.0588771	0.00670584	0.998243
+				-0.9982	0.0118569	0.0587949
+				0.54769	0.0334587	3.6533
+			}
+			{VolumeView "body.ply"}
+		}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "body"}
+	{Matrix34
+		0.999983	0.00315508	0.0049394
+		-0.0034944	0.997522	0.0702622
+		-0.00470544	-0.0702782	0.997516
+		6.24424e-005	6.4373e-005	-0.000336334
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 5.23472	-2.44713	3.23467}
+			{lookat -5.72498	2.69273	3.65751}
+			{fov 60}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 2.77002	-6.53861	15.2208}
+				{direction -0.0835746	0.223157	-0.439564}
+				{theta 6.5}
+				{phi 13.5}
+			}
+			{"1"
+				{type point}
+				{position 2.97481	-2.03812	4.71696}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin 10.3868	-4.86334	3.06784}
+			{lookat -5.72398	2.69226	3.68941}
+			{fov 45}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 2.77002	-6.53861	15.2208}
+				{direction -0.0835746	0.223157	-0.439564}
+				{theta 6.5}
+				{phi 13.5}
+			}
+			{"1"
+				{type point}
+				{position 2.97481	-2.03812	4.71696}
+			}
+		}
+	}
+	{"Stuff_secondary"
+		{camera
+			{origin 6.3591	-2.97444	3.22324}
+			{lookat -5.72398	2.69226	3.68941}
+			{fov 45}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 2.77002	-6.53861	15.2208}
+				{direction -0.0835746	0.223157	-0.439564}
+				{theta 6.5}
+				{phi 13.5}
+			}
+			{"1"
+				{type point}
+				{position 2.97481	-2.03812	4.71696}
+			}
+		}
+	}
+}

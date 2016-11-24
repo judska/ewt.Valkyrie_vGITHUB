@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "usa-medic"}
+	{specular "usa-medic_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

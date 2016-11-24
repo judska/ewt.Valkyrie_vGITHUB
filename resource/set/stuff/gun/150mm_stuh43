@@ -1,0 +1,4 @@
+{from "150mm_sig33"      ; Stupa IV
+	{desc "150mm Stuh43"}
+	{gravity 9}
+}

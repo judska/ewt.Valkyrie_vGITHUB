@@ -1,0 +1,10 @@
+{material
+	{layer bump
+		{diffuse "/texture/land/town/.winter/rounds_win_3"}
+		{bump "/texture/land/town/.winter/rounds_win_3_nm"}
+	}
+	{layer bump
+		{diffuse "/texture/land/winter/ridden_snow1q"}
+		{bump "/texture/land/winter/ridden_snow1q_nm"}
+	}
+}

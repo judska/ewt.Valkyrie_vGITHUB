@@ -1,0 +1,128 @@
+{game_entity
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+		
+	{collider "tank.light"}
+	{props "light" "turret_rotator" "vision_vehicle_minimum"}
+	{targetClass "light_tank" "bullet"}
+	{targetSelector "tank_bullet"}
+	{patherId "tank.light"}
+
+	{volume "body1"
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "body2"
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "body3"
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "body4"
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "engine"
+		{tags "engine"}
+		{component "engine"}
+	}
+	
+	("armor_light" turret(15) body(13 10 10 6))
+	("armor_engine"  t(5 10 10 6))
+	
+	("crew_2_human")
+	
+	{sensor
+		{visor "main"
+			{vision "tank_main-l"}
+			{bone "foresight3"}
+		}
+		{Visor "driver"
+			{vision "tank_driver"}
+			{bone "visor"}
+		}
+	}
+	
+	{boarder
+		{anm "left"
+			{forward	{begin	"board_LowTank_left"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "right"
+			{forward	{begin	"board_LowTank_left"}}
+			{reverse 	{end	"emit_tank_1"}}
+		}
+	}
+
+	{extender "inventory"
+		{box
+			{item "ammo mgun" 2240}
+			{item "tank_balloon" filled}
+			{item "mab_38a" filled}
+			{item "ammo pistol" 120}
+			{item "oto_mod35 grenade" 5}
+		}
+	}
+	{Weaponry
+		{place "flamer1"
+			{type "secondary_flamer"}
+			{weapon "flame_thrower_tank_ita" filled}
+			{foresight "foresight9"}
+			{gunner "gunner"}
+			{charger "gunner"}
+			{basic}
+		}
+		{place "mgun1"
+			{type "mgun_hull"}
+			{weapon "breda_38" filled}
+			{foresight "foresight3"}
+			{gunner "gunner"}
+			{charger "gunner"}
+			("abm_mgun")
+			{basic}
+		}
+	}
+	
+	{mass 3200}
+		{Chassis
+		("tank_trace" fx("tracks_sm2") step(0.15) len(0.6))
+			{Locomotion ("locomotion")
+				{maxspeed   40}
+				(mod "mp"
+					{maxspeed   31}
+				)
+				{maxSpeedAtMaxTurn 18}
+				{StartTime  12}
+				{TurnTime   7}
+				{TurnStart  1.1}			
+				{TurnRadius 7} 
+    			{TurnStop   0.7}
+				{BrakeTime  1}
+				{StopTime   2}
+				{Gears   0.2 0.4 1}
+				{RearGears  0.34}	
+			}
+				{FuelBag
+					{volume 70 }	
+					{rate	20 }   
+					{remain 68 }
+					{fuel "fuel"}
+				}
+			    {speed
+        			{Normal  10}
+    			}
+		}
+
+	{Extension "l35lf.mdl"}
+	
+	{bone "gun_rot"
+		{speed 0.015}
+		{limits -10 15}
+	}
+	{bone "gun_rot1"
+		{speed 0.015}
+		{limits -12 12}
+	}
+}

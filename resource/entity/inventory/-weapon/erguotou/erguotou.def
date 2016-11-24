@@ -1,0 +1,12 @@
+{actor
+	(include "/properties/stuff_grenade.ext")
+	{extension "erguotou.mdl"}
+	{extender "stuff"
+		{item "erguotou"}
+	}
+	{nogroupmesh 1}
+	{props "contact" "erguotou"}
+	{volume "body"
+		{able {bullet} {contact} {blast}}
+	}
+}

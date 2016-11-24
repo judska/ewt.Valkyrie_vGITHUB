@@ -1,0 +1,92 @@
+;Exported by: Sergey
+;Date:        Mon Dec 30 21:50:48 2013
+;File:        D:\Documents\3dsmax\scenes\Шлем М-26\Шлем Адриана M1926_01.max
+{Skeleton
+	{bone "helmet_m26"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "body"
+			{Matrix34
+				-0.969329	0	-0.245768
+				0	-1	0
+				-0.245768	0	0.969329
+				-0.223681	-0.00401521	2.8476
+			}
+			{VolumeView "body.ply"}
+			{bone "remen"
+				{Matrix34
+					-0.993942	0	-0.109903
+					0	-1	0
+					-0.109903	0	0.993942
+					0.293096	0.0147511	2.49502
+				}
+				{VolumeView "remen.ply"}
+			}
+		}
+		{bone "decal_art"
+			{Matrix34
+				-0.969329	0	-0.245768
+				0	-1	0
+				-0.245768	0	0.969329
+				1.52754	-0.00401282	4.13453
+			}
+			;{VolumeView "decal_art.ply"}
+		}
+		{bone "decal_inf"
+			{Matrix34
+				-0.969329	0	-0.245768
+				0	-1	0
+				-0.245768	0	0.969329
+				1.52754	-0.00401282	4.13453
+			}
+			;{VolumeView "decal_inf.ply"}
+		}
+	}
+}
+{Volume "body"
+	{Box 5.31496 3.54331 4.72441}
+	{Bone "helmet_m26"}
+	{Matrix34
+		1	0	0
+		0	0	1
+		0	-1	0
+		-0.20967	-0.073348	3.70285
+	}
+}
+{Volume "select"
+	{Box 5.51181 3.74016 4.92126}
+	{Bone "helmet_m26"}
+	{Matrix34
+		1	0	0
+		0	0	1
+		0	-1	0
+		-0.20967	-0.0796483	3.70285
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 9.6814	-8.25522	4.09624}
+			{lookat 1.51386	-1.24217	2.82222}
+			{fov 22.6199}
+			{horizon -3.3864}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.171162	0.146829	-0.446256}
+			}
+			{"1"
+				{type directional}
+				{direction -0.189277	0.266067	0.378659}
+			}
+			{"2"
+				{type directional}
+				{direction -0.105484	-0.229601	-0.431458}
+			}
+		}
+	}
+}

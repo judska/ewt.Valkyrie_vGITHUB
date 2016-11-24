@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "bag"}
+	{blend none}
+}

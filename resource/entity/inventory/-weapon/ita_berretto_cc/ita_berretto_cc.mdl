@@ -1,0 +1,120 @@
+;Exported by: sk
+;Date:        Wed Jan 16 17:15:18 2008
+;File:        D:\-Projects1_5-\-3DWork-\-Model-\Soldier\Ger_Afrika\Helmet_officer_afr.max
+{Skeleton
+	{bone "cap_officer_afr"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "cap_officer_afr.ply"}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	1
+				0	-1	0
+				-0.152664	-1.48698	3.20882
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 4.33744 4.55139 2.89156}
+	{Bone "cap_officer_afr"}
+	{Matrix34
+		0.98525	0	0.171121
+		0	1	0
+		-0.171121	0	0.98525
+		-0.373433	-0.154968	3.93204
+	}
+}
+{Volume "select"
+	{Box 9.12936 6.18989 3.3075}
+	{Bone "cap_officer_afr"}
+	{Matrix34
+		0.986126	0	0.166002
+		0	1	0
+		-0.166002	0	0.986125
+		-0.019787	-0.154968	4.16591
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 5.77774	-3.7661	6.9903}
+			{lookat 0.151349	-0.0351445	3.56382}
+			{fov 45}
+			{horizon 1.58523}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 8.80694	-6.91651	12.0547}
+				{direction -0.309103	0.231261	-0.317764}
+				{theta 5.9}
+				{phi 17.8}
+			}
+			{"1"
+				{type point}
+				{position 4.76773	-7.68731	9.15024}
+			}
+			{"2"
+				{type spot}
+				{position 5.18601	-11.0632	4.16162}
+				{direction -0.195731	0.457307	-0.0505893}
+				{theta 7.4}
+				{phi 14}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin 6.79445	-4.17633	7.61427}
+			{lookat 0.15951	-0.028122	3.26156}
+			{fov 45}
+			{horizon 1.54839}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 8.80694	-6.91651	12.0547}
+				{direction -0.309103	0.231261	-0.317764}
+				{theta 5.9}
+				{phi 17.8}
+			}
+			{"1"
+				{type point}
+				{position -1.52526	1.63833	8.86415}
+			}
+		}
+	}
+	{"Stuff_secondary"
+		{camera
+			{origin 6.19298	-3.72856	7.22519}
+			{lookat 0.197375	0.0150727	3.62434}
+			{fov 45}
+			{horizon 1.51981}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 8.80694	-6.91651	12.0547}
+				{direction -0.309103	0.231261	-0.317764}
+				{theta 5.9}
+				{phi 17.8}
+			}
+			{"1"
+				{type point}
+				{position 4.76773	-7.68731	9.15024}
+			}
+			{"2"
+				{type spot}
+				{position 5.15432	-11.0632	4.85834}
+				{direction -0.19334	0.454587	-0.0772654}
+				{theta 7.4}
+				{phi 14}
+			}
+		}
+	}
+}

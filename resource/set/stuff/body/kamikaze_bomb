@@ -1,0 +1,27 @@
+{from "pattern throwable"
+	{tag "proximity_charge" "kamikaze" "body" "grenade" "dynamite" "smallitemin1hand"}
+	{inventory
+		{size 4 3}
+		{weight 100}
+	}
+	{special
+		{PrepareTime 0.01}
+		{PrepareCursor "grenade"}
+		{mode detonate}
+	}
+	{entity "kamikaze_bomb"}
+                  {mass 20}
+	{damage blastwave
+		{energy 30}
+		{area 4 6}
+	}
+	{damage add blastwave
+		{energy 1}
+		{area 6 10}
+	}
+	{throw
+		{range 1}
+		{startAngle 30}
+		{constantSpeed 10}
+	}
+}

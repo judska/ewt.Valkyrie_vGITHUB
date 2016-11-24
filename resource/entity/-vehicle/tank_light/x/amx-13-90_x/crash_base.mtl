@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/amx_13_90_crash"}
+	{bump "$/model/amx_13_90_nm"}
+	{specular "$/model/amx_13_90_sm"}
+	{color "255 255 255 25"}
+	{blend none}
+}

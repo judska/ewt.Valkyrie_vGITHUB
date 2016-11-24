@@ -1,0 +1,9 @@
+{entity
+	(include "/properties/stuff_small.ext")
+	{Extension "solathurns18.mdl"}
+	{extender "stuff"
+		{item "solothurn"}
+	}
+	{nogroupmesh 1}
+	{lodclass "human"}
+}

@@ -1,0 +1,111 @@
+;Exported by: Enforcer
+;Date:        Mon Feb 06 19:38:00 2012
+;File:        C:\Users\Enforcer\Desktop\laffly v15t\v15t_x.max
+{Skeleton
+	{bone "basis"
+		{parameters "WheelRadius=0.4;SteerMax=35;"}
+		{Orientation
+			1.0000	0.0000	0.0000
+			0.0000	-1.0000	0.0000
+			0.0000	0.0000	1.0000
+		}
+		{bone "pivot_back"
+			{Position -17.7226	1.8193	7.9603}
+			{VolumeView "pivot_back.ply"}
+			{bone revolute "WheelL2"
+				{Matrix34
+					1.0000	0.0000	0.0000
+					0.0000	-0.0000	-1.0000
+					0.0000	1.0000	-0.0000
+					-0.0592	10.8821	0.1303
+				}
+				{VolumeView "WheelL2.ply"}
+			}
+			{bone revolute "WheelR2"
+				{Matrix34
+					1.0000	0.0000	0.0000
+					0.0000	-0.0000	-1.0000
+					0.0000	1.0000	-0.0000
+					-0.3463	-10.5571	0.1303
+				}
+				{VolumeView "WheelR2.ply"}
+			}
+		}
+		{bone "body"
+			{parameters "Id=body;"}
+			{Position 4.8138	1.9396	19.9880}
+			{VolumeView "body.ply"}
+			{bone "WheelSpare"
+				{Position -38.2413	0.3268	0.3098}
+				{VolumeView "WheelSpare.ply"}
+			}
+			{bone "engine"
+				{parameters "Id=engine;"}
+				{Position 23.7267	0.2667	1.3682}
+				{VolumeView "engine.ply"}
+			}
+			{bone revolute "steer"
+				{Matrix34
+					-0.5736	0.0000	-0.8192
+					0.0000	1.0000	0.0000
+					0.8192	0.0000	-0.5736
+					8.4050	6.6392	1.2547
+				}
+				{VolumeView "steer.ply"}
+			}
+			{bone revolute "turret"
+				{limits -60.0000 60.0000}
+				{Position -17.0913	-0.1892	2.5046}
+				{VolumeView "turret.ply"}
+				{bone revolute "mgun_rot"
+					{limits -15.0000 20.0000}
+					{Matrix34
+						1.0000	0.0000	0.0000
+						0.0000	-0.0000	1.0000
+						0.0000	-1.0000	-0.0000
+						0.0420	0.0651	14.6980
+					}
+					{VolumeView "mgun_rot.ply"}
+				}
+			}
+		}
+		{bone "pivot_front"
+			{Position 25.3055	2.1505	8.0789}
+			{VolumeView "pivot_front.ply"}
+			{bone revolute "steerR"
+				{Matrix34
+					1.0000	0.0000	0.0000
+					0.0000	-1.0000	0.0000
+					0.0000	-0.0000	-1.0000
+					0.2512	-11.7478	0.0117
+				}
+				{bone revolute "WheelR1"
+					{Matrix34
+						1.0000	0.0000	0.0000
+						0.0000	0.0000	1.0000
+						0.0000	-1.0000	0.0000
+						0.0000	0.0000	-0.0000
+					}
+					{VolumeView "WheelR1.ply"}
+				}
+			}
+			{bone revolute "steerL"
+				{Matrix34
+					1.0000	0.0000	0.0000
+					0.0000	-1.0000	0.0000
+					0.0000	-0.0000	-1.0000
+					0.2512	9.0072	0.0117
+				}
+				{bone revolute "WheelL1"
+					{Matrix34
+						1.0000	0.0000	0.0000
+						0.0000	0.0000	1.0000
+						0.0000	-1.0000	0.0000
+						0.0000	-0.0000	0.0000
+					}
+					{VolumeView "WheelL1.ply"}
+				}
+			}
+		}
+	}
+}

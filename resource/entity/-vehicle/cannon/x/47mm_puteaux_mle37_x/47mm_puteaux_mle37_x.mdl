@@ -1,0 +1,165 @@
+;Exported by: Sergey
+;Date:        Fri Jan 03 13:56:01 2014
+;File:        D:\Documents\3dsmax\scenes\Canon de 47 antichar SA Mle 1937\47 antichar SA Mle 1937_x.max
+{Skeleton
+	{bone revolute "basis"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "pivot_front"
+			{parameters "ID=body;"}
+			{Position 0.0052762	0	9.31095}
+			{VolumeView "pivot_front.ply"}
+			{bone revolute "wheelr"
+				{parameters "ID=wheelright;Radius=0.475;support=1;"}
+				{Matrix34
+					-0.999873	-0.0159149	0
+					0	0	1
+					-0.0159149	0.999873	0
+					-0.00505873	-14.1422	-0.0831451
+				}
+				{bone "koleso_r"
+					{Matrix34
+						0.999986	0	0.00535152
+						0	1	0
+						-0.00535152	0	0.999986
+						-0.0223225	0.0831461	0.65175
+					}
+					{VolumeView "koleso_r.ply"}
+				}
+			}
+			{bone revolute "wheell"
+				{parameters "ID=wheelleft;Radius=0.475;support=1;"}
+				{Matrix34
+					-1	0	0
+					0	0	1
+					0	1	0
+					-0.0213199	13.6796	-0.0692253
+				}
+				{bone "koleso_l"
+					{Matrix34
+						1	0	0
+						0	1	0
+						0	0	-1
+						-0.0213199	0.0692272	-0.211466
+					}
+					{VolumeView "koleso_l.ply"}
+				}
+			}
+		}
+		{bone "body"
+			{parameters "ID=body;"}
+			{Position 0.0052762	0	9.31095}
+			{VolumeView "body.ply"}
+			{bone revolute "turret"
+				{limits -34 34}
+				{speed 0.004}
+				{Matrix34
+					-1	0	0
+					0	-1	0
+					0	0	1
+					-0.394607	0.521862	0.434887
+				}
+				{VolumeView "turret.ply"}
+				{bone "shield"
+					{parameters "ID=shield;"}
+					{Matrix34
+						0	1	0
+						0	0	1
+						1	0	0
+						-0.621834	0.452828	7.50219
+					}
+					{VolumeView "shield.ply"}
+					{bone "detail01"
+						{Matrix34
+							-1	0	0
+							0	0	1
+							0	1	0
+							11.6805	-6.24576	-0.59907
+						}
+						{VolumeView "detail01.ply"}
+					}
+					{bone "detail02"
+						{Matrix34
+							0.710201	0.703999	0
+							-0.703999	0.710201	0
+							0	0	1
+							6.02581	-1.41506	0.110209
+						}
+						{VolumeView "detail02.ply"}
+					}
+				}
+				{bone revolute "gun_rot"
+					{parameters "ID=gun;"}
+					{limits -13 16}
+					{speed 0.003}
+					{Matrix34
+						0.975313	0	0.220829
+						-0.220829	0	0.975313
+						0	-1	0
+						0.602954	2.82938	4.86005
+					}
+					{VolumeView "gun_rot.ply"}
+					{bone "gun"
+						{parameters "ID=gun;"}
+						{Matrix34
+							0	0	-1
+							0	1	0
+							1	0	0
+							-11.8478	-1.0947	2.9803
+						}
+						{VolumeView "gun.ply"}
+					}
+					{bone "pricel"
+						{Matrix34
+							0	0	1
+							0	1	0
+							-1	0	0
+							1.4332	4.40731	7.12908
+						}
+						{VolumeView "pricel.ply"}
+					}
+				}
+			}
+			{bone revolute "shield2"
+				{parameters "ID=shield;"}
+				{Matrix34
+					0	0	-1
+					1	0	0
+					0	-1	0
+					2.96033	4.97474	-0.74657
+				}
+				{VolumeView "shield2.ply"}
+			}
+			{bone revolute "noga_r"
+				{Matrix34
+					0.958713	0.284374	0
+					-0.284374	0.958713	0
+					0	0	1
+					-6.76708	-9.1425	-4.17157
+				}
+				{VolumeView "noga_r.ply"}
+			}
+			{bone revolute "noga_l"
+				{Matrix34
+					-0.957203	0.289419	0
+					-0.289419	-0.957203	0
+					0	0	1
+					-6.76978	9.18971	-4.22065
+				}
+				{VolumeView "noga_l.ply"}
+				{bone revolute "pravilo"
+					{Matrix34
+						-1	0	0
+						0	0	1
+						0	1	0
+						43.7492	-1.14028	-1.90724
+					}
+					{VolumeView "pravilo.ply"}
+				}
+			}
+		}
+	}
+}

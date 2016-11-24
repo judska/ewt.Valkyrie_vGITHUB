@@ -1,0 +1,101 @@
+{mission
+	{Entity "map_point" 0x8000
+		{Position 51.78 -5971.63}
+		{xform zl 83.39}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 1}
+	}
+	{Entity "map_point" 0x8001
+		{Position -577.62 -5981.3}
+		{xform zl 83.39}
+		{Extender "map_point"
+			{name b2}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 2}
+	}
+	{Entity "map_point" 0x8002
+		{Position -811.03 4256.24}
+		{xform zl -81.11}
+		{Extender "map_point"
+			{name a2}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 3}
+	}
+	{Entity "map_point" 0x8003
+		{Position -100.1 4290.26}
+		{xform zl -93.52}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 8}
+	}
+	{Tags "keep_places_without_door" 0x2800}
+	{Tags "keep_places_without_door" 0x500a}
+	{Tags "keep_places_without_door" 0xa0e}
+	{Tags "keep_places_without_door" 0x1a9}
+	{Tags "keep_places_without_door" 0x5814}
+	{Tags "keep_places_without_door" 0x40fe}
+	{Tags "keep_places_without_door" 0x405f}
+	{Tags "keep_places_without_door" 0x4817}
+	{Tags "keep_places_without_door" 0x604e}
+	{Tags "keep_places_without_door" 0x604f}
+	{Tags "keep_places_without_door" 0x1002}
+	{Tags "keep_places_without_door" 0x6014}
+	{Tags "keep_places_without_door" 0x10ce}
+	{Tags "keep_places_without_door" 0x4abd}
+	{Tags "keep_places_without_door" 0x4a8}
+	{Environment "single/1/6-sevastopol"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

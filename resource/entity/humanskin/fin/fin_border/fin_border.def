@@ -1,0 +1,5 @@
+{game_entity
+	{Extension "ger-com_w.mdl"}
+	{tag "ger officer winter"}
+	{RimLight}
+}

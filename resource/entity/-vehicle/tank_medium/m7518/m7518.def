@@ -1,0 +1,127 @@
+{game_entity
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+	{props "medium" "-turret" "vision_vehicle_medium" "muzzle_medium"}
+	{PatherId "tank"}
+	
+	{Volume "Body1"
+		{tags "body"}
+		{component "body"}
+	}
+	{Volume "Body2"
+		{tags "body"}
+		{component "body"}
+	}
+	
+	("armor_spa_light" armor(50 25 25 15))
+	
+	{boarder
+		{anm "driver"
+			{forward	{begin	"board_tank_left"} {end "seat_gunner_moto"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "gunner"
+			{forward	{begin	"board_tank_right"} {end "pose_pak40_gunlayer"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
+		{anm "gunner2"
+			{forward	{begin	"board_tank_left"} {end "pose_mgun_pz6"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
+	}
+
+	(define "crew_human"
+		{placer
+			{place "%place" {group "crew"} {linkbone "%place"} {turnoff {sensor} {shadow}}}
+		}
+		{boarder
+			{door "%door1"}
+			{door "%door2"}
+			{link "%door1" "%place" {anm "%place"} {forward putoff} {reverse puton}}
+			{link "%door2" "%place" {anm "%place"} {forward putoff} {reverse puton}}
+		}
+	)
+
+	("crew_human" place(driver)		door1(emit1))
+	("crew_human" place(gunner)	    	door1(emit2))
+	("crew_human" place(gunner2)		door1(emit1))
+
+	;("seat_human" place(seat1) bone(seat01) door(emit3)  animation(armor))
+	;("seat_human" place(seat2) bone(seat02) door(emit4)  animation(armor))
+	;("seat_human" place(seat3) bone(seat03) door(emit5)  animation(armor))
+	;("seat_human" place(seat4) bone(seat04) door(emit6)  animation(armor))
+	
+	{placer
+		{place "driver" {visor "driver"}}
+		{place "gunner" {visor "main"}}
+		{place "gunner2" {visor "human"} {openForCrush}}
+	}
+	
+	{sensor
+		{visor "main"
+			{bone "gun_rot1"}
+		}
+		{visor "human"
+			{bone "mgun_rot"}
+			{vision "human"}
+		}
+	}
+	
+	{extender "inventory"
+		{box
+			{item "ammo mgun" 1104}
+			{item "ammo pistol" 120}
+			{item "oto_mod35 grenade" 5}
+			{item "bullet75 ap" 16}
+			{item "bullet75 fg" 20}
+			{item "bullet75 apcr" 8}
+			{item "mab_38a" filled}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{weapon "75mm_kwk37" filling "ammo bullet75 fg" 1}	
+			{gunner "gunner"}
+			{charger "gunner"}
+			("abm_low")
+		}
+		{place "mgun"
+			{type "mgun_main"}
+			{weapon "breda_38" filled}
+			{gunner "gunner2"}
+			{charger "gunner2"}
+			{LinkBone "mgun"}
+			{LinkAnimation "off"}
+			("abm_mgun")
+			{basic}
+		}
+	}	
+	{mass 13100}
+	{Chassis
+		("tank_trace" fx("tracks_mid") step(0.52) len(0.1))
+		{Locomotion ("locomotion")
+			{MaxSpeed   24.8}
+			{maxSpeedAtMaxTurn 12}
+			{StartTime 	 13}
+			{TurnTime  	 7}
+    		{TurnStart 1.4}
+     		{BrakeTime   1} 
+    		{StopTime    2}
+     		{TurnRadius  8} 
+    		{TurnStop   0.7}
+     		{Gears  0.1 0.25 0.625}
+     		{RearGears 0.17}
+		}
+		{FuelBag
+			{Volume	310}
+			{Rate	31}
+			{Remain	310}
+			{Fuel "fuel"}
+		}
+		    {speed
+        		{Normal  10}
+    		}
+	}
+	{Extension "m7518.mdl"}
+}

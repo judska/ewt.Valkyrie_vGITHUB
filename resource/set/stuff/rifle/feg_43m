@@ -1,0 +1,5 @@
+{from "pattern rifle"
+	{entity "feg_43_m"}
+	{fireSound "rifle/m1903a4_shot/"}
+	{reloadSound "rifle_bolt_five"}
+}

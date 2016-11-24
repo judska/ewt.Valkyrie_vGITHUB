@@ -1,0 +1,108 @@
+{Entity
+	
+	(include "/properties/tank.ext")
+	(include "/properties/shadow/tank.inc"  scale(1.2))
+	(include "/properties/selection/vehicle.inc"  scale(1.2))
+	{props "light" "turret_rotator" "vision_vehicle_low" "muzzle_small"}
+;	{extender "enumerator"}			
+	
+	("armor_light" turret(38 25 25 13) body(44 25 25 13))
+
+	("crew_human" place(gunner)		door1(emit1) door2(emit2) visor(main))
+	("crew_human" place(driver)			door1(emit1) door2(emit2) visor(driver))
+	("crew_human" place(commander) 		door1(emit1) door2(emit2) visor(commander) )
+
+	{boarder
+		{anm "commander"
+			{forward	{begin	"board_tank_left"} {end "pose_mgun_sherman"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
+		
+		{anm "gunner"
+			{forward	{begin	"board_tank_left"} {end "pose_seat_armor_2"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
+		
+		{anm "charger"
+			{forward	{begin	"board_tank_left"} {end "pose_seat_armor_2"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
+		{anm "driver"
+			{forward	{begin	"board_tank_left"} {end "seat_driver_car"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
+	}
+
+
+
+	{extender "inventory"
+		{box
+			{item "ammo bullet75 ap" 30}
+			{item "ammo bullet75 fg" 15}
+			{item "ammo bullet90 apcr" 5}
+			{item "ammo mgun" 2000}			
+		}
+	}
+	
+	{Weaponry
+		{place "gun"
+			{weapon "75mm_revolver" filling "bullet75 ap" 5}	
+			("abm_medium")
+			{charger "gunner"}
+		}
+		{place "mgun2"
+			{type "mgun_coaxial"}
+			{weapon "reibel" filled}
+			{foresight "foresight5"}
+			{gunner "gunner"}
+			{charger "gunner"}
+		}
+		{place "mgun3"
+			{type "mgun_coaxial"}
+			{weapon "reibel" filled}
+			{foresight "foresight6"}
+			{gunner "gunner"}
+			{charger "gunner"}
+			{basic}
+		}
+	}
+	{mass 13500}
+	{Chassis
+		("tank_trace" fx("tracks_sm") step(0.4) len(0.44))
+		{Locomotion ("locomotion")
+			{maxspeed   55}
+			{maxSpeedAtMaxTurn 32}
+			{StartTime  18}
+			{TurnTime   7}
+			{TurnStart  1.2}			
+			{TurnRadius 10} 
+    			{TurnStop   0.6}
+			{BrakeTime  1.5}
+			{StopTime   2}
+     			{Gears  0.2 0.5 1}
+			{RearGears  0.27}
+		}
+		{FuelBag
+			{volume 165 }	
+			{rate	18 }   
+			{remain 165 }
+			{fuel "fuel"}
+			}
+		{speed
+        		{Normal  15}
+    		}
+	}
+	{Extension "amx-13-90.mdl"}
+	{bone "turret"
+		{speed2 36}
+	}
+	{bone "gun_rot"
+		{limits -6 9}
+		{speed2 18}
+	}
+	{volume "turret4"
+		{component "turret2"}
+	}
+	
+
+}

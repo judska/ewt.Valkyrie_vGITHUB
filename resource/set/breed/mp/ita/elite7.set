@@ -1,0 +1,58 @@
+{breed
+	{skin "ita_armir_sergente"}
+	{portrait "ita_elite1"}
+	{icon "ita_elite1"}
+	{icon_priority 2}
+	{nationality ita}
+	{armors
+		{head pol_helmet_wz31}
+	}
+	{perks
+		{"health" "250%"
+		}
+		{"health_regeneration" "100%"
+		}
+		{"stamina" "150%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" "mp_soldier"
+		}
+		{"speed" 1.1
+		}
+		{"tank"	0.9
+		}
+		{"vehicle" 1.0
+		}
+		{"cannon" 1.0
+		}
+		{"stealth"
+		}		
+		{"pistol" lvl_3
+		}
+		{"smg" lvl_3
+		}
+		{"mgun" lvl_3
+		}
+		{"rifle" lvl_3
+		}
+		{"rocketlauncher" lvl_3
+		}
+		{"melee" lvl_3
+		}
+	}
+	{veterancy
+		(include "veterancy_generic.inc")
+		("veterancy_1")
+	}
+	{inventory
+		{item "carcano_m91" filled}
+		{item "ammo rifle" 150}
+		{item "bandage" 5}
+		{item "breda35" 2}
+		{item "breda42at" 1}
+		{item "smoke grenade" 2}
+		{item "dynamite" 1}		
+                {in_hands 0}
+	}
+}

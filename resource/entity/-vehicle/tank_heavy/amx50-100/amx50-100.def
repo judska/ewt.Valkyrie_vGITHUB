@@ -1,0 +1,110 @@
+{game_entity
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc"  scale(1.2))
+	{collider "tank.heavy"}
+	{props "heavy" "turret_rotator" "vision_vehicle_maximum" "muzzle_large"}
+	{tag "amx50-100"}
+
+	{Volume "mantlet"
+		{tags "gun"}
+		{component "gun"}
+	}
+	{volume "body1"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body2"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body3"
+		{tags "body"}
+		{component "body"}
+	}
+	
+	{extender "enumerator"}
+
+	("armor_heavy" turret(90 30 30 15) body(90 35 30 22))
+	("armor_engine"  t(30 30 30 30))		
+	("armor_mantlet" t(30))
+
+	
+	("crew_4_human")
+
+	{boarder
+		{anm "left"
+			{forward	{begin	"board_Kv"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "right"
+			{forward	{begin	"board_tank_right"} {end "pose_mgun_pz6"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
+
+		{anm "armor"
+			{forward	{begin	"board_HighArmor"} 	{end "seat_armor"}}
+			{reverse 	{end	"emit_tank_2"}}
+		}
+		{anm "armor1"
+			{forward	{begin	"board_HighArmor"} {end "seat_armor"}}
+			{reverse 	{end	"emit_body"}}
+		}
+	}
+
+
+	{extender "inventory"
+		{box
+			{item "ammo bullet100 ap" 52}
+			{item "ammo bullet100 fg" 20}
+			{item "ammo bullet100 apcr" 6}
+			{item "ammo mgun" 2550}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "100mm_sa47" filled}	
+			("abm_high")
+		}
+		{place "mgun"
+			{type "mgun_coaxial"}
+			{type "mgun_hull"}
+			{weapon "hotchkiss" filled}
+			{foresight "foresight3"}
+			("abm_mgun")
+                        {basic}
+		}
+	}
+
+{Extension "amx50-100.mdl"}
+	{texmod "2"}
+
+	{mass 50900}
+	{Chassis
+		("tank_trace" fx("tracks_big") step(0.52) len(0.8))
+		{Locomotion ("locomotion")
+			{MaxSpeed	38}
+			{StartTime	10}
+			{TurnTime	13}
+			{TurnStart  2} 
+    		{BrakeTime  5}
+     		{StopTime   5} 
+    		{TurnRadius 11} 
+    		{TurnStop   1}
+		{Gears      0.1 0.5 1.0}
+    		{RearGears  0.1 0.35}
+		}
+		{FuelBag
+			{volume 1000 }
+			{rate	250 }
+			{remain 1000 }
+			{fuel "fuel"}
+		}
+		{speed
+        	{Normal  25}
+        	{Slow  10}
+    	}
+	}
+}
+

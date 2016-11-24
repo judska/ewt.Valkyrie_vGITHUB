@@ -1,0 +1,24 @@
+{action
+	{target ground}
+	{cursor "use"}
+	{fx "flashred"}
+	{item "french_defence_tower"}
+	{item_in_box}
+	
+	
+	
+	{button}
+	
+	{abledrag}
+	{ShowCount}
+	{instructions
+		{bind range 5}
+		{disable_action_restart}
+		{take_item}
+		{reserve_hands}
+		{animations "squat_repair_1 squat_repair_2" random loop totaltime 30}
+		{unreserve_hands}
+		{install "dot_corner_tower" 0 exact_placement}
+		{fsm_request nocheck "hold-nothing"}
+	}
+}

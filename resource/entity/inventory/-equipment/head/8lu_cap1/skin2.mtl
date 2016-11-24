@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "8lu_cap1.dds"}
+	{blend none}
+}

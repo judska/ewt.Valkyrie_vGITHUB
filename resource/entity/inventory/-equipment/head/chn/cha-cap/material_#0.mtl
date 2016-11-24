@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "german_cap1.tif"}
+	{blend none}
+}

@@ -1,0 +1,94 @@
+;Exported by: Admin
+;Date:        Fri Sep 18 17:25:05 2009
+;File:        C:\Documents and Settings\Admin\Рабочи?стол\M1919A6\m1919a4 (backup).max
+{Skeleton
+	{bone "m1919a4"
+		{parameters "CommonMesh;ID=mgun;"}
+		{Orientation
+			1.1	0	0
+			0	-1.1	0
+			0	0	1.1
+		}
+		{LODView
+			{VolumeView "m1919a4.ply"}
+			{VolumeView "m1919a4_lod1.ply"}
+			{VolumeView "m1919a4_lod2.ply"}
+		}
+	{bone "gun"
+		{Matrix34
+		 0	0	0.7
+	        0.7	0	0
+		 0	0.7	0
+21	0	-0.2
+		}
+		{VolumeView "gun.ply"}
+                }
+		{bone "foresight3"
+			{Position 24.5869	1.25424	-0.0411848}
+		}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				4.75563	0.202616	-0.0176517
+			}
+		}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "m1919a4"}
+	{Position 10.9621	1.04858	-0.631236}
+}
+{Volume "select"
+	{Polyhedron "select.vol"}
+	{Bone "m1919a4"}
+	{Position 9.33823	0.703814	-2.36053}
+}
+{Extender "preview"
+	{"Stuff_primary"
+		{camera
+			{origin 11.5383	-5.67169	31.989}
+			{lookat 10.8467	-2.85076	14.7984}
+			{fov 45}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 19.3204	-3.0593	6.91092}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0792752	0.197722	-0.452351}
+			}
+			{"2"
+				{type point}
+				{position 1.10671	-2.45305	5.34158}
+			}
+		}
+	}
+	{"Stuff"
+		{camera
+			{origin 12.3159	-5.29535	31.3394}
+			{lookat 11.6509	-2.58292	14.81}
+			{fov 45}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 19.3204	-3.0593	6.91092}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0792752	0.197722	-0.452351}
+			}
+			{"2"
+				{type point}
+				{position 1.10671	-2.45305	5.34158}
+			}
+		}
+	}
+}

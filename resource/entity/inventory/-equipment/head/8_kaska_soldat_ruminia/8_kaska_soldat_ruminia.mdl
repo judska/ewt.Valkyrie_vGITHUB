@@ -1,0 +1,61 @@
+;Exported by: Luzhbin_M
+;Date:        Mon Apr 06 10:01:35 2009
+;File:        D:\Black\head_models\8_kaska_soldat_ruminia\8_kaska_soldat_ruminia.max
+{Skeleton
+	{bone "8_kaska_soldat_ruminia"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "8_kaska_soldat_ruminia.ply"}
+		{bone "handle"
+			{Matrix34
+				-0.189698	-0.967841	-0.165225
+				-0.0317797	-0.16214	0.986256
+				-0.981328	0.192342	0
+				-1.23281	-0.00155799	3.08033
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 3.36133 2.9156 2.82349}
+	{Bone "8_kaska_soldat_ruminia"}
+	{Matrix34
+		0.0011301	-0.999994	-0.00321959
+		0.999495	0.00102735	0.0317455
+		-0.0317418	-0.00325385	0.999491
+		-0.39532	-0.172132	3.45906
+	}
+}
+{Volume "select"
+	{Box 7.32706 8.02016 6.53495}
+	{Bone "8_kaska_soldat_ruminia"}
+	{Matrix34
+		-0.00156157	-0.999959	-0.00890668
+		-1.40719e-005	-0.00890668	0.99996
+		-0.999999	0.00156163	0
+		-0.404544	0.583925	3.17798
+	}
+}
+{Extender "preview"
+	{"stuff"
+		{camera
+			{origin 3.74207	-6.03576	2.87668}
+			{lookat -1.69998	2.58518	3.95553}
+			{fov 45}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 0.265211	-3.3387	2.94641}
+			}
+			{"1"
+				{type directional}
+				{direction 0	0.384628	-0.31947}
+				{ambient 0x959595}
+			}
+		}
+	}
+}

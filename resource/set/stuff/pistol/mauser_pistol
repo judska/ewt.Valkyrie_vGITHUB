@@ -1,0 +1,10 @@
+{from "pattern pistol"
+	{filling "ammo pistol" 20}
+	{mass 1.16}
+	{entity "mauser_pistol"}
+	{fireSound	"pistol/valter"}
+	{reloadSound "valter"}
+	{recoveryTime 0.275}
+	{rechargeTime 2.721}
+	{Automatic}
+}

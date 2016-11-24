@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/model/centurions/g_bottoms"}
+	{blend none}
+}

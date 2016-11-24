@@ -1,0 +1,6 @@
+{from "pattern gun"		; "203mm_mortar", "k18"
+	{filling "bullet210" 6}
+	{fireSound "gun/howitzer/203mm"}
+	{reloadSound "gun_r04"}
+	("range_heavy_howitzer")	
+}

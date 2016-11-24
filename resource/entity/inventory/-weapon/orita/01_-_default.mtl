@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "9mm_orita"}
+	{blend none}
+}

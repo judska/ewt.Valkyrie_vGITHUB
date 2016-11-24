@@ -1,0 +1,15 @@
+{game_entity
+	{Extension "lorraine37_xx.mdl"}
+	{Volume "body2"
+	}
+	{Volume "body"
+	}
+	{Volume "body_vol2"
+	}
+	{Volume "engine"
+	}
+	{Volume "trackleft"
+	}
+	{Volume "trackright"
+	}
+}

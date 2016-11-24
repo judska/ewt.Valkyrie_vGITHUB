@@ -1,0 +1,15 @@
+{from "pattern gun"     ; "T29" Heavy tank
+	{filling "bullet105"}
+	{fireSound "gun/85to100_cal/100mm_d10c"}
+	{reloadSound "tankgun_r04"}
+	{rechargeTime 12}
+	("range_maximum")
+	("speed" s(872))
+	("caliber_large")        
+	{projectileDamage 200}
+	("damage" a(200) b(192) c(184) d(170) e(162))
+	{parameters "apcr"
+        ("damage" a(245) b(230) c(215) d(200) e(185))
+	}
+	("accuracy_high")
+}

@@ -1,0 +1,7 @@
+{from "pattern mgun" ;"breda safat 77 MG nest"
+	{filling "ammo mgun" 250}
+	{entity "bredasafat88"}
+	{fireSound	"mgun/breda_safat88_burst"}
+ 	{reloadSound "breda30"}
+	("burst_long")
+}

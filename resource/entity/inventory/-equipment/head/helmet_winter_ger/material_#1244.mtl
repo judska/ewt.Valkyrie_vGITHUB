@@ -1,0 +1,7 @@
+{material bump
+	{color "229 229 229 25"}
+	{diffuse "ger_rawrecruit_tunic_d"}
+	{bump "ger_rawrecruit_tunic_d_bp"}
+	{specular "ger_rawrecruit_tunic_d_sp"}
+	{blend none}
+}

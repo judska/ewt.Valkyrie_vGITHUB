@@ -1,0 +1,39 @@
+;Exported by: vic
+;Date:        Wed Jul 20 11:51:11 2005
+;File:        D:\Obmen\Woronka2_test2.max
+{Skeleton
+	{bone "crater"
+		{parameters "CommonMesh;Land;Align;"}
+		{Orientation
+			0.2	0	0
+			0	-0.2	0
+			0	0	0.2
+		}
+		{VolumeView "crater.ply"
+			{Layer entity_opaque_biased}
+			{DecalTargetDynamic}
+		}
+		{bone "crater_alpha"
+			{parameters "CommonMesh;Land;Align;"}
+			{VolumeView "crater_alpha.ply"
+				{layer grounddynamic}
+			}
+		}
+	}
+}
+{Area "cut"
+	{Polygon2
+		{Radius 0}
+                {Vertex 6.40225 4.64399}
+		{Vertex 2.44703 7.51763}
+		{Vertex -2.44188 7.51763}
+		{Vertex -6.3971 4.64399}
+		{Vertex -7.90786 -0.00564172}
+		{Vertex -6.3971 -4.65528}
+		{Vertex -2.44188 -7.52891}
+		{Vertex 2.44703 -7.52891}
+		{Vertex 6.40225 -4.65528}
+		{Vertex 7.91301 -0.00564241}
+	}
+	{Rotate}
+}

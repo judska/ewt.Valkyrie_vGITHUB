@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "/entity/-vehicle/btr/laffly_btr/turret2"}
+	{blend none}
+}

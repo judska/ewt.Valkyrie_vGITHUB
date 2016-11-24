@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "usa-mgun1"}
+	{specular "usa-mgun1_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

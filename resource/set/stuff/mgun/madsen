@@ -1,0 +1,12 @@
+{from "pattern mgun"
+	{tag "mgun_light"}
+	{filling "ammo mgun" 40}
+	{entity "type96lmg"}
+	{fireSound	"mgun/madsen_burst/"}
+	{reloadSound "bren"}
+
+	{rechargeTime 2.5}
+	("recoveryTime" r(500))
+	("burst_short")
+	("speed" s(715))
+}

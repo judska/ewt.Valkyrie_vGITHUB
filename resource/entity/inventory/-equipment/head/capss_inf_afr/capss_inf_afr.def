@@ -1,0 +1,7 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extender "stuff"
+		{item "capss_inf_afr"}
+	}
+	{Extension "capss_inf_afr.mdl"}
+}

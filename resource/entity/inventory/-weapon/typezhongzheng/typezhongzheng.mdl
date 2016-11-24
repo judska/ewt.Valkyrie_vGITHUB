@@ -1,0 +1,73 @@
+;Exported by: Administrator
+;Date:        Sat May 11 10:34:16 2013
+;File:        E:\³¯ÏÊMOD\ÖÐÕý²½Ç¹.max
+{Skeleton
+	{bone "zhongzhen"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "zhongzhen.ply"}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				5.47626	1.249	-0.179243
+			}
+		}
+		{bone "foresight3"
+			{Position 18.7514	1.58061	-0.127259}
+		}
+	}
+}
+{Volume "body"
+	{Box 23.1538 3.36158 1.17113}
+	{Bone "zhongzhen"}
+	{Position 5.99904	0.29002	-0.223842}
+}
+{Volume "select"
+	{Box 27.7845 9.72703 4.3449}
+	{Bone "zhongzhen"}
+	{Position 5.80426	-0.982632	0.129931}
+}
+{Extender "preview"
+	{"Stuff_primary"
+		{camera
+			{origin 7.44085	-2.75587	30.6753}
+			{lookat 7.35796	-2.05854	13.4201}
+			{fov 45}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction 0.117433	0.0942007	-0.476797}
+			}
+			{"1"
+				{type point}
+				{position 17.374	3.71659	3.8095}
+			}
+		}
+	}
+	{"Stuff"
+		{camera
+			{origin 7.08076	-5.62691	29.7449}
+			{lookat 6.88989	-2.83847	13.2155}
+			{fov 45}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.0442343	0.208636	-0.452233}
+			}
+			{"1"
+				{type point}
+				{position -2.30093	-0.26875	3.83265}
+			}
+		}
+	}
+}

@@ -1,0 +1,5 @@
+{from "breda_38" ;l3/35
+	{filling "ammo mgun" 48}
+	{reloadSound "besa_reload"}
+                {rechargeTime 10}	
+}

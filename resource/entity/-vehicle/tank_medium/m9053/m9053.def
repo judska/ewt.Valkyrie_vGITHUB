@@ -1,0 +1,91 @@
+{game_entity
+	;© 2009 Zeke Wolff & Ngvede.
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+	{collider "tank.light"}
+	{props "medium" "turret_rotator" "opened" "vision_vehicle_high" "muzzle_large"}
+	{PatherId "tank"}
+	
+	{Volume "Body1"
+		{tags "body"}
+		{component "body"}
+	}
+	{Volume "Body2"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "turret"
+		{tags "turret"}
+		{component "turret"}
+	}
+	
+	("armor_light" turret(20 20 20 20) body(40 20 20 10))
+	("armor_engine"  t(10 32 32 20))
+	("crew_4_human")
+	
+	{boarder
+		{anm "left"
+			{forward	{begin	"board_kv"} {end "seat_willysat_driver"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
+		{anm "right"
+			{forward	{begin	"board_tank_right"} {end "seat_willysat_driver"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
+	}
+	("crew_human" place(commander)	door1(emit1) door2(emit2) visor(driver))
+	("crew_human" place(driver)		door1(emit1) door2(emit2) visor(driver))
+	("crew_human_visible" place(charger) 	door1(emit1) door2(emit2) visor(main))
+	("crew_human_visible" place(gunner)	door1(emit1) door2(emit2) visor(main))
+	
+	{placer 
+		{place "charger" {openForCrush 0}}
+		{place "gunner" {openForCrush 0}}
+	}
+	{extender "inventory"
+		{box
+			{item "bullet90 ap" 9}
+			{item "bullet90 fg" 8}
+			{item "mab_38a" filled}
+			{item "ammo pistol" 120}
+			{item "oto_mod35 grenade" 5}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{weapon "90mm_m90_1" filling "bullet90 ap" 1}
+			{gunner "gunner"}
+			{charger "charger"}
+			("abm_low")
+		}
+	}	
+	{mass 13100}
+	{Chassis
+		("tank_trace" fx("tracks_mid") step(0.52) len(0.7))
+		{Locomotion ("locomotion")
+			{maxspeed   24}
+			{maxSpeedAtMaxTurn 12}
+			{StartTime	14}
+			{TurnStart	1.6}
+			{TurnTime	8}
+    		{StopTime   2} 
+    		{TurnRadius 9} 
+    		{TurnStop   0.8}
+    		{BrakeTime  1.5} 
+     		{Gears  0.1 0.25 0.625}
+     		{RearGears  0.17}
+		}
+		{FuelBag
+			{volume 310 }	
+			{rate	120 }   
+			{remain 310 }
+			{fuel "fuel"}
+		}
+		{speed
+        	{Normal  10}
+        	{Slow  16}
+    	}
+	}
+	{Extension "m9053.mdl"}
+}

@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "eng_sniper"}
+	{specular "eng_sniper_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

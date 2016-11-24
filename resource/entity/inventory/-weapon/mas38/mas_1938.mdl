@@ -1,0 +1,75 @@
+;Exported by: Sergey (skr)
+;Date:        Fri Dec 27 20:25:07 2013
+;File:        D:\Documents\3dsmax\scenes\MAS Mle.1938\MAS-38_01.max
+{Skeleton
+	{bone "mas38"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "mas38.ply"}
+		{bone "foresight3"
+			{Position 6.76718	1.48153	-0.120193}
+		}
+		{bone "handle"
+			{Position -1.6791	0.478664	0}
+		}
+		{bone "fxshell"
+			{Matrix34
+				0.0598976	0	0.998205
+				0	1	0
+				-0.998205	0	0.0598976
+				1.66212	1.50947	0
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 12.654 4.52605 1.1539}
+	{Bone "mas38"}
+	{Position 0.523451	-0.0579039	-0.0410404}
+}
+{Volume "select"
+	{Box 13.0374 4.75693 1.24951}
+	{Bone "mas38"}
+	{Position 0.523451	-0.0579039	-0.0399594}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin -9.06475	-5.63155	20.4011}
+			{lookat 3.71264	1.29369	-3.13184}
+			{fov 35}
+			{horizon -102.423}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.079711	0.286525	-0.401932}
+			}
+			{"1"
+				{type point}
+				{position -4.21081	-2.83243	4.7142}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin -9.80254	-6.00146	22.035}
+			{lookat 3.81731	1.38038	-3.0495}
+			{fov 45}
+			{horizon -111.423}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.079711	0.286525	-0.401932}
+			}
+			{"1"
+				{type point}
+				{position -4.21081	-2.83243	4.7142}
+			}
+		}
+	}
+}

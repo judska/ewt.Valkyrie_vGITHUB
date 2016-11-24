@@ -1,0 +1,70 @@
+;----- Finland -----
+
+;°°°Button 1°°°
+
+{"r12_fin"               ("vs" c(60) t(all) 		   s(fin) n(2) g(b1) sc(65.00) b(v1) cw(0) cp(0)) {level 1} {cost 65} {fore 1.0}}
+{"t20_fin"               ("v" c(300) t(all light) 	   s(fin) n1(2) n2(0) g(b5) sc(100.00) b(v1) cw(0) cp(0)) {level 1} {cost 100} {fore 0.5}}
+{"np_ba20_fin"           ("v" c(150) t(all light) 	   s(fin) n1(1) n2(1) g(d1) sc(120.00) b(v1) cw(0) cp(0)) {level 1} {cost 120} {fore 0.6}}
+
+{"np_volvo_inf"          ("vs" c(60) t(all supply) 	   s(fin) n(2) g(b2) sc(50.00) b(v1) cw(0) cp(0)) {level 1} {cost 50} {fore 1.0}}
+{"np_volvo_art"          ("vs" c(60) t(all supply) 	   s(fin) n(2) g(b3) sc(150.00) b(v1) cw(0) cp(0)) {level 1} {cost 150} {fore 1.0}}
+{"np_volvo_eng"          ("vs" c(60) t(all supply) 	   s(fin) n(2) g(b4) sc(250.00) b(v1) cw(0) cp(0)) {level 1} {cost 250} {fore 0.0}}
+
+
+;°°°Button 2°°°
+
+{"maxim_stan"                    ("vs" c(300) t(all cannon) 		s(fin) n(2) g(c1) sc(105.00) b(v2) cw(2) cp(5)) {level 1} {cost 105} {fore 1}}
+{"flak38_wheeled_fin"            ("vs" c(300) t(all cannon) 	        s(fin) n(2) g(c2) sc(190.00) b(v2) cw(2) cp(5)) {level 1} {cost 190} {fore 0.5}}
+{"sgrw42_fin"                    ("vs" c(0) t(all cannon mediumcan) 	s(fin) n(2) g(c3) sc(280.00) b(v2) cw(2) cp(5)) {level 1} {cost 280} {fore 1.0}}
+
+{"20_mm_lahti_l_39"          ("vs" c(0) t(all cannon) 	                s(fin) n(2) g(c4) sc(125.00)  b(v2) cw(2) cp(5)) {level 1} {cost 125} {fore 1}}
+{"37mm_bofors_fin"           ("vs" c(0) t(all cannon mediumcan) 	s(fin) n(2) g(c5) sc(250.00) b(v2) cw(2) cp(8)) {level 1} {cost 250} {fore 1}}
+{"pak40_fin"                 ("vs" c(0) t(all cannon heavycan) 		s(fin) n(2) g(c6) sc(400.00) b(v2) cw(2) cp(12)) {level 1} {cost 400} {fore 1}}
+
+{"itk31"                     ("vs" c(0) t(all canonn heavycan) 	s(fin) n(2) g(c6) sc(550.00) b(v2) cw(2) cp(10)) {level 1} {cost 550} {fore 1.0}}
+("how" side(fin) name(how_b) c(0) c1(np_volvo) c2(lefh18)  	        t(all artillery) g(c8) b(v2) level(6) cost(650) f(1.0))
+("how" side(fin) name(how_a) c(0) c1(np_volvo) c2(sfh18) 	        t(all artillery heavyart) g(c9) b(v2) level(9) cost(800) f(1.0))
+
+ 
+;°°°Button 3°°°
+
+{"t-26_fin_1931"         ("v" c(150) t(all light) 		s(fin) n1(2) n2(1) g(d2) sc(130.00) b(v3) cw(0) cp(5)) {level 1} {cost 130.00} {fore 0.6}}
+{"ba10_fin"              ("v" c(150) t(all light) 		s(fin) n1(2) n2(1) g(d2) sc(120.00) b(v3) cw(0) cp(5)) {level 1} {cost 120} {fore 0.6}}
+{"ot-130"                ("v" c(150) t(all light) 		s(fin) n1(2) n2(1) g(d3) sc(200.00) b(v3) cw(0) cp(5)) {level 1} {cost 200} {fore 1.0}}
+
+{"bt5_fin"               ("v" c(150) t(all light) 		s(fin) n1(2) n2(1) g(e1) sc(170.00) b(v3) cw(0) cp(5)) {level 1} {cost 170} {fore 0}}
+{"t50_fin"               ("v" c(150) t(all light) 		s(fin) n1(3) n2(1) g(e2) sc(290.00) b(v3) cw(0) cp(10)) {level 1} {cost 290} {fore 0}}
+{"landsverk_anti_2"      ("v" c(210) t(all light) 		s(fin) n1(4) n2(1) g(d4) sc(320.00) b(v3) cw(0) cp(15)) {level 1} {cost 320} {fore 0}}
+
+
+;°°°Button 4°°°
+
+{"t28_fin"               ("v" c(0) t(all medium) 		s(fin) n1(5) n2(1) g(e3) sc(380.00) b(v4) cw(0) cp(9)) {level 1} {cost 380} {fore 1.0}}
+{"t28_l10_fin"           ("v" c(0) t(all medium) 		s(fin) n1(6) n2(1) g(e3) sc(440.00) b(v4) cw(0) cp(9)) {level 1} {cost 440} {fore 1.0}}
+{"pz4jfin"               ("v" c(0) t(all medium) 		s(fin) n1(6) n2(1) g(e3) sc(520.00) b(v4) cw(0) cp(9)) {level 1} {cost 520} {fore 1.0}}
+
+{"t34_3_fin"             ("v" c(0) t(all medium) 		s(fin) n1(3) n2(1) g(e7) sc(750.00) b(v4) cw(0) cp(17)) {level 1} {cost 750} {fore 1.0}}
+
+
+;°°°Button 5°°°
+
+{"stug3gfin"          	("v" c(0) t(all medium) 		s(fin) n1(3) n2(1) g(f1) sc(600.00) b(v5) cw(0) cp(12)) {level 1} {cost 600} {fore 1.0}}
+
+
+;°°°Button Hero°°°
+
+{"hero1_fin"                                 ("i4" c(120)				         t(all hero) s(fin) n1(smg3:1) n2(smg2:2) n3(rifle2:3) n4(mgun3:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"heronew1_fin"                              ("v1" c(120) c1(maxim_ind)  		         t(all hero) s(fin) n1(vehicle_supporter:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"hero2_fin"                                 ("i3" c(240)					 t(all hero) s(fin) n1(elite4:2) n2(elite5:6) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+
+{"hero3_fin"                                 ("i1" c(240)					 t(all hero) s(fin) n1(sniper2:1)  g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"heronew2_fin"	  	                     ("v1" c(240) c1(76mm_m1909_fin)                     t(all hero) s(fin) n1(vehicle_supporter:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"hero4_fin"                                 ("v1" c(360) c1(t34_42_fin) 		         t(all hero) s(fin) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 15} {cost 3.0} {fore -0.5}}
+
+{"hero5_fin"                                 ("v1" c(360) c1(bt42) 	                         t(all hero) s(fin) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
+{"heronew3_fin"                              ("i5" c(480) 					 t(all hero) s(fin) n1(elite7:4) n2(elite8:4) n3(elite9:3) n4(elite_at2:2) n5(elite_sniper:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
+{"hero6_fin"                                 ("i2" c(480)	                                 t(all hero) s(fin) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
+
+{"hero7_fin"                                 ("v1" c(600) c1(kv1_41_fin)                         t(all hero) s(fin) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
+{"hero8_fin"                                 ("2v" c(600) c1(t20_fin)  c2(np_ml20_fin_veteran)	 t(all hero) s(fin) n1(vehicle_supporter:2) n2(vehicle_supporter:2) g(h5) b(hero)) {level 20} {cost 5.0} {fore -0.5}}
+{"hero9_fin"  	                             ("v1" c(720) c1(su152)                              t(all hero) s(fin) n1(tankman:3) n2(tankman2:1) g(h6) b(hero)) {level 1} {cost 6.0} {fore -0.5}}

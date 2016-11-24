@@ -1,0 +1,193 @@
+{mission
+	{Entity "map_point" 0xc000
+		{Position -2111.11 81.31}
+		{xform zl -90.75}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 1}
+	}
+	{Entity "map_point" 0xc001
+		{Position -2093.33 81.58}
+		{xform zl -90.75}
+		{Extender "map_point"
+			{name a2}
+			{team a}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 2}
+	}
+	{Entity "map_point" 0xc002
+		{Position 189.4 -6785.47}
+		{xform zl 93.09}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 3}
+	}
+	{Entity "map_point" 0xc003
+		{Position 169.81 -6783.95}
+		{xform zl 93.09}
+		{Extender "map_point"
+			{name b2}
+			{team b}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 4}
+	}
+	{Entity "flag_point_1" 0x8002
+		{Position -951.92 -3373.84}
+		{xform zl 9.25}
+		{Extender "map_point"
+			{name f1}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 1}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 5}
+	}
+	{Entity "flag_point_2" 0x8003
+		{Position -3184.57 -3761.03 -17.77}
+		{xform zl 9.25}
+		{Extender "map_point"
+			{name f2}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 2}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 6}
+	}
+	{Entity "flag_point_3" 0xc004
+		{Position 905.68 -3074.58}
+		{xform zl 9.25}
+		{Extender "map_point"
+			{name f3}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 3}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 7}
+	}
+	{Human "mp/ger/squadleader2" 0xc005
+		{Position -993.42 -3384.37}
+		{xform zl -51.58}
+		{Player 1}
+		{MID 8}
+		{NameId 90 52}
+		{FsmState "stand"}
+	}
+	{Human "mp/ger/squadleader2" 0xc007
+		{Position -908.38 -3380.7}
+		{xform zl 157.1}
+		{Player 1}
+		{MID 9}
+		{Weaponry
+			{State
+				{AccuracyByMotion
+					{value 0.8}
+					{prevposition -920.466 -3371.18 36.2405}
+					{prevdirection -0.600504 0.789485 -0.126915}
+				}
+			}
+		}
+		{NameId 125 56}
+		{FsmState "stand"}
+	}
+	{Tags "keep_places_without_door" 0xcdf}
+	{Tags "keep_places_without_door" 0xced}
+	{Tags "keep_places_without_door" 0x1295}
+	{Tags "keep_places_without_door" 0x1296}
+	{Tags "keep_places_without_door" 0x1052}
+	{Tags "keep_places_without_door" 0x1803}
+	{Tags "keep_places_without_door" 0x60a3}
+	{Tags "keep_places_without_door" 0x611e}
+	{Tags "keep_places_without_door" 0x1c6}
+	{Tags "keep_places_without_door" 0x5413}
+	{Tags "keep_places_without_door" 0x480a}
+	{Inventory 0xc005
+		{box
+			{clear}
+			{item "sg44" filled {cell 0 0}{user "hand_right"}}
+			{item "pistol" "ammo" 100 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "bandage" 3 {cell 0 3}}
+			{item "m24" "grenade" {cell 2 3}}
+			{item "m24" "grenade" {cell 4 3}}
+			{item "m24" "grenade" {cell 0 4}}
+			{item "m24" "grenade" {cell 2 4}}
+			{item "m24x5" "grenade" {cell 4 4}}
+			{item "smoke" "grenade" {cell 0 5}}
+			{item "fieldcap1_ger" {cell 2 5}{user "head"}}
+		}
+	}
+	{Inventory 0xc007
+		{box
+			{clear}
+			{item "sg44" filled {cell 0 0}{user "hand_right"}}
+			{item "pistol" "ammo" 100 {cell 4 0}}
+			{item "pistol" "ammo" 100 {cell 4 1}}
+			{item "pistol" "ammo" 100 {cell 0 2}}
+			{item "pistol" "ammo" 100 {cell 2 2}}
+			{item "pistol" "ammo" 100 {cell 4 2}}
+			{item "bandage" 3 {cell 0 3}}
+			{item "m24" "grenade" {cell 2 3}}
+			{item "m24" "grenade" {cell 4 3}}
+			{item "m24" "grenade" {cell 0 4}}
+			{item "m24" "grenade" {cell 2 4}}
+			{item "m24x5" "grenade" {cell 4 4}}
+			{item "smoke" "grenade" {cell 0 5}}
+			{item "fieldcap1_ger" {cell 2 5}{user "head"}}
+		}
+	}
+	{Environment "skirmish/usa-omaha"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

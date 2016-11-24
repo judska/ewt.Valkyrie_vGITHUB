@@ -1,0 +1,114 @@
+{game_entity
+	(include "/properties/tank_unarmed.ext")
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+	{collider "tank.light"}
+	{props "vehicle" "armored_car" "tractor" "tank" "explosion_throw_crew" "vision_vehicle_low" "windowed"}
+	{targetClass "tank" "bullet"}
+	{targetSelector "tank_bullet"}
+	{patherId "tank.light"}
+	
+	("armor_medium" turret(0) body(10 10 10 10))
+	("armor_engine"  t(10 10 10 10))
+
+	{extension "crew.ext"}	
+
+	{extender "enumerator"}
+
+	{extender "inventory"
+		{box
+			{item "ammo hmgun" 2200}
+			{item "browning" filled {user "mgun"}}
+		}
+	}
+	{Weaponry
+		{place "mgun"
+			{type "mgun_aa"}
+			{weapon "browning" filled}
+			{gunner "gunner2"}
+			{charger "gunner2"}
+			{LinkBone "Mgun_rot"}
+			{LinkAnimation "off"}
+			("abm_mgun")
+		}
+	}
+	{sensor
+	{visor "gunner2" {bone "mgun_rot"}}
+}
+{placer 
+;	{place "gunner" {useVision} {visor "gunner"} {group "pass"}}
+;	{place "gunner1" {useVision} {visor "gunner1"} {group "crew"}}
+	{place "gunner2" {useVision} {visor "gunner2"} {group "crew"}}
+;	{place "gunner3" {useVision} {visor "gunner3"} {group "pass"}}
+}
+  	
+
+	{mass 14500}
+	{Chassis
+		("tank_trace" fx("tracks_sm") step(0.3) len(0.5))
+		{Locomotion ("locomotion")
+			{maxspeed   43}
+				(mod "mp"
+					{maxspeed   38}
+				)
+			{maxSpeedAtMaxTurn 19}
+			{StartTime  13}
+			{TurnTime   7}
+			{TurnStart  1.1}			
+			{TurnRadius 7} 
+    		{TurnStop   0.6}
+			{BrakeTime  1.5}
+			{StopTime   2.5}
+			{Gears 0.2 0.5 1}
+			{RearGears  0.23}
+		}
+		(mod "mp"
+			{FuelBag
+				{volume 350 }	
+				{rate	135 }   
+				{remain 350 }
+				{fuel "fuel"}
+			}
+		    {speed
+        		{Normal  12}
+    		}
+		)
+	}
+
+	{Extension "m4hst.mdl"}
+	{Volume "body1"
+		{tags "body"}
+		{component "body"}
+
+	}
+	{Volume "body2"
+		{tags "body"}
+		{component "body"}
+
+	}
+	{Volume "body3"
+		{tags "body"}
+		{component "body"}
+
+	}
+	{Volume "body"
+		{tags "body"}
+		{component "body"}
+
+	}
+	{Volume "engine"
+	}
+	{Volume "ram"
+	}
+	{Volume "trackleft"
+	}
+	{Volume "trackright"
+	}
+	{Volume "window1"
+		{Thickness 0.2}
+		{able {visible 0}{window}{obstacle 0}}
+	}
+	{Volume "window2"
+		{Thickness 0.2}
+		{able {visible 0}{window}{obstacle 0}}
+	}
+}

@@ -1,0 +1,8 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extension "carcano_m1891special.mdl"}
+	{extender "stuff"
+		{item "carcano_m91-38"}
+	}
+	{nogroupmesh 1}
+}

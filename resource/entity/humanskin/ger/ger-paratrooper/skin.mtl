@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "body"}
+	{specular "body_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

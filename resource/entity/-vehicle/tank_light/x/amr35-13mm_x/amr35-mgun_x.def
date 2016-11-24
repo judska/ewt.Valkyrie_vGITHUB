@@ -1,0 +1,4 @@
+{game_entity
+	{Extension "amr35-mgun_x.mdl"}
+	{texmod "mg"}
+}

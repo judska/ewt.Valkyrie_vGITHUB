@@ -1,0 +1,23 @@
+{game_entity
+	{Extension "47mm_puteaux_mle37_xx.mdl"}
+	{Volume "body"
+	}
+	{Volume "gun_rot"
+	}
+	{Volume "gun"
+	}
+	{Volume "noga_l"
+	}
+	{Volume "noga_r"
+	}
+	{Volume "shield2"
+	}
+	{Volume "shielg3"
+	}
+	{Volume "shielg"
+	}
+	{Volume "wheell"
+	}
+	{Volume "wheelr"
+	}
+}

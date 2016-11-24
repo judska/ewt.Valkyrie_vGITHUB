@@ -1,0 +1,6 @@
+{game_entity
+	{Extension "ger_sniper.mdl"}
+	{tag "fin"}
+	{RimLight}
+	
+}

@@ -1,0 +1,79 @@
+;Exported by: CHATO59
+;Date:        06/09/2010
+
+{Skeleton
+	{bone "grenade_breda35"
+		{Orientation
+			1.0000	0.0000	0.0000
+			0.0000	-1.0000	-0.0000
+			-0.0000	-0.0000	1.0000
+		}
+		{VolumeView "grenade_breda35.ply"}
+		{bone "handle"
+			{Matrix34
+				0	0	1
+				1	0	0
+				0	1	0
+				-0.0206311	0.639523	-1.26589
+			}
+		}
+	}
+}
+{Volume "body"
+	{Cylinder 0.876838 4.37876}
+	{Bone "grenade_breda35"}
+		{Matrix34
+			-0.0000	1.0000	-0.0000
+			0.0000	0.0000	1.0000
+			1.0000	0.0000	-0.0000
+			0.8679	-0.0271	-0.0017
+		}
+}
+{Volume "select"
+	{Cylinder 2.75415 7.8153}
+	{Bone "grenade_breda35"}
+		{Matrix34
+			-0.0000	1.0000	-0.0000
+			0.0000	0.0000	1.0000
+			1.0000	0.0000	-0.0000
+			1.2742	0.0267	-0.0017
+		}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin -3.52102 3.60235 3.98396}
+			{lookat 1.45531	-2.162424 -2.131243}
+			{fov 18}
+			{horizon 43.5594}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction 0.110274	-0.35432	-0.335107}
+			}
+			{"1"
+				{type point}
+				{position 4.60821	3.46014	-0.303608}
+			}
+		}
+	}
+	{"Stuff_secondary"
+		{camera
+			{origin -3.52102 3.60235 3.98396}
+			{lookat 1.45531	-2.162424 -2.131243}
+			{fov 30}
+			{horizon 43.5594}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction 0.110274	-0.35432	-0.335107}
+			}
+			{"1"
+				{type point}
+				{position 4.60821	3.46014	-0.303608}
+			}
+		}
+	}
+}

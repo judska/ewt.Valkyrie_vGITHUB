@@ -1,0 +1,99 @@
+;Exported by: sergienko
+;Date:        Fri May 19 10:01:50 2006
+;File:        D:\-projets1_5\3dwork\anima\equipment\helmets\helmet1.max
+{Skeleton
+	{bone "helmet1"
+		{Matrix34
+			1	0	0
+			0	-1	0
+			0	0	1
+                        0.1        0       -0.2
+		}
+		{LODView
+			{VolumeView "helmet1.ply"}
+		}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	1
+				0	-1	0
+				-0.154566	-1.34946	2.1771
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 4.33744 4.55139 2.89156}
+	{Bone "helmet1"}
+	{Position 0.0147889	-0.0174447	3.75613}
+}
+{Volume "select"
+	{Box 9.12936 6.18989 3.3075}
+	{Bone "helmet1"}
+	{Position 0.0488151	-0.0174447	3.88135}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 6.42745	3.84982	6.51725}
+			{lookat -5.57941	-3.02561	0.167381}
+			{fov 45}
+			{horizon -16.4839}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 16.117	13.9025	17.7796}
+				{direction -0.312209	-0.262411	-0.289251}
+				{theta 3.6}
+				{phi 11}
+			}
+			{"1"
+				{type point}
+				{position 3.07871	0.608548	4.60635}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin 9.97608	5.88804	8.75406}
+			{lookat -5.70008	-3.08853	0.463665}
+			{fov 45}
+			{horizon -16.4839}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 16.117	13.9025	17.7796}
+				{direction -0.312209	-0.262411	-0.289251}
+				{theta 3.6}
+				{phi 11}
+			}
+			{"1"
+				{type point}
+				{position 3.07871	0.608548	4.60635}
+			}
+		}
+	}
+	{"Stuff_secondary"
+		{camera
+			{origin 6.7702	3.97053	6.88538}
+			{lookat -5.61397	-3.12096	0.335968}
+			{fov 45}
+			{horizon -16.4839}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 16.117	13.9025	17.7796}
+				{direction -0.312209	-0.262411	-0.289251}
+				{theta 3.6}
+				{phi 11}
+			}
+			{"1"
+				{type point}
+				{position 3.07871	0.608548	4.60635}
+			}
+		}
+	}
+}

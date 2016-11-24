@@ -1,0 +1,15 @@
+{from "pattern gun"     ; Vickers AA Gun"
+	{filling "bullet75"}
+	{fireSound "gun/50to76_cal/75mm_vickers"}
+	{reloadSound "gun_r03"}
+	{rechargeTime 5}
+	("range_medium")  
+	("speed" s(902))
+	("caliber_medium")
+	{projectileDamage 122}
+	("damage_130" a(132) b(121) c(108) d(95) e(84))
+	{parameters "apcr"
+        ("damage_100" a(157) b(141) c(123) d(105) e(89))
+	}
+	("accuracy_low_1")
+}

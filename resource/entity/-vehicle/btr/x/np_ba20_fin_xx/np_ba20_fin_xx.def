@@ -1,0 +1,17 @@
+{game_entity
+	{Extension "ba20_xx.mdl"}
+	{Volume "body"
+	}
+	{Volume "engine"
+	}
+	{Volume "turret"
+	}
+	{Volume "wheelleft1"
+	}
+	{Volume "wheelleft2"
+	}
+	{Volume "wheelright1"
+	}
+	{Volume "wheelright2"
+	}
+}

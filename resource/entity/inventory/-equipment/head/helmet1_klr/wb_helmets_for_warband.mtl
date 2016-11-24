@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "wb_helmets_for_warband"}
+	{blend none}
+}

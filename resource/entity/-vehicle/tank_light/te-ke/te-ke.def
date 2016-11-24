@@ -1,0 +1,76 @@
+{entity
+	(include "/properties/tank_unarmed.ext")
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+
+	{collider "tank.light"}
+	{props "light" "turret_rotator" "vision_vehicle_low"}
+	{targetClass "light_tank" "bullet"}
+	{targetSelector "tank_bullet"}
+	{patherId "tank.light"}
+	
+	("armor_light" turret(15) body(16 10 10 4))
+	("armor_engine"  t(16))
+	
+	("crew_2_human")
+
+	{boarder
+		{anm "left"
+			{forward	{begin	"board_LowTank_left"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "right"
+			{forward	{begin	"board_LowTank_left"}}
+			{reverse 	{end	"emit_tank_1"}}
+		}
+	}
+
+	{extender "inventory"
+		{weapon "mgun"
+			{mask "weapon mgun"}
+		}
+		{box
+			{item "ammo mgun" 2000}
+			{item "type1hmg" filled {user "mgun"}}
+		}
+	}
+	{Weaponry
+		{place "mgun"
+			{type "mgun_main"}
+			{charger "gunner"}
+			{foresight "foresight3"}
+		}
+	}
+
+	{mass 5900}
+	{Chassis
+		("tank_trace" fx("tracks_sm2") step(0.15) len(0.13))
+		{Locomotion ("locomotion")
+			(mod "mp" 
+				{maxspeed   44}
+				{maxSpeedAtMaxTurn 12}
+				{StartTime  12}
+				{TurnTime   7}
+				{TurnStart  0.9}			
+				{TurnRadius 6} 
+	    		        {TurnStop   0.5}
+				{BrakeTime  1}
+				{StopTime   2}
+     			        {Gears  0.2 0.5 1}
+				{RearGears  0.35}
+			)
+		}
+		(mod "mp"
+			{FuelBag
+				{volume 240 }	
+				{rate	  3 }   
+				{remain 240 }
+				{fuel "fuel"}
+			}
+		    {speed
+        		{Normal  32}
+    		}
+		)
+	}
+
+	{Extension "te-ke.mdl"}
+}

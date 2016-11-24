@@ -1,0 +1,4 @@
+{Game_entity
+	{Extension "hun_arrow2.mdl"}
+	{tag "hun soldier"}
+}

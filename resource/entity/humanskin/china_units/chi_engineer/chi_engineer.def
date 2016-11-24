@@ -1,0 +1,4 @@
+{game_entity
+	{Extension "chi_engineer.mdl"}
+	{tag "chi soldier"}
+}

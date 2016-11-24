@@ -1,0 +1,65 @@
+;Exported by: Admin
+;Date:        Thu May 21 23:32:25 2009
+;File:        E:\the game\head\cha_helmet.max
+{Skeleton
+	{bone "cha_helmet"
+		;{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "cha_helmet.ply"}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	1	0
+				0	0	1
+				-0.159016	0.00690333	2.88396
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 4.14813 3.61352 3.32807}
+	{Bone "cha_helmet"}
+	{Matrix34
+		1	0	0
+		0	1	0
+		0	0	1
+		-0.0485965	-0.00987658	3.30225
+	}
+}
+{Volume "select"
+	{Box 8.33811 5.92873 4.67327}
+	{Bone "cha_helmet"}
+	{Matrix34
+		1	0	0
+		0	1	0
+		0	0	1
+		-0.198122	0.0369298	3.32796
+	}
+}
+{Extender "preview"
+	{"stuff"
+		{camera
+			{origin 7.78279	-37.3741	2.36715}
+			{lookat -0.391069	1.81363	3.30386}
+			{fov 8.20514}
+			{horizon -4.99999}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 0.26639	-1.20226	5.76}
+			}
+			{"1"
+				{type spot}
+				{position -2.4709	-17.2855	5.52114}
+				{direction 0.0621128	0.491267	-0.0692761}
+				{theta 43}
+				{phi 45}
+			}
+		}
+	}
+}

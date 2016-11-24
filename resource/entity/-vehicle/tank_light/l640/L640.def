@@ -1,0 +1,90 @@
+{game_entity
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc"  scale(1.2))
+	{collider "tank.light"}
+	{props "light" "turret_rotator" "zenite" "vision_vehicle_minimum" "muzzle_zenite"}
+	{targetClass "tank" "ita_bullet"}
+	{targetSelector "tank_ita_bullet"}
+   	{patherId "tank.light"}
+	
+	{volume "body1"
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "body2"
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "body3"
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "turret"
+		{component "turret"}
+	}
+	("armor_light" turret(40 15 15 6) body(30 15 15 6))
+	("crew_2_human")
+	{boarder
+		{anm "left"
+			{forward	{begin	"board_tank_left"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
+		{anm "right"
+			{forward	{begin	"board_tank_right"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
+	}
+	{extender "inventory"
+		{box
+			{item "bullet20 zenite" 396}
+			{item  "ammo mgun" 1560}
+			{item "mab_38a" filled}
+			{item "ammo pistol" 120}
+			{item "oto_mod35 grenade" 5}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "20mm_Scotti" filling "bullet20 zenite" 12}
+			{charger "gunner"}
+			{gunner "gunner"}
+			("abm_zenite")
+		}
+		{place "mgun"
+			{type "mgun_coaxial"}
+			{weapon "breda_38" filled}
+			{charger "gunner"}
+			{gunner "gunner"}
+			("abm_mgun")
+			{basic}
+		}
+	}
+	
+	{mass 6900}
+	{Chassis
+		("tank_trace" fx("tracks_sm") step(0.4) len(0.4))
+		{Locomotion ("locomotion")
+			{maxspeed   40}
+			{maxSpeedAtMaxTurn 14}
+			{StartTime  14}
+			{TurnTime   7}
+			{TurnStart  1.2}			
+			{TurnRadius 7} 
+    		{TurnStop   0.6}
+			{BrakeTime  1.5}
+			{StopTime   2}
+     		{Gears  0.1 0.25 0.625}
+			{RearGears  0.27}
+		}
+	}
+	{Extension "L640.mdl"}
+	
+	{bone "gun_rot"
+		{speed 0.007}
+	}
+	{bone "turret"
+		{speed 0.003}
+	}
+}

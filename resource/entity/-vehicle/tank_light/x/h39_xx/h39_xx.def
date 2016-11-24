@@ -1,0 +1,9 @@
+{game_entity
+	{Extension "h39.mdl"}
+	{Volume "body1"
+	}
+	{Volume "body2"
+	}
+	{Volume "turret"
+	}
+}

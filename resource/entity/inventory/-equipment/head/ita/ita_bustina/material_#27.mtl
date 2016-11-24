@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "14_pilotka_oficera_italia"}
+	{blend none}
+}

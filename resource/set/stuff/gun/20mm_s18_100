@@ -1,0 +1,20 @@
+{from "pattern gun"		; Solothurn S 18-100
+	{filling "ammo ptr" 10}	
+	{fireSound "gun/20mm_solothurn"}
+	{reloadSound "ptrd"}
+	{rechargeTime 5.0}
+	{RecoveryTime 0.5}
+	{AimingTolerance 20}
+	
+	
+	{special
+		{throw_off}
+	}
+	
+	("range_autocannon")
+	{projectileDamage 30}
+	("speed" s(825))
+	("caliber_zenite")
+	("damage_90" a(48) b(42) c(35) d(26) e(18))
+	("speed" s(850))	
+}

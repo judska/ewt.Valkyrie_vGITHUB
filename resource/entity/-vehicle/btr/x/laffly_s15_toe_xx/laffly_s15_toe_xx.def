@@ -1,0 +1,23 @@
+{game_entity
+	{Extension "laffly_btr_xx.mdl"}
+	{Volume "body2"
+	}
+	{Volume "body"
+	}
+	{Volume "engine"
+	}
+	{Volume "turret"
+	}
+	{Volume "wheelleft1"
+	}
+	{Volume "wheelleft2"
+	}
+	{Volume "wheelleft3"
+	}
+	{Volume "wheelright1"
+	}
+	{Volume "wheelright2"
+	}
+	{Volume "wheelright3"
+	}
+}

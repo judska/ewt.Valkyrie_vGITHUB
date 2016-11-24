@@ -1,0 +1,7 @@
+{army
+	{id 4}
+	{title "JAP"}
+	{icon "/interface/pages/multi/flag_jap"}
+	{flag "/interface/scene/common/flag_japan"}
+}
+

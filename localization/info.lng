@@ -1,0 +1,27 @@
+{tags
+	{"squad"
+		(include "inc/info_squad_van.inc")
+		(include "inc/info_squad_fra.inc")
+		(include "inc/info_squad_hun.inc")
+		(include "inc/info_squad_fin.inc")
+
+		;---------------------------------------------------------
+
+	}
+	{"entity"
+		(include "inc/info_entity_van.inc")
+		;---------------------------------------------------------		
+		(include "inc/info_entity_fra.inc")
+		(include "inc/info_entity_hun.inc")
+		(include "inc/info_entity_fin.inc")
+		;---------------------------------------------------------
+	}
+	{"special"
+		;---------------------------------------------------------
+		(include "inc/info_special_van.inc")
+		;---------------------------------------------------------
+	}
+	{"armor_angle"
+		(include "inc/info_armor_angle_van.inc")
+	}
+}

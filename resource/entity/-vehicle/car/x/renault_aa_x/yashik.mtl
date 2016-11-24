@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "yashik"}
+	{bump "$/model/yashik_bp"}
+	{blend none}
+}

@@ -1,0 +1,4 @@
+{game_entity
+	{Extension "cm_01.mdl"}
+	{tag "worker"}
+}

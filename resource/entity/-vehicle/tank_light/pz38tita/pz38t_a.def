@@ -1,0 +1,5 @@
+{Entity
+	(include "pz38t.inc")
+
+	("armor_light" turret(25 15 15 10) body(25 15 15 8))
+}

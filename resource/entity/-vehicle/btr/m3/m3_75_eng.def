@@ -1,0 +1,4 @@
+{game_entity
+	(include "m3_75.inc")
+	{texmod "2"}
+}

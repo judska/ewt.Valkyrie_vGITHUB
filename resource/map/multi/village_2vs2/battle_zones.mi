@@ -1,0 +1,119 @@
+{mission
+	{Entity "map_point" 0x8014
+		{Position -2288.8 -7790.98}
+		{xform zl 108.37}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 7}
+	}
+	{Entity "map_point" 0x802c
+		{Position -3380.41 -7847.44}
+		{xform zl 91.77}
+		{Extender "map_point"
+			{name b2}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 9}
+	}
+	{Entity "map_point" 0x802d
+		{Position -3362.82 2334.84}
+		{xform zl -86.61}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 5}
+	}
+	{Entity "map_point" 0x801c
+		{Position -2260.62 2305.27}
+		{xform zl -103.02}
+		{Extender "map_point"
+			{name a2}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 6}
+	}
+	{Tags "keep_places_without_door" 0x3000}
+	{Tags "keep_places_without_door" 0x5000}
+	{Tags "keep_places_without_door" 0x5021}
+	{Tags "keep_places_without_door" 0x701d}
+	{Tags "keep_places_without_door" 0x3066}
+	{Tags "keep_places_without_door" 0x787f}
+	{Tags "keep_places_without_door" 0x481b}
+	{Tags "keep_places_without_door" 0x5800}
+	{Tags "keep_places_without_door" 0x5801}
+	{Tags "keep_places_without_door" 0x580c}
+	{Tags "keep_places_without_door" 0x581e}
+	{Tags "keep_places_without_door" 0x706b}
+	{Tags "keep_places_without_door" 0x706c}
+	{Tags "keep_places_without_door" 0x7084}
+	{Tags "keep_places_without_door" 0x6804}
+	{Tags "keep_places_without_door" 0x600c}
+	{Tags "keep_places_without_door" 0x3005}
+	{Tags "keep_places_without_door" 0x602f}
+	{Tags "keep_places_without_door" 0x5035}
+	{Tags "keep_places_without_door" 0x302f}
+	{Tags "keep_places_without_door" 0x403a}
+	{Tags "keep_places_without_door" 0x5c04}
+	{Tags "keep_places_without_door" 0x5c06}
+	{Tags "keep_places_without_door" 0x7418}
+	{Tags "keep_places_without_door" 0x5030}
+	{Tags "switch_right" 0x544}
+	{Tags "keep_places_without_door" 0x4093}
+	{Tags "keep_places_without_door" 0x40a2}
+	{Tags "keep_places_without_door" 0x40a3}
+	{Tags "keep_places_without_door" 0x40a8}
+	{Tags "keep_places_without_door" 0x43c3}
+	{Tags "keep_places_without_door" 0x2091}
+	{Tags "keep_places_without_door" 0x2021}
+	{Environment "multi/multi_04"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

@@ -1,0 +1,8 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extension "Fnab_m1943open.mdl"}
+	{extender "stuff"
+		{item "Fnab_m1943"}
+	}
+	{nogroupmesh 1}
+}

@@ -1,0 +1,8 @@
+{game_entity
+	(include "/properties/stuff_small.ext")
+	{Extension "vetterlim70.mdl"}
+	{extender "stuff"
+		{item "vetterlim70"}
+	}
+	{nogroupmesh 1}
+}

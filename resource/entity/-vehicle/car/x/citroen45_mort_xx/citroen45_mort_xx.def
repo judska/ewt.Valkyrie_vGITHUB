@@ -1,0 +1,4 @@
+{game_entity
+	(include "/properties/shadow/tank.inc"  scale(1.2))
+	{Extension "citroen45_mort_xx.mdl"}
+}

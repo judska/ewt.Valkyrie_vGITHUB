@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "122_body"}
+	{bump "122_body_bp"}
+	{specular "122_body_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

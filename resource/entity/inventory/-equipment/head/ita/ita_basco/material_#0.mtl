@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "11_black_beret_matros_podvodnik_italia"}
+	{blend none}
+}

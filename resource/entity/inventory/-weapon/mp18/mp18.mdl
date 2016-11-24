@@ -1,0 +1,80 @@
+;Exported by: Admin
+;Date:        Thu Jan 08 12:30:45 2009
+;File:        E:\theGame\entity\inventory\-weapon\mp18\mp18.max
+{Skeleton
+	{bone "mp18"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "mp18.ply"}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				5.33328	1.9482	-0.495091
+			}
+		}
+		{bone "foresight3"
+			{Position 11.0906	1.40348	0.0494046}
+		}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "mp18"}
+	{Position 3.09435	0.0312667	-0.381106}
+}
+{Volume "select"
+	{Box 18.4012 6.50711 4.21164}
+	{Bone "mp18"}
+	{Position 3.68718	-0.0233902	0.239964}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin -3.30129	-20.6005	21.9535}
+			{lookat 2.14689	-3.70786	3.32531}
+			{fov 31.2425}
+			{horizon -150.044}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 15.5362	-2.49477	5.57866}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0792752	0.197722	-0.452351}
+			}
+			{"2"
+				{type point}
+				{position -2.67742	-1.88852	0.00932}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin -0.125501	-16.1366	25.3235}
+			{lookat 2.47254	-2.98517	3.36119}
+			{fov 36.8128}
+			{horizon -158.044}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.0792752	0.197722	-0.452351}
+			}
+			{"1"
+				{type point}
+				{position 15.5362	-2.49477	5.57866}
+			}
+			{"2"
+				{type point}
+				{position -2.67742	-1.88852	0.00932}
+			}
+		}
+	}
+}

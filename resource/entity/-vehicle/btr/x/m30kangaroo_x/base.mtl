@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "m30_x"}
+	{specular "$/model/m7priest_sp"}
+	{color "229 229 229 25"}
+	{blend test}
+}

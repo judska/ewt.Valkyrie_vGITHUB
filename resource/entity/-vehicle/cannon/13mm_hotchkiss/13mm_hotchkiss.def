@@ -1,0 +1,57 @@
+{entity
+	(include "/properties/cannon_mgun.ext")
+	{props "cannon_small" "flak" "round_sandbag2" "vehicle" "vision_cannon_low" "muzzle_zenite"}
+	{collider "cannon_small"}
+	("armor_light")
+
+	("crew_2_human")
+	("crew_human" place(driver1) bone(driver1)	door(emit1) animation(driver1))
+	("crew_human" place(driver2) bone(driver2)	door(emit2) animation(driver2))
+ 
+	{boarder
+		{anm "gunner"
+			{forward	{end "pose_oerlikon_charger" 10}}
+		}
+		{anm "commander"
+			{forward	{end "pose_vicers_commander" 10}}
+		}
+		{anm "driver1"
+			{forward {end "mgun_browning_driver_r"}}
+		}
+		{anm "driver2"
+			{forward {end "mgun_browning_driver_l"}}
+		}
+		{link "driver1" "gunner"}
+		{link "driver2" "commander"}
+	}
+	{extender "cannon"
+		{animation
+			{reload  "Cannon_oerlikon_charger"}
+		}
+		{attack {workers "gunner" "commander"}}
+		{rotate_ik_Limit 0}
+	}
+	{extender "inventory"
+		{box
+			{clear}
+			{item "ammo hmgun" 900}
+			(mod "mp"
+				{item "sandbag_kit2"}
+				{item "plant" 3}
+			)
+		}
+	}
+	{Weaponry
+		{place "gun"
+			{weapon "13mm_hotchkiss_x2" filled}
+			{foresight "foresight1"}
+			{charger "gunner"}
+			{Barrels 2}
+		}
+	}
+
+	{mass 400}
+	{Extension "13mm_hotchkiss.mdl"}
+}
+
+

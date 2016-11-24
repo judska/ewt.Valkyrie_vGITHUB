@@ -1,0 +1,24 @@
+{from "pattern throwable"
+	{tag "ap big"}
+	{inventory {size 2 2}}
+	{entity "kasapanos"}
+	{special
+		{PrepareTime 4}
+		{PrepareCursor "grenade"}
+		{mode detonate}
+	}
+	{throw
+		{range 15}
+		{startAngle 40}		
+		{spreading 1}
+	}	
+	{damage blastwave
+		{energy 9}
+		{area 2 2}
+	}
+	{damage add blastwave
+		{energy 1}
+		{area 5 10}
+	}
+	{possibleDamageRadius 4}
+}

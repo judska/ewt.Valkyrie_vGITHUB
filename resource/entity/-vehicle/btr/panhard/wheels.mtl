@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "wheel_panhard"}
+	{specular "$/model/wheel_panhard_sp"}
+	{color "230 230 230 76"}
+	{blend none}
+}

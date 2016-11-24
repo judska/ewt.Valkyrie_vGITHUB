@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "tankhelmet"}
+	{specular "tankhelmet_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

@@ -1,0 +1,7 @@
+{from "90mm_m15"     ; ARL44
+	{desc "90mm DCA45"}
+	{fireSound "gun/85to100_cal/OQF_25pdr"}	
+        ("speed" s(1130))
+	{projectileDamage 212}
+        ("damage_150" a(210) b(186) c(165) d(146) e(129))
+}

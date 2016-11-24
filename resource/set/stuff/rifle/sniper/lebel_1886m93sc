@@ -1,0 +1,7 @@
+{from "pattern sniper_rifle"
+	{fireSound "rifle/lebel"}
+	{entity "lebel_1886m93sc"}
+	{reloadSound "kar98k_s_reload"}
+	
+        ("speed" s(850))
+}

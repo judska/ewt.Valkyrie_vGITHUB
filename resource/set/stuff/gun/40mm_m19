@@ -1,0 +1,10 @@
+{from "40mm_bofors"		; "m19"
+	{filling "bullet40 zenite" 20}
+	{rechargeTime 4}
+        {fireSound "gun/40mm_m19"}
+	{reloadSound "61k_reload"}
+	
+	("recoveryTime" r(400))	
+	("range_zenite_long")
+	("accuracy_zenite_high")
+}

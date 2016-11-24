@@ -1,0 +1,8 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extension "bredasafat88.mdl"}
+	{extender "stuff"
+		{item "breda_safat88"}
+	}
+	{nogroupmesh 1}
+}

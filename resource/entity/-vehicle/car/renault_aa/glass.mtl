@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "renault_glass"}
+	{blend blend}
+}

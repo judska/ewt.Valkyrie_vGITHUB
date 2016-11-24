@@ -1,0 +1,9 @@
+{from "pattern at_rifle"
+	{filling "ammo ptr" 4}
+	{fireSound	"rifle/ptr/wz35"}
+	{Automatic}                                         
+	{entity "wz35"}
+	{reloadSound "ptrs"}
+	{projectileDamageTable {0 40} {25 33} {50 28} {75 19} {100 10}}
+	("speed" s(790))	
+}

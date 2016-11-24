@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/model/skr/leather8"}
+	{blend none}
+}

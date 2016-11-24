@@ -1,0 +1,44 @@
+-= Animation: break, Node trackl =-
+	Frame 200 {
+		Visibility 1
+		Position	-2.456	2.22374	2.6418
+		Orientation	0 0 0 1
+	}
+	Frame 236 {
+		Visibility 1
+		Position	-2.456	2.22374	2.6418
+		Orientation	0 0 0 1
+	}
+-= Animation: break, Node trackr =-
+	Frame 200 {
+		Visibility 1
+		Position	-2.45603	-2.16836	2.64179
+		Orientation	0 0 0 1
+	}
+	Frame 236 {
+		Visibility 1
+		Position	-2.45603	-2.16836	2.64179
+		Orientation	0 0 0 1
+	}
+-= Animation: break, Node body =-
+	Frame 100 {
+		Visibility 1
+		Position	3.85343	0.0541335	16.8115
+		Orientation	-0.0347434 -0.0271972 -0.00150681 0.999025
+	}
+	Frame 125 {
+		Visibility 1
+		Position	3.85343	0.0541335	16.8115
+		Orientation	-0.0347434 -0.0271972 -0.00150681 0.999025
+	}
+-= Animation: break, Node engine =-
+	Frame 179 {
+		Visibility 1
+		Position	-29.3786	-1.07003	5.55971
+		Orientation	0 0 0 1
+	}
+	Frame 205 {
+		Visibility 1
+		Position	-29.3786	-1.07003	5.55971
+		Orientation	0 0 0 1
+	}

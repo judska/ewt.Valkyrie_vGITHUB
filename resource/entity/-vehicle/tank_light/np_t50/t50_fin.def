@@ -1,0 +1,112 @@
+{Entity
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+	{collider "tank.light"}
+	{props "light" "turret_rotator" "vision_vehicle_low" "muzzle_minimum"}
+	{targetClass "light_tank"}
+	{patherId "tank.light"}
+	
+	{volume "body"
+		{tags "body"}
+		{component "body"}
+                {thickness 51}
+	}
+	{volume "engine"
+		{thickness 37}
+	}
+	{extender "enumerator"}
+
+	("armor_medium" turret(51 37 51 51) body(37 51 37 37))
+        ("armor_mantlet" t(51))
+
+	("crew_4_human_extended")
+	{boarder
+		{anm "driver"
+			{forward	{begin	"board_t34_driver"} {end "seat_gunner_stand"} {base "close_driver"}}
+			{reverse 	{end	"emit_t34_hold"} {base "close_driver" -1}}
+		}
+		{anm "right"
+			{forward	{begin	"board_Is-2"} {base "close"}}
+			{reverse 	{end	"emit_tank_1_hold"} {base "close" -1}}
+		}
+		{anm "left"
+			{forward	{begin	"board_Is-2"} {base "close_commander"}}
+			{reverse 	{end	"emit_tank_1_hold"} {base "close_commander" -1}}
+		}
+		{anm "armor"
+			{forward	{begin	"board_HighArmor"} 	{end "pose_seat_armor_1"}}
+			{reverse 	{end	"emit_tank_2"}}
+		}
+		{anm "armor1"
+			{forward	{begin	"board_HighArmor"} 	{end "pose_seat_armor_1"}}
+			{reverse 	{end	"emit_body"}}
+		}
+	}
+
+	("seat_human" place(seat1) bone(seat01) door(emit3)  animation(armor1))
+	("seat_human" place(seat2) bone(seat02) door(emit4)  animation(armor))
+	("seat_human" place(seat3) bone(seat03) door(emit5)  animation(armor1))
+	("seat_human" place(seat4) bone(seat04) door(emit6)  animation(armor1))
+
+	{extender "inventory"
+		{box
+			{item "ammo mgun" 4000}
+			{item "bullet45 ap" 70}
+                        {item "bullet45 apcr" 5}
+			{item "bullet45 fg" 75}
+			;{item "dt_2x" filled {user "mgun"}}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "45mm_20k" filling "bullet45 ap" 1}
+			{charger "gunner"}        
+		}
+		{place "mgun"
+			{type "mgun_coaxial"}
+			{weapon "dt_2x" filled}
+			{charger "gunner"}
+			{Barrels 2}
+			{basic}
+		}
+	}
+	
+	{mass 9800}
+		{Chassis
+			("tank_trace" fx("tracks_sm2") step(0.15) len(0.6))
+			{Locomotion ("locomotion")
+				{maxspeed   35}
+				{maxSpeedAtMaxTurn 12}
+				{StartTime         18}
+				{TurnStart        1.1}
+				{TurnTime  	    6}
+				{TurnRadius         7} 
+    			        {TurnStop         0.5}
+				{BrakeTime          1}
+				{StopTime           2}
+				{Gears      0.2 0.4 1}
+				{RearGears       0.27}
+			}
+			(mod "mp"
+				{FuelBag
+					{volume 450 }	
+					{rate	  5 }   
+					{remain 450 }
+					{fuel "fuel"}
+				}
+		    	{speed
+        			{Normal  38}
+    			}
+			)
+		}
+
+	{Extension "t50_fin.mdl"}
+
+	{bone "turret"
+		{speed 0.01}
+	}
+	
+	
+}

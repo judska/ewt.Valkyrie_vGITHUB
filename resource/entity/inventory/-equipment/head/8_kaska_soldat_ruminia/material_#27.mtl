@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "8_kaska_soldat_ruminia"}
+	{blend none}
+}

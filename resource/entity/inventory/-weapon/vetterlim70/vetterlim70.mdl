@@ -1,0 +1,101 @@
+;Exported by: Zeke Wolff
+;File:        D:\vetterlim70.ms3d
+{Skeleton
+    {bone "vetterlim70"
+        {parameters "ID=mgun;"}
+        {Orientation
+            1.0000 0.0000 0.0000
+            0.0000 -1.0000 0.0000
+            0.0000 0.0000 1.0000
+        }
+        {VolumeView "vetterlim70.ply"}
+        {bone "foresight3"
+            {Position 23.7267 1.7866 -0.0030}
+        }
+        {bone "handle"
+            {Matrix34
+                1.0000 0.0000 0.0000
+                0.0000 0.0000 -1.0000
+                0.0000 1.0000 0.0000
+                0.1532 0.4242 -0.5482
+            }
+        }
+        {bone "run_holder"
+            {Matrix34
+                1.0000 0.0000 0.0000
+                0.0000 0.0000 -1.0000
+                0.0000 1.0000 0.0000
+                5.6233 0.9776 -2.2444
+            }
+        }
+        {bone "fxshell"
+            {Matrix34
+                0.0000 -0.9954 0.0958
+                -1.0000 0.0000 0.0000
+                0.0000 -0.0958 -0.9954
+                3.0366 -1.7166 -1.5173
+            }
+        }
+    }
+}
+{Volume "body"
+    {Box 21.8241 3.7307 1.1814}
+    {Bone "vetterlim70"}
+    {Matrix34
+        1.1831 0.0310 0.0000
+        -0.0265 1.0132 0.0000
+        0.0000 0.0000 1.0000
+        6.8306 0.6045 0.0657
+    }
+}
+{Volume "select"
+    {Box 25.9211 9.1172 2.3938}
+    {Bone "vetterlim70"}
+    {Position 6.8962 0.8889 -0.1156}
+}
+{Extender "preview"
+	{"Stuff_primary"
+		{camera
+			{origin 2.99318	-5.2492	27.7372}
+			{lookat 3.76016	-2.90584	13.4569}
+			{fov 45}
+			{horizon -157.989}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 5.5553	-13.2257	-38.7774}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0761825	0.382457	-0.312926}
+			}
+			{"2"
+				{type point}
+				{position 5.5553	1.56983	20.2422}
+			}
+		}
+	}
+	{"Stuff"
+		{camera
+			{origin 2.35713	-11.8803	23.4456}
+			{lookat 4.29767	-0.367576	-0.0816169}
+			{fov 45}
+			{horizon -152.307}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 5.5313	-12.273	-48.1114}
+			}
+			{"1"
+				{type point}
+				{position 5.5313	-1.43229	20.1015}
+			}
+			{"2"
+				{type directional}
+				{direction 0.0583871	0.496579	-0.00041018}
+			}
+		}
+	}
+}

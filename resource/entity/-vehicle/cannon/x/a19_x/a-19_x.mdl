@@ -1,0 +1,112 @@
+;Exported by: Jagdpanther
+;Date:        Tue Jun 15 15:56:36 2010
+;File:        D:\Δενθρ\3DS MAX\122μμ_xx.max
+{Skeleton
+	{bone revolute "basis"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "body"
+			{parameters "ID=body;"}
+			{Matrix34
+				-1	0	0
+				0	-1	0
+				0	0	1
+				-6.77262	1.05845e-005	25.2203
+			}
+			{VolumeView "body.ply"}
+			{bone revolute "turret"
+				{parameters "ID=turret;"}
+				{animation
+					{sequence "break" {file "turret_b.anm"}}
+				}
+				{Matrix34
+					-1	0	0
+					0	-1	0
+					0	0	1
+					-10.657	-0.0363262	1.68839
+				}
+				{VolumeView "turret.ply"}
+				{bone revolute "gun_rot"
+					{parameters "ID=gun;"}
+					{animation
+						{sequence "break" {file "gun_b.anm"}}
+					}
+					{Matrix34
+						1	0	0
+						0	0	-1
+						0	1	0
+						-12.3789	0.0877739	-0.568495
+					}
+					{VolumeView "gun_rot.ply"}
+					{bone "gun"
+						{parameters "ID=gun;"}
+						{Matrix34
+							-1	0	0
+							0	0	-1
+							0	-1	0
+							31.8453	-0.989603	-0.16896
+						}
+						{VolumeView "gun.ply"}
+					}
+					{bone "fx_invers"
+						{Matrix34
+							-1	0	0
+							0	0	-1
+							0	-1	0
+							-14.7102	-2.02498	-0.202447
+						}
+					}
+				}
+			}
+			{bone "standl"
+				{parameters "ID=body;"}
+				{Position -5.90904	-9.18292	-17.2151}
+				{VolumeView "standl.ply"}
+			}
+			{bone "standr"
+				{parameters "ID=body;"}
+				{Position -7.28275	9.99238	-17.1702}
+				{VolumeView "standr.ply"}
+			}
+			{bone "pivot_back"
+				{Matrix34
+					-1	0	0
+					0	-1	0
+					0	0	1
+					27.4428	0.654488	-18.2506
+				}
+			}
+			{bone "pivot_front"
+				{Matrix34
+					-1	0	0
+					0	0	1
+					0	1	0
+					-17.8908	-0.0402224	-19.5326
+				}
+				{bone revolute "wheell"
+					{parameters "ID=wheelleft;Support=1;Radius=0.55;"}
+					{Matrix34
+						1	0	0
+						0	-1	0
+						0	0	-1
+						-12.957	6.01154	-17.8163
+					}
+					{VolumeView "wheell.ply"}
+				}
+				{bone revolute "wheelr"
+					{parameters "ID=wheelright;Support=1;Radius=0.55;"}
+					{Matrix34
+						1	0	0
+						0	-1	0
+						0	0	-1
+						-12.9201	6.05094	18.2602
+					}
+					{VolumeView "wheelr.ply"}
+				}
+			}
+		}
+	}
+}

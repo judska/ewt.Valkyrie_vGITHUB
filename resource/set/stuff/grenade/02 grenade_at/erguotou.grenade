@@ -1,0 +1,19 @@
+{from "pattern throwable"
+	{tag "ic ap"}
+	{inventory {size 2 2}}
+	{entity "erguotou"}
+	{mass 1.0}
+	{throw
+		{range 12}
+		{startAngle 30}
+	}
+	{damage blastwave
+		{energy 4} ; kg
+		{area 1 1.5} ; m
+	}
+	{damage add blastwave
+		{energy 1} ; kg
+		{area 2 4} ; m
+	}
+	{possibleDamageRadius 3}
+}

@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "AOI_ascaro1_fante"}
+	{blend test}
+}

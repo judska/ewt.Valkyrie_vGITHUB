@@ -1,0 +1,4 @@
+{game_entity
+	{Extension "chi_officer.mdl"}
+	{tag "chi tankman officer"}
+}

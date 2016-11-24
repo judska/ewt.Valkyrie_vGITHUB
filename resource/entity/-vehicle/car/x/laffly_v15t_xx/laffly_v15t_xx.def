@@ -1,0 +1,19 @@
+{game_entity
+	{Extension "laffly_v15t_xx.mdl"}
+	{Volume "wheelleft1"
+	}
+	{Volume "wheelright1"
+	}
+	{Volume "fuel"
+	}
+	{Volume "body"
+	}
+	{Volume "engine"
+	}
+	{Volume "part1"
+	}
+	{Volume "wheelright2"
+	}
+	{Volume "wheelleft2"
+	}
+}

@@ -1,0 +1,60 @@
+;Exported by: ой
+;Date:        Sun Apr 06 16:57:05 2014
+;File:        D:\Documents\3dsmax\scenes\Helmets\german helmet M16.max
+{Skeleton
+	{bone "ger_helmet_m16"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "helmet_m16"
+			{Position 0.614168	-0.0144157	3.42882}
+			{VolumeView "helmet_m16.ply"}
+		}
+	}
+}
+{Volume "body"
+	{Box 5.28901 3.85954 4.72441}
+	{Bone "helmet_m16"}
+	{Matrix34
+		1	0	0
+		0	0	1
+		0	-1	0
+		-0.312719	0.0104141	0.0459987
+	}
+}
+{Volume "select"
+	{Box 5.47244 4.05512 4.92126}
+	{Bone "helmet_m16"}
+	{Matrix34
+		1	0	0
+		0	0	1
+		0	-1	0
+		-0.312719	0.0274556	0.0459986
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 9.6814	-8.25522	4.09624}
+			{lookat 1.51386	-1.24217	2.82222}
+			{fov 26}
+			{horizon -3.3864}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.171162	0.146829	-0.446256}
+			}
+			{"1"
+				{type directional}
+				{direction -0.189277	0.266067	0.378659}
+			}
+			{"2"
+				{type directional}
+				{direction -0.105484	-0.229601	-0.431458}
+			}
+		}
+	}
+}

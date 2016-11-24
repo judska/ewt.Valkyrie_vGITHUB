@@ -1,0 +1,71 @@
+;Exported by: Administrator
+;Date:        Sun May 05 10:25:55 2013
+;File:        E:\³¯ÏÊMOD\¶þ¹øÍ·.max
+{Skeleton
+	{bone "erguotou"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "erguotou.ply"}
+		{bone "handle"
+			{Matrix34
+				-0.998993	-0.0446351	0.00445382
+				0.0088731	-0.0993173	0.995016
+				-0.0439713	0.994054	0.0996138
+				0.703174	-0.979325	-0.713439
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 12.7872 11.8479 9.5606}
+	{Bone "erguotou"}
+	{Matrix34
+		-1	0	0
+		0	1	0
+		0	0	-1
+		1.7095	-3.10182	2.03233
+	}
+}
+{Volume "select"
+	{Box 9.01077 5.52125 6.4367}
+	{Bone "erguotou"}
+	{Matrix34
+		-1	0	0
+		0	1	0
+		0	0	-1
+		1.11848	-2.77893	1.00205
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 11.8338	9.47193	1.55749}
+			{lookat 0.384898	0.663024	0.241933}
+			{fov 38.8387}
+			{horizon 2.38811}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position -9.82164	-9.75728	10.5458}
+			}
+			{"1"
+				{type directional}
+				{direction -0.00317306	-0.494669	0.0727498}
+			}
+			{"2"
+				{type point}
+				{position -5.70525	-6.22329	-6.11456}
+			}
+			{"3"
+				{type point}
+				{position 8.14914	5.9451	2.85288}
+				{diffuse 0xebc7e6}
+			}
+		}
+	}
+}

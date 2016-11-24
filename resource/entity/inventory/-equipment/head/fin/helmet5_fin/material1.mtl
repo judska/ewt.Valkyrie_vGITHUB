@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "helm5"}
+	{specular "helm5_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

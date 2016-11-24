@@ -1,0 +1,15 @@
+{game_entity
+	{Extension "t44_xx.mdl"}
+	{Volume "body"
+	}
+	{Volume "gun"
+	}
+	{Volume "mantlet"
+	}
+	{Volume "trackleft"
+	}
+	{Volume "trackright"
+	}
+	{Volume "turret"
+	}
+}

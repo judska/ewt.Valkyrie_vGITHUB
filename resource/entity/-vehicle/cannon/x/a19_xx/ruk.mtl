@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "122_ruk"}
+	{blend test}
+}

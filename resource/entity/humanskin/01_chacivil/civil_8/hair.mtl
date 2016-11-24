@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "hair_diffus"}
+	{specular "hair_spec"}
+	{color "229 229 229 25"}
+	{blend test}
+}

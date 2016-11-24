@@ -1,0 +1,9 @@
+{Actor
+	(include "/properties/stuff_small.ext")
+	{Extension "m1919a4.mdl"}
+	{extender "stuff"
+		{item "browning_m17"}
+	}
+	{nogroupmesh 1}
+        {xform scale 1.1}
+}

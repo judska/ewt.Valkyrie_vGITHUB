@@ -1,0 +1,4 @@
+{game_entity
+	{Extension "chi_mgun.mdl"}
+	{tag "chi soldier"}
+}

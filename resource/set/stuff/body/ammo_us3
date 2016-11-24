@@ -1,0 +1,4 @@
+{from "pattern overcoat"
+	{desc "gear"}
+	{entity "ammo_us2"}
+}

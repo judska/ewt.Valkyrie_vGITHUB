@@ -1,0 +1,9 @@
+{from "pattern rifle"
+	{filling "ammo rifle" 5}
+	{entity "mosin_fin"}
+	{fireSound "rifle/pystykorva_shot/"}
+	{reloadSound "rifle_bolt_five"}
+	{recoveryTime 2.16}
+	("speed" s(850))
+	("accuracy_boost")
+}

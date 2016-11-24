@@ -1,0 +1,17 @@
+{entity
+	(include "hetzer.inc")
+
+	{Extension "hetzer_hun.mdl"}
+
+	{bone "mantlet"
+		{limits -12 6}
+		{speed 0.004}
+	}
+	{bone "gun_rot"
+		{speed 0.004}
+                {limits -11 8}
+	}
+	{bone "mgun2"
+		{speed 0.002}
+	}
+}

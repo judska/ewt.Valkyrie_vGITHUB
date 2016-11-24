@@ -1,0 +1,22 @@
+{from "pattern gun"      ; sturmpz1
+	{desc "150mm Sig33"}
+	{filling "bullet150"}
+	{fireSound "gun/howitzer/150mm_sfh18"}
+	("range_grazing_howitzer")
+	("speed" s(240))
+	{projectileDamage 185}
+	{projectileDamageTable {0 185} {250 185}}
+	{parameters "fg"
+		{projectileDamageTable {0 185} {250 185}}
+	}
+	{parameters "ap"	
+		{range 120 130}
+	}
+	{parameters "fg"	
+		{range 140 150}
+	}
+	("accuracy_lighthowitzer")
+	{bullet_view "shell_fg_150"
+	}
+	{gravity 8.5}
+}

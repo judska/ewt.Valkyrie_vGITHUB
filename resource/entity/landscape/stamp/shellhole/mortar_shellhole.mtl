@@ -1,0 +1,6 @@
+{material simple
+	{diffuse "mortar_shellhole"
+		{Axis 64 64}
+	}
+	{Blend blend}
+}

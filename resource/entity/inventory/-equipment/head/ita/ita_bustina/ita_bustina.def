@@ -1,0 +1,5 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extender "stuff" {item "ita_bustina"}}
+	{Extension "ita_bustina.mdl"}
+}

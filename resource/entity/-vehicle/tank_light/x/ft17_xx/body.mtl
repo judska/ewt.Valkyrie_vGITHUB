@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "ft17_base_xx"}
+	{bump "$/model/ft17_base_bp"}
+	{specular "$/model/ft17_base_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

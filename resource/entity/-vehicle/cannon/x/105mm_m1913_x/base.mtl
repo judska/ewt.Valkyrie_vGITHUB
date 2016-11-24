@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "105mm"}
+	{bump "$/model/105mm_bp"}
+	{specular "$/model/105mm_sp"}
+	{color "229 229 229 25"}
+	{blend test}
+}

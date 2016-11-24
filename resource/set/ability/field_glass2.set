@@ -1,0 +1,5 @@
+{"field_glass2" from specialvision
+	{item "field_glass"}
+	{vision "recon_binocular"}
+	;{aimed_vision "searchlight"}
+}

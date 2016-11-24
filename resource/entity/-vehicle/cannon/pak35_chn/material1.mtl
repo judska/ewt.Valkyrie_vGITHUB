@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "pak35_chn"}
+	{specular "$/model/pak37_sp"}
+	{color "229 229 229 104"}
+	{blend none}
+}

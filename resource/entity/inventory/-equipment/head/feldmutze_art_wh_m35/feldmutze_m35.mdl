@@ -1,0 +1,63 @@
+;Autor: John Doe
+;Date:	Jan 2011
+;File:   -
+{Skeleton
+	{bone "feldmutze_m35"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{LODView
+			{VolumeView "feldmutze_m35.ply"}
+			{VolumeView "feldmutze_m35_lod1.ply"}
+		}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	1
+				0	-1	0
+				-0.129911	-1.15504	4.72237
+			}
+		}
+	}
+}
+{Volume "select"
+	{Box 5.20374 3.83773 3.14212}
+	{Bone "feldmutze_m35"}
+	{Matrix34
+		0.999998	0	-0.00175481
+		-0.000477562	0.962268	-0.272102
+		0.00168858	0.272102	0.962267
+		-0.174488	0.225459	5.01878
+	}
+}
+{Volume "body"
+	{Box 3.77357 2.7718 2.16867}
+	{Bone "feldmutze_m35"}
+	{Matrix34
+		1	0	-0.000711635
+		-0.00019819	0.960466	-0.278396
+		0.00068348	0.278396	0.960466
+		-0.159459	0.241311	4.83148
+	}
+}
+{Extender "preview"
+	{"stuff"
+		{camera
+			{origin 4.31208	-3.49276	7.66224}
+			{lookat -12.8158	9.39884	-6.9584}
+			{fov 45}
+			{horizon 0.0197823}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.329571	0.250123	-0.280752}
+				{ambient 0x959595}
+			}
+		}
+	}
+}
+
+

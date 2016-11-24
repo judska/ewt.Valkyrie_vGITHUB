@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/model/skr/maindetail#black_olive"}
+	{blend none}
+}

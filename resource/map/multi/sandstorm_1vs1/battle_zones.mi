@@ -1,0 +1,165 @@
+{mission
+	{Entity "map_point" 0x802c
+		{Position -1165.95 -3724.51}
+		{xform zl 90.13}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 45}
+	}
+	{Entity "flag_point_2" 0x8030
+		{Position -4708.25 631.26}
+		{xform zl 0.14 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f2}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 2}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 49}
+	}
+	{Entity "flag_point_3" 0x8031
+		{Position 1297.2 541.03}
+		{xform zl 1.2 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f3}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 3}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 50}
+	}
+	{Entity "flag_point_1" 0x8032
+		{Position -1523.54 506.6}
+		{xform zl -0.56 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f1}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 1}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 51}
+	}
+	{Entity "map_point" 0xc004
+		{Position -1430 4812.54}
+		{xform zl -85.38}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 6}
+	}
+	{Entity "burn_grass1" 0xc000
+		{Position -4579.37 533.28}
+	}
+	{Entity "burn_grass1" 0xc001
+		{Position -4577.67 475.07}
+	}
+	{Entity "burn_grass1" 0xc002
+		{Position -4567.76 443.71}
+	}
+	{Entity "burn_grass1" 0xc003
+		{Position -4569.62 433.37}
+	}
+	{Tags "keep_places_without_door" 0x405c}
+	{Tags "keep_places_without_door" 0x405d}
+	{Tags "burned" 0x40b0}
+	{Tags "burned" 0x40b3}
+	{Tags "burned" 0x40b5}
+	{Tags "burned" 0x40b6}
+	{Tags "burned" 0x40b7}
+	{Tags "burned" 0x40b8}
+	{Tags "keep_places_without_door" 0x4124}
+	{Tags "keep_places_without_door" 0x41da}
+	{Tags "keep_places_without_door" 0x427a}
+	{Tags "keep_places_without_door" 0x427b}
+	{Tags "keep_places_without_door" 0x3af}
+	{Tags "keep_places_without_door" 0x42fa}
+	{Tags "burned" 0x526}
+	{Tags "keep_places_without_door" 0x21d2}
+	{Tags "keep_places_without_door" 0x21d3}
+	{Tags "keep_places_without_door" 0xbf7}
+	{Tags "keep_places_without_door" 0x2830}
+	{Tags "keep_places_without_door" 0x2856}
+	{Tags "keep_places_without_door" 0x284a}
+	{Tags "keep_places_without_door" 0xbfd}
+	{Tags "keep_places_without_door" 0xc13}
+	{Tags "keep_places_without_door" 0x209f}
+	{Tags "keep_places_without_door" 0xc68}
+	{Tags "keep_places_without_door" 0xca7}
+	{Tags "keep_places_without_door" 0xca8}
+	{Environment "single/3/04-ride/04-ride_storm"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

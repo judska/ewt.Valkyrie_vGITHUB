@@ -1,0 +1,4 @@
+{from "tankhelmet_rus"
+	{desc "desc/stuff/helmet5_ger"}
+	{entity "hat2"}
+}

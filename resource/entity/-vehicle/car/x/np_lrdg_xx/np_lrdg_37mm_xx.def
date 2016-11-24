@@ -1,0 +1,25 @@
+{game_entity
+	{Extension "lrdg_37mm_xx.mdl"}
+	{Volume "body2"
+	}
+	{Volume "body3"
+	}
+	{Volume "body"
+	}
+	{Volume "body_gun"
+	}
+	{Volume "gun"
+	}
+	{Volume "turret"
+	}
+	{Volume "engine"
+	}
+	{Volume "wheelleft1"
+	}
+	{Volume "wheelleft2"
+	}
+	{Volume "wheelright1"
+	}
+	{Volume "wheelright2"
+	}
+}

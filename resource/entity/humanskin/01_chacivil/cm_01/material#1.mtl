@@ -1,0 +1,5 @@
+{material simple
+	{diffuse "cm_01"}
+	{blend none}
+	{tile}
+}

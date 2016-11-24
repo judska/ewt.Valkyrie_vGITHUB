@@ -1,0 +1,65 @@
+;Exported by: Admin
+;Date:        Thu Jan 08 12:03:12 2009
+;File:        E:\theGame\entity\inventory\-equipment\head\chi-cap\chi-cap.max
+{Skeleton
+	{bone "cha_cap"
+		{Matrix34
+			1	0	0
+			0	-1	0
+			0	0	1
+			0	-0.02	0
+		}
+		{VolumeView "cha_cap.ply"}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				0.567366	0.0431086	3.79863
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 3.7173 2.74699 2.25803}
+	{Bone "cha_cap"}
+	{Matrix34
+		0.984806	0	0.173648
+		0	1	0
+		-0.173648	0	0.984807
+		-0.0547664	0.0321489	3.86468
+	}
+}
+{Volume "select"
+	{Box 6.87219 4.96065 4.00923}
+	{Bone "cha_cap"}
+	{Matrix34
+		0.984807	0	0.173648
+		0	1	0
+		-0.173648	0	0.984807
+		0.0200953	0.00434165	3.8499
+	}
+}
+{Extender "preview"
+	{"stuff"
+		{camera
+			{origin 17.448	-11.671	9.77045}
+			{lookat 5.59332	-3.48487	5.55813}
+			{fov 11.4113}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 1.99268	2.33246	5.75365}
+			}
+			{"1"
+				{type directional}
+				{direction -0.374949	0.261886	-0.202063}
+			}
+			{"2"
+				{type point}
+				{position -2.02924	-1.97181	5.43292}
+			}
+		}
+	}
+}

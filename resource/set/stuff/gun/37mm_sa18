@@ -1,0 +1,18 @@
+{from "pattern gun"		
+	{filling "bullet37"}
+	{fireSound "gun/37mm_SA18"}
+	{reloadSound "gun_r02"}
+	{rechargeTime 3}
+	("range_minimum")
+	
+	("speed" s(792))
+	("caliber_minimum")
+	{projectileDamage 52}
+	("damage_110" a(52) b(42) c(34) d(25) e(15))
+	{parameters "apcr"
+        ("damage_80" a(63) b(53) c(45) d(36) e(26))
+	}
+	
+	("accuracy_minimum")
+}
+

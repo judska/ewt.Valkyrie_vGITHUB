@@ -1,0 +1,74 @@
+;Exported by: ой
+;Date:        Wed Apr 09 17:00:11 2014
+;File:        D:\Documents\3dsmax\scenes\Helmets\Poland helmet wz31\poland_helmet_wz31.max
+{Skeleton
+	{bone "helmet_wz31"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "helmet"
+			{Matrix34
+				0.982362	0	0.186989
+				0	1	0
+				-0.186989	0	0.982362
+				0	0	3.91523
+			}
+			{VolumeView "helmet.ply"}
+			{bone "remen"
+				{Matrix34
+					0.990468	0	0.137747
+					0	1	0
+					-0.137747	0	0.990468
+					-1.84289	-0.018766	1.49124
+				}
+				{VolumeView "remen.ply"}
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 5.31496 3.54331 4.72441}
+	{Bone "helmet_wz31"}
+	{Matrix34
+		1	0	0
+		0	0	1
+		0	-1	0
+		-0.112358	-0.0733483	3.70285
+	}
+}
+{Volume "select"
+	{Box 5.51181 3.74016 4.92126}
+	{Bone "helmet_wz31"}
+	{Matrix34
+		1	0	0
+		0	0	1
+		0	-1	0
+		-0.112358	-0.0796485	3.70285
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 9.6814	-8.25522	4.09624}
+			{lookat 1.51386	-1.24217	2.82222}
+			{fov 22.6199}
+			{horizon -3.3864}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.171162	0.146829	-0.446256}
+			}
+			{"1"
+				{type directional}
+				{direction -0.189277	0.266067	0.378659}
+			}
+			{"2"
+				{type directional}
+				{direction -0.105484	-0.229601	-0.431458}
+			}
+		}
+	}
+}

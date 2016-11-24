@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "mle1937_skin"}
+	{blend none}
+}

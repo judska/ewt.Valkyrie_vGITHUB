@@ -1,0 +1,105 @@
+{game_entity
+    (include "/properties/tank.ext")
+    (include "/properties/shadow/tank.inc"  scale(1.2))
+    (include "/properties/selection/vehicle.inc"  scale(1.2))
+    {collider "tank.heavy"}
+    {props "medium" "-turret" "vision_vehicle_medium" "muzzle_large"}
+    {targetSelector "tank_sup"}
+
+
+    {extender "enumerator"
+		{digit_folder "ger"}
+	}
+
+    {volume "body1"
+        {tags "body"}
+        {component "body"}
+    }
+    {volume "body2"
+        {tags "body"}
+        {component "body"}
+    }
+    {volume "body3"
+        {tags "body"}
+        {component "body"}
+    }
+
+    ("armor_spa_light" armor(75 30 30 13))
+    ("armor_engine"  t(30))
+	("shield" args 10)
+
+
+    ("crew_4_human")
+
+    {boarder
+        {anm "left"
+            {forward    {begin  "board_Kv"}}
+            {reverse    {end    "emit_tank_1_hold"}}
+        }
+        {anm "right"
+            {forward    {begin  "board_tank_right"} {end "pose_mgun_pz6"}}
+            {reverse    {end    "emit_tank_2_hold"}}
+        }
+
+    }
+
+	{extender "shield"
+		{on}
+	}
+
+	{component "shieldl1" {tags "shield"}}
+	{component "shieldl2" {tags "shield"}}
+	{component "shieldl3" {tags "shield"}}
+	{component "shieldl4" {tags "shield"}}
+	{component "shieldr1" {tags "shield"}}
+	{component "shieldr2" {tags "shield"}}
+	{component "shieldr3" {tags "shield"}}
+	{component "shieldr4" {tags "shield"}}
+	
+    {extender "inventory"
+        {box
+			{item "bullet105 fg" 26}
+			{item "bullet105 apcr" 5}
+		}
+	}
+    {Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "105mm_40_43m" filling "bullet105 fg" 1}	
+			("abm_medium")
+		}
+    }
+
+    {mass 21600}
+	{Chassis
+		("tank_trace" fx("tracks_mid") step(0.52) len(1))
+		{Locomotion ("locomotion")
+			{MaxSpeed   30}
+			{maxSpeedAtMaxTurn 11}
+			{StartTime  15}
+			{TurnStart  1.7}			
+			{TurnTime   9}
+			{TurnRadius 8} 
+    		{TurnStop   0.7}
+			{BrakeTime  1.5}
+			{StopTime   2.5}
+			{Gears 0.2 0.5 1}
+			{RearGears  0.3}		
+		}
+		{FuelBag
+			{volume 165 }	
+			{rate	40 }   
+			{remain 165 }
+			{fuel "fuel"}
+		}
+		{speed
+        	{Normal  10}
+        	{Slow  16}
+    	}
+	}
+
+    {Extension "zrinyi2.mdl"}
+
+
+}

@@ -1,0 +1,13 @@
+{material
+	{layer bump
+		{diffuse "/texture/land/dirt/soil_1b"}
+		{bump "/texture/land/dirt/soil_1b_nm"}
+		{color 0xffffffff}
+		{parallax_scale 0}
+	}
+	{layer bump
+		{diffuse "/texture/land/grid001"}
+		{color 0xffffffff}
+		{parallax_scale 0}
+	}
+}

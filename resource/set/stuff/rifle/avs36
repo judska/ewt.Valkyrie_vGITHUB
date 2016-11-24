@@ -1,0 +1,20 @@
+{from "pattern rifle"
+	{tag "autorifle"}
+	{filling "ammo rifle" 15}
+	{entity "avs36"}
+	{fireSound "rifle/avs36_shot/"}
+	{reloadSound "svt40"}
+	{recoveryTime 0.15}
+	{Automatic}
+	{healthDamage 175}
+	{burst
+		{short 2}
+		{Long 2}
+	}
+	{Spreading 1
+		{SpreadPower	1}
+		{BurstAccuracy 100.0 95.0 85.0 75.0 65.0 55.0 45.0 35.0 25.0 15.0}
+	}
+	("accuracy_automatic_rifle")
+	("speed" s(840))
+}

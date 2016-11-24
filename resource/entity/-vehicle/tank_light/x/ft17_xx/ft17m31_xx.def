@@ -1,0 +1,17 @@
+{game_entity
+	{Extension "ft17_xx.mdl"}
+	{Volume "body1"
+	}
+	{Volume "body2"
+	}
+	{Volume "bodyback"
+	}
+	{Volume "engine"
+	}
+	{Volume "trackleft"
+	}
+	{Volume "trackright"
+	}
+	{Volume "turret"
+	}
+}

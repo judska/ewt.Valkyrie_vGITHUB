@@ -1,0 +1,4 @@
+{game_entity
+	{Extension "cha_civilian.mdl"}
+	{tag "worker"}
+}

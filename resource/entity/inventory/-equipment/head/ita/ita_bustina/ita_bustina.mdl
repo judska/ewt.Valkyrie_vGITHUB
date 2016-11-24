@@ -1,0 +1,43 @@
+;Exported by: Luzhbin_M
+;Date:        Wed Apr 01 18:18:19 2009
+;File:        D:\Black\head_models\14_pilotka_oficera_ITALIA\14_pilotka_oficera_ITALIA.max
+{Skeleton
+	{bone "14_pilotka_oficera_italia"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "14_pilotka_oficera_italia.ply"}
+		{bone "handle"
+			{Position 0.370132	0.138823	3.70175}
+		}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "14_pilotka_oficera_italia"}
+	{Position 0.60293	0.180985	2.8346}
+}
+{Volume "select"
+	{Polyhedron "select.vol"}
+	{Bone "14_pilotka_oficera_italia"}
+	{Position 0.382392	-3.22318	3.78516}
+}
+{Extender "preview"
+	{"stuff"
+		{camera
+			{origin 4.31208	-3.49276	7.66224}
+			{lookat -12.8158	9.39884	-6.9584}
+			{fov 45}
+			{horizon 0.0197823}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.329571	0.250123	-0.280752}
+				{ambient 0x959595}
+			}
+		}
+	}
+}

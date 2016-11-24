@@ -1,0 +1,6 @@
+{from "pattern rifle"
+	{filling "ammo rifle" 8}
+	{entity "lebel_m1886"}
+	{fireSound "rifle/lebel"}
+	{reloadSound "rifle_bolt_five"}
+}

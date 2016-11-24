@@ -1,0 +1,13 @@
+{from "pattern rifle"
+	{entity "rsc-mle-1918"}
+	{filling "ammo rifle" 5}
+	{fireSound "rifle/rsc-mle-1918"}
+	{reloadSound "m1carbine"}
+	{mass 3.3}
+
+        {Automatic}	
+	{healthDamage 200}
+	{recoveryTime 0.60}
+	("accuracy_rifle")
+	("speed" s(715))
+}

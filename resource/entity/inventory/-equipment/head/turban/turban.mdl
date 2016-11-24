@@ -1,0 +1,39 @@
+;Exported by: 456ó56
+;Date:        Sun Apr 19 11:21:46 2015
+;File:        C:\Users\456ó56\Documents\3dsMax\scenes\arabt2.max
+{Skeleton
+	{bone "basis"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "body"
+			{Position 0.465273	-0.569713	-2.88891}
+			{VolumeView "body.ply"}
+		}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "body"}
+	{Position -0.500102	0.308908	10.9472}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 9.79373	-0.485284	8.00727}
+			{lookat -7.35375	-0.485284	4.6259}
+			{fov 45}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 15.4068	-0.0930278	8.64546}
+				{direction -0.469961	-0.00126559	-0.170691}
+				{theta 43}
+				{phi 45}
+			}
+		}
+	}
+}

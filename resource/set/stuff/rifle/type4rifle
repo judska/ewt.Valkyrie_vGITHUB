@@ -1,0 +1,12 @@
+{from "pattern rifle"
+	{filling "ammo rifle" 10}
+	{entity "garand"}
+	{fireSound "rifle/type99rifle_shot/"}
+	{reloadSound "kar98k_reload"}
+
+	{Automatic}
+	{healthDamage 160}
+	{recoveryTime 0.4}
+	("accuracy_automatic_rifle")
+	("speed" s(853))
+}

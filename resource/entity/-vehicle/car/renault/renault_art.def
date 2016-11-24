@@ -1,0 +1,90 @@
+{entity
+	(include "/properties/car.ext")
+	(include "/properties/selection/vehicle.inc"  scale(1.1))
+	{props "vehicle" "car" "wheeled" "vision_vehicle_medium"}
+	{able "emit_on_attack"}
+	("armor_medium" args 1.0)
+
+	
+  ("crew_2_human")
+  ("board_animation"
+    place(driver)
+    board_begin(board_big-highcar_driver)
+    board_end(seat_driver_car)
+    base(doorleft)
+  )
+  ("board_animation"
+    place(commander)
+    board_begin(board_big-highcar)
+    board_end(seat_passenger)
+    base(doorright)
+  )
+
+	("wheel" args "wheelright1")
+	("wheel" args "wheelleft1")
+	("wheel" args "wheelright2")
+	("wheel" args "wheelleft2")
+
+	{Volume "shield"
+		{thickness 2}
+	}
+	{mass 4000}
+  {Chassis
+    {Locomotion ("locomotion")
+      {TurnRadius 6}
+      {MaxSpeed   36}
+      {maxSpeedAtMaxTurn 12}
+    }
+	{FuelBag
+		{volume 182 }	
+		{rate	    6 }   
+		{remain 182 }
+		{fuel "fuel"}
+	}
+	{speed
+        {Normal  28}
+        {Slow    20}
+    }
+	("car_trace" fx("tracewheel02") step(0.09) wheell("wlf") wheelr("wrf") bonel("FXtraceL1") boner("FXtraceR1"))
+	("car_trace" fx("tracewheel02") step(0.09) wheell("wlr") wheelr("wrr") bonel("FXtraceL2") boner("FXtraceR2"))
+  }
+
+	{extender "shield"
+			{off}
+	}
+		{extender "inventory"
+			{box
+				{size 10 15}
+               				{clear}
+				{item "can"}
+				{item "repair_kit"}
+                                {item "smoke" "grenade" 10}
+			        {item "can"}
+			        {item "repair_kit"}
+                                {item "ammo hmgun" 3000}
+			        {item "barrel" 2 filling "fuel" 500}
+                                {item "ammo bullet20 zenite" 2000}
+                                {item "ammo bullet37 zenite" 2000}
+                                {item "ammo bullet25 ap" 100}
+                                {item "ammo bullet25 fg" 100}
+                                {item "ammo bullet37 ap" 100}
+                                {item "ammo bullet37 fg" 100}
+                                {item "ammo bullet47 ap" 100}
+                                {item "ammo bullet47 fg" 100}
+                                {item "ammo bullet57 ap" 100}
+                                {item "ammo bullet57 fg" 100}
+                                {item "ammo bullet75 ap" 60}
+                                {item "ammo bullet75 fg" 60}
+                                {item "ammo bullet90 ap" 60}
+                                {item "ammo bullet90 fg" 60}
+                                {item "ammo bullet100 ap" 60}
+                                {item "ammo bullet100 fg" 60}
+                                {item "ammo bullet89 fg" 60}
+                                {item "ammo bullet155 fg" 96}
+                                {item "ammo bullet152 fg" 48}
+			}
+		}
+	(include "/properties/resupply_generic.inc")
+	("truck_ammo_art")
+	{Extension "renault_art.mdl"}
+}

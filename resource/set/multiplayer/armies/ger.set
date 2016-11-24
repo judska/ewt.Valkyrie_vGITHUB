@@ -1,0 +1,7 @@
+{army
+	{id 1}
+	{title "GER"}
+	{icon "/interface/pages/multi/flag_ger"}
+	{flag "/interface/scene/common/flag-germany"}
+}
+

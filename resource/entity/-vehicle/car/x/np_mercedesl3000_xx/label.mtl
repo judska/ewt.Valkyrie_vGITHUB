@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "label_m"}
+	{blend test}
+}

@@ -1,0 +1,17 @@
+{bullet
+	{tag "fg grenade"}
+	{inventory
+		{size 2 1}
+		{weight 40}
+		{fsm "hand-only"}
+	}	
+	{mass 3}
+	{entity "brixia_ammo"}
+	{view "brixia_ammo"}
+	{detonationThickness 1}
+	{damage blastwave
+		{energy 1.25}
+		{area 2.5 5.0}
+	}
+
+}

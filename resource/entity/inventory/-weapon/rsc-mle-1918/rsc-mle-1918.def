@@ -1,0 +1,7 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extension "rsc-mle-1918.mdl"}
+	{extender "stuff"
+		{item "rsc-mle-1918"}
+	}
+}

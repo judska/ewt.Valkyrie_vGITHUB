@@ -1,0 +1,96 @@
+;Exported by: Admin
+;Date:        Sat May 23 14:26:31 2009
+;File:        E:\the game\weapon\mauser_pistol.max
+{Skeleton
+	{bone "mauser_pistol"
+		;{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "mauser_pistol.ply"}
+		{bone "handle"
+			{Matrix34
+				0	1	0
+				0	0	-1
+				-1	0	0
+				-0.414009	-1.01554	-0.583229
+			}
+		}
+		{bone "foresight3"
+			{Matrix34
+				1	0	0
+				0	0	1
+				0	-1	0
+				5.31591	1.43552	-0.0017177
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 6.20629 3.36158 0.799361}
+	{Bone "mauser_pistol"}
+	{Matrix34
+		1	0	0
+		0	1	0
+		0	0	1
+		1.71288	0.13688	0.0454488
+	}
+}
+{Volume "select"
+	{Box 9.10563 5.815 2.68206}
+	{Bone "mauser_pistol"}
+	{Matrix34
+		1	0	0
+		0	1	0
+		0	0	1
+		1.79493	0.133581	-0.0829407
+	}
+}
+{Extender "preview"
+	{"Stuff_primary"
+		{camera
+			{origin 2.66999	-5.12245	30.9366}
+			{lookat 1.97839	-2.30152	13.7461}
+			{fov 19.9484}
+			{horizon 166.956}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 5.26773	-2.39718	0.73591}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0792749	0.197721	-0.452351}
+			}
+			{"2"
+				{type point}
+				{position -1.68488	-2.35639	0.837479}
+			}
+		}
+	}
+	{"Stuff"
+		{camera
+			{origin 2.92694	-4.9797	30.2697}
+			{lookat 2.26195	-2.26727	13.7403}
+			{fov 14.1968}
+			{horizon 166.956}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 5.26078	-2.39718	0.607486}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0792749	0.197721	-0.452351}
+			}
+			{"2"
+				{type point}
+				{position -1.68488	-2.35639	0.837479}
+			}
+		}
+	}
+}

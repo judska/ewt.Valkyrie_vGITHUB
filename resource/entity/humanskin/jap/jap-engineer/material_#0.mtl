@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "jap_engineer"}
+	{specular "jap_engineer_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

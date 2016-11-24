@@ -1,0 +1,4 @@
+{material bump
+	{diffuse "mp18"}
+	{blend test}
+}

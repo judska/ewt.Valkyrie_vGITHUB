@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/model/skr/maindetail_xx"}
+	{blend none}
+}

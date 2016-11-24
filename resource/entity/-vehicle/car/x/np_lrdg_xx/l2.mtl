@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "lrgd2_xx"}
+	{blend test}
+}

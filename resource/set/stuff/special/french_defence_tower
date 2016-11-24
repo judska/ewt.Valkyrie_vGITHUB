@@ -1,0 +1,9 @@
+{item
+	{tag "itemin2hands" "drop_to_vehicle_when_board"}
+	{entity "french_defence_tower"}
+	{inventory
+		{weight 100}
+		{fsm "stuff"}
+	}
+	{mass 5}
+}

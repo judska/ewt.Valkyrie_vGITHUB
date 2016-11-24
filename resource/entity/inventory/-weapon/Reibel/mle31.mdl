@@ -1,0 +1,86 @@
+;Exported by: Jag
+;Date:        Thu Mar 03 21:25:26 2011
+;File:        E:\3D Work\Models\mle31.max
+{Skeleton
+	{bone "basis"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "foresight3"
+			{Position 15.4396	2.00157	0.0437112}
+		}
+		{bone "mle31"
+			{parameters "ID=mgun;"}
+			{Matrix34
+				-1	0	0
+				0	1	0
+				0	0	-1
+				0.874777	0.18859	0.0442297
+			}
+			{VolumeView "mle31.ply"}
+		}
+	}
+}
+{Volume "body"
+	{Box 20.1438 2.65565 1.17113}
+	{Bone "basis"}
+	{Position 5.43737	1.34737	0.012196}
+}
+{Volume "select"
+	{Box 20.1794 7.80395 1.11238}
+	{Bone "basis"}
+	{Matrix34
+		1.05439	0	0
+		0	1	0
+		0	0	1
+		5.48096	1.21569	0.0287144
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 6.54742	-4.33953	24.0862}
+			{lookat 5.99011	-1.56978	7.55682}
+			{fov 45}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 16.1826	-2.64228	-0.330778}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0773898	0.203928	-0.449916}
+			}
+			{"2"
+				{type point}
+				{position -5.75101	-0.185963	-1.90012}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin 6.84816	-4.27757	24.831}
+			{lookat 6.01386	-1.45663	7.64045}
+			{fov 45}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 16.2359	-1.66518	-0.247018}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0950901	0.1966	-0.449785}
+			}
+			{"2"
+				{type point}
+				{position -5.73585	-1.05893	-1.81636}
+			}
+		}
+	}
+}

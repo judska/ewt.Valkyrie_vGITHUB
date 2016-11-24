@@ -1,0 +1,21 @@
+{game_entity
+	{Extension "vickers_xx.mdl"}
+	{Volume "body1"
+	}
+	{Volume "body"
+	}
+	{Volume "engine"
+	}
+	{Volume "gun"
+	}
+	{Volume "trackleft"
+	}
+	{Volume "trackright"
+	}
+	{Volume "turret1"
+	}
+	{Volume "turret2"
+	}
+	{Volume "turret"
+	}
+}

@@ -1,0 +1,10 @@
+{material
+	{layer bump
+		{diffuse "/texture/land/town/qgarden_2"}
+		{bump "/texture/land/town/qgarden_2_nm"}
+	}
+	{layer bump
+		{diffuse "/texture/land/town/asfalt_road_q3_x2"}
+		{bump "/texture/land/town/asfalt_road_q3_x2_nm"}
+	}
+}

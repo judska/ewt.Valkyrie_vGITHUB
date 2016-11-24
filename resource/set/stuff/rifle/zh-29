@@ -1,0 +1,12 @@
+{from "pattern rifle"
+	{filling "ammo rifle" 10}
+	{entity "zh-29"}
+	{fireSound "rifle/zh-29"}
+	{reloadSound "m1carbine"}	
+
+        {Automatic}	
+	{healthDamage 200}
+	{recoveryTime 0.60}
+	("accuracy_rifle")
+	("speed" s(866))
+}

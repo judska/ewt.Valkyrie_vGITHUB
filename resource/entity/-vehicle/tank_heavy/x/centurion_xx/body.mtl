@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/centurions/centurion_am_xx"}
+	{bump "$/model/centurions/centurion_nm"}
+	{specular "$/model/centurions/centurion_sm"}
+	{color "229 229 229 25"}
+	{blend none}
+}

@@ -1,0 +1,65 @@
+;Exported by: Sergey
+;Date:        Tue Dec 31 03:44:29 2013
+;File:        D:\Documents\3dsmax\scenes\Шлем М-26\Кепи01.max
+{Skeleton
+	{bone "kepi_france"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "body"
+			{Matrix34
+				0.967726	0	0.252006
+				0	1	0
+				-0.252006	0	0.967726
+				-0.0208582	0	3.02409
+			}
+			{VolumeView "body.ply"}
+		}
+	}
+}
+{Volume "body"
+	{Box 5.31496 3.54331 4.72441}
+	{Bone "body"}
+	{Matrix34
+		0.967725	0	-0.252006
+		0.252005	0	0.967726
+		0	-1	0
+		0.27779	-0.0712757	0.898497
+	}
+}
+{Volume "select"
+	{Box 5.51181 3.74016 4.92126}
+	{Bone "body"}
+	{Matrix34
+		0.967725	0	-0.252006
+		0.252005	0	0.967726
+		0	-1	0
+		0.27779	-0.0775759	0.898496
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 7.83908	-6.02283	3.52695}
+			{lookat 1.39995	-1.01779	4.27344}
+			{fov 30.0}
+			{horizon -3.3864}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.171162	0.146829	-0.446256}
+			}
+			{"1"
+				{type directional}
+				{direction -0.189277	0.266067	0.378659}
+			}
+			{"2"
+				{type directional}
+				{direction -0.105484	-0.229601	-0.431458}
+			}
+		}
+	}
+}

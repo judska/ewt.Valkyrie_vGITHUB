@@ -1,0 +1,10 @@
+{material
+	{layer bump
+		{diffuse "/texture/land/hassock/tuft_light01"}
+		{bump "/texture/land/hassock/tuft_light01_nm"}
+	}
+	{layer bump
+		{diffuse "/texture/land/dirt/soil_light02"}
+		{bump "/texture/land/dirt/soil_light02_nm"}
+	}
+}

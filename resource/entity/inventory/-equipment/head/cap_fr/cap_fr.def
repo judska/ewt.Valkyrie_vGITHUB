@@ -1,0 +1,7 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extender "stuff"
+		{item "cap_fr"}
+	}
+	{Extension "fr_kepi_1.mdl"}
+}

@@ -1,0 +1,56 @@
+{breed
+	{skin "fin-com_hp"}
+	{portrait ger_officer}
+	{portrait "fin_officer"}
+	{nationality fin}
+	{icon "oficer"}
+	{icon_priority 2}
+	{armors
+		{head tank_cap2_fin}
+	}
+	{perks
+		{"health" "250%"
+		}
+		{"health_regeneration" "100%"
+		}
+		{"stamina" "100%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" mp_officer
+		}
+		{"speed" 1
+		}
+		{"field_glass"}
+		{"tank" 1
+		}
+		{"vehicle" 1
+		}
+		{"cannon" 1
+		}
+		{"pistol" lvl_3
+		}
+		{"smg" lvl_3
+		}
+		{"mgun" lvl_3
+		}
+		{"rifle" lvl_3
+		}
+		{"rocketlauncher" lvl_3
+		}
+		{"melee" lvl_3
+		}
+	}
+	{veterancy
+		(include "veterancy_generic.inc")
+		("veterancy_1")
+	}
+	{inventory
+		{item "luger" filled}
+		{item "pistol ammo" 30}
+		{item "smoke_paradrop_ammo_heavy grenade" 5}		
+                {item "knife_ger"}
+		{item "binocular"}
+		{in_hands 0}
+	}
+}

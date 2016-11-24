@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "pz1a_xx"}
+	{blend test}
+}

@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "kanistra"}
+	{bump "kanistra_bp"}
+	{blend none}
+}

@@ -1,0 +1,63 @@
+;Exported by: Luzhbin_M
+;Date:        Fri Apr 09 13:45:51 2010
+;File:        D:\Redtide2\ART\Models\Headdresses\head\straw.max
+{Skeleton
+	{bone "straw"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "straw.ply"}
+		{bone "handle"
+			{Matrix34
+				0.994416	0	0.105529
+				0	1	0
+				-0.105529	0	0.994416
+				0.313567	0	2.66022
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 4.63793 4.63793 4.63793}
+	{Bone "straw"}
+	{Matrix34
+		0.894975	0	0.094976
+		0	0.9	0
+		-0.094976	0	0.894975
+		0.449503	-0.0295672	2.73929
+	}
+}
+{Volume "select"
+	{Box 5.86018 7.02574 6.37821}
+	{Bone "straw"}
+	{Matrix34
+		0	0.9	0
+		-0.894975	0	-0.0949756
+		-0.0949756	0	0.894975
+		0.505829	0.149802	3.05906
+	}
+}
+{Extender "preview"
+	{"stuff"
+		{camera
+			{origin 7.39131	-5.45353	9.52662}
+			{lookat 3.64075	-2.52275	6.08931}
+			{fov 45}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 8.16157	-3.93512	14.7739}
+				{direction -0.278073	0.108672	-0.401081}
+				{theta 10}
+				{phi 45}
+			}
+			{"1"
+				{type point}
+				{position 2.7165	-1.11924	7.64495}
+			}
+		}
+	}
+}

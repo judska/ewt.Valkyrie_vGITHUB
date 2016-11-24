@@ -1,0 +1,9 @@
+{from "pattern overcoat"
+	{tag "armor"}
+        {mass 1.8}
+	{inventory
+		{size 2 1}
+		{weight 100}
+	}
+	{entity "us_50_gear_1"}
+}

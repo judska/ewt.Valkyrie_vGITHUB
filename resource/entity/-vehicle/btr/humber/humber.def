@@ -1,0 +1,109 @@
+{ArmoredCar
+	(include "/properties/armoredcar.ext")
+	(include "/properties/selection/vehicle.inc"  scale(1.0))
+                (include "/properties/tank_crew.ext")
+	{extension "crew.ext"}
+	{props "vehicle" "armored_car" "tank" "turret" "turret_rotator" "wheeled" "with_gun" "vision_vehicle_low" "muzzle_minimum"}	        
+	{volume "body1"
+		{tags "body"}
+		{component "body"}
+		{thickness 12
+			{front	15}
+		}
+	}
+	{volume "body2"
+		{tags "body"}
+		{component "body"}
+		{thickness 12
+			{front	15}
+		}
+	}
+	{volume "turret"
+		{component "turret"}
+		{tags "turret"}
+		{thickness 12
+		    {front 15}
+		}
+	}
+	{volume "crew"
+		{able {contact_ground 0}}
+	}
+        
+	("armor_medium" args 1.0)
+        
+	("crew_human" 			place(driver)		door1(emit1) door2(emit2) visor(driver))
+	("crew_human" 			place(gunner)		door1(emit1) door2(emit2) visor(main))
+	("crew_human" 			place(charger)		door1(emit1) door2(emit2) visor(main))
+	{boarder
+		{anm "left"
+			{forward	{begin	"board_tank_left"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "right"
+			{forward	{begin	"board_tank_right"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "armor"
+			{forward	{begin	"board_LowArmor"} 	{end "seat_armor"}}
+			{reverse 	{end	"emit_tank_1"}}
+		}
+	}
+	("seat_human" place(seat1) bone(seat01) door(emit3)  animation(armor))
+	("seat_human" place(seat2) bone(seat02) door(emit4)  animation(armor))
+	("seat_human" place(seat3) bone(seat03) door(emit5)  animation(armor))
+	("seat_human" place(seat4) bone(seat04) door(emit6)  animation(armor))
+	
+	
+	{extender "inventory"
+		{weapon "mgun"
+			{mask "weapon mgun"}
+		}
+		{Box
+			{item "ammo mgun" 1000}
+			{item "ammo hmgun" 1000}	
+			{item "besa" filled {user "mgun"}}
+		}
+	}
+	{Weaponry
+                {place "gun"
+                        {weapon "15mm_besa" filled}
+                }
+		{place "mgun"
+			{type "mgun_coaxial"}
+			{basic}
+		}
+	}
+	("wheel" args "wheelright1")
+	("wheel" args "wheelleft1")
+	("wheel" args "wheelright2")
+	("wheel" args "wheelleft2")
+	{mass 9000}
+	{Chassis
+		("car_trace" fx("tracewheel02") step(0.09) wheell("wlf") wheelr("wrf") bonel("FXtraceL1") boner("FXtraceR1"))
+		("car_trace" fx("tracewheel02") step(0.09) wheell("wlr") wheelr("wrr") bonel("FXtraceL3") boner("FXtraceR3"))
+		{Locomotion ("locomotion")
+			{MaxSpeed	42}
+			(mod "mp" 
+				{MaxSpeed  48}
+			)
+	  		{maxSpeedAtMaxTurn 19}		
+			{StartTime	9}
+			{BrakeTime	1.5}	
+			{StopTime	3}
+			{TurnRadius	7}
+		}
+		(mod "mp"
+			{FuelBag
+				{volume 340 }	
+				{rate	  6 }   
+				{remain 340 }
+				{fuel "fuel"}
+			}
+		    {speed
+        		{Normal  35}
+    		}
+		)
+	}
+        
+        {Extension "humber.mdl"}
+}

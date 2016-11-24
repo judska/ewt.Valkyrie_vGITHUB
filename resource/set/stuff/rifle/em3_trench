@@ -1,0 +1,12 @@
+{from "pattern rifle"
+	{desc "Trench Lee-Enfield"}
+	{filling "ammo rifle" 20}
+	{entity "lee_enfield_mk3_trench"}
+	{fireSound "rifle/enfield_shot"}
+	{reloadSound "rifle_bolt_ten"}
+	
+	{recoveryTime 1.75}
+	{rechargeTime 5}
+	("speed" s(744))
+	("accuracy_boost")
+}

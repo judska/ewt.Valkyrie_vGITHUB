@@ -1,0 +1,200 @@
+{mission
+	{Entity "flag_point_frontlines" 0x802b
+		{Position 39.78 -1.88 31.5}
+		{xform zl 130.16}
+		{Constrain none}
+		{Extender "map_point"
+			{name captureflag}
+			{zoneA 45}
+			{zoneB 45}
+			{phase 0}
+			{order 1}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "a" "b"}
+				{release "a" "b"}
+			}
+		}
+		{Player 0}
+		{MID 2}
+	}
+	{Entity "dot_flak_ring" 0x9000
+		{Position 39.78 -1.88 31.5}
+		{xform zl -92.08}
+		{Constrain none}
+	}
+	{Entity "map_point" 0x802d
+		{Position -3826.61 -4472.98}
+		{xform zl 90}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 46}
+	}
+	{Entity "map_point" 0x802c
+		{Position -4135.33 -4472.93}
+		{xform zl 90}
+		{Extender "map_point"
+			{name b2}
+			{team b}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 17}
+	}
+	{Entity "map_point" 0x802e
+		{Position -4457.57 -4476.7}
+		{xform zl 90}
+		{Extender "map_point"
+			{name b3}
+			{team b}
+			{phase 0}
+			{order 3}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 18}
+	}
+	{Entity "map_point" 0x802f
+		{Position -4666.04 -4475.22}
+		{xform zl 90}
+		{Extender "map_point"
+			{name b4}
+			{team b}
+			{phase 0}
+			{order 4}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 20}
+	}
+	{Entity "map_point" 0xa000
+		{Position -4960.57 -4421.96}
+		{xform zl 90}
+		{Extender "map_point"
+			{name b5}
+			{team b}
+			{phase 0}
+			{order 5}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 1}
+	}
+	{Entity "map_point" 0x8030
+		{Position 3658.07 4629.09}
+		{xform zl -90}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 10}
+	}
+	{Entity "map_point" 0x8031
+		{Position 3920.38 4432.33}
+		{xform zl -90}
+		{Extender "map_point"
+			{name a2}
+			{team a}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 11}
+	}
+	{Entity "map_point" 0x8032
+		{Position 4241.18 4414.81}
+		{xform zl -90}
+		{Extender "map_point"
+			{name a3}
+			{team a}
+			{phase 0}
+			{order 3}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 12}
+	}
+	{Entity "map_point" 0x8033
+		{Position 4544.6 4410.54}
+		{xform zl -90}
+		{Extender "map_point"
+			{name a4}
+			{team a}
+			{phase 0}
+			{order 4}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 13}
+	}
+	{Entity "map_point" 0x8034
+		{Position 4846.85 4405.68}
+		{xform zl -90}
+		{Extender "map_point"
+			{name a5}
+			{team a}
+			{phase 0}
+			{order 5}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 15}
+	}
+	{Tags "keep_places_without_door" 0x313a}
+	{Tags "keep_places_without_door" 0x1aea}
+	{Tags "keep_places_without_door" 0x1aeb}
+	{Tags "keep_places_without_door" 0x92b}
+	{Tags "keep_places_without_door" 0x500}
+	{Tags "keep_places_without_door" 0xdb}
+	{Tags "keep_places_without_door" 0x600e}
+	{Tags "keep_places_without_door" 0x493}
+	{Tags "keep_places_without_door" 0x1088}
+	{Tags "keep_places_without_door" 0x43b2}
+	{Tags "keep_places_without_door" 0x4393}
+	{Tags "keep_places_without_door" 0x701f}
+	{Tags "keep_places_without_door" 0x6025}
+	{Tags "keep_places_without_door" 0x195e}
+	{Tags "keep_places_without_door" 0x195f}
+	{Tags "keep_places_without_door" 0x372}
+	{Tags "keep_places_without_door" 0x3172}
+	{Tags "keep_places_without_door" 0x3171}
+	{Tags "keep_places_without_door" 0xa9b}
+	{Tags "keep_places_without_door" 0xa9a}
+	{Tags "keep_places_without_door" 0x1155}
+	{Tags "keep_places_without_door" 0x419b}
+	{Tags "keep_places_without_door" 0x3033}
+	{Tags "keep_places_without_door" 0x104c}
+	{Tags "keep_places_without_door" 0x3209}
+	{Tags "keep_places_without_door" 0x7e1}
+	{Tags "keep_places_without_door" 0x421b}
+	{Tags "keep_places_without_door" 0x891}
+	{Tags "keep_places_without_door" 0x7362}
+	{Tags "keep_places_without_door" 0x2286}
+	{Tags "keep_places_without_door" 0x8b2}
+	{Tags "keep_places_without_door" 0x10b8}
+	{Tags "keep_places_without_door" 0xa23}
+	{Tags "keep_places_without_door" 0xa42}
+	{Tags "keep_places_without_door" 0xa97}
+	{Environment "multi/multi_01"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

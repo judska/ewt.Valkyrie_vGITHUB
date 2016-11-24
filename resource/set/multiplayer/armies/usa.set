@@ -1,0 +1,6 @@
+{army
+	{id 0}
+	{title "USA"} 
+	{icon "/interface/pages/multi/flag_usa"}
+	{flag "/interface/scene/common/flag-usa"}
+}

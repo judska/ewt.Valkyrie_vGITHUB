@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "fra_medic_1940"}
+	{blend none}
+}

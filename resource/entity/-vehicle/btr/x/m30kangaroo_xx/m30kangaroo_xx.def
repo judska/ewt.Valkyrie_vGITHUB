@@ -1,0 +1,15 @@
+{game_entity
+	{Extension "m30_xx.mdl"}
+	{Volume "body2"
+	}
+	{Volume "body3"
+	}
+	{Volume "body4"
+	}
+	{Volume "body"
+	}
+	{Volume "engine"
+	}
+	{Volume "mgunt"
+	}
+}

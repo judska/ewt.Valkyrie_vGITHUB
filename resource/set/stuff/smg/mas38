@@ -1,0 +1,8 @@
+{from "pattern smg"
+	{filling "ammo pistol" 32}
+	{entity "mas38"}
+	{fireSound	"smg/mas1938_burst/"}
+	("recoveryTime" r(600))
+
+	{healthDamage 120}
+}

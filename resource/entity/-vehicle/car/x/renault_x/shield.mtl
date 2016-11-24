@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "renault_shield"}
+	{specular "renault_shield_sp"}
+	{color "255 255 255 25"}
+	{blend none}
+}

@@ -1,0 +1,107 @@
+;Exported by: Luzhbin_M
+;Date:        Wed Mar 04 12:48:26 2009
+;File:        D:\Black\Art\Models\Technics\Стрелковое оружие\9mm Orita SMG\9mm Orita SMG.max
+{Skeleton
+	{bone "orita"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{LODView
+			{VolumeView "orita.ply"}
+			{VolumeView "orita_lod1.ply"}
+			{VolumeView "orita_lod02.ply"}
+		}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0.00301523	-0.999995
+				0	0.999995	0.00301523
+				3.05927	2.33213	-0.643746
+			}
+		}
+		{bone "foresight3"
+			{Matrix34
+				1	0	0
+				0	0.00301523	-0.999995
+				0	0.999995	0.00301523
+				12.0664	1.72219	-0.0483422
+			}
+		}
+		{bone "run_holder"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				6.55249	1.71772	0.00595758
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 17.6049 0.917053 4.03362}
+	{Bone "orita"}
+	{Matrix34
+		1	0	0
+		0	0.00301523	-0.999995
+		0	0.999995	0.00301523
+		3.36354	0.0992728	-0.032951
+	}
+}
+{Volume "select"
+	{Box 19.2543 0.917053 6.46809}
+	{Bone "orita"}
+	{Matrix34
+		1	0	0
+		0	0.00301523	-0.999995
+		0	0.999995	0.00301523
+		3.36354	-0.101064	-0.0303949
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 4.08128	-4.01846	23.1817}
+			{lookat 3.41628	-1.30602	6.65227}
+			{fov 45}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 16.0894	-2.93668	-1.63752}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0792752	0.197722	-0.452351}
+			}
+			{"2"
+				{type point}
+				{position -2.12425	-2.33043	-3.20686}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin 3.23204	-4.25525	26.3902}
+			{lookat 3.36751	-1.29131	9.2103}
+			{fov 45}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 14.3076	2.18801	2.37981}
+			}
+			{"1"
+				{type directional}
+				{direction 0.0125878	0.215463	-0.451018}
+			}
+			{"2"
+				{type point}
+				{position -1.20016	11.8492	1.52124}
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{army
+	{id 8}
+	{title "ITA"}
+	{icon "/interface/pages/multi/flag_ita"}
+	{flag "/interface/scene/common/flag-ita"}
+}
+

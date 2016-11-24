@@ -1,0 +1,15 @@
+{game_entity
+	{Extension "ba6_xx.mdl"}
+	{Volume "body"
+	}
+	{Volume "engine"
+	}
+	{Volume "gun"
+	}
+	{Volume "turret1"
+	}
+	{Volume "turret2"
+	}
+	{Volume "turret"
+	}
+}

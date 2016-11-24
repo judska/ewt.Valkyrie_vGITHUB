@@ -1,0 +1,74 @@
+;Model by: Chato59
+;
+;
+{Skeleton
+	{bone "Fnab_m1943open"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{LODView
+			{VolumeView "Fnab_m1943open.ply"}
+		}
+		{bone "foresight3"
+			{Position 16.5274	1.25821	0.0542758}
+		}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				5.0868	1.14828	0.00220194
+			}
+		}
+	}
+}
+{Volume "select"
+	{Box 29.9047 11.1349 3.05727}
+	{Bone "Fnab_m1943open"}
+	{Position 6.72098	0.711878	0.00525391}
+}
+{Volume "body"
+	{Box 22.4592 4.30972 1.17113}
+	{Bone "Fnab_m1943open"}
+	{Position 4.46634	0.421359	0.00109464}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin -4.50767	-9.47463	17.8672}
+			{lookat 1.77648	-1.32091	1.20943}
+			{fov 45}
+			{horizon -125.276}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.079711	0.286525	-0.401932}
+			}
+			{"1"
+				{type point}
+				{position -4.21081	-2.83243	4.7142}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin -5.76449	-11.1054	21.1987}
+			{lookat 1.77648	-1.32091	1.20943}
+			{fov 45}
+			{horizon -133.276}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.079711	0.286525	-0.401932}
+			}
+			{"1"
+				{type point}
+				{position -4.21081	-2.83243	4.7142}
+			}
+		}
+	}
+}

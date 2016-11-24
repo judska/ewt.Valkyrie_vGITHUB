@@ -1,0 +1,7 @@
+{army
+	{id 7}
+	{title "FIN"}
+	{icon "/interface/pages/multi/flag_fin"}
+	{flag "/interface/scene/common/flag-fin"}
+}
+

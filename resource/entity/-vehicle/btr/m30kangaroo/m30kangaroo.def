@@ -1,0 +1,162 @@
+{game_entity
+	(include "/properties/tank_unarmed.ext")
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+	{collider "tank.light"}
+	{props "vehicle" "armored_car" "tractor" "tank" "opened" "explosion_throw_crew" "vision_vehicle_low"}
+	{targetClass "tank" "bullet"}
+	{targetSelector "tank_bullet"}
+	{patherId "tank.light"}	
+
+	{extender "enumerator"}
+	
+	{volume "sticky"
+		{tags "grenade_fg_target"}
+		{able clear {contact} {touch}}
+		{component "sticky_body"}
+	}
+	{component "sticky_body"}
+
+	
+	{Volume "mgun_rot"
+		{thickness 10}
+	}
+	{volume "body2"
+		{thickness 40}
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "body3"
+		{thickness 40}
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "shield1"
+		{thickness 50}
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "shield2"
+		{thickness 30}
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "shield3"
+		{thickness 38}
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "shield4"
+		{thickness 38}
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "shield5"
+		{thickness 20}
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "inventory"
+       		 {thickness 2}
+	}
+	
+	("armor_spa_heavy" armor(50 38 38 20))
+	("armor_engine"  t(30 38 38 20))
+
+	{boarder
+		{anm "driver"
+			{forward	{begin	"board_tank_left"} {end "seat_driver_car"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "gunner"
+			{forward	{begin	"board_tank_right"} {end "seat_m7_mgunner"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+	  	{anm "passenger"
+      			{forward  {begin  "board_body"} {end "seat_isu1"}}
+      			{reverse  {end  "emit_body" 1}}
+   		 }
+	}
+	("crew_human_visible_anm" place(driver)		door1(emit1) door2(emit2) anm_left(driver) anm_right(driver) visor(driver))
+	("crew_human_visible_anm" place(gunner)	door1(emit1) door2(emit2) anm_left(crew) anm_right(gunner) visor(main))
+	{placer 
+		{place "driver" {openForCrush 0}}
+		{place "gunner" {openForCrush 0}}
+	}
+
+	(define "crew_human"
+		{placer
+			{place "%place" {group "%group"} {linkbone "%bone"} {turnoff {sensor} {shadow}}}
+		}
+		{boarder
+			{door "%door"}
+			{link "%door" "%place" {anm "%animation"} {forward putoff} {reverse puton}}
+		}
+	)
+
+	("crew_human" place(seat01)	door(emit3) bone(seat01) animation(passenger) 	group(passengers))
+	("crew_human" place(seat02)	door(emit4) bone(seat02) animation(passenger)	group(passengers))
+	("crew_human" place(seat03)	door(emit3) bone(seat03) animation(passenger)	group(passengers))
+	("crew_human" place(seat04)	door(emit4) bone(seat04) animation(passenger)	group(passengers))
+	("crew_human" place(seat05)	door(emit3) bone(seat05) animation(passenger)	group(passengers))
+	("crew_human" place(seat06)	door(emit4) bone(seat06) animation(passenger)	group(passengers))
+	("crew_human" place(seat07)	door(emit3) bone(seat07) animation(passenger)	group(passengers))
+	("crew_human" place(seat08)	door(emit4) bone(seat08) animation(passenger)	group(passengers))
+
+	{sensor
+		{visor "main"
+			{bone "foresight1"}
+		}
+	}
+
+	{extender "inventory"
+		{weapon "mgun"
+			{mask "weapon mgun"}
+		}
+		{box
+            			{item "browning" filled {user "mgun"}}
+			{item "ammo hmgun" 1500}
+		}
+	}
+	{Weaponry
+		{place "mgun"
+			{type "mgun_aa"}
+			{gunner "gunner"}
+			{charger "gunner"}
+			{LinkBone "mgun2"}
+			{LinkAnimation "off"}
+			("abm_mgun_heavy")
+		}
+	}
+	{mass 23000}
+	{Chassis
+		("tank_trace" fx("tracks_sm") step(0.3) len(0.6))
+		{Locomotion ("locomotion")
+			{MaxSpeed   27}
+			{maxSpeedAtMaxTurn 12}
+			{StartTime  16}
+			{TurnStart  1.8}			
+			{TurnTime   11}
+			{TurnRadius 9} 
+    		{TurnStop   0.8}
+			{BrakeTime  1.5}
+			{StopTime   2.5}
+			{Gears  0.1 0.25 0.625}
+			{RearGears  0.34}		
+		}
+		{FuelBag
+			{volume 660 }	
+			{rate	130 }   
+			{remain 660 }
+			{fuel "fuel"}
+		}
+		{speed
+        	{Normal  10}
+        	{Slow  16}
+    	}
+		{DisableMoveWhileFiring}
+	}
+
+	{Extension "m30.mdl"}
+
+}
+

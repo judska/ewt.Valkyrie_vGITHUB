@@ -1,0 +1,5 @@
+{from "pattern rifle"
+	{entity "manliher_car_m1895"}
+	{fireSound "rifle/mosin_shot/"}
+	{reloadSound "kar98k_reload"}
+}

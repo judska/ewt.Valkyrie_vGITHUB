@@ -1,0 +1,14 @@
+{material
+	{layer bump
+		{diffuse "/texture/land/grass/gramma_8a"}
+		{bump "/texture/land/grass/gramma_8a_nm"}
+		{color 0xffffffff}
+		{parallax_scale 0.1}
+	}
+	{layer bump
+		{diffuse "/texture/land/bottom/bottom_river1"}
+		{bump "/texture/land/bottom/bottom_river1_nm"}
+		{color 0xffffffff}
+		{parallax_scale 0.1}
+	}
+}

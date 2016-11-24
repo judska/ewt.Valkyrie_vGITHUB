@@ -1,0 +1,134 @@
+{mission
+	{Entity "map_point" 0xc000
+		{Position 2370.92 2567.77}
+		{xform zl -90.65}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 1}
+	}
+	{Entity "map_point" 0xc001
+		{Position 2388.71 2568.06}
+		{xform zl -90.65}
+		{Extender "map_point"
+			{name a2}
+			{team a}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 2}
+	}
+	{Entity "map_point" 0xc002
+		{Position 2441.01 -4875.83}
+		{xform zl 95.02}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 3}
+	}
+	{Entity "map_point" 0xc003
+		{Position 2421.37 -4874.96}
+		{xform zl 95.02}
+		{Extender "map_point"
+			{name b2}
+			{team b}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 4}
+	}
+	{Entity "flag_point_1" 0x8002
+		{Position 2531.82 -1133.98}
+		{Extender "map_point"
+			{name f1}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 1}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 5}
+	}
+	{Entity "flag_point_2" 0x8003
+		{Position -189.73 -1119.84}
+		{Extender "map_point"
+			{name f2}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 2}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 6}
+	}
+	{Entity "flag_point_3" 0xc004
+		{Position 5827.57 -1191.25}
+		{Extender "map_point"
+			{name f3}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 3}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 7}
+	}
+	{Tags "switch_right" 0x4005}
+	{Tags "keep_places_without_door" 0x6046}
+	{Tags "keep_places_without_door" 0x60d4}
+	{Tags "keep_places_without_door" 0x2281}
+	{Tags "keep_places_without_door" 0x2282}
+	{Tags "switch_right" 0x3171}
+	{Tags "keep_places_without_door" 0x1052}
+	{Tags "keep_places_without_door" 0x112b}
+	{Tags "keep_places_without_door" 0x4f5}
+	{Tags "keep_places_without_door" 0x40aa}
+	{Tags "keep_places_without_door" 0x40f2}
+	{Tags "keep_places_without_door" 0x40f5}
+	{Tags "keep_places_without_door" 0x40f6}
+	{Tags "keep_places_without_door" 0x42b7}
+	{Tags "keep_places_without_door" 0x4352}
+	{Tags "keep_places_without_door" 0x4353}
+	{Tags "keep_places_without_door" 0x3063}
+	{Tags "keep_places_without_door" 0x502}
+	{Environment "skirmish/usa-omaha"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

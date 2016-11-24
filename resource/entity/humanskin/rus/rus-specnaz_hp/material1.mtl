@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "rus_specnaz"}
+	{specular "rus_specnaz_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

@@ -1,0 +1,8 @@
+{from "pattern smg"
+	{entity "suomi_m31"}
+	{fireSound	"smg/suomi_m31_burst/"}
+	{reloadSound "ppd40_reload"}
+	("recoveryTime" r(900))
+	("burst_short")
+ 	("speed" s(390))	
+}

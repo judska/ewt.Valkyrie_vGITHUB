@@ -1,0 +1,65 @@
+{breed
+	{skin "fr_legionnaire2"}
+     	{portrait "fra_elite3"}
+	{icon fra_elite3}
+	{icon_priority 4}
+	{nationality fr}
+	{armors
+		{head helmet2_fr}
+	}
+	{perks
+		{"health" "250%"
+		}
+		{"health_regeneration" "100%"
+		}
+		{"stamina" "200%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" "mp_soldier"
+		}
+		{"speed" 1.1
+		}
+		{"tank"	0.9
+		}
+		{"vehicle" 1.0
+		}
+		{"cannon" 1.0
+		}
+		
+		{"pistol" lvl_3
+		}
+		{"smg" lvl_3
+		}
+		{"mgun" lvl_3
+		}
+		{"rifle" lvl_3
+		}
+		{"rocketlauncher" lvl_3
+		}
+		{"melee" lvl_3
+		}
+	}
+	{veterancy
+		{"lvl_1" 4
+		}
+		{"lvl_2" 8
+		}
+		{"lvl_3" 24
+		}
+		{"lvl_4" 48
+		}
+		{"lvl_5" 80
+		}
+	}
+	{inventory
+		{item "rsc-mle-1918" filled}
+		{item "ammo rifle" 150}
+		{item "bandage" 5}
+		{item "grenade f1" 2}
+		{item "grenade n73at" 2}
+		{item "smoke grenade" 2}
+		{item "dynamite" 1}	
+                {in_hands 0}
+	}
+}

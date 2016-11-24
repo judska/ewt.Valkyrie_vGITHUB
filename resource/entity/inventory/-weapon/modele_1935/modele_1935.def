@@ -1,0 +1,8 @@
+{game_entity
+	(include "/properties/stuff_small.ext")
+	{extension "steyer_pistol_1912.mdl"}
+	{extender "stuff"
+		{item "modele_1935"}
+	}
+	{nogroupmesh 1}
+}

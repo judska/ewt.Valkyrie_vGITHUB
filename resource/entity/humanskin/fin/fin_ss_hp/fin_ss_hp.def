@@ -1,0 +1,4 @@
+{Game_entity
+	{Extension "fin_ss_hp.mdl"}
+	{tag "fin soldier"}
+}

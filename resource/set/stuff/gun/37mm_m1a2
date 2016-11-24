@@ -1,0 +1,26 @@
+{from "pattern gun"			; M15AA
+	{filling "bullet37 zenite" 10}
+	{fireSound "gun/37mm_61-k"}
+        ("recoveryTime" r(400))
+	{RechargeTime 0.7}
+	{reloadSound "61k_reload"}
+	{spreading
+		{spreadradius 	1.5}
+		{SpreadXYRatio	3}
+		{SpreadPower	2}
+	}
+	{AimingTolerance 3}
+	{Automatic}
+	{burst
+		{min 1}
+		{short 2.5 1}
+		{long 7 2}
+	}	
+	("speed" s(792))
+	("range_zenite_long")
+
+	("damage_110" a(45) b(27) c(17) d(15) e(14))
+
+	{RelaxationTime 0}
+	("accuracy_zenite_high")
+}

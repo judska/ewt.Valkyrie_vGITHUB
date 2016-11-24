@@ -1,0 +1,7 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extender "stuff"
+		{item "ita_berretto_cc"}
+	}
+	{Extension "ita_berretto_cc.mdl"}
+}

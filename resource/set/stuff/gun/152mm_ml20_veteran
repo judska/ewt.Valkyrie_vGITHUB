@@ -1,0 +1,10 @@
+{from "pattern gun"     ; "d1"
+	{filling "bullet152" 6}
+	{fireSound "gun/howitzer/152mm_ml20"}
+	{reloadSound "gun_r04"}
+	("range_heavy_howitzer_152_fin")
+	{recoveryTime 3.0}
+	{rechargeTime 60}
+	{ZeroingAccuracy 0.80 0.70 0.60 0.50 0.40 0.30 0.20}
+	;("damage" a(300) b(290) c(250) d(240) e(230) f(220) g(210) h(200) i(190) j(180) k(170) l(160) m(150) n(140) o(130) p(125) q(120) r(115) s(110) t(105) u(100) v(95) x(90) y(85) z(80))
+}

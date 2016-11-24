@@ -1,0 +1,103 @@
+{entity
+	(include "/properties/tank.ext")
+	(include "/properties/shadow/tank.inc" scale(1.0))
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+	{collider "tank.light"}
+	{props "light" "turret_rotator" "vision_vehicle_low" "muzzle_minimum"}
+	{targetClass "light_tank"}
+	{targetSelector "tank_sup"}
+
+	{patherId "tank.light"}
+	
+	{extender "enumerator"}
+	{Volume "Body1"
+		{tags "body"}
+		{component "body"}
+	}
+	{Volume "Body2"
+		{tags "body"}
+		{component "body"}
+	}
+	
+	("armor_light" turret(22 11 8 8) body(22 15 10 8))
+	("armor_mantlet" t(16))
+	("armor_engine"  t(16))
+	
+	("crew_inside")
+	{placer
+		{place "driver" {group "crew"} {visor "driver"}}
+	}
+	{boarder
+		{door "emit0"}
+		{link "emit0" "driver" {anm "driver"} {forward putoff} {reverse puton}}
+	}
+	("crew_human" place(gunner)		door1(emit1) door2(emit2) visor(main))
+
+	{boarder
+		{anm "driver"
+			{forward	{begin	"board_t34_driver"} {base "driver"}}
+			{reverse 	{end	"emit_t34_hold"} {base "driver"}}
+		}
+		{anm "left"
+			{forward	{begin	"board_tank_left"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "right"
+			{forward	{begin	"board_tank_right"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+	}
+
+	
+	{extender "inventory"
+		{box
+			{item "ammo bullet37 ap" 52}
+			{item "ammo bullet37 fg" 39}
+			{item "ammo bullet37 apcr" 5}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "37mm_sa18" filling "ammo bullet37 ap" 1}
+			{charger "gunner"} 
+			("abm_low")
+		}
+	}
+	
+	{mass 9800}
+	{Chassis
+		("tank_trace" fx("tracks_sm2") step(0.15) len(0.45))
+		{Locomotion ("locomotion")
+			{maxspeed   8}
+			{maxSpeedAtMaxTurn 5}
+			{StartTime  10}
+			{TurnTime   18}
+			{TurnStart  1.1}			
+			{TurnRadius 8} 
+    			{TurnStop   0.5}
+			{BrakeTime  3}
+			{StopTime   2}
+			{Gears  0.2 0.5 1}
+			{RearGears  0.4}
+		}
+		{FuelBag
+			{volume 200}	
+			{rate	 25}   
+			{remain 200}
+			{fuel "fuel"}
+		}
+		{speed
+        		{Normal  5}
+    		}	 
+	}
+
+	{Extension "ft17.mdl"}
+        {bone "gun_rot"
+		{limits -16 15}
+	}
+	{bone "turret"
+		{speed 0.005}
+	}
+}

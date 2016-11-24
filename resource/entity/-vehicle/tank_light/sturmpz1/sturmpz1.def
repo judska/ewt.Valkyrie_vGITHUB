@@ -1,0 +1,126 @@
+{actor
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc"  scale(1.0))
+
+	{collider "tank.light"}
+	{props "light" "-turret" "vision_vehicle_maximum" "muzzle_maximum"}
+	{targetClass "light_tank" "bullet"}
+	{targetSelector "tank_bullet"}
+	{extension "crew.ext"}
+	{patherId "tank.light"}
+	
+	{volume "body1"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body2"	
+		{thickness 10}
+		{tags "turret"}
+		{component "turret"}
+	}
+	{volume "body3"	
+		{thickness 10}
+		{tags "turret"}
+		{component "turret"}
+	}
+	{volume "body4"	
+		{thickness 10}
+		{tags "turret"}
+		{component "turret"}
+	}
+	{Volume "Fuel"
+		{thickness 1}
+	}
+	{volume "engine"	
+		{thickness 10}
+	}
+	{volume "shield1"
+		{tags "shield1"}
+		{component "shield1"}
+	}
+	
+	("armor_light" turret(8 6 0 0) body(10))
+	("armor_engine"  t(10))
+	("shield" args 6)
+	
+	{component "engine"	
+		{RepairTime 10}
+	}
+	{component "turret"
+		{RepairTime 20}
+	}
+	{component "gun"
+		{RepairTime 15}
+	}
+
+	{extender "shield"
+		{on}
+	}
+	{component "shield1"}
+	{component "shield2"}
+	{component "shield3"}
+
+ 	{sensor
+		{visor "main"
+			{bone "foresight1"}
+		}
+	}
+	{extender "inventory"
+		{box
+	        {item "repair_kit" 2}
+            {item "ammo bullet150 fg" 30}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "150mm_sig33" filling "ammo bullet150 fg" 1}        
+			("abm_howitzer")
+		}
+	}
+
+	("tracks")
+
+	{mass 8500}
+	{Chassis
+		("tank_trace" fx("tracks_sm2") step(0.15) len(0.1))
+		{Locomotion ("locomotion")
+				{maxspeed   24}
+				(mod "mp"
+					{maxspeed   21}
+				)
+				{maxSpeedAtMaxTurn 10}
+				{StartTime  15}
+				{TurnTime   9}
+				{TurnStart  1.5}			
+				{TurnRadius 9} 
+    			{TurnStop   0.8}
+				{BrakeTime  0.5}
+				{StopTime   1.5}
+				{Gears      0.5 1.0}
+    			{RearGears  0.45}
+		}
+		(mod "mp"
+			{FuelBag
+				{volume 140 }	
+				{rate	50 }   
+				{remain 140 }
+				{fuel "fuel"}
+			}
+		    {speed
+        		{Normal  10}
+    		}
+		)
+	}
+
+	{Extension "sturmpz1.mdl"}
+
+	{bone "gun_rot"
+		{speed 0.004}
+		{limits -4 75}
+	}
+	{bone "turret"
+		{speed 0.005}
+	}
+}

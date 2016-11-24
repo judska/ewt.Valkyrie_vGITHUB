@@ -1,0 +1,58 @@
+{breed
+	{skin "ger-ss-camo-winter-mgun"}
+	{portrait "fin_soldier4"}
+	{icon "sniper"}
+	{icon_priority 5}
+	{nationality fin}
+	{hero}
+	{armors
+		{head helmet_sniper_fin}
+	}
+	{perks
+		{"health" "500%"
+		}
+		{"health_regeneration" "100%"
+		}
+		{"stamina" "200%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" mp_sniper
+		}
+		{"speed" 1
+		}
+		{"stealth"}
+		{"tank" 1
+		}
+		{"vehicle" 1
+		}
+		{"cannon" 1
+		}
+		{"pistol" lvl_5
+		}
+		{"smg" lvl_5
+		}
+		{"mgun" lvl_5
+		}
+		{"rifle" lvl_5
+		}
+		{"rocketlauncher" lvl_5
+		}
+		{"melee" lvl_5
+		}
+		{"aimedshot"}
+	}
+	{veterancy
+		(include "veterancy_generic.inc")
+		("veterancy_1")
+	}
+	{inventory
+		{item "fin_noscope" filled}
+		{item "ammo rifle" 100}
+		{item "bandage" 5}
+		{item "smoke_paradrop_ammo grenade"}
+		{item "plant" 3}
+		{item "knife_ger"}
+		{in_hands 0}
+	}
+}

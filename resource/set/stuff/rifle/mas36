@@ -1,0 +1,6 @@
+{from "pattern rifle"
+	{entity "mas36"}
+	{fireSound "rifle/mas"}
+	{reloadSound "rifle_bolt_five"}
+	("accuracy_automatic_rifle")
+}

@@ -1,0 +1,12 @@
+{from "pattern gun"	;25mm Pak Fr
+	{filling "bullet25"}
+	{fireSound "gun/25mm_Hotchkiss_SA_34"}
+	{reloadSound "pak35"}
+	{rechargeTime 2.0}
+	("range_minimum")
+	("speed" s(900))
+	("caliber_minimum")     
+	{projectileDamage 38}	
+	("damage_110" a(43) b(38) c(33) d(30) e(26))
+	("accuracy_minimum")
+}

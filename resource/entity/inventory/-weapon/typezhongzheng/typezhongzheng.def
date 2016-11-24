@@ -1,0 +1,8 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extension "typezhongzheng.mdl"}
+	{extender "stuff"
+		{item "typezhongzheng"}
+	}
+	{nogroupmesh 1}
+}

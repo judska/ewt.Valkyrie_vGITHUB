@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "bf7f41ba"}
+	{specular "$\model\vickers_mgun_sp"}
+	{blend test}
+}

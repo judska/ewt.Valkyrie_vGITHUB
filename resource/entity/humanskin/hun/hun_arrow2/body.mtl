@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "hun_arrow2"}
+	{specular "hun_arrow2_spec"}
+	{color "255 255 255 25"}
+	{blend test}
+}

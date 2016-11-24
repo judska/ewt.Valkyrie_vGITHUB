@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "15_shlem_tankist_italia"}
+	{blend none}
+}

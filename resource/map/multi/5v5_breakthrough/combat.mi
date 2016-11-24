@@ -1,0 +1,175 @@
+{mission
+	{Entity "map_point" 0x8002
+		{Position -4820.45 -4375.99}
+		{xform zl 52.75}
+		{Extender "map_point"
+			{name b4}
+			{team b}
+			{phase 0}
+			{order 4}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 20}
+	}
+	{Entity "map_point" 0xa000
+		{Position -5024.84 -3902.51}
+		{xform zl 52.75}
+		{Extender "map_point"
+			{name b5}
+			{team b}
+			{phase 0}
+			{order 5}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 2}
+	}
+	{Entity "map_point" 0x802d
+		{Position -4018.55 -4983.82}
+		{xform zl 49.85}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 46}
+	}
+	{Entity "map_point" 0x8000
+		{Position -4291.41 -4785.8}
+		{xform zl 56.29}
+		{Extender "map_point"
+			{name b2}
+			{team b}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 17}
+	}
+	{Entity "map_point" 0x8001
+		{Position -4551.93 -4582.26}
+		{xform zl 56.66}
+		{Extender "map_point"
+			{name b3}
+			{team b}
+			{phase 0}
+			{order 3}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 18}
+	}
+	{Entity "map_point" 0x8008
+		{Position 4800.07 4400.13}
+		{xform zl -129.09}
+		{Extender "map_point"
+			{name a4}
+			{team a}
+			{phase 0}
+			{order 4}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 13}
+	}
+	{Entity "map_point" 0x800d
+		{Position 5047.91 4222.06}
+		{xform zl -128.8}
+		{Extender "map_point"
+			{name a5}
+			{team a}
+			{phase 0}
+			{order 5}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 15}
+	}
+	{Entity "map_point" 0x8007
+		{Position 4572.88 4627.72}
+		{xform zl -133.44}
+		{Extender "map_point"
+			{name a3}
+			{team a}
+			{phase 0}
+			{order 3}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 12}
+	}
+	{Entity "map_point" 0x8006
+		{Position 4356.27 4863.85}
+		{xform zl -137.13}
+		{Extender "map_point"
+			{name a2}
+			{team a}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 11}
+	}
+	{Entity "map_point" 0x8005
+		{Position 4243.74 5215.63}
+		{xform zl -133.32}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 10}
+	}
+	{Tags "keep_places_without_door" 0x313a}
+	{Tags "keep_places_without_door" 0x1aea}
+	{Tags "keep_places_without_door" 0x1aeb}
+	{Tags "keep_places_without_door" 0x92b}
+	{Tags "keep_places_without_door" 0x500}
+	{Tags "keep_places_without_door" 0xdb}
+	{Tags "keep_places_without_door" 0x600e}
+	{Tags "keep_places_without_door" 0x493}
+	{Tags "keep_places_without_door" 0x1088}
+	{Tags "keep_places_without_door" 0x43b2}
+	{Tags "keep_places_without_door" 0x4393}
+	{Tags "keep_places_without_door" 0x701f}
+	{Tags "keep_places_without_door" 0x6025}
+	{Tags "keep_places_without_door" 0x195e}
+	{Tags "keep_places_without_door" 0x195f}
+	{Tags "keep_places_without_door" 0x372}
+	{Tags "keep_places_without_door" 0x3172}
+	{Tags "keep_places_without_door" 0x3171}
+	{Tags "keep_places_without_door" 0xa9b}
+	{Tags "keep_places_without_door" 0xa9a}
+	{Tags "keep_places_without_door" 0x1155}
+	{Tags "keep_places_without_door" 0x419b}
+	{Tags "keep_places_without_door" 0x3033}
+	{Tags "keep_places_without_door" 0x104c}
+	{Tags "keep_places_without_door" 0x3209}
+	{Tags "keep_places_without_door" 0x7e1}
+	{Tags "keep_places_without_door" 0x421b}
+	{Tags "keep_places_without_door" 0x891}
+	{Tags "keep_places_without_door" 0x7362}
+	{Tags "keep_places_without_door" 0x2286}
+	{Tags "keep_places_without_door" 0x8b2}
+	{Tags "keep_places_without_door" 0x10b8}
+	{Tags "keep_places_without_door" 0xa23}
+	{Tags "keep_places_without_door" 0xa42}
+	{Tags "keep_places_without_door" 0xa97}
+	{Environment "multi/multi_01"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

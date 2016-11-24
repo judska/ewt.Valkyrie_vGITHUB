@@ -1,0 +1,163 @@
+ {game_entity
+	(include "/properties/tank.ext")
+	(include "/properties/shadow/tank.inc"  scale(1.0))
+	(include "/properties/selection/vehicle.inc"  scale(1.2))
+	{collider "tank.light"}
+	{targetSelector "tank_at"}
+
+	{extender "enumerator"}
+	{props "light" "turret_rotator" "opened" "vision_vehicle_low" "muzzle_medium"}
+	
+	{volume "body"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body1"
+			{tags "body"}
+			{component "body"}
+	}
+	{volume "body2"
+			{tags "body"}
+			{component "body"}
+	}
+	{volume "body3"
+			{tags "body"}
+			{component "body"}
+	}
+	{volume "body4"
+			{tags "body"}
+			{component "body"}
+	}
+	{volume "body5"
+			{tags "body"}
+			{component "body"}
+	}
+	{volume "body6"
+			{tags "body"}
+			{component "body"}
+	}
+	{volume "body7"
+			{tags "body"}
+			{component "body"}
+	}
+	{volume "body8"
+			{tags "body"}
+			{component "body"}
+	}
+	{volume "turret1"
+		{tags "turret"}
+		{component "turret"}
+	}
+	{volume "turret2"
+		{tags "turret"}
+		{component "turret"}
+	}
+	{volume "turret3"
+		{tags "turret"}
+		{component "turret"}
+	}
+	{volume "turret4"
+		{tags "turret"}
+		{component "turret"}
+	}
+	{volume "turret5"
+			{tags "turret"}
+			{component "turret"}
+	}
+	{Volume "Fuel"
+		{thickness 1}
+	}
+	{volume "engine"	
+		{thickness 10}
+	}
+	
+	("armor_light" turret(11 11 0 0) body(50 16 10 10))
+		("armor_engine"  t(10 30 20 12))
+
+	
+	{component "engine"	
+		{RepairTime 10}
+	}
+	{component "turret"
+		{RepairTime 20}
+	}
+	{component "gun"
+		{RepairTime 15}
+	}
+
+	{boarder
+			{anm "left"
+				{forward	{begin	"board_tank_left"} {end "seat_driver_car"}}
+				{reverse 	{end	"emit_tank_1_hold"}}
+			}
+			{anm "right"
+				{forward	{begin	"board_tank_right"} {end "squat_load_mortar"}}
+				{reverse 	{end	"emit_tank_1_hold"}}
+			}
+			{anm "armor"
+						{forward	{begin	"board_MiddleArmor"} 	{end "seat_armor"}}
+						{reverse 	{end	"emit_tank_1"}}
+		}
+		}
+		("crew_human"			place(driver) door1(emit1) door2(emit2) visor(driver))
+		("crew_human_visible"	place(gunner) door1(emit1) door2(emit2) visor(main))
+		("crew_human_gunner" 	place(charger) visorbone(gun))
+		{placer 
+			{place "gunner" {openForCrush 0}}
+	}
+	("seat_human" place(seat1) bone(seat01) door(emit5)  animation(armor))
+			("seat_human" place(seat2) bone(seat02) door(emit6)  animation(armor))
+			("seat_human" place(seat3) bone(seat03) door(emit4)  animation(armor))
+		("seat_human" place(seat4) bone(seat04) door(emit3)  animation(armor))
+
+	{extender "inventory"
+		{box
+			{item  "ammo mgun" 2400}
+			{item "bullet75 ap" 46}
+			{item "bullet75 fg" 21}
+			{item "bullet75 apcr" 5}
+		}
+	}
+	{Weaponry
+		{place "gun"
+			{weapon "75mm_kwk40(L48)_1" filling "ammo bullet75 ap" 1}
+			("abm_medium")
+		}
+		{place "mgun1"
+			{type "mgun_hull"}
+			{weapon "mg37" filled}
+			{foresight "foresight4"}
+			{charger "gunner"}
+			{basic}
+		}
+	}
+
+	{mass 10000}
+	{Chassis
+		("tank_trace" fx("tracks_mid") step(0.56) len(0.3))
+		{Locomotion ("locomotion")
+			{maxspeed   25}
+			{maxSpeedAtMaxTurn 13}
+			{StartTime  15}
+			{TurnTime   7}
+			{TurnStart  1.1}			
+			{TurnRadius 7} 
+    			{TurnStop   0.7}
+			{BrakeTime  1.2}
+			{StopTime   2}
+			{Gears   0.2 0.4 1}
+			{RearGears  0.34}	
+		}
+		{FuelBag
+			{volume 470 }	
+			{rate	135 }   
+			{remain 470 }
+			{fuel "fuel"}
+		}
+		{speed
+        		{Normal  12}
+    		}
+	}
+	{Extension "marder139.mdl"}
+	{Texmod "ambush"}
+}

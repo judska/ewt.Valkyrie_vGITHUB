@@ -1,0 +1,8 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extension "mosin_s_fin.mdl"}
+	{extender "stuff"
+		{item "mosin_s_fin"}
+	}
+	{nogroupmesh 1}
+}

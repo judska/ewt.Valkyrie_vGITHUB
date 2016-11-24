@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "usa-ranger1"}
+	{specular "usa-ranger1_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

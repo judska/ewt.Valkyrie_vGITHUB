@@ -1,0 +1,18 @@
+{from "pattern smg"
+	{filling "ammo pistol" 71}
+	{entity "ppd"}
+	{fireSound	"smg/ppsh_burst/"}
+	{reloadSound "mp44"}
+	
+	{rechargeTime 3.5}
+	{recoveryTime 0.108}
+;	{healthDamage 25}
+;	{healthDamageClip 35}
+;	(mod "mp"	
+		{burst
+			{short 6 1}
+			{long 14 3}
+		}
+		{healthDamage 35}	
+;	)
+}

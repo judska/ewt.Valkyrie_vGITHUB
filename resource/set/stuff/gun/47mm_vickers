@@ -1,0 +1,17 @@
+{from "pattern gun"		; Char D2
+	{filling "bullet47"}
+	{fireSound "gun/47mm_sa34_l30"}
+	{reloadSound "gun_r02"}
+	{rechargeTime 4}
+	("range_short")
+	
+	("speed" s(620))
+	("caliber_minimum")  
+	{projectileDamage 76}
+	("damage_120" a(70) b(60) c(50) d(40) e(30))
+	{parameters "apcr"
+        ("damage_90" a(90) b(80) c(60) d(50) e(40))
+	}
+	
+	("accuracy_minimum")
+}

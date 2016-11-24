@@ -1,0 +1,167 @@
+{mission
+	{Entity "map_point" 0xc000
+		{Position 5.38 2637.72}
+		{xform zl -91.11}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 4}
+	}
+	{Entity "map_point" 0xc007
+		{Position 99.04 -2728.05}
+		{xform zl 84.64}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 9}
+	}
+	{Entity "flag_point_1" 0x802f
+		{Position -14.11 -8.39}
+		{xform zl -178.27 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f1}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 1}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 48}
+	}
+	{Entity "flag_point_3" 0x8011
+		{Position 2004.44 -19.24}
+		{xform zl -178.27 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f3}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 3}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 17}
+	}
+	{Entity "flag_point_2" 0x8013
+		{Position -2092.24 -25.88}
+		{xform zl -178.27 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f2}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 2}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 18}
+	}
+	{Tags "keep_places_without_door" 0x3006}
+	{Tags "keep_places_without_door" 0x5050}
+	{Tags "keep_places_without_door" 0x5057}
+	{Tags "switch_right" 0x504b}
+	{Tags "switch_right" 0x50b4}
+	{Tags "keep_places_without_door" 0x405b}
+	{Tags "keep_places_without_door" 0x305a}
+	{Tags "switch_right" 0x512d}
+	{Tags "keep_places_without_door" 0x566}
+	{Tags "keep_places_without_door" 0x586}
+	{Tags "keep_places_without_door" 0x209c}
+	{Tags "switch_right" 0x404b}
+	{Tags "keep_places_without_door" 0x1808}
+	{Tags "destroyed" 0x5d3}
+	{Tags "destroyed" 0x5d7}
+	{Tags "destroyed" 0x4162}
+	{Tags "destroyed" 0x2119}
+	{Tags "destroyed" 0x211a}
+	{Tags "destroyed" 0x4c02}
+	{Tags "destroyed" 0x4c06}
+	{Tags "keep_places_without_door" 0x3144}
+	{Tags "keep_places_without_door" 0x110e}
+	{Tags "keep_places_without_door" 0x2841}
+	{Tags "keep_places_without_door" 0xc14}
+	{Tags "keep_places_without_door" 0x700d}
+	{Tags "keep_places_without_door" 0x7019}
+	{Tags "destroyed" 0x605a}
+	{Tags "destroyed" 0x4457}
+	{Tags "destroyed" 0x4458}
+	{Tags "destroyed" 0x9cd}
+	{Tags "destroyed" 0x61c8}
+	{Brain 0x5d4
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Brain 0x5df
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Environment "multi/multi_05"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

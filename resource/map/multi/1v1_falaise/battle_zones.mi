@@ -1,0 +1,194 @@
+{mission
+	{Entity "flag_point_2" 0x802f
+		{Position 1261.65 -1662.84}
+		{xform zl 168.58 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f2}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 2}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 48}
+	}
+	{Entity "flag_point_1" 0x8031
+		{Position 56.47 -94.11}
+		{xform zl 168.58 scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f1}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 1}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 50}
+	}
+	{Entity "map_point" 0x8014
+		{Position -1538.44 -2164.83 84.16}
+		{xform zl 53.63}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 17}
+	}
+	{Entity "battle" 0xc004
+		{Position 385.28 2233.57}
+		{xform zl -96.18}
+		{Extender "speaker"
+			{SoundName "world/skirmish_environment/open_ground_night2"}
+		}
+	}
+	{Entity "battle" 0xe000
+		{Position 345.62 2273.53}
+		{xform zl -96.18}
+		{Extender "speaker"
+			{SoundName "world/skirmish_environment/open_ground_day2"}
+		}
+	}
+	{Entity "battle" 0xe001
+		{Position 178.64 2577.53}
+		{xform zl -94.74}
+		{Extender "speaker"
+			{SoundName "world/skirmish_environment/open_ground_day1"}
+		}
+	}
+	{Entity "battle" 0x8000
+		{Position 434.12 2244.61}
+		{xform zl -96.18}
+		{Extender "speaker"
+			{SoundName "world/rain/00"}
+		}
+	}
+	{Entity "battle" 0x8001
+		{Position 331.21 2223.28}
+		{xform zl -96.18}
+		{Extender "speaker"
+			{SoundName "world/skirmish_environment/light_jungle_night2"}
+		}
+	}
+	{Entity "battle" 0x8002
+		{Position 218.31 2535.13}
+		{xform zl -94.74}
+		{Extender "speaker"
+			{SoundName "world/skirmish_environment/open_ground_night1"}
+		}
+	}
+	{Entity "flag_point_3" 0x802e
+		{Position -1298.11 1583.7}
+		{xform zl 168.58 scale 0.9}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f3}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 3}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{enableCapture}
+				{release "b" "a"}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 47}
+	}
+	{Entity "map_point" 0x802d
+		{Position 1492.19 2095.95 56.51}
+		{xform zl -124.64}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 46}
+	}
+	{Tags "keep_places_without_door" 0x289c}
+	{Tags "keep_places_without_door" 0x289d}
+	{Tags "keep_places_without_door" 0xd4f}
+	{Tags "keep_places_without_door" 0x201a}
+	{Tags "keep_places_without_door" 0x21a2}
+	{Tags "keep_places_without_door" 0x213a}
+	{Tags "keep_places_without_door" 0x6800}
+	{Tags "keep_places_without_door" 0x15c}
+	{Tags "keep_places_without_door" 0x5183}
+	{Tags "keep_places_without_door" 0x5c}
+	{Tags "keep_places_without_door" 0x1002}
+	{Tags "keep_places_without_door" 0x2044}
+	{Tags "keep_places_without_door" 0x2049}
+	{Tags "keep_places_without_door" 0x2050}
+	{Tags "keep_places_without_door" 0x53da}
+	{Tags "keep_places_without_door" 0x6439}
+	{Tags "keep_places_without_door" 0x40e3}
+	{Tags "keep_places_without_door" 0x31e}
+	{Tags "keep_places_without_door" 0x31f}
+	{Tags "keep_places_without_door" 0x320}
+	{Tags "keep_places_without_door" 0x321}
+	{Tags "keep_places_without_door" 0x32d}
+	{Tags "keep_places_without_door" 0x32e}
+	{Tags "keep_places_without_door" 0x330}
+	{Tags "keep_places_without_door" 0x331}
+	{Tags "keep_places_without_door" 0x435c}
+	{Environment "multi/multi_04"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

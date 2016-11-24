@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "t-50_fin_xx"}
+	{specular "t-50_sp"}
+	{color "229 229 229 25"}
+	{blend test}
+}

@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "fieldcap_fin_gray"}
+	{blend none}
+}

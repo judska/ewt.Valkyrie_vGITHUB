@@ -1,0 +1,17 @@
+{from "pattern gun"		; "pz3n"
+	{filling "bullet75"}
+	{fireSound "gun/50to76_cal/75mm_kwk40"}
+	{reloadSound "gun_r03"}
+	("range_light_howitzer")
+	("caliber_medium")
+	{rechargeTime 3.3}
+
+
+	{projectileDamage 52}
+	("damage_150" a(52) b(44) c(40) d(36) e(34))
+	{parameters "apcr"
+        ("damage_120" a(77) b(64) c(55) d(46) e(39))
+	}
+
+	("accuracy_medium")
+}

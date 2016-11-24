@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "amx_50_100"}
+	{bump "amx_50_100_nm"}
+	{specular "amx_50_100_sm"}
+	{color "255 255 255 127"}
+	{blend none}
+}

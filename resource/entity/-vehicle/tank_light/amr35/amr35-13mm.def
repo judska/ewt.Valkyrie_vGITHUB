@@ -1,0 +1,89 @@
+{entity
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+	{collider "tank.light"}
+	{props "light" "turret_rotator" "vision_vehicle_low" "muzzle_zenite"}
+	{targetClass "light_tank"}
+	{patherId "tank.light"}
+	
+	{extender "enumerator"}
+	{Volume "Body1"
+		{tags "body"}
+		{component "body"}
+	}
+	{Volume "Body2"
+		{tags "body"}
+		{component "body"}
+	}
+	("armor_light" turret(13 13 13 13) body(13 10 10 5))
+	("armor_mantlet" t(13))
+	("armor_engine"  t(10))
+	
+	("crew_2_human")
+
+	{boarder
+		{anm "left"
+			{forward	{begin	"board_tank_left"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "right"
+			{forward	{begin	"board_tank_right"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "armor"
+			{forward	{begin	"board_LowArmor"} 	{end "seat_armor"}}
+			{reverse 	{end	"emit_tank_1"}}
+		}
+	}
+	{extender "inventory"
+		{box
+			{item "ammo hmgun" 1000}
+						{item "repair_kit" 2}
+ 
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "13mm_hotchkiss" filled}
+			{foresight "foresight1"}
+			{charger "gunner"}
+			("abm_zenite")    
+		}
+	}
+	{mass 6500}
+		{Chassis
+		("tank_trace" fx("tracks_sm2") step(0.15) len(0.6))
+			{Locomotion ("locomotion")
+				{maxspeed         45}
+				(mod "mp"
+					{maxspeed   45}
+				)
+				{maxSpeedAtMaxTurn 18}
+				{StartTime  12}
+				{TurnTime   7}
+				{TurnStart  1.1}			
+				{TurnRadius 7} 
+    			{TurnStop   0.7}
+				{BrakeTime  1}
+				{StopTime   2}
+				{Gears   0.2 0.4 1}
+				{RearGears  0.34}	
+			}
+				{FuelBag
+					{volume 130 }	
+					{rate	   10 }   
+					{remain 125 }
+					{fuel "fuel"}
+				}
+			    {speed
+        			{Normal  25}
+    			}
+		}
+
+	{Extension "amr35-13mm.mdl"}
+
+	{bone "turret"
+	}
+}

@@ -1,0 +1,229 @@
+;Exported by: Sergey
+;Date:        Fri Jan 03 14:07:47 2014
+;File:        D:\Documents\3dsmax\scenes\Canon de 47 antichar SA Mle 1937\47 antichar SA Mle 1937_xx.max
+{Skeleton
+	{bone revolute "basis"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "pivot_front"
+			{parameters "ID=body;"}
+			{Position 0.0052762	0	7.50022}
+			{VolumeView "pivot_front.ply"}
+			{bone revolute "wheelr"
+				{parameters "ID=wheelright;Radius=0.475;support=1;"}
+				{Matrix34
+					-0.999873	-0.0159149	0
+					0	0	1
+					-0.0159149	0.999873	0
+					-0.00505873	-14.1422	-0.0831451
+				}
+				{bone "koleso_r"
+					{Matrix34
+						0.999986	0	0.00535152
+						0	1	0
+						-0.00535152	0	0.999986
+						-0.0223225	0.0831461	0.65175
+					}
+					{VolumeView "koleso_r.ply"}
+				}
+			}
+			{bone revolute "wheell"
+				{parameters "ID=wheelleft;Radius=0.475;support=1;"}
+				{Matrix34
+					-1	0	0
+					0	0	1
+					0	1	0
+					-0.0213199	13.6796	-0.0692253
+				}
+				{bone "koleso_l"
+					{Matrix34
+						1	0	0
+						0	1	0
+						0	0	-1
+						-0.0213199	0.0692272	-0.211466
+					}
+					{VolumeView "koleso_l.ply"}
+				}
+			}
+		}
+		{bone "body"
+			{parameters "ID=body;"}
+			{Position 0.0052762	0	7.50022}
+			{VolumeView "body.ply"}
+			{bone revolute "turret"
+				{limits -34 34}
+				{speed 0.004}
+				{Matrix34
+					-1	0	0
+					0	-1	0
+					0	0	1
+					-0.394607	0.521862	0.434886
+				}
+				{VolumeView "turret.ply"}
+				{bone revolute "gun_rot"
+					{parameters "ID=gun;"}
+					{limits -13 16}
+					{speed 0.003}
+					{Matrix34
+						0.906784	0	-0.421596
+						0.421596	0	0.906784
+						0	-1	0
+						0.602954	2.82938	4.86005
+					}
+					{VolumeView "gun_rot.ply"}
+					{bone "gun"
+						{parameters "ID=gun;"}
+						{Matrix34
+							0	0	-1
+							0	1	0
+							1	0	0
+							-5.41817	-1.0947	2.98029
+						}
+						{VolumeView "gun.ply"}
+					}
+				}
+			}
+			{bone revolute "noga_l"
+				{Matrix34
+					-0.9993	-0.00185542	0.0373553
+					0.00227881	-0.999934	0.0112947
+					0.0373319	0.0113719	0.999238
+					-6.76978	9.18971	-4.22065
+				}
+				{VolumeView "noga_l.ply"}
+			}
+		}
+		{bone "part1"
+			{Matrix34
+				0.913873	-0.362641	-0.182557
+				0.377625	0.924374	0.0541504
+				0.149114	-0.118425	0.981703
+				-31.84	-17.463	-2.44271
+			}
+			{VolumeView "part1.ply"}
+		}
+		{bone "part2"
+			{parameters "ID=shield;"}
+			{Matrix34
+				0.999444	0	0.0333524
+				-0.0333524	0	0.999444
+				0	-1	0
+				17.1353	4.97475	-0.0896323
+			}
+			{VolumeView "part2.ply"}
+		}
+		{bone "part3"
+			{parameters "ID=shield;"}
+			{Matrix34
+				0.759153	-0.650912	0
+				-0.637316	-0.743296	0.203319
+				-0.132343	-0.15435	-0.979113
+				25.5514	32.3447	1.21535
+			}
+			{VolumeView "part3.ply"}
+		}
+	}
+}
+{Volume "body"
+	{Box 24.8324 4.65818 10.2882}
+	{Bone "body"}
+	{Matrix34
+		0	1	0
+		0	0	1
+		1	0	0
+		-2.31653	0.0336254	-1.63205
+	}
+}
+{Volume "gun_rot"
+	{Cylinder 3.48419 27.8686}
+	{Bone "gun_rot"}
+	{Matrix34
+		0	0	1
+		0	1	0
+		-1	0	0
+		1.05173	-0.437507	3.0413
+	}
+}
+{Volume "gun"
+	{Cylinder 1.29483 23.3909}
+	{Bone "gun"}
+	{Matrix34
+		-1	0	0
+		0	1	0
+		0	0	-1
+		-0.0128613	-0.00776163	-11.7783
+	}
+}
+{Volume "noga_l"
+	{Box 48.6935 4.28955 3.18356}
+	{Bone "noga_l"}
+	{Matrix34
+		-0.988981	0.0160707	0.147168
+		-0.00930351	-0.998872	0.0465559
+		0.147751	0.0446738	0.988015
+		22.0381	-0.059698	-0.264714
+	}
+}
+{Volume "noga_r"
+	{Box 45.4749 4.82574 3.74062}
+	{Bone "part1"}
+	{Matrix34
+		0.988219	-0.0137918	0.152427
+		0.0204755	0.998893	-0.0423679
+		-0.151674	0.0449898	0.987406
+		-23.4888	-0.554087	-0.725573
+	}
+}
+{Volume "shield2"
+	{Box 20.071 4.50235 0.284359}
+	{Bone "part2"}
+	{Matrix34
+		0	0	-1
+		-1	0	0
+		0	1	0
+		3.34661	0.142392	4.58428
+	}
+}
+{Volume "shielg3"
+	{Box 25.0459 5.261 0.473932}
+	{Bone "part3"}
+	{Matrix34
+		-1	0	0
+		0	0.876436	0.481518
+		0	0.481518	-0.876436
+		0.0230998	4.52346	1.36806
+	}
+}
+{Volume "shielg"
+	{Box 25.071 9.81039 0.473932}
+	{Bone "part3"}
+	{Matrix34
+		-1	0	0
+		0	1	0
+		0	0	-1
+		0.0230998	-2.81661	0.048193
+	}
+}
+{Volume "wheell"
+	{Cylinder 10.0449 2.62803}
+	{Bone "koleso_l"}
+	{Matrix34
+		-1	0	0
+		0	1	0
+		0	0	1
+		0.19473	0.0205888	-0.023645
+	}
+}
+{Volume "wheelr"
+	{Cylinder 10.0449 2.62803}
+	{Bone "koleso_r"}
+	{Matrix34
+		-1	0	0
+		0	1	0
+		0	0	-1
+		0.194729	0.0205861	-0.313063
+	}
+}

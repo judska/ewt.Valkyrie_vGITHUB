@@ -1,0 +1,12 @@
+{game_entity
+	{Extension "b1bis_at_xx.mdl"}
+	{Volume "body"
+	}
+	{Volume "gun2"
+	}
+	{Volume "trackleft"
+	}
+	{Volume "trackright"
+	}
+
+}

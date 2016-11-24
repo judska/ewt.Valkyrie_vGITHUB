@@ -1,0 +1,8 @@
+{game_entity
+	(include "/properties/stuff.ext")
+	{extension "ammo_mortar50_fguk.mdl"}
+	(include "/properties/shadow/round.inc")
+	{extender "stuff"
+		{item "mortar50 fguk"}
+	}
+}

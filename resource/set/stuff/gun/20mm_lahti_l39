@@ -1,0 +1,25 @@
+{from "pattern gun"		; 20 pst kiv/39 "Norsupyssy"
+	{filling "ammo ptr" 10}	
+	{fireSound "gun/20mm_lahti_l39"}
+	{reloadSound "lahti_l39_reload"}
+	{rechargeTime 8.0}
+	{RecoveryTime 1.25}
+	
+	
+	("speed" s(800))
+	("caliber_zenite")
+	("recoveryTime" r(30))
+	{projectileDamage 30}
+	("damage" a(45) b(40) c(35) d(30) e(25))
+	{range 120 120}
+	{AimingTolerance 1}
+	{parameters "fg"	
+		{range 80 90}
+	}
+	
+	
+	
+	{RelaxationTime 1}
+	{ZeroingAccuracy 0.8 0.4 0.2}
+	("accuracy_zenite_medium")
+}

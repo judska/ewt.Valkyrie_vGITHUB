@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "fin-helm4"}
+	{specular "fin-helm4 sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

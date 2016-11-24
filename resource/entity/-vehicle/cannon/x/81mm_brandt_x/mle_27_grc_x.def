@@ -1,0 +1,7 @@
+{game_entity
+	{Extension "81_mm_brandt_mle_27-31_x.mdl"}
+	{Volume "body"
+	}
+	{Volume "gun"
+	}
+}

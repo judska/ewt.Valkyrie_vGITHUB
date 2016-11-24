@@ -1,0 +1,97 @@
+﻿{entity
+	(include "/properties/car.ext")
+	(include "/properties/shadow/tank.inc"  scale(1.0))
+	(include "/properties/selection/vehicle.inc"  scale(1.1))
+	{props "vehicle" "car" "truck" "wheeled" "with_doors"}
+	{Props "emit_on_attack"}
+
+	("crew_2_human")
+	
+	("wheel" args "wheelright1")
+	("wheel" args "wheelleft1")
+	("wheel" args "wheelright2")
+	("wheel" args "wheelleft2")	
+	
+
+
+	("board_animation"
+		place(driver)
+		board_begin(board_willis_driver)
+		board_end(seat_Willis_driver)
+		base(doorleft)
+	)
+	("board_animation"
+		place(commander)
+		board_begin(board_willis)
+		board_end(seat_Willis_passenger)
+		base(doorright)
+	)
+	{boarder
+		{anm "gunner"
+			{forward	{begin	"board_LowTank_stand"} {end "seat_gunner_stand"}}
+			{reverse 	{end	"emit_tank_1_hold" 1}}
+		}
+	}
+	
+	("crew_human"		place(gunner)	bone(gunner)	door(emit3)		animation(gunner))
+
+	{placer
+		{place "driver"		{group "gunner"} {visor "driver"}}
+		{place "commander"	{group "gunner"} {visor "driver"}}
+		{place "gunner"		{group "gunner"} {visor "main"} {turnoff {targetable 0}}}
+	}
+	
+	{Weaponry
+		{place "mgun"
+			{type "mgun_main"}
+			{charger "gunner"}
+			{LinkBone "mgun"}
+			{LinkAnimation "off"}
+			("abm_mgun")
+		}
+	}
+	{extender "inventory"
+		{weapon "mgun"
+			{mask "weapon mgun"}
+		}
+		{Box
+			{size 5 6}
+			{item  "ammo mgun" 1000}
+						{item "repair_kit" 2}
+ 
+			{item "hotchkiss" filled {user "mgun"}}
+		}
+	}
+	{mass 15000}
+	{Chassis
+		{Locomotion ("locomotion")
+			{Maxspeed 50}
+			{StartTime	3}		; ˘ŕĄ¬ď ŕ §Ł®­  ¤® ¬ Şá. áŞ®ŕ®áâ¨ á 0, seconds
+		}
+	}	
+	
+	{Volume "body"
+		{tags "body"}
+		{component "body"}
+		{thickness 7}   
+	}
+	{Volume "engine"
+		{tags "engine"}
+		{component "engine"}
+		{thickness 8}  	
+	}
+
+	
+	{sensor
+		{visor "driver"
+			{bone "visor1"}
+			{vision "moto_crew"}
+		}
+		{visor "main"
+			{bone "visor2"}
+			{vision "vehicle_top_mgun"}
+		}
+	}
+	
+	{Extension "laffly_v15t.mdl"}	
+}

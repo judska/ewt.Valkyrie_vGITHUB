@@ -1,0 +1,49 @@
+;Exported by: 000
+;Date:        Mon Oct 17 00:30:36 2011
+;File:        C:\Users\000\Documents\3dsmax\scenes\‘–¿Õ  ÿÀ≈Ã.max
+{Skeleton
+	{bone "basis"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "frame_16"
+			{Matrix34
+				0.989211	0	0.146498
+				-0.146485	-0.013205	0.989125
+				0.0019345	-0.999913	-0.0130625
+				0.538791	0.625921	2.23525
+			}
+			{VolumeView "frame_16.ply"}
+		}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "frame_16"}
+	{Matrix34
+		0	0.0132057	0.999913
+		-0.0127923	0.999831	-0.0132041
+		-0.999918	-0.0127905	0.000168258
+		2.37219	0.89926	0.663017
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 7.43053	3.173	6.24161}
+			{lookat -36.7252	-17.4172	-16.4079}
+			{fov 45}
+		}
+		{lights
+			{"0"
+				{type spot}
+				{position 21.6859	11.1509	12.2564}
+				{direction -0.376296	-0.176866	-0.277704}
+				{theta 43}
+				{phi 45}
+			}
+		}
+	}
+}

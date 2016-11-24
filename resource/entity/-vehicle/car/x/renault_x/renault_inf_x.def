@@ -1,0 +1,27 @@
+{game_entity
+	{Extension "renault_eng_x.mdl"}
+	{Volume "body"
+	}
+	{Volume "bodyback"
+	}
+	{Volume "cabin2"
+	}
+	{Volume "cabin"
+	}
+	{Volume "engine"
+	}
+	{Volume "gun"
+	}
+	{Volume "shield"
+	}
+	{Volume "turret"
+	}
+	{Volume "wheelleft1"
+	}
+	{Volume "wheelleft2"
+	}
+	{Volume "wheelright1"
+	}
+	{Volume "wheelright2"
+	}
+}
