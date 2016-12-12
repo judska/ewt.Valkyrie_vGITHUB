@@ -6,6 +6,7 @@
 	{icon_priority 3}
 	{armors
 		{head helmet_marine_usa}
+		{body "body_armor"}
 	}
 	{perks
 		{"health" "250%"

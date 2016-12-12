@@ -97,10 +97,10 @@
     {content "%c1 ( mp/%s/%n1 ) %c2 ( mp/%s/%n2 ) %c3 ( mp/%s/%n3 )"}
 )
 
-; 2 vehicles - 3 infantry types
-(define "23v"
+; 2 vehicles - 4 infantry types
+(define "24v"
     ("generic_h" c(%c) t(%t %s) g(%g) b(%b))
-    {content "%c1 ( mp/%s/%n1 ) %c2 ( mp/%s/%n1 mp/%s/%n2 mp/%s/%n3 )"}
+    {content "%c1 ( mp/%s/%n1 mp/%s/%n2 mp/%s/%n3 mp/%s/%n4 ) %c2 ( mp/%s/%n1 mp/%s/%n2 mp/%s/%n3 mp/%s/%n4 )"}
 )
 
 ; 1 vehicle - 2 infantry types

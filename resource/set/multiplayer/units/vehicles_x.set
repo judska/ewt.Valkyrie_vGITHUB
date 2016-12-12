@@ -17,7 +17,6 @@
 {"pak43"        		("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"np_sdkfz251_1w"        	("extra" t() sc(900.00) cw(0) cp(5))}	;5
 {"veteran_tiger"                ("extra" t() sc(1400.00) cw(0) cp(30))}	;7
-{"sturmtiger"        	        ("extra" t() sc(2000.00) cw(0) cp(32))}	;10
 
 {"type89"        	        ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"ho-ni_3"        		("extra" t() sc(300.00) cw(0) cp(10))}	;2
@@ -57,7 +56,7 @@
 
 {"maxim_ind"        	        ("extra" t() sc(75.00) cw(0) cp(2.5))}	;1
 {"76mm_m1909_fin"	        ("extra" t() sc(350.00) cw(0) cp(10))}	;2
-{"t34_42_fin"        		("extra" t() sc(440.00) cw(0) cp(15))}	;3
+{"charioteer"        		("extra" t() sc(440.00) cw(0) cp(15))}	;7
 {"bt42"        		        ("extra" t() sc(440.00) cw(0) cp(15))}	;3
 {"kv1_41_fin"                   ("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"su152"        		("extra" t() sc(1000.00) cw(0) cp(15))}	;6

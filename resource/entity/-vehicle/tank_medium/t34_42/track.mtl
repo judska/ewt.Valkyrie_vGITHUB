@@ -1,4 +1,0 @@
-{material simple
-	{diffuse "$/animation/t34"}
-	{blend test}
-}

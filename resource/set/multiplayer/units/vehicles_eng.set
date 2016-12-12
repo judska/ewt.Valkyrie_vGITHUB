@@ -27,7 +27,7 @@
 ("how" side(eng) name(how_a) c(0) c1(universal_carrier) c2(bl6)   		t(all artillery heavyart) g(c9) b(v2) level(9) cost(800) f(1.0))
 
 {"bishop"           ("v"  c(0) t(all artillery) 		s(eng) n1(3) n2(1) g(c10) sc(550.00) b(v2) cw(0) cp(15)) {level 12} {cost 550} {fore 1.0}}
-{"staghound_e1"     ("v" c(0) t(all artillery heavyart) s(eng)  n1(3) n2(1) g(c11) sc(600.00) b(v2) cw(0) cp(15)) {level 15} {cost 600} {fore 1.0}}
+{"m7_eng"           ("v" c(0) t(all artillery heavyart) s(eng)  n1(3) n2(1) g(c11) sc(705.00) b(v2) cw(0) cp(15)) {level 15} {cost 705} {fore 1.0}}
 ("how" side(eng) name(land_mattress) c(0) c1(universal_carrier) c2(land_mattress)   t(all artillery heavyart) g(c12) b(v2) level(18) cost(1150) f(1.0))
 
 
@@ -59,8 +59,8 @@
 
 ;같캛utton 5같�
 
-{"archer"           ("v" c(0) t(all medium) 		s(eng) n1(3) n2(1) g(f1) sc(500.00) b(v5) cw(0) cp(10)) {level 1} {cost 500} {fore 1.0}}
-{"achilles"         ("v" c(0) t(all medium) 		s(eng) n1(4) n2(1) g(f2) sc(650.00) b(v5) cw(0) cp(10)) {level 1} {cost 650} {fore 1.0}}		
+{"archer"           ("v" c(0) t(all medium) 		s(eng) n1(3) n2(1) g(f1) sc(660.00) b(v5) cw(0) cp(10)) {level 1} {cost 660} {fore 1.0}}
+{"achilles"         ("v" c(0) t(all medium) 		s(eng) n1(4) n2(1) g(f2) sc(690.00) b(v5) cw(0) cp(10)) {level 1} {cost 690} {fore 1.0}}		
 
 
 ;같캛utton Hero같�

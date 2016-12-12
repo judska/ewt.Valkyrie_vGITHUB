@@ -4,90 +4,12 @@
 
 		}		
 ;---------------1x1----------------------------		
-		{"1v1_abbey"		
-			{"name" "<e(shadow)><c(02afb3)>(BZ)</c></e> Abbey <e(shadow)><c(FBCC98)>1v1</c>"}
-                }		
-		{"1v1_ace"		
-			{"name" "<e(shadow)><c(02afb3)>(BZ)</c></e> Ace <e(shadow)><c(FBCC98)>1v1</c>"}
-                }		
-		{"1v1_africa"		
-			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Africa <e(shadow)><c(FBCC98)>1v1</c>"}
-                }		
-		{"1v1_airborne"		
-			{"name" "<e(shadow)><c(02afb3)>(BZ)</c></e> Airborne <e(shadow)><c(FBCC98)>1v1</c>"}
-                }
-                {"ambush_1vs1"		
-			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Ambush <e(shadow)><c(FBCC98)>1v1</c>"}
-                }
-                {"1v1_ardennes"          
-                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Ardennes <e(shadow)><c(FBCC98)>1x1</c>"}
-                }
-                {"sandstorm_1vs1"		
-			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Sandstorm <e(shadow)><c(FBCC98)>1v1</c>"}
-                }		
-		{"1v1_atlantikwall"		
-			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Atlantikwall <e(shadow)><c(FBCC98)>1v1</c>"}
-                }		
 		{"1v1_argentan"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Argentan <e(shadow)><c(FBCC98)>1v1</c>"}	
-                }		
-		{"1v1_bocage_obs"		
-			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Bocage <e(shadow)><c(FBCC98)>1v1</c>"}	
-                }		
-		{"1v1_bridges"		
-			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Bridges <e(shadow)><c(FBCC98)>1v1</c>"}	
-                }		
-		{"1v1_creek"		
-			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Creek <e(shadow)><c(FBCC98)>1v1</c>"}
-                }		
-		{"1v1_deb_obs"		
-			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Deb <e(shadow)><c(FBCC98)>1v1</c>"}
-                }		
-		{"1v1_docklands"		
-			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Docklands <e(shadow)><c(FBCC98)>1v1</c>"}
                 }
-                {"1v1_el_guettar"          
-                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> El Guettar <e(shadow)><c(FBCC98)>1x1</c>"}
-                }
-                {"1v1_facility"          
-                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Facility <e(shadow)><c(FBCC98)>1x1</c>"}
-                }
-                {"1v1_falaise"		
-			{"name" "<e(shadow)><c(02b306)>(VT)</c></e> Falaise <e(shadow)><c(FBCC98)>1x1</c>"}	
-		}			
-		{"1v1_farmland_obs"		
-			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Farmland <e(shadow)><c(FBCC98)>1v1</c>"}
-                }
-		{"1v1_farmland"		
-			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Farmland <e(shadow)><c(FBCC98)>1v1</c>"}
-		}
-		{"farm_1vs1"		
-			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Farm <e(shadow)><c(FBCC98)>1v1</c>"}	
-                }		
 		{"1v1_frozen_river"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Frozen River <e(shadow)><c(FBCC98)>1v1</c>"}	
 	        }
-                {"1v1_kesthell"          
-                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Kesthell <e(shadow)><c(FBCC98)>1x1</c>"}
-                }
-                {"1v1_langres"          
-                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Langres <e(shadow)><c(FBCC98)>1x1</c>"}
-                }
-                {"1v1_market"          
-                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Market <e(shadow)><c(FBCC98)>1x1</c>"}
-                }	
-		{"1v1_shattered_town"		
-			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Shattered Town <e(shadow)><c(FBCC98)>1v1</c>"}			
-		}		
-		{"1v1_ural_mountains"		
-			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Ural Mountains <e(shadow)><c(FBCC98)>1v1</c>"}		
-		}		
-		{"1v1_okinawa"		
-			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Okinawa <e(shadow)><c(FBCC98)>1v1</c>"}	
-		}
-		{"1v1_ostwind"          
-                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Ostwind <e(shadow)><c(FBCC98)>1x1</c>"}
-                }
 		{"1v1_spring"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Spring <e(shadow)><c(FBCC98)>1v1</c>"}		
 		}		
@@ -100,146 +22,222 @@
 		{"1v1_winter_town"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Winter Town <e(shadow)><c(FBCC98)>1v1</c>"}	
 		}		
-		{"1v1_snowfields"		
-			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Snow Fields <e(shadow)><c(FBCC98)>1v1</c>"}
-                }
-                {"1v1_swamp"		
-			{"name" "<e(shadow)><c(02b306)>(GO)</c></e> Swamp <e(shadow)><c(FBCC98)>1v1</c>"}		
-		}		
 		{"1v1_reloading_point"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Reloading Point <e(shadow)><c(FBCC98)>1v1</c>"}	
-		}		
+		}
+		{"1v1_road"		
+			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Road <e(shadow)><c(FBCC98)>1v1</c>"}	
+		}	
+		{"1v1_snowfields"		
+			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Snow Fields <e(shadow)><c(FBCC98)>1v1</c>"}
+                }		
 		{"1v1_winter_hills"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Winter Hills <e(shadow)><c(FBCC98)>1v1</c>"}	
 		}		
 		{"1v1_winter_church"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Winter Church <e(shadow)><c(FBCC98)>1v1</c>"}	
-		}		
-		{"1v1_road"		
-			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Road <e(shadow)><c(FBCC98)>1v1</c>"}	
-		}		
-		{"1v1_kreuzberg_obs"		
+		}			
+		{"1v1m_bz_abbey"		
+			{"name" "<e(shadow)><c(02afb3)>(BZ)</c></e> Abbey <e(shadow)><c(FBCC98)>1v1</c>"}
+                }		
+		{"1v1m_bz_ace"		
+			{"name" "<e(shadow)><c(02afb3)>(BZ)</c></e> Ace <e(shadow)><c(FBCC98)>1v1</c>"}
+                }		
+		{"1v1m_bz_airborne"		
+			{"name" "<e(shadow)><c(02afb3)>(BZ)</c></e> Airborne <e(shadow)><c(FBCC98)>1v1</c>"}
+                }		
+                {"1v1m_gu_ambush"		
+			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Ambush <e(shadow)><c(FBCC98)>1v1</c>"}
+                }
+		{"1v1m_gu_farm"		
+			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Farm <e(shadow)><c(FBCC98)>1v1</c>"}	
+                }
+                {"1v1m_gu_sandstorm"		
+			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Sandstorm <e(shadow)><c(FBCC98)>1v1</c>"}
+                }
+		{"1v1m_r6_bocage_obs"		
+			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Bocage <e(shadow)><c(FBCC98)>1v1</c>"}	
+                }
+		{"1v1m_r6_deb_obs"		
+			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Deb <e(shadow)><c(FBCC98)>1v1</c>"}
+                }	
+		{"1v1m_r6_farmland_obs"		
+			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Farmland <e(shadow)><c(FBCC98)>1v1</c>"}
+                }
+		{"1v1m_r6_farmland"		
+			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Farmland <e(shadow)><c(FBCC98)>1v1</c>"}
+		}	
+		{"1v1m_r6_kreuzberg_obs"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Kreuzberg <e(shadow)><c(FBCC98)>1v1</c>"}		
 		}		
-		{"1v1_lumber_obs"		
+		{"1v1m_r6_lumber_obs"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Lumber <e(shadow)><c(FBCC98)>1v1</c>"}	
 		}		
-		{"1v1_scheldt_obs"		
+		{"1v1m_r6_scheldt_obs"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Scheldt <e(shadow)><c(FBCC98)>1v1</c>"}	
 		}		
-		{"1v1_snow_heights_obs"		
+		{"1v1m_r6_snow_heights_obs"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Snow Heights <e(shadow)><c(FBCC98)>1v1</c>"}		
 		}		
-		{"1v1_stalingrad_obs"		
+		{"1v1m_r6_stalingrad_obs"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Stalingrad <e(shadow)><c(FBCC98)>1v1</c>"}	
 		}		
-		{"1v1_tramway"		
+		{"1v1m_r6_tramway"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Tramway <e(shadow)><c(FBCC98)>1v1</c>"}	
 		}		
-		{"1v1_workshop_obs"		
+		{"1v1m_r6_workshop_obs"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Workshop <e(shadow)><c(FBCC98)>1v1</c>"}		
+		}
+                {"1v1m_sh_africa"		
+			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Africa <e(shadow)><c(FBCC98)>1v1</c>"}
+                }		
+		{"1v1m_sh_atlantikwall"		
+			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Atlantikwall <e(shadow)><c(FBCC98)>1v1</c>"}
+                }				
+		{"1v1m_sh_bridges"		
+			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Bridges <e(shadow)><c(FBCC98)>1v1</c>"}	
+                }		
+		{"1v1m_sh_creek"		
+			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Creek <e(shadow)><c(FBCC98)>1v1</c>"}
+                }			
+		{"1v1m_sh_docklands"		
+			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Docklands <e(shadow)><c(FBCC98)>1v1</c>"}
+                }
+		{"1v1m_sh_shattered_town"		
+			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Shattered Town <e(shadow)><c(FBCC98)>1v1</c>"}			
 		}		
+		{"1v1m_sh_ural_mountains"		
+			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Ural Mountains <e(shadow)><c(FBCC98)>1v1</c>"}		
+		}		
+		{"1v1m_sh_okinawa"		
+			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Okinawa <e(shadow)><c(FBCC98)>1v1</c>"}	
+		}
+                {"1v1m_vt_ardennes"          
+                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Ardennes <e(shadow)><c(FBCC98)>1x1</c>"}
+                }
+                {"1v1m_vt_el_guettar"          
+                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> El Guettar <e(shadow)><c(FBCC98)>1x1</c>"}
+                }
+                {"1v1m_vt_facility"          
+                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Facility <e(shadow)><c(FBCC98)>1x1</c>"}
+                }
+                {"1v1m_vt_falaise"		
+			{"name" "<e(shadow)><c(02b306)>(VT)</c></e> Falaise <e(shadow)><c(FBCC98)>1x1</c>"}	
+		}			
+                {"1v1m_vt_kesthell"          
+                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Kesthell <e(shadow)><c(FBCC98)>1x1</c>"}
+                }
+                {"1v1m_vt_langres"          
+                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Langres <e(shadow)><c(FBCC98)>1x1</c>"}
+                }
+                {"1v1m_vt_market"          
+                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Market <e(shadow)><c(FBCC98)>1x1</c>"}
+                }	
+		{"1v1m_vt_ostwind"          
+                        {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Ostwind <e(shadow)><c(FBCC98)>1x1</c>"}
+                }
+                {"1v1m_vt_swamp"		
+			{"name" "<e(shadow)><c(02b306)>(VT)</c></e> Swamp <e(shadow)><c(FBCC98)>1v1</c>"}		
+		}				
+	
 ;---------------2x2----------------------------	
-		{"2v2_lakeland_2_v2"		
+		{"2v2x_th_lakeland_2_v2"		
 			{"name" "<e(shadow)><c(02afb3)>(TH)</c></e> Lakeland <e(shadow)><c(FF0000)>2v2</c>"}	
 		}
-		{"2v2_ace"		
+		{"2v2x_bz_ace"		
 			{"name" "<e(shadow)><c(02afb3)>(BZ)</c></e> Ace <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-                {"2v2_ardennes"
+                {"2v2x_vt_ardennes"
                         {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Ardennes <e(shadow)><c(FF0000)>2x2</c>"}
                 }
-		{"bazerville_2vs2"		
+		{"2v2x_gu_bazerville"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Bazerville <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-		{"bog_2vs2"		
+		{"2v2x_gu_bog"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Bog <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-		{"cuckyard_2vs2"		
+		{"2v2x_gu_cuckyard"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Cuckyard <e(shadow)><c(FF0000)>2v2</c>"}	
                 }
-		{"desert_airport_2vs2"		
+		{"2v2x_gu_desert_airport"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Desert Airport <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-		{"eastern_front_2vs2"		
+		{"2v2x_gu_eastern_front"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Eastern Front <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-                {"2v2_el_guettar"
+                {"2v2x_vt_el_guettar"
 			{"name" "<e(shadow)><c(02b306)>(VT)</c></e> El Guettar <e(shadow)><c(FF0000)>2x2</c>"}
 		}
-		{"forest_2vs2"		
+		{"2v2x_gu_forest"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Forest <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-                {"fragtown_2vs2"		
+                {"2v2x_gu_fragtown"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Frag Town <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-                {"stalingrad_2vs2"		
+                {"2v2x_gu_stalingrad"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Stalingrad <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-                {"suburb_2vs2"		
+                {"2v2x_gu_suburb"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Suburb <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-                {"subzero_2vs2"		
+                {"2v2x_gu_subzero"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> SubZero <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-                {"village_2vs2"		
+                {"2v2x_gu_village"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Village <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-                {"westland_2vs2_v2"		
+                {"2v2x_gu_westland_v2"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Westland <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-                {"tramway_2vs2"		
+                {"2v2x_gu_tramway"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Tramway <e(shadow)><c(FF0000)>2v2</c>"}
 		}		
-                {"grasslands_2vs2"		
+                {"2v2x_gu_grasslands"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Grassland <e(shadow)><c(FF0000)>2v2</c>"}
 		}	
-		{"2v2_airborne"		
+		{"2v2x_bz_airborne"		
 			{"name" "<e(shadow)><c(02afb3)>(BZ)</c></e> Airborne <e(shadow)><c(FF0000)>2v2</c>"}	
 		}					
-		{"2v2_shattered_town"		
+		{"2v2x_sh_shattered_town"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Shattered Town <e(shadow)><c(FF0000)>2v2</c>"}
                 }					
-		{"2v2_streets"		
+		{"2v2x_sh_streets"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Streets <e(shadow)><c(FF0000)>2v2</c>"}
                 }					
-		{"2v2_iwo"		
+		{"2v2x_sh_iwo"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Iwo Jima <e(shadow)><c(FF0000)>2v2</c>"}	
 		}	
-		{"2v2_streets"		
+		{"2v2x_sh_streets"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Streets<e(shadow)><c(FF0000)>2v2</c>"}	
-		}
-		{"2v2_iwo"		
-			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Iwo Jima<e(shadow)><c(FF0000)>2v2</c>"}	
-		}		
-		{"2v2_creek"		
+		}	
+		{"2v2x_sh_creek"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Creek <e(shadow)><c(FF0000)>2v2</c>"}	
 		}
-                {"2v2_oasis"
+                {"2v2x_vt_oasis"
                         {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Oasis <e(shadow)><c(FF0000)>2x2</c>"}
                 }
-                {"2v2_ostwind"
+                {"2v2x_vt_ostwind"
                         {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Ostwind <e(shadow)><c(FF0000)>2x2</c>"}
                 }
-		{"2v2_italy"		
+		{"2v2x_sh_italy"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Italy <e(shadow)><c(FF0000)>2v2</c>"}	
 		}			
-		{"2v2_africa"		
+		{"2v2x_sh_africa"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Africa <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_ural_mountains"		
+		{"2v2x_sh_ural_mountains"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Ural Mountains <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_atlantikwall"		
+		{"2v2x_sh_atlantikwall"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Atlantikwall <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_bridges"		
+		{"2v2x_sh_bridges"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Bridges <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_docklands"		
+		{"2v2x_sh_docklands"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Docklands <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_okinawa"		
+		{"2v2x_sh_okinawa"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Okinawa <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
 		{"2v2_bocage"		
@@ -260,14 +258,14 @@
 		{"2v2_kanawa_mine"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Kanawa Mine <e(shadow)><c(FF0000)>2v2</c>"}	
 		}
-                {"2v2_karelia"		
+                {"2v2x_vt_karelia"		
 			{"name" "<e(shadow)><c(02b306)>(VT)</c></e> Karelia <e(shadow)><c(FF0000)>2x2</c>"}	
 		}		
 		{"2v2_trainyard"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Trainyard <e(shadow)><c(FF0000)>2v2</c>"}		
 		}		
 		{"2v2_canyon"		
-			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Canyon <e(shadow)><c(FF0000)>2v2</c>"}
+			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Canyon <e(shadow)><c(FF0000)>2v2</c>"}
 		}		
 		{"2v2_plateau"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Plateau <e(shadow)><c(FF0000)>2v2</c>"}		
@@ -284,74 +282,77 @@
 		{"2v2_cold_stream"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Cold Stream <e(shadow)><c(FF0000)>2v2</c>"}		
 		}		
-		{"2v2_Bestland"		
+		{"2v2x_r6_Bestland"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Bestland <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_castle"		
+		{"2v2x_mw_castle"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Castle <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_farm"		
+		{"2v2x_mw_farm"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Farm <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_dead_center"		
+		{"2v2x_r6_dead_center"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Dead Center <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_fields_near_sherbourg"		
+		{"2v2x_r6_fields_near_sherbourg"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Fields Near Sherbourg <e(shadow)><c(FF0000)>2v2</c>"}		
 		}		
-		{"2v2_Mirage"		
+		{"2v2x_r6_Mirage"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Mirage <e(shadow)><c(FF0000)>2v2</c>"}		
 		}		
-		{"2v2_snake_ice"		
+		{"2v2x_r6_snake_ice"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Snake Attack <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_snow_heights"		
+		{"2v2x_r6_snow_heights"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Snow Heights <e(shadow)><c(FF0000)>2v2</c>"}	
 		}
-                {"2v2_novgorod"
+                {"2v2x_vt_novgorod"
                         {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Novgorod <e(shadow)><c(FF0000)>2x2</c>"}
                 }		
-		{"2v2_snow_serpent"		
+		{"2v2x_r6_snow_serpent"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> snow serpent <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_tattarby"		
+		{"2v2x_r6_tattarby"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Tattarby <e(shadow)><c(FF0000)>2v2</c>"}	
 		}		
-		{"2v2_theorchard"		
+		{"2v2x_r6_theorchard"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> The Orchard <e(shadow)><c(FF0000)>2v2</c>"}
                 }
-                {"tramway_2vs2"		
+                {"2v2x_gu_tramway"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Tramway <e(shadow)><c(FF0000)>2v2</c>"}	
 		}
-                {"2v2_tunisia"
+                {"2v2x_vt_tunisia"
                         {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Tunisia <e(shadow)><c(FF0000)>2x2</c>"}
-                }		
+                }	
+		{"2v2_ramelle"		
+			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Ramelle <e(shadow)><c(FF0000)>2v2</c>"}
+		}
 ;---------------3x3----------------------------				
-		{"3v3_shattered_town"		
+		{"3v3x_sh_shattered_town"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Shattered Town <e(shadow)><c(081CF7)>3v3</c>"}	
 		}		
-		{"3v3_docklands"		
+		{"3v3x_sh_docklands"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Docklands <e(shadow)><c(081CF7)>3v3</c>"}
                 }		
-		{"hunting_3vs3"		
+		{"3v3x_gu_hunting"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Hunting <e(shadow)><c(081CF7)>3v3</c>"}
                 }		
-		{"dubovka_3vs3"		
+		{"3v3x_gu_dubovka"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Dubovka <e(shadow)><c(081CF7)>3v3</c>"}
                 }		
-		{"fields_3vs3"		
+		{"3v3x_gu_fields"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Fields <e(shadow)><c(081CF7)>3v3</c>"}	
 		}		
-		{"3v3_atlantikwall"		
+		{"3v3x_sh_atlantikwall"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Atlantikwall <e(shadow)><c(081CF7)>3v3</c>"}
 		}		
-		{"3v3_creek"		
+		{"3v3x_sh_creek"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Creek <e(shadow)><c(081CF7)>3v3</c>"}	
 		}		
-		{"3v3_ural_mountains"		
+		{"3v3x_sh_ural_mountains"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Ural Mountains <e(shadow)><c(081CF7)>3v3</c>"}	
 		}		
-		{"3v3_okinawa"		
+		{"3v3x_sh_okinawa"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Okinawa <e(shadow)><c(081CF7)>3v3</c>"}	
 		}		
 		{"3v3_oasis"		
@@ -378,7 +379,7 @@
 		{"3v3_kasserine_pass"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Kasserine Pass <e(shadow)><c(081CF7)>3v3</c>"}	
 		}
-                {"3v3_karelia"		
+                {"3v3x_vt_karelia"		
 			{"name" "<e(shadow)><c(02b306)>(VT)</c></e> Karelia <e(shadow)><c(081CF7)>3x3</c>"}	
 		}		
 		{"3v3_westland"		
@@ -390,35 +391,41 @@
 		{"3v3_desert_town"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Desert Town <e(shadow)><c(081CF7)>3v3</c>"}	
 		}		
-		{"3v3_bastogne"		
+		{"3v3x_r6_bastogne"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Bastogne <e(shadow)><c(081CF7)>3v3</c>"}	
 		}		
-		{"3v3_bastogne_town"		
+		{"3v3x_r6_bastogne_town"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Bastogne Town <e(shadow)><c(081CF7)>3v3</c>"}	
 		}			
-		{"3v3_Hemeroulle_1219"		
+		{"3v3x_r6_Hemeroulle_1219"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Hemeroulle <e(shadow)><c(081CF7)>3v3</c>"}	
 		}		
-		{"3v3_elzas"		
+		{"3v3x_r6_elzas"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Elzas <e(shadow)><c(081CF7)>3v3</c>"}	
 		}		
-		{"3v3_ostfront"		
+		{"3v3x_r6_ostfront"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Ostfront <e(shadow)><c(081CF7)>3v3</c><c(FFF700)> * "}	
 		}		
-		{"3v3_west_front"		
+		{"3v3x_r6_west_front"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> West Front <e(shadow)><c(081CF7)>3v3</c>"}	
 		}		
-		{"3v3_frenchcommunity"		
+		{"3v3x_r6_frenchcommunity"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> French Town <e(shadow)><c(081CF7)>3v3</c>"}	
 		}
-                {"3v3_tunisia"		
+                {"3v3x_vt_tunisia"		
 			{"name" "<e(shadow)><c(02b306)>(VT)</c></e> Tunisia <e(shadow)><c(081CF7)>3x3</c>"}	
 		}
-                {"3v3_novgorod"
+                {"3v3x_vt_novgorod"
                         {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Novgorod <e(shadow)><c(081CF7)>3x3</c>"}
-                }		
+                }	
+		{"3v3_elalamein"		
+			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> El Alamein <e(shadow)><c(081CF7)>3v3</c>"}
+		}
+		{"3v3_shattered"		
+			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Shattered <e(shadow)><c(081CF7)>3v3</c>"}
+		}	
 ;---------------4x4----------------------------	
-		{"4v4_creek"		
+		{"4v4x_sh_creek"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Creek <e(shadow)><c(218200)>4v4</c>"}		
 		}		
 		{"4v4_depot"		
@@ -448,52 +455,49 @@
 		{"4v4_hutor"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Hutor <e(shadow)><c(218200)>4v4</c>"}	
 		}
-		{"4x4_manufactory"		
-			{"name" "<e(shadow)><c(02b306)>(CN)</c></e> Manufactory <e(shadow)><c(218200)>4v4</c>"}	
-		}
-                {"4v4_novgorod"
+                {"4v4x_vt_novgorod"
                         {"name" "<e(shadow)><c(02b306)>(VT)</c></e> Novgorod <e(shadow)><c(218200)>4x4</c>"}
                 }		
-		{"4v4_bridges_quartet"		
+		{"4v4x_mw_bridges_quartet"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Bridges Quartet <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_Countryside"		
+		{"4v4x_mw_Countryside"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Countryside <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_desert_airport"		
+		{"4v4x_mw_desert_airport"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Desert Airport <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_gold_rush"		
+		{"4v4x_mw_gold_rush"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Gold Rush <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_PH_Hutor"		
+		{"4v4x_mw_PH_Hutor"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Hutor 2 <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_Bog"		
+		{"4v4x_r6_Bog"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Bog <e(shadow)><c(218200)>4v4</c>"}	
 		}			
-		{"4v4_oasis"		
+		{"4v4x_r6_oasis"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Oasis <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_Wetland"		
+		{"4v4x_r6_Wetland"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Wetland <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_Tessel"		
+		{"4v4x_r6_Tessel"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Tessel <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_Ga'an"		
+		{"4v4x_r6_Ga'an"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Ga'an <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_road_to_takama"		
+		{"4v4x_r6_road_to_takama"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Road to Takama <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_to_berlin"		
+		{"4v4x_r6_to_berlin"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> To Berlin <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_advance2"		
+		{"4v4x_r6_advance2"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Advance <e(shadow)><c(218200)>4v4</c>"}	
 		}		
-		{"4v4_Roadway"		
+		{"4v4x_r6_Roadway"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Roadway <e(shadow)><c(218200)>4v4</c><c(FFF700)> * "}	
 		}		
 ;---------------5x5----------------------------				
@@ -521,41 +525,44 @@
 		{"5v5_normandy"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Normandy <e(shadow)><c(B205FC)>5v5</c>"}	
 		}		
-		{"5v5_borovaya"		
+		{"5v5x_mw_borovaya"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> River <e(shadow)><c(B205FC)>5v5</c>"}	
 		}		
-		{"5v5_country"		
+		{"5v5x_mw_country"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Country <e(shadow)><c(B205FC)>5v5</c>"}	
 		}		
-		{"5v5_country_roads"		
+		{"5v5x_mw_country_roads"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Country Roads <e(shadow)><c(B205FC)>5v5</c>"}	
 		}		
-		{"5v5_Breakthrough"		
+		{"5v5x_r6_Breakthrough"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Breakthrough <e(shadow)><c(B205FC)>5v5</c>"}	
 		}		
-		{"5v5_ostwindrmx"		
+		{"5v5x_r6_ostwindrmx"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Ostwind Remix <e(shadow)><c(B205FC)>5v5</c>"}	
 		}		
-		{"5x5_bumpkin"		
+		{"5v5x_r6_bumpkin"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Bumpkin <e(shadow)><c(B205FC)>5v5</c>"}	
 		}		
-		{"5v5_desert_town_big"		
+		{"5v5x_r6_desert_town_big"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Grand Desert Town <e(shadow)><c(B205FC)>5v5</c>"}	
 		}		
-		{"5v5_iwo_jima"		
+		{"5v5x_r6_iwo_jima"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Iwo Jima <e(shadow)><c(B205FC)>5v5</c>"}	
 		}		
-		{"5v5_rochefort"		
+		{"5v5x_r6_rochefort"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Rochefort <e(shadow)><c(B205FC)>5v5</c>"}	
 		}		
-		{"5v5_siegfried_green"		
+		{"5v5x_r6_siegfried_green"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Siegfried Green <e(shadow)><c(B205FC)>5v5</c>"}	
 		}		
-		{"5v5_province"		
+		{"5v5x_r6_province"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Province <e(shadow)><c(B205FC)>5v5</c>"}		
+		}
+		{"5v5_docks"		
+			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Docks <e(shadow)><c(B205FC)>5v5</c>"}
 		}	
 ;---------------6x6----------------------------	
-		{"6v6_okinawa"		
+		{"6v6x_sh_okinawa"		
 			{"name" "<e(shadow)><c(afb302)>(SH)</c></e> Okinawa <e(shadow)><c(C96D2B)>6v6</c>"}	
 		}				
 		{"6v6_station"		
@@ -570,19 +577,19 @@
 		{"6v6_glubinka"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Glubinka <e(shadow)><c(C96D2B)>6v6</c>"}	
 		}		
-		{"6v6_desert_hills"		
+		{"6v6x_mw_desert_hills"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Desert Hills <e(shadow)><c(C96D2B)>6v6</c>"}	
 		}		
-		{"6v6_glubinka_Remix_ Dry"		
+		{"6v6x_r6_glubinka_Remix_ Dry"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Gublinka Dry <e(shadow)><c(C96D2B)>6v6</c>"}	
 		}		
-		{"6v6_general_winter"		
+		{"6v6x_r6_general_winter"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> General Winter <e(shadow)><c(C96D2B)>6v6</c>"}	
 		}		
-		{"6v6_june"		
+		{"6v6x_r6_june"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> June <e(shadow)><c(C96D2B)>6v6</c>"}	
 		}		
-		{"6v6_Medvedovka"		
+		{"6v6x_r6_Medvedovka"		
 			{"name" "<e(shadow)><c(B30602)>(R6)</c></e> Medvedovka <e(shadow)><c(C96D2B)>6v6</c>"}	
 		}		
 ;---------------8x8----------------------------				
@@ -604,29 +611,14 @@
 		{"8v8_sands"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Sands <e(shadow)><c(ffe400)>8v8</c>"}	
 		}		
-		{"8v8_disaster"		
+		{"8v8x_mw_disaster"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Disaster <e(shadow)><c(ffe400)>8v8</c>"}	
 		}		
-		{"8v8_port"		
+		{"8v8x_mw_port"		
 			{"name" "<e(shadow)><c(ffe400)>(MW)</c></e> Port <e(shadow)><c(ffe400)>8v8</c>"}	
 		}	
-;new default
-		{"2v2_ramelle"		
-			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Ramelle <e(shadow)><c(FF0000)>2v2</c>"}
-		}
-		{"3v3_elalamein"		
-			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> El Alamein <e(shadow)><c(081CF7)>3v3</c>"}
-		}
-		{"3v3_shattered"		
-			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Shattered <e(shadow)><c(081CF7)>3v3</c>"}
-		}
-		{"5v5_docks"		
-			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Docks <e(shadow)><c(B205FC)>5v5</c>"}
-		}
 		{"8v8_ostwind"		
 			{"name" "<e(shadow)><c(0EFF01)>(AS)</c></e> Ostwind <e(shadow)><c(ffe400)>8v8</c>"}
-                }
-                 
-
+                }   
 	}			
 }				

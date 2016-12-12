@@ -4,13 +4,13 @@
 	{reloadSound "gun_r02"}
 	{rechargeTime 3.3}
 	("caliber_medium")
-	("range_short")
+	("range_medium")
 	
         ("speed" s(765))
 	{projectileDamage 80}
-	("damage_120" a(75) b(63) c(59) d(38) e(25))
+	("damage_130" a(75) b(63) c(59) d(38) e(25))
 	{parameters "apcr"
-        ("damage_90" a(100) b(83) c(64) d(48) e(30))
+        ("damage_100" a(100) b(83) c(64) d(48) e(30))
 	}
 
 	("accuracy_low_1")

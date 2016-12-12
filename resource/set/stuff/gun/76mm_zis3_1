@@ -2,15 +2,15 @@
 	{filling "bullet76"}
 	{fireSound "gun/50to76_cal/75mm_kwk40"}
 	{reloadSound "gun_r03"}
-	("range_light_howitzer")
+	("range_medium")
 	{rechargeTime 2.9}
 	("caliber_medium")
 
 	("speed" s(420))
 	{projectileDamage 81}
-	("damage_140" a(81) b(68) c(54) d(44) e(35))
+	("damage_130" a(81) b(68) c(54) d(44) e(35))
 	{parameters "apcr"
-        ("damage_110" a(106) b(88) c(69) d(54) e(40))
+        ("damage_100" a(106) b(88) c(69) d(54) e(40))
 	}
   
     ("accuracy_minimum_1")

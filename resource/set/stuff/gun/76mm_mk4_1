@@ -3,14 +3,14 @@
 	{fireSound "gun/50to76_cal/76mm_mk4"}
 	{reloadSound "tankgun_r04"}
 	{rechargeTime 5.4}
-	("range_long")
+	("range_maximum")
 	
 	("speed" s(884))
 	("caliber_medium")
 	{projectileDamage 186}
-	("damage_140" a(186) b(159) c(133) d(110) e(91))
+	("damage_150" a(186) b(159) c(133) d(110) e(91))
 	{parameters "apcr"
-        ("damage_110" a(211) b(179) c(148) d(120) e(96))
+        ("damage_120" a(211) b(179) c(148) d(120) e(96))
 	}
 	
 	("accuracy_medium_1")	

@@ -349,16 +349,16 @@
 ("squad_with2types" side(chn) name(flamers) c(150) g(soldier_10) c1(flamer:1) c2(flamer2:1) b(squad2) t(all flamer inf_only) level(1) cost(95) f(0))
 
 
-("squad_with1types" side(rus) name(smgs3) c(0) g(soldier_11) c1(smg5:1) b(squad2) t(all inf_only support_single) level(1) cost(31) f(1.0))
-("squad_with1types" side(ger) name(smgs3) c(0) g(soldier_11) c1(smg3:1) b(squad2) t(all inf_only support_single) level(1) cost(26) f(1.0))
-("squad_with1types" side(usa) name(smgs3) c(0) g(soldier_11) c1(smg3:1) b(squad2) t(all inf_only support_single) level(1) cost(28) f(1.0))
-("squad_with1types" side(eng) name(smgs3) c(0) g(soldier_11) c1(smg4:1) b(squad2) t(all inf_only support_single) level(1) cost(26) f(1.0))
-("squad_with1types" side(jap) name(smgs3) c(0) g(soldier_11) c1(smg3:1) b(squad2) t(all inf_only support_single) level(1) cost(29) f(1.0))
-("squad_with1types" side(hun) name(smgs3) c(0) g(soldier_11) c1(smg3:1) b(squad2) t(all inf_only support_single) level(1) cost(28) f(1.0))
-("squad_with1types" side(fra) name(smgs3) c(0) g(soldier_11) c1(smg3:1) b(squad2) t(all inf_only support_single) level(1) cost(28) f(1.0))
-("squad_with1types" side(fin) name(smgs3) c(0) g(soldier_11) c1(smg3:1) b(squad2) t(all inf_only support_single) level(1) cost(31) f(1.0))
-("squad_with1types" side(ita) name(smgs3) c(0) g(soldier_11) c1(smg3:1) b(squad2) t(all inf_only support_single) level(1) cost(28) f(1.0))
-("squad_with1types" side(chn) name(smgs3) c(0) g(soldier_11) c1(smg3:1) b(squad2) t(all inf_only support_single) level(1) cost(26) f(1.0))
+("squad_with1types" side(rus) name(smgs3) c(150) g(soldier_11) c1(smg5:2) b(squad2) t(all inf_only support_single) level(1) cost(62) f(1.0))
+("squad_with1types" side(ger) name(smgs3) c(150) g(soldier_11) c1(smg3:2) b(squad2) t(all inf_only support_single) level(1) cost(52) f(1.0))
+("squad_with1types" side(usa) name(smgs3) c(150) g(soldier_11) c1(smg3:2) b(squad2) t(all inf_only support_single) level(1) cost(54) f(1.0))
+("squad_with1types" side(eng) name(smgs3) c(150) g(soldier_11) c1(smg4:2) b(squad2) t(all inf_only support_single) level(1) cost(52) f(1.0))
+("squad_with1types" side(jap) name(smgs3) c(150) g(soldier_11) c1(smg3:2) b(squad2) t(all inf_only support_single) level(1) cost(58) f(1.0))
+("squad_with1types" side(hun) name(smgs3) c(150) g(soldier_11) c1(smg3:2) b(squad2) t(all inf_only support_single) level(1) cost(54) f(1.0))
+("squad_with1types" side(fra) name(smgs3) c(150) g(soldier_11) c1(smg3:2) b(squad2) t(all inf_only support_single) level(1) cost(54) f(1.0))
+("squad_with1types" side(fin) name(smgs3) c(150) g(soldier_11) c1(smg3:2) b(squad2) t(all inf_only support_single) level(1) cost(62) f(1.0))
+("squad_with1types" side(ita) name(smgs3) c(150) g(soldier_11) c1(smg3:2) b(squad2) t(all inf_only support_single) level(1) cost(54) f(1.0))
+("squad_with1types" side(chn) name(smgs3) c(150) g(soldier_11) c1(smg3:2) b(squad2) t(all inf_only support_single) level(1) cost(52) f(1.0))
 
 
 ("squad_with1types" side(rus) name(tankmans) c(30) g(soldier_12) c1(tankman:2) b(squad2) t(all inf_only tankmans) level(1) cost(10) f(-1.0))

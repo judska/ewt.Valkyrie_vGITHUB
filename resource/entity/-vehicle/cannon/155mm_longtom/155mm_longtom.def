@@ -54,14 +54,14 @@
 
 	{extender "inventory"
 		{box
-			{item "bullet155 fg" 30}
-			{item "bullet sm" 12}
+			{item "bullet155_1 fg" 30}
+			{item "bullet155_1 sm" 12}
 			{item "sandbag_kit2"}
 		}
 	}
 	{Weaponry
 		{place "gun"
-			{weapon "155mm_lt" filling "bullet155 fg" 6}
+			{weapon "155mm_lt" filling "bullet155_1 fg" 6}
 			;{Rotate}
 			{StationaryFiring}  
 			("abm_howitzer")

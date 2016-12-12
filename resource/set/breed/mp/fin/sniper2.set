@@ -42,10 +42,6 @@
 		}
 		{"aimedshot"}
 	}
-	{veterancy
-		(include "veterancy_generic.inc")
-		("veterancy_1")
-	}
 	{inventory
 		{item "fin_noscope" filled}
 		{item "ammo rifle" 100}

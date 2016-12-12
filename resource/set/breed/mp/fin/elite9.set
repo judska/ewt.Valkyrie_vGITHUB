@@ -5,7 +5,7 @@
 	{icon_priority 1}
 	{nationality fin}
 	{armors
-		{head helmet7_ger}
+		{head helmet_fin}
 	}
 	{perks
 		{"health" "350%"

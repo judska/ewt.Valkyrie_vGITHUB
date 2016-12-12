@@ -138,16 +138,16 @@
 		{"smgs2(fin)" "SMG"}
 		{"smgs2(ita)" "SMG"}
 		{"smgs2(chn)" "SMG"}
-                {"smgs3(eng)" "Demolition specialist"}
-		{"smgs3(ger)" "Demolition specialist"}
-		{"smgs3(jap)" "Demolition specialist"}
-		{"smgs3(rus)" "Demolition specialist"}
-		{"smgs3(usa)" "Demolition specialist"}
-		{"smgs3(hun)" "Demolition specialist"}
-		{"smgs3(fra)" "Demolition specialist"}
-		{"smgs3(fin)" "Demolition specialist"}
-		{"smgs3(ita)" "Demolition specialist"}
-		{"smgs3(chn)" "Demolition specialist"}
+                {"smgs3(eng)" "Demolition specialists"}
+		{"smgs3(ger)" "Demolition specialists"}
+		{"smgs3(jap)" "Demolition specialists"}
+		{"smgs3(rus)" "Demolition specialists"}
+		{"smgs3(usa)" "Demolition specialists"}
+		{"smgs3(hun)" "Demolition specialists"}
+		{"smgs3(fra)" "Demolition specialists"}
+		{"smgs3(fin)" "Demolition specialists"}
+		{"smgs3(ita)" "Demolition specialists"}
+		{"smgs3(chn)" "Demolition specialists"}
                 {"elites2(eng)" "Veteran rifleman"}
 		{"elites2(ger)" "Veteran rifleman"}
 		{"elites2(jap)" "Veteran rifleman"}
@@ -277,7 +277,7 @@
 		{"heronew2_ger1" "Sd.Kfz.8 8.8cm Flak"}
 		{"heronew3_ger" "PaK 43"}
 		{"heronew4_ger1" "PzKpfw III Flamer"}
-		{"heronew5_ger" "Faux M10 Wolverine"}
+		{"heronew5_ger" "Goliath"}
 		{"heronew6_ger" "Das Reich!"}
 		{"hero1_jap" "AT-Riflegrenade Squad"}
 		{"hero2_jap" "Kamikaze!"}
@@ -291,7 +291,7 @@
 		{"heronew1_jap1" "Takasago Volunteers"}
 		{"heronew2_jap1" "Na-To"}
 		{"heronew3_jap" "Type 97 Mortar"}
-		{"heronew4_jap" "Type 89 Chi-Ho"}
+		{"heronew4_jap" "Chi-Nu Kai"}
 		{"heronew5_jap" "Knee Mortarers"}
 		{"heronew6_jap" "Divine Wind"}
 		{"hero1_rus" "Spetsnaz"}
@@ -312,14 +312,13 @@
 		{"hero3_usa1" "U.S. Marines"}
 		{"hero4_usa" "M4A3R2 Croc"}
 		{"hero5_usa" "Radio Operator"}
-		{"hero6_usa" "M4A3(105)"}
 		{"hero7_usa1" "Elite M4A3E8(76)W Sherman"}
 		{"hero8_usa" "M4A3E2(76)W Jumbo"}
 		{"hero9_usa" "Super Pershing"}
 		{"heronew1_usa" ".30 cal Browning A6"}
 		{"heronew2_usa1" "Marauders"}
 		{"heronew3_usa" "Devil's Brigade"}
-		{"heronew4_usa" "M3 Scout"}
+		{"hero6_usa" "M4A3(105)"}
 		{"heronew5_usa" "M15A1 CGMC"}
 		{"heronew6_usa" "M1 155mm Long Tom"}
 		{"hero1_hun" "76mm Divisional Gun"}
@@ -337,7 +336,7 @@
                 {"heronew6_hun" "Nashorn"}
                 {"heronew7_hun" "Skoda T25"}
                 {"heronew8_hun" "Sturmpanzer I Bison"}
-                {"hero1_fra" "Dywizja Grenadierow"}
+                {"hero1_fra" "Maginot Line Defenders"}
 		{"hero2_fra" "Mortier de 50mm"}
 		{"hero3_fra" "Vive la France"}
 		{"hero4_fra" "Citroen Mortar Truck"}
@@ -350,12 +349,12 @@
 		{"heronew2_fra" "Renault DCA 37mm Shneider"}
 		{"heronew3_fra" "AMX-13/75"}
 		{"heronew4_fra" "Laffly S15 TOE"}
-		{"heronew5_fra" "Maginot Line Defenders"}
+		{"heronew5_fra" "Dywizja Grenadierow"}
 		{"heronew6_fra" "Puissance Filloux"}
                 {"hero1_fin" "Swedish Volunteers"}
                 {"hero2_fin" "Trench Cleaners"}
                 {"hero3_fin" "White Death"}
-                {"hero4_fin" "T-34/76 Sotka"}
+                {"hero4_fin" "Charioteer"}
                 {"hero5_fin" "BT-42"}
                 {"hero6_fin" "Radio Operator"}
                 {"hero7_fin" "Field-Modified KV-1"}

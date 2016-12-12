@@ -59,12 +59,12 @@
 
 ;°°°Button 5°°°
 
-{"su76"             ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f1) sc(240.00) b(v5) cw(0) cp(7)) {level 1} {cost 240} {fore 1.0}}
-{"zis_30"           ("v" c(0) t(all medium) 	        s(rus) n1(3) n2(1) g(f2) sc(280.00) b(v5) cw(0) cp(7)) {level 1} {cost 280} {fore 1.0}}
+{"su76"             ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f1) sc(310.00) b(v5) cw(0) cp(7)) {level 1} {cost 310} {fore 1.0}}
+{"zis_30"           ("v" c(0) t(all medium) 	        s(rus) n1(3) n2(1) g(f2) sc(340.00) b(v5) cw(0) cp(7)) {level 1} {cost 340} {fore 1.0}}
 {"su85"             ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f3) sc(450.00) b(v5) cw(0) cp(12)) {level 1} {cost 450} {fore 1.0}} 
 
-{"su85m"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f3) sc(450.00) b(v5) cw(0) cp(12)) {level 1} {cost 450} {fore 1.0}}	
-{"isu122"           ("v"  c(0) t(all heavy) 		s(rus) n1(3) n2(1) g(f4) sc(800.00) b(v5) cw(0) cp(22)) {level 1} {cost 800} {fore 1.0}}
+{"su85m"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f3) sc(620.00) b(v5) cw(0) cp(12)) {level 1} {cost 620} {fore 1.0}}	
+{"isu122"           ("v"  c(0) t(all heavy) 		s(rus) n1(3) n2(1) g(f4) sc(790.00) b(v5) cw(0) cp(22)) {level 1} {cost 790} {fore 1.0}}
 {"su100"            ("v"  c(0) t(all heavy) 		s(rus) n1(3) n2(1) g(f5) sc(1100.00) b(v5) cw(0) cp(22)) {level 1} {cost 1100} {fore 1.0}} 	
 
 

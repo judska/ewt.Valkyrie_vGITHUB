@@ -3,14 +3,14 @@
 	{fireSound "gun/45mm_oqf2pdr"}
 	{reloadSound "pak35"}
 	{rechargeTime 2.5}
-	("range_minimum")
+	("range_short")
 	
 	("speed" s(808))
 	("caliber_minimum")
 	{projectileDamage 76}
-	("damage_110" a(76) b(58) c(40) d(29) e(21))
+	("damage_120" a(76) b(58) c(40) d(29) e(21))
 	{parameters "apcr"
-        ("damage_80" a(101) b(78) c(55) d(39) e(26))
+        ("damage_90" a(101) b(78) c(55) d(39) e(26))
 	}
 	
 	("accuracy_minimum_1")

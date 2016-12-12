@@ -3,14 +3,14 @@
 	{fireSound "gun/45mm_20k"}
 	{reloadSound "gun_r02"}
 	{rechargeTime 2.5}
-	("range_minimum")
+	("range_short")
 	
 	("speed" s(759))
 	("caliber_minimum")
 	{projectileDamage 50}
-	("damage_110" a(52) b(37) c(24) d(16) e(10))
+	("damage_120" a(52) b(37) c(24) d(16) e(10))
 	{parameters "apcr"
-        ("damage_80" a(77) b(57) c(39) d(26) e(15))
+        ("damage_90" a(77) b(57) c(39) d(26) e(15))
 	}
 	
 	("accuracy_minimum_1")	

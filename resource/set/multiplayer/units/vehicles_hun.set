@@ -62,7 +62,7 @@
 
 {"heronew1_hun"      ("v1" c(120) c1(csaba40m)	        t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h1) b(hero))) {level 1} {cost 1.0} {fore -0.5}}
 {"hero1_hun"         ("2v" c(120) c1(np_f22_rom)	t(all hero) s(hun) n1(smg4:2) n2(vehicle_supporter:0) g(h1) b(hero))) {level 1} {cost 1.0} {fore -0.5}}
-{"heronew1_2_hun"    ("i2" c(120)			t(all hero) s(hun) n1(smg4:3) n2(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"heronew1_2_hun"    ("i2" c(120)			t(all hero) s(hun) n1(smg4:5) n2(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
 {"heronew5_hun"      ("v1" c(240) c1(pz4e_hun) 		t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"heronew2_hun"      ("i3" c(240)			t(all hero) s(hun) n1(elite4:4) n2(elite5:2) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}

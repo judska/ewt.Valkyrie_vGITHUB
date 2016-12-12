@@ -5,7 +5,7 @@
 	{icon "rifleman"}
 	{icon_priority 2}
 	{armors
-		{head "beret_eng_para"}
+		{head cap_eng}
 	}
 	{perks
 		{"health" "150%"

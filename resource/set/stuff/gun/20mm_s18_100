@@ -11,10 +11,10 @@
 		{throw_off}
 	}
 	
-	("range_autocannon")
+	("range_zenite_long")
 	{projectileDamage 30}
 	("speed" s(825))
 	("caliber_zenite")
-	("damage_90" a(48) b(42) c(35) d(26) e(18))
+	("damage_100" a(48) b(42) c(35) d(26) e(18))
 	("speed" s(850))	
 }

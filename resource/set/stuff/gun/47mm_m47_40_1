@@ -3,14 +3,14 @@
 	{fireSound "gun/47mm_type97"}
 	{reloadSound "gun_r02"}
 	{rechargeTime 3.3}
-	("range_short")
+	("range_medium")
 	
 	("speed" s(800))
 	("caliber_minimum")  
 	{projectileDamage 76}
-	("damage_120" a(76) b(65) c(54) d(45) e(37))
+	("damage_130" a(76) b(65) c(54) d(45) e(37))
 	{parameters "apcr"
-        ("damage_90" a(101) b(85) c(69) d(55) e(42))
+        ("damage_100" a(101) b(85) c(69) d(55) e(42))
 	}
 	
 	("accuracy_minimum_1")

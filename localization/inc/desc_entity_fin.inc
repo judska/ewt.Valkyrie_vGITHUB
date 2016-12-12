@@ -26,7 +26,7 @@
 		{"t28_fin" "T-28"} 
 		{"t28_l10_fin" "T-28M"} 
 		{"bt5" "BT-5"} 
-		{"vickers37_fin"  "Vickers 37mm"} 
+		{"vickers37_fin" "Vickers 37mm"} 
 		{"bofors_fin" "40mm Bofors"}
 		{"pak40_fin" "PaK 40"}
 		{"kv1_41_fin" "KV-1 mod. 40"}
@@ -40,3 +40,4 @@
 		{"su152" "SU-152"} 
 		{"maxim_ind" "Maxim"} 
 		{"itk31" "76 ItK/31 BK"} 
+		{"charioteer" "Charioteer"}

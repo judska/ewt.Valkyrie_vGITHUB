@@ -3,14 +3,14 @@
 	{fireSound "gun/85to100_cal/88mm_kwk43"}
 	{reloadSound "tankgun_r02"}
 	{rechargeTime 6.7}
-	("range_maximum")
+	("range_maximum_1")
 
 	("speed" s(1000))
 	("caliber_large")
 	{projectileDamage 233}
-	("damage_150" a(233) b(213) c(191) d(171) e(152))
+	("damage_160" a(233) b(213) c(191) d(171) e(152))
 	{parameters "apcr"
-        ("damage_120" a(258) b(233) c(206) d(181) e(157))
+        ("damage_130" a(258) b(233) c(206) d(181) e(157))
 	}
 	
 	("accuracy_maximum_1")

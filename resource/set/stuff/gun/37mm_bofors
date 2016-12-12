@@ -7,6 +7,6 @@
 	("speed" s(830))
 	("caliber_minimum")
 	{projectileDamage 45}
-	("damage_120" a(56) b(45) c(36) d(32) e(25))
+	("damage_130" a(56) b(45) c(36) d(32) e(25))
 	("accuracy_zenite_medium")
 }

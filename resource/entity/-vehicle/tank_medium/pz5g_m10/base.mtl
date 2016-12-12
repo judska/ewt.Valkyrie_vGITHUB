@@ -1,7 +1,0 @@
-{material bump
-	{diffuse "pz5g_m10"}
-	{bump "pz5g_m10_bp"}
-	{specular "pz5g_m10_sp"}
-	{color "229 229 229 25"}
-	{blend none}
-}

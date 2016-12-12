@@ -1,0 +1,17 @@
+{from "pattern gun"		; "pz6b"
+	{filling "bullet84"}
+	{fireSound "gun/85to100_cal/88mm_kwk43"}
+	{reloadSound "tankgun_r02"}
+	{rechargeTime 7}
+	("range_maximum")
+
+	("speed" s(1000))
+	("caliber_large")
+	{projectileDamage 233}
+	("damage_150" a(235) b(215) c(193) d(173) e(154))
+	{parameters "apcr"
+        ("damage_120" a(264) b(239) c(215) d(189) e(164))
+	}
+	
+	("accuracy_maximum")
+}

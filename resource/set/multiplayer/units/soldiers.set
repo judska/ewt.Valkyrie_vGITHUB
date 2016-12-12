@@ -466,6 +466,7 @@
 {"mp/ita/elite9" ("elite" side(ita))}
 
 {"mp/ger/elite10" ("elite" side(ger))}
+{"mp/ger/elite10" ("elite" side(usa))}
 
 {"mp/ger/elite11" ("elite" side(ger))}
 
@@ -626,6 +627,24 @@
 {"mp/fin/sturmovik7b" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik7b" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik7b" ("sturmovik" side(chn))}
+
+
+
+(define "sturmovik_lowcp"
+    {tags   "sturmovik %side spec infantry man"}
+    {cp     3.00}
+    {score  40.00}
+    {basic}
+    {breed}
+    {cw 5.0}
+)
+{"mp/ger/sturmovik8" ("sturmovik_lowcp" side(ger))}
+
+{"mp/ger/sturmovik9" ("sturmovik_lowcp" side(ger))}
+
+{"mp/ger/sturmovik10" ("sturmovik_lowcp" side(ger))}
+
+{"mp/ger/sturmovik11" ("sturmovik_lowcp" side(ger))}
 
 
 

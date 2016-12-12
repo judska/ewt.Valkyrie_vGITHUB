@@ -5,7 +5,7 @@
 	{icon "smg"}
 	{icon_priority 1}
 	{armors
-		{head "beret_eng_para"}
+		{head "helmet1_eng"}
 	}
 	{perks
 		{"health" "150%"

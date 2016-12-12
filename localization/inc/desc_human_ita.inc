@@ -1,5 +1,5 @@
 		{"mp"		
-			{"hun"
+			{"ita"
 				{"at_miner" "<c(c3baae)>combat engineer (vehicle)"}
 				{"ap_miner" "<c(c3baae)>combat engineer (infantry)"}
 				{"at_rifle" "<c(c3baae)>AT-Rifle infantry"}

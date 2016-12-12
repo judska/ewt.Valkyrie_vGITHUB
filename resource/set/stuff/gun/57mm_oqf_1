@@ -3,14 +3,14 @@
 	{fireSound "gun/50to76_cal/50mm_kwk38"}
 	{reloadSound "gun_r02"}
 	{rechargeTime 3.75}
-	("range_short")
+	("range_medium")
 	
 	("speed" s(892))
 	("caliber_minimum")
 	{projectileDamage 134}
-	("damage_120" a(134) b(109) c(83) d(64) e(48))
+	("damage_130" a(134) b(109) c(83) d(64) e(48))
 	{parameters "apcr"
-        ("damage_90" a(159) b(129) c(98) d(74) e(53))
+        ("damage_100" a(159) b(129) c(98) d(74) e(53))
 	}
 	
 	("accuracy_minimum_1")

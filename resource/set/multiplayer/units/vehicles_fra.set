@@ -25,6 +25,7 @@
 ("how" side(fra) name(how_b) c(0) c1(renault_t) c2(pdr25) 		t(all artillery) g(c8) b(v2) level(6) cost(600) f(1.0))
 ("how" side(fra) name(how_a) c(0) c1(renault_t) c2(bl6)   		t(all artillery heavyart) g(c9) b(v2) level(9) cost(800) f(1.0))
 
+
 ;같캛utton 3같�
 
 {"ft17"    	    	("v" c(150) t(all light) 	s(fra) n1(1) n2(1) g(d1) sc(70.00) b(v3) cw(0) cp(5)) {level 1} {cost 70} {fore 0.6}}
@@ -43,13 +44,12 @@
 {"b1bis"                ("v" c(0) t(all heavy) 	                s(fra) n1(3) n2(1) g(e5) sc(450.00) b(v4) cw(0) cp(17)) {level 1} {cost 450} {fore 1.0}} 
 
 {"b1bis_3"              ("v" c(0) t(all heavy)    	        s(fra) n1(3) n2(1) g(e6) sc(550.00) b(v4) cw(0) cp(17)) {level 1} {cost 550} {fore 1.0}} 
-{"mk4"                  ("v" c(0) t(all heavy)    	        s(fra) n1(3) n2(1) g(e6) sc(650.00) b(v4) cw(0) cp(17)) {level 1} {cost 650} {fore 1.0}}
 {"arl44"                ("v" c(0) t(all heavy) 	                s(fra) n1(3) n2(1) g(e6) sc(1425.00) b(v4) cw(0) cp(27)) {level 1} {cost 1425} {fore 1.0}} 
  
 
 ;같캛utton 5같�
 
-{"lorraine_47"          ("v" c(0) t(all medium) 		s(fra) n1(3) n2(1) g(f1) sc(275.00) b(v5) cw(0) cp(10)) {level 1} {cost 275} {fore 1.0}} 	
+{"lorraine_47"          ("v" c(0) t(all medium) 		s(fra) n1(3) n2(1) g(f1) sc(305.00) b(v5) cw(0) cp(10)) {level 1} {cost 305} {fore 1.0}} 	
 {"b1bis_at"             ("v" c(0) t(all medium) 		s(fra) n1(3) n2(1) g(f2) sc(680.00) b(v5) cw(0) cp(12)) {level 1} {cost 680} {fore 1.0}}
 
 
@@ -57,10 +57,9 @@
 
 {"hero1_fra"                                ("i2" c(120)                         t(all hero) s(fra) n1(ap_miner2:1) n2(mgun3:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero2_fra"                                ("v1" c(120) c1(2_inch_mortar_mk_ii) t(all hero) s(fra) n1(vehicle_supporter:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
-{"hero3_fra"                                ("i3" c(240)	                 t(all hero) s(fra) n1(scout:1) n2(home_guard3:2) n3(home_guard4:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"hero3_fra"                                ("i3" c(120)	                 t(all hero) s(fra) n1(scout:1) n2(home_guard3:2) n3(home_guard4:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
-
-{"heronew5_fra"                             ("i2" c(240)	                 t(all hero) s(fra) n1(rifle3:7) n2(rifle4:2) n3(mgun2:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"heronew5_fra"                             ("i3" c(240)	                 t(all hero) s(fra) n1(rifle3:7) n2(rifle4:2) n3(mgun2:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"heronew2_fra"	  	                    ("v1" c(240) c1(renault_aa)          t(all hero) s(fra) n1(vehicle_supporter:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero5_fra"                                ("v4" c(360) c1(m3_fra) 	         t(all hero) s(fra) n1(elite:5) n2(elite2:2) n3(elite3:2) n4(elite_at:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
 
