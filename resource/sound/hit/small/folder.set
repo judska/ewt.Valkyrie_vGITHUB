@@ -1,0 +1,4 @@
+{sound
+	{signal hit 3}
+	{volume		0.8}
+}	
