@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "$/humanskin/ger/female_hands_dif"}
+	{bump "$/humanskin/ger/female_hands_nrm"}
+	{blend none}
+}

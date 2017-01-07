@@ -1,0 +1,53 @@
+;Exported by: Kalinski
+;Date:        Sat Sep 17 23:36:06 2016
+;File:        C:\Users\Kalinski\Desktop\rus caps\budda.max
+{Skeleton
+	{bone "cap_usa_radiohead"
+		{Matrix34
+			1	0	0
+			0	-1	0
+			0	0	1
+                        -0.3	0	0.1
+		}
+		{VolumeView "cap_usa_radiohead.ply"}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "cap_usa_radiohead"}
+	{Position 0	21.7619	0}
+}
+{Volume "select"
+	{Box 5.59662 5.08766 6.43073}
+	{Bone "cap_usa_radiohead"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		0.497034	0.260123	3.01625
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 6.58307	-4.60426	3.60966}
+			{lookat 1.29437	0.377072	3.51748}
+			{fov 45}
+			{horizon -0.239031}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.00242178	0.00152097	-0.499992}
+			}
+			{"1"
+				{type point}
+				{position 1.3762	-2.3209	2.53304}
+			}
+			{"2"
+				{type point}
+				{position 3.55957	-1.33044	3.47408}
+			}
+		}
+	}
+}

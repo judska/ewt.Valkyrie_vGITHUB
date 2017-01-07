@@ -2,7 +2,7 @@
 	{tag "itemin1hand"}
 	{entity "ammo_ger3"}
 	{inventory
-		{size 2 3}
+		{size 3 3}
 		{weight 100}
 		{fsm "belt"}
 	}

@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/humanskin/rus_officer"}
+	{bump "$/humanskin/rus_soldier_nm"}
+	{specular "$/humanskin/rus_soldier_spec"}
+	{color "229 229 229 25"}
+	{blend none}
+}

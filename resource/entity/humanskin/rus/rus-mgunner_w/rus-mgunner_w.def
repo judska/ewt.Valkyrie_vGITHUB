@@ -1,4 +1,3 @@
-{Game_entity
+{game_entity
 	{Extension "rus-mgunner_w.mdl"}
-	{tag "rus soldier winter"}
 }

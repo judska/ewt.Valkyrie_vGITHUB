@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/humanskin/6901ec63"}
+	{blend none}
+}

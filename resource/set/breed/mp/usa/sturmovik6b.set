@@ -1,11 +1,12 @@
 {breed
-	{skin "us_ranger1_hp"}
+	{skin "usa-paramarine-sgt"}
 	{portrait "usa_soldier5"}
 	{nationality usa}
 	{icon "stormtrooper6b"}
 	{icon_priority 4}
 	{armors
-		{head "helmet4_usa"}
+		{head "helmet_usa_nco"}
+           {body "ammo_us"}
 	}
 	{perks
 		{"health" "350%"

@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "sniper_dif"}
+	{bump "sniper_nrm"}
+	{blend none}
+}

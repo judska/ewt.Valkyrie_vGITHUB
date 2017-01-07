@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "aduwocou_dt"}
+	{bump "aduwocou_n"}
+	{blend none}
+}

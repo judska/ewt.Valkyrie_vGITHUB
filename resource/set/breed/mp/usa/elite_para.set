@@ -1,11 +1,11 @@
 {breed
-	{skin "us_bazooker"}
+	{skin "usa-101st-air-sgt"}
 	{portrait "usa_elite1"}
 	{nationality usa}
 	{icon "elite_para"}
 	{icon_priority 3}
 	{armors
-		{head helmet_airborne_usa}
+		{head helmet_airborne_usa1}
 	}
 	{perks
 		{"health" "300%"

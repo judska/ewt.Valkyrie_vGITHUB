@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "$/humanskin/ger/german_head01_d"}
+	{bump "$/humanskin/ger/german_head01_injured_n"}
+	{blend none}
+}

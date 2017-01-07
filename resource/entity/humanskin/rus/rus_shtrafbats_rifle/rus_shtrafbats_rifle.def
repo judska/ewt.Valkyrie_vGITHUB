@@ -1,0 +1,4 @@
+{Game_entity
+	{Extension "rus_rifle.mdl"}
+	{tag "rus soldier"}
+}

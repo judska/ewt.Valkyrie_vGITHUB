@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/humanskin/usa-101st-air-sgt"}
+	{blend none}
+}
