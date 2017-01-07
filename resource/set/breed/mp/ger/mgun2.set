@@ -1,11 +1,11 @@
 {breed
-	{skin "ger-elite-ss_1"}
+	{skin "ger-volksgren"}
 	{portrait "ger_soldier2"}
 	{nationality ger}
 	{icon "smg"}
 	{icon_priority 1}
 	{armors
-		{head helmet4_ger}
+		{head helmet_ger_m40_clean}
             {body ammo_mg}
 	}
 	{perks

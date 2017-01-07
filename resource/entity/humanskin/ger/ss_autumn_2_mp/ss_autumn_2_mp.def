@@ -1,0 +1,4 @@
+{Game_entity
+	{Extension "grenadier_w_mp.mdl"}
+	{tag "ger soldier winter"}
+}

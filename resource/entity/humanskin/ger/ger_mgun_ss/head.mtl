@@ -1,0 +1,4 @@
+{material bump
+	{diffuse "$/humanskin/ger_head_rifleman"}
+	{blend none}
+}

@@ -1,0 +1,21 @@
+{actor
+	(include "/properties/bag.ext")
+	{Extension "ammo_rus.mdl"}
+	{extender "stuff"
+		{item "ammo_rus"}
+	}
+        {extender "inventory"
+                {box
+                        {Size 5 10}
+		        {item "bandage" 5}
+		        {item "knife_ger"}
+                        {item "grenade molotov_coctail"}
+		        {item "matchbox" 4}
+		        {item "smoke grenade" 1}
+                }
+        }
+	{Volume "body"
+	        {able {visible} {select} {contact_ground} {touch} {contact} {blast}}
+		{Thickness 10}
+	}
+}

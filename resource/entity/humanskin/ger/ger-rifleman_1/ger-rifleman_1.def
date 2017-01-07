@@ -1,0 +1,4 @@
+{game_entity
+	{Extension "ger-rifleman_1.mdl"}
+	{tag "ger soldier"}
+}

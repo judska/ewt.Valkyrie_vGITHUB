@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/humanskin/fr_legion"}
+	{bump "$/humanskin/aduu_normalmap"}
+	{specular "$/humanskin/tex_al_rifleman_specular"}
+	{color "229 229 229 25"}
+	{blend none}
+}

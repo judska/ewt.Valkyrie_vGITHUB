@@ -1,11 +1,11 @@
 {breed
-	{skin "ger-rifleman"}
+	{skin "ger-coat-smg"}
 	{portrait "ger_elite2"}
 	{nationality ger}
 	{icon "elite5"}
 	{icon_priority 3}
 	{armors
-		{head helmet5_ger}
+		{head helmet_ger_m40_grass}
 	}
 	{perks
 		{"health" "250%"

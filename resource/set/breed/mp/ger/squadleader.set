@@ -5,7 +5,7 @@
 	{icon "squadleader"}
 	{icon_priority 2}
 	{armors
-		{head "fieldcap1_ger"}
+		{head "cap1_ger"}
 	}
 	{perks
 		{"health" "200%"

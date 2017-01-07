@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "ger_soldier_winterSS"}
+	{color "250 250 250 50"}
+	{blend none}
+}

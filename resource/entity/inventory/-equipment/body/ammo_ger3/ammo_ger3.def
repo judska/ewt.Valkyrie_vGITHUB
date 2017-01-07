@@ -1,0 +1,21 @@
+{actor
+	(include "/properties/bag.ext")
+	{Extension "ammo_ger3.mdl"}
+	{extender "stuff"
+		{item "ammo_ger3"}
+        }
+        {extender "inventory"
+                {box
+                        {Size 5 10}
+		        {item "smoke grenade" 1}
+		        {item "bandage" 5}
+		        {item "knife_ger"}
+		        {item "grenade m24" 1}
+		        {item "matchbox" 4}
+                }
+        }
+	{Volume "body"
+	        {able {visible} {select} {contact_ground} {touch} {contact} {blast}}
+		{Thickness 10}
+	}
+}

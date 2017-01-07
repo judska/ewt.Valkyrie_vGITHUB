@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "sov_hero_cape_d"}
+	{blend none}
+}

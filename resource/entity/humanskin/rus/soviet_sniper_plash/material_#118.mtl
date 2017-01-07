@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "sovier_troop_m36"}
+	{blend none}
+}

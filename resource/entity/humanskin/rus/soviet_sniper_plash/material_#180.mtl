@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "soviet_m36_head2"}
+	{blend none}
+}

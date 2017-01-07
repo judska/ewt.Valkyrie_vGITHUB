@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "c_rus_military_head4_c"}
+	{blend none}
+}

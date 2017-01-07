@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "sov_rifleman_equipment_da"}
+	{bump "sov_rifleman_equipment_bp"}
+	{specular "sov_rifleman_equipment_sp"}
+	{color "255 255 255 50"}
+	{blend none}
+}

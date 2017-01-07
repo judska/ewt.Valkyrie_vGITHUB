@@ -1,11 +1,11 @@
 {breed
-	{skin "ger_ss_hp3"}
+	{skin "ger-elite-ss1"}
 	{portrait "ger_soldier3"}
 	{nationality ger}
 	{icon "squadleader2"}
 	{icon_priority 2}
 	{armors
-		{head "fieldcap1_ger"}
+		{head "cap_ger_off"}
 	}
 	{perks
 		{"health" "200%"

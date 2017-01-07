@@ -1,0 +1,53 @@
+;Exported by: Kalinski
+;Date:        Tue Oct 18 23:15:43 2016
+;File:        C:\Users\Kalinski\Desktop\ger gasmask\gasmask fin.max
+{Skeleton
+	{bone "gasmask_ger"
+		{Matrix34
+			1	0	0
+			0	-1	0
+			0	0	1
+                        0	0	0.73
+		}
+		{VolumeView "gasmask_ger.ply"}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "gasmask_ger"}
+	{Position 1.31707	0.118102	3.53239}
+}
+{Volume "select"
+	{Box 6.8711 3.57898 6.82958}
+	{Bone "gasmask_ger"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		1.53802	0.0442112	0.47762
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 10.0276	-5.19558	1.49204}
+			{lookat 1.29437	-0.054802	0.361003}
+			{fov 45}
+			{horizon -0.237388}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 4.27719	-0.963007	-0.252527}
+			}
+			{"1"
+				{type point}
+				{position 3.00377	-1.1604	2.53304}
+			}
+			{"2"
+				{type directional}
+				{direction -0.0024218	0.00152097	-0.499992}
+			}
+		}
+	}
+}

@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "c_gen_in"}
+	{blend none}
+}

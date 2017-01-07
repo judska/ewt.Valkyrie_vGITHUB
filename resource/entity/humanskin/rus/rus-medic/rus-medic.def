@@ -1,4 +1,3 @@
-{Game_entity
-	{Extension "rus-smguner.mdl"}
-	{tag "rus soldier"}
+{game_entity
+	{Extension "rus-medic.mdl"}
 }

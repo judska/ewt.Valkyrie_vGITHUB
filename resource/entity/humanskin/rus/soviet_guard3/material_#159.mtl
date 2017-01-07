@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "c_rus_fullahead_body1_c"}
+	{blend none}
+}

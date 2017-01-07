@@ -1,11 +1,11 @@
 {breed
-	{skin "ger-volkssturm"}
+	{skin "ger_volk"}
 	{portrait "ger_soldier1"}
 	{nationality ger}
 	{icon "home_guard2"}
 	{icon_priority 0}
 	{armors
-		{head "fieldcap_ger"}
+		{head "fieldcap1_ger"}
 	}
 	{perks
 		{"health" "100%"

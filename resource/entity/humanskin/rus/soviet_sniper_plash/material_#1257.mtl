@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "sov_rawrecruit_tunic_d"}
+	{blend none}
+}

@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "gasmask"}
+	{bump "gasmask_bm"}
+	{specular "gasmask_nm"}
+	{color "229 229 229 152"}
+	{blend test}
+}

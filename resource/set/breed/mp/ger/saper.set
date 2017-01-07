@@ -5,7 +5,7 @@
 	{icon "sapper"}
 	{icon_priority 3}
 	{armors
-		{head helmet_ger}
+		{head helmet7_ger}
 	}
 	{perks
 		{"health" "250%"

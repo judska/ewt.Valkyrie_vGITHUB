@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "ss badge"}
+	{blend none}
+}

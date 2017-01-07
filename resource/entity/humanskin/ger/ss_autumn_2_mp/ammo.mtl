@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "ammo"}
+	{color "229 229 229 50"}
+	{blend none}
+}

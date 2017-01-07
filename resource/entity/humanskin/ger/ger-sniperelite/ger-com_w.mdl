@@ -283,7 +283,10 @@
 		{bone "skin"
 			{parameters "lodnear = 0.0;lodfar = 1e+006;"}
 			{Position -0.115372	-6.91451e-005	26.9396}
-			{VolumeView "skin.ply"}
-		}
-	}
-}
+			{bone "skins"
+				{Position    0  0   0}
+                                }
+				{VolumeView "skin.ply"}
+		 }
+	 }
+ }

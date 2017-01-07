@@ -2,6 +2,7 @@
 	{tag "smallitemin1hand body"}
 	{mass 2}
 	{inventory
+                {size 1 1}
 		{fsm "belt"}
 	}
 }

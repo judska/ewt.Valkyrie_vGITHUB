@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "$/humanskin/1cdfef05"}
+	{bump "$/humanskin/357488e0"}
+	{blend none}
+}

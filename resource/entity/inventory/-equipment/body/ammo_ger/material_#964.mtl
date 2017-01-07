@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "char_ger_wet_gear02_c"}
+	{specular "char_ger_wet_gear02_c_sp"}
+	{bump "char_ger_wet_gear02_c_bp"}
+	{blend none}
+}

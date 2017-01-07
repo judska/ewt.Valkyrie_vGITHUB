@@ -5,7 +5,7 @@
 	{icon "smg"}
 	{icon_priority 1}
 	{armors
-		{head helmet1_ger}
+		{head helmet7_ger}
 	}
 	{perks
 		{"health" "150%"

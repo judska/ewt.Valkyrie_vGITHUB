@@ -1,11 +1,11 @@
 {breed
-	{skin "ger_flamer_hp"}
+	{skin "ger_smg2"}
 	{portrait "ger_soldier2"}
 	{nationality ger}
 	{icon "smg"}
 	{icon_priority 1}
 	{armors
-		{head helmet_ger_m40_clean}
+		{head helmet7_ger}
 	}
 	{perks
 		{"health" "100%"

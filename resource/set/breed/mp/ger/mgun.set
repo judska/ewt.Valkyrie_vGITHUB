@@ -1,11 +1,13 @@
 {breed
-	{skin "ger-mgun"}
+	{skin "ger-rifleman"}
 	{portrait "ger_soldier2"}
 	{nationality ger}
 	{icon "mg"}
 	{icon_priority 2}
 	{armors
 		{head helmet2_ger}
+           {body ammo_mg}
+
 	}
 	{perks
 		{"health" "200%"
