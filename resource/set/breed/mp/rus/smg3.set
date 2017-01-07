@@ -1,11 +1,11 @@
 {breed
-	{skin "rus-sniper"}
+	{skin "rus-sco-smg"}
 	{portrait "rus_elite3"}
 	{nationality rus}
 	{icon "smg3"}
 	{icon_priority 1}
 	{armors
-		{head "helmet2_rus"}
+		{head "helmet_rus_ssh36"}
 		{body "body_armor"}
 	}
 	{perks

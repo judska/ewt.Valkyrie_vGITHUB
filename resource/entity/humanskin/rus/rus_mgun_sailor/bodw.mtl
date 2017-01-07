@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/humanskin/rus_sailor_winter"}
+	{specular "$/humanskin/rus_sailor_winter_spec"}
+	{color "230 230 230 25"}
+	{blend none}
+}

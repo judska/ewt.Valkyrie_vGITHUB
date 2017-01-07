@@ -1,11 +1,11 @@
 {breed
-	{skin "rus-smguner"}
+	{skin "rus-smg"}
 	{portrait "rus_soldier2"}
 	{nationality rus}
 	{icon "bazooker"}
 	{icon_priority 3}
 	{armors
-		{head fieldcap_rus}
+		{head fieldcap1_rus}
 	}
 	{perks
 		{"health" "150%"

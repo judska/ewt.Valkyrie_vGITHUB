@@ -1,11 +1,11 @@
 {breed
-	{skin "rus-smgunner_w"}
+	{skin "rus-early-smg"}
 	{portrait "rus_soldier2"}
 	{nationality rus}
 	{icon "smg"}
 	{icon_priority 1}
 	{armors
-		{head "helmet2_rus"}
+		{head "helmet_rus_ssh36"}
 	}
 	{perks
 		{"health" "150%"

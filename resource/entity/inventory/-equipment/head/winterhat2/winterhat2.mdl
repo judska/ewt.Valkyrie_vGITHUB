@@ -1,0 +1,41 @@
+;Exported by: User
+;Date:        Sun May 26 15:58:22 2013
+;File:        C:\Documents and Settings\User\Мои документы\3dsmax\soviet_cap.max
+{Skeleton
+	{bone "sov_rr_hg_ushanka_flapsdown"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "sov_rr_hg_ushanka_flapsdown.ply"}
+		{bone "handle"
+			{Matrix34
+				0.999791	0.0204456	-2.14419e-005
+				-0.0204456	0.999791	0.00011653
+				2.38593e-005	-0.000116022	1
+				0.281812	0.00569589	3.87491
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 5.31614 4.65162 2.47262}
+	{Bone "sov_rr_hg_ushanka_flapsdown"}
+	{Matrix34
+		1.01842	0.0208265	-2.18574e-005
+		-0.02195	1.07336	0.000125045
+		3.25423e-005	-0.000158394	1.36534
+		0.0653248	-0.0139914	3.63205
+	}
+}
+{Volume "select"
+	{Box 5.31614 4.65162 2.47262}
+	{Bone "sov_rr_hg_ushanka_flapsdown"}
+	{Matrix34
+		1.01842	0.0208265	-2.18574e-005
+		-0.02195	1.07336	0.000125045
+		3.25423e-005	-0.000158394	1.36534
+		0.0653248	-0.0139914	3.63205
+	}
+}

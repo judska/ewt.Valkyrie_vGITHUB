@@ -2,7 +2,7 @@
 	{tag "autorifle"}
 	{filling "ammo rifle" 10}
 	{entity "svt40"}
-	{fireSound "rifle/svt40/"}
+	{fireSound "rifle/svt_shot/"}
 	{reloadSound "svt40"}
 	
 	{Automatic}

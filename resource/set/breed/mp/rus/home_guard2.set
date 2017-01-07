@@ -1,12 +1,13 @@
 {breed
-	{skin "rus_partizan"}
+	{skin "pol_black_br"}
 	{portrait "rus_soldier1"}
 	{nationality rus}
 	{icon "home_guard2"}
 	{icon_priority 0}
 	{armors
-		{head "warden_furcap"}
+
 	}
+
 	{perks
 		{"health" "100%"
 		}

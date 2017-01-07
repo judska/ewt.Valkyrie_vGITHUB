@@ -1,11 +1,11 @@
 {breed
-	{skin "rus-sniper"}
+	{skin "rus-specnaz_hp"}
 	{portrait "rus_soldier4"}
 	{nationality rus}
 	{icon "sniper"}
 	{icon_priority 5}
 	{armors
-		{head fieldcap1_rus}
+		{head fieldcap_rus}
 	}
 	{perks
 		{"health" "100%"

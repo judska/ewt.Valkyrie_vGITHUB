@@ -5,7 +5,7 @@
 	{icon "rifleman"}
 	{icon_priority 1}
 	{armors
-		{head "fieldcap_rus"}
+		{head "fieldcap1_rus"}
 	}
 	{perks
 		{"health" "150%"

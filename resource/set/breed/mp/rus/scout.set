@@ -5,7 +5,7 @@
 	{icon "scout"}
 	{icon_priority 5}
 	{armors
-		{head fieldcap1_rus}
+		{head fieldcap_rus}
 	}
 	{perks
 		{"health" "500%"

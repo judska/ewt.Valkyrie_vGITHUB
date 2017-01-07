@@ -1,0 +1,4 @@
+{from "helmet pattern"
+	{desc "German M38 Helmet Splinter camo"}
+	{entity "helmet_lw_splitter"}
+}

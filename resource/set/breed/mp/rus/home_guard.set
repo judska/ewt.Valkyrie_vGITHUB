@@ -1,11 +1,11 @@
 {breed
-	{skin "rus_partizan2"}
+	{skin "hun_pilot"}
 	{portrait "rus_soldier1"}
 	{nationality rus}
 	{icon "home_guard"}
 	{icon_priority 0}
 	{armors
-		{head "fieldcap1_jap"}
+		{head "warden_furcap"}
 	}
 	{perks
 		{"health" "100%"

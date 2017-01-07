@@ -1,0 +1,73 @@
+;Exported by: User
+;Date:        Sun May 26 10:57:52 2013
+;File:        C:\Documents and Settings\User\Мои документы\3dsmax\soviet_cap.max
+{Skeleton
+	{bone "sov_rr_hg_ushanka"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "sov_rr_hg_ushanka.ply"}
+		{bone "handle"
+			{Matrix34
+				0.999924	0.0123382	-2.14338e-005
+				-0.0123382	0.999924	0.00011653
+				2.29242e-005	-0.000116211	1
+				0.250533	0.00302961	3.44215
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 5.31614 4.65162 2.47262}
+	{Bone "sov_rr_hg_ushanka"}
+	{Matrix34
+		0.904756	0.0111639	-1.94154e-005
+		-0.0117662	0.953567	0.000111074
+		2.77648e-005	-0.000140928	1.2128
+		0.0580973	-0.0128984	3.22643
+	}
+}
+{Volume "select"
+	{Box 5.31614 4.65162 2.47262}
+	{Bone "sov_rr_hg_ushanka"}
+	{Matrix34
+		0.904756	0.0111639	-1.94154e-005
+		-0.0117662	0.953567	0.000111074
+		2.77648e-005	-0.000140928	1.2128
+		0.0580973	-0.0128984	3.22643
+	}
+}
+{Extender "preview"
+	{"stuff"
+		{camera
+			{origin 27.0432	-28.657	7.27568}
+			{lookat -0.415431	0.152167	2.86902}
+			{fov 8.28224}
+			{horizon 0.471469}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 2.43148	0.365525	6.47828}
+			}
+			{"1"
+				{type spot}
+				{position 17.3607	-6.21529	6.30417}
+				{direction -0.461095	0.179797	-0.0711644}
+				{theta 43}
+				{phi 45}
+			}
+		}
+	}
+}
+
+
+
+
+
+
+
+
+

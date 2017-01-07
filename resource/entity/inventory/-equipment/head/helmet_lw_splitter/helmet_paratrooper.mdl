@@ -3,11 +3,10 @@
 ;File:        E:\Autodesk\Low poly\freelance\DMS\helmets\GER\десантная каска M38\M 38+.max
 {Skeleton
 	{bone "helmet"
-		{Matrix34
-			1.03	0	0
-			0	-1.03	0
-			0	0	1.03
-                        0.75	-0.038	-0.25
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
 		}
 		{VolumeView "helmet.ply"}
 	}
