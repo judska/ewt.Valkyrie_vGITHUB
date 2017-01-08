@@ -1,11 +1,11 @@
 {breed
-	{skin "cha_rifle"}
+	{skin "8lu_rifle2"}
 	{portrait "chn_soldier1"}
 	{icon "riflemans2"}
 	{icon_priority 0}
 	{nationality chn}
 	{armors
-		{head cha_helmet}
+		{head helmet1_cha}
 	}
 	{perks
 		{"health" "150%"

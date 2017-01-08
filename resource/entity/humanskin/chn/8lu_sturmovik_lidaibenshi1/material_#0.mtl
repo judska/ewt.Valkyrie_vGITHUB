@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "8lu_sturmovik_lidaibenshi1"}
+	{blend none}
+}

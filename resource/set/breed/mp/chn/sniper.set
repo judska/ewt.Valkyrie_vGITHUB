@@ -1,11 +1,11 @@
 {breed
-	{skin "cha_smg"}
+	{skin "8lu_sniper_f"}
 	{portrait "chn_elite1"}
 	{icon "elite_rifle"}
 	{icon_priority 0}
 	{nationality chn}
 	{armors
-		{head cha_cap}
+		{head fieldcap1_cha_gilly}
 	}
 	{perks
 		{"health" "250%"

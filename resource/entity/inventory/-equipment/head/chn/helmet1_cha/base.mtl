@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "helmet m35"}
+	{bump "helmet m35_bp"}
+	{specular "helmet m35_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

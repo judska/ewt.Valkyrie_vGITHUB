@@ -1,11 +1,11 @@
 {breed
-	{skin "cha_officer"}
+	{skin "8lu_officer1"}
 	{portrait "chn_officer"}
 	{icon "oficer"}
 	{icon_priority 0}
 	{nationality chn}
 	{armors
-		{head cha_oficer_cap29}
+		{head helmet1_ch1}
 	}
 	{tags "officer"}
 	{perks

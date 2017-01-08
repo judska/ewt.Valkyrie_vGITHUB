@@ -1,11 +1,11 @@
 {breed
-	{skin "cha_squadleader"}
+	{skin "8lu_pistol1"}
 	{portrait "chn_sailor1"}
 	{icon "squadleader"}
 	{icon_priority 0}
 	{nationality chn}
 	{armors
-		{head cha_helmet}
+		{head helmet1_cha}
 	}
 	{perks
 		{"health" "200%"

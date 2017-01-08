@@ -1,11 +1,11 @@
 {breed
-	{skin "8lu_rifle"}
+	{skin "8lu_grenadier1"}
 	{portrait "chn_elite2"}
 	{icon "stormtrooper_smg"}
 	{icon_priority 0}
 	{nationality chn}
 	{armors
-		{head cha_cap29}
+		{head 8lu_cap}
 	}
 	{perks
 		{"health" "250%"

@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "8lu_sniper_f"}
+	{blend none}
+}

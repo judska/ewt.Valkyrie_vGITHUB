@@ -1,11 +1,11 @@
 {breed
-	{skin "cha_mgun"}
+	{skin "8lu_engineer1"}
 	{portrait "chn_soldier3"}
 	{icon "at_rifles"}
 	{icon_priority 0}
 	{nationality chn}
 	{armors
-		{head cha_helmet}
+		{head helmet1_cha}
 	}
 	{perks
 		{"health" "150%"

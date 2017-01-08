@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "wg"}
+	{blend none}
+}
