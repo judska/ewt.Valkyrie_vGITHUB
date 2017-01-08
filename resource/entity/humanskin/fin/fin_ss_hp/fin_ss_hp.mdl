@@ -291,9 +291,19 @@
 				0	0	1
 				-0.580139	-0.0706339	23.3558
 			}
-			{LODView
-				{VolumeView "skin.ply"}
-				{VolumeView "skin_lod1.ply"}
+			{bone "skins"
+				{Position    0  0   0}
+				{LODView
+					{VolumeView "skin.ply"}
+					{VolumeView "skin_lod1.ply"}
+				}
+			}
+			{bone "skinw"
+				{Position    0  0   0}
+				{LODView
+					{VolumeView "skin.ply"}
+					{VolumeView "skin_lod1.ply"}
+				}
 			}
 		}
 	}

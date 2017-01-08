@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/humanskin/fin/fin_soldier_Cpl"}
+	{bump "$/humanskin/fin/fin_officer_nm"}
+	{specular "$/humanskin/fin/fin_officer_sp"}
+	{color "255 255 255 50"}
+	{blend none}
+}

@@ -1,11 +1,11 @@
 {breed
-	{skin "ger-com_w"}
+	{skin "ger-ss-camo-winter-mgun"}
 	{portrait "fin_elite2"}
 	{icon "stormtrooper_mg"}
 	{icon_priority 1}
 	{nationality fin}
 	{armors
-		{head helmet3_fin}
+		{head helmet_ger_m40_wint2}
 	}
 	{perks
 		{"health" "350%"

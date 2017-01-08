@@ -1,0 +1,4 @@
+{Game_Entity
+	{Extension "fin_tankman.mdl"}
+	{tag "hun tankman"}
+}

@@ -1,11 +1,11 @@
 {breed
-	{skin "fin_rifle1"}
+	{skin "fin-soldier2"}
 	{portrait "fin_soldier3"}
 	{nationality fin}
 	{icon "at_rifle"}
 	{icon_priority 1}
 	{armors
-		{head helmet_fin}
+		{head helmet7_ger}
 	}
 	{perks
 		{"health" "150%"

@@ -5,7 +5,7 @@
 	{icon_priority 2}
 	{nationality fin}
 	{armors
-		{head fieldcap1_fin}
+		{head helmet_ger_m40_grass}
 	}
 	{perks
 		{"health" "350%"

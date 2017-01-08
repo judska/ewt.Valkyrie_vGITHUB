@@ -1,11 +1,11 @@
 {breed
-	{skin "fin_rifle2"}
+	{skin "ger-wint-smg"}
 	{portrait "fin_elite1"}
 	{icon "elite-smg"}
 	{icon_priority 1}
 	{nationality fin}
 	{armors
-		{head fieldcap2_fin}
+		{head helmet_ger_m40_grass}
 	}
 	{perks
 		{"health" "250%"

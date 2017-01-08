@@ -1,11 +1,11 @@
 {breed
-	{skin "fin_t3"}
+	{skin "ger-wint-smg"}
 	{portrait "fin_soldier4"}
 	{icon "sniper"}
 	{icon_priority 2}
 	{nationality fin}
 	{armors
-		{head fieldcap1_fin}
+		{head helmet_ger_m40_wint2}
 	}
 	{perks
 		{"health" "100%"

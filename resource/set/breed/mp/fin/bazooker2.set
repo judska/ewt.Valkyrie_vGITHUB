@@ -1,11 +1,11 @@
 {breed
-	{skin "fin_t2"}
+	{skin "fin-soldier2"}
 	{portrait "fin_soldier2"}
 	{icon "bazooker"}
 	{icon_priority 0}
 	{nationality fin}
 	{armors
-		{head fieldcap1_fin}
+		{head helmet7_ger}
 	}
 	{perks
 		{"health" "150%"

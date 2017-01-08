@@ -6,7 +6,7 @@
 	{nationality fin}
 	{hero}
 	{armors
-		{head helmet_sniper_fin}
+		{head helmet_ger_m40_grass}
 	}
 	{perks
 		{"health" "500%"

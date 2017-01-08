@@ -1,11 +1,11 @@
 {breed
-	{skin "fin_t2"}
+	{skin "fin-soldier2"}
 	{portrait "fin_soldier2"}
 	{nationality fin}
 	{icon "at_miner"}
 	{icon_priority 1}
 	{armors
-		{head helmet_fin}
+		{head helmet7_ger}
 	}
 	{perks
 		{"health" "250%"

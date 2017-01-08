@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "ammo"}
+	{bump "ammo_nm"}
+	{specular "ammo_sp"}
+	{color "229 229 229 50"}
+	{blend none}
+}

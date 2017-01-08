@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/humanskin/ammo_pol"}
+	{specular "$/humanskin/ammo_pol_spec"}
+	{color "230 230 230 25"}
+	{blend test}
+}

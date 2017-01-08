@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "helmet l"}
+	{blend none}
+}

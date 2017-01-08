@@ -287,7 +287,14 @@
 				0.422554	-0.00737534	0.906308
 				-0.0932226	-0.0173895	27.0013
 			}
-			{VolumeView "skin.ply"}
+			{bone "skins"
+				{Position    0  0   0}
+				{VolumeView "skin.ply"}
+			}
+			{bone "skinw"
+				{Position    0  0   0}
+				{VolumeView "skin.ply"}
+			}
 		}
 	}
 }

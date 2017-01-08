@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "fin_camouflage"}
+	{color "229 229 229 50"}
+	{blend none}
+}
