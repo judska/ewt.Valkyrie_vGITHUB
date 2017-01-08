@@ -1,11 +1,11 @@
 {breed
-	{skin "eng-sas"}
+	{skin "eng-scot-sgt"}
 	{portrait "eng_elite4"}
 	{nationality usa}	
 	{icon "mg2_eng"}
 	{icon_priority 2}
 	{armors
-		{head "beret_eng3"}
+		{head "beret_eng1"}
 	}
 	{perks
 		{"health" "200%"

@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "british_commando_attach_diff3"}
+	{bump "british_commando_attach_norm"}
+	{blend none}
+}

@@ -1,5 +1,5 @@
 {breed
-	{skin "eng_home_guard"}
+	{skin "eng-soldier"}
 	{portrait "eng_soldier1"}
 	{nationality eng}
 	{icon "home_guard2"}

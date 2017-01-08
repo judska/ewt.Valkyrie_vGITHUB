@@ -1,0 +1,7 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extender "stuff"
+		{item "mk2_para_foliage"}
+	}
+	{Extension "mk2_para_foliage.mdl"}
+}

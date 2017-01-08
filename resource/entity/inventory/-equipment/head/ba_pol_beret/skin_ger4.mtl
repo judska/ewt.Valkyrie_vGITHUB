@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "royal_tanker"}
+	{bump "british_commando_attach_norm"}
+	{blend none}
+}

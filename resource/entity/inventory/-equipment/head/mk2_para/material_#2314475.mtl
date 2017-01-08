@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "british_gear"}
+	{bump "british_gear_normal"}
+	{blend test}
+}

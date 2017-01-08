@@ -5,7 +5,7 @@
 	{icon "sapper"}
 	{icon_priority 3}
 	{armors
-		{head "helmet1_eng"}
+		{head "helmet2_eng"}
 	}
 	{perks
 		{"health" "250%"

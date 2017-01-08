@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "gb_generic3_d12"}
+	{bump "gb_generic_n"}
+	{blend none}
+}

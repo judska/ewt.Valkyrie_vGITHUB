@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "ger_tank_crew_eqipment_0_co"}
+	{bump "ger_tank_crew_eqipment_0_nohq"}
+	{blend none}
+}

@@ -1,11 +1,11 @@
 {breed
-	{skin "eng-mgun"}
+	{skin "eng-sas"}
 	{portrait "eng_soldier5"}
 	{nationality eng}
 	{icon "stormtrooper2"}
 	{icon_priority 4}
 	{armors
-		{head beret_sas}
+		{head mk2_para_foliage}
 	}
 	{perks
 		{"health" "350%"

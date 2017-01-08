@@ -1,0 +1,14 @@
+;Exported by: Rafii
+;Date:        Wed Dec 14 14:09:13 2016
+;File:        C:\Users\Rafii\Desktop\maxfile\uk_para3_off13.max
+{Skeleton
+	{bone "brit_aw_beret"
+		{parameters "Type = game_entity;Model = entity/head/beret_para;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "brit_aw_beret.ply"}
+	}
+}

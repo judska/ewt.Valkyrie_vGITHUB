@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "obli_headgear_diff3333"}
+	{bump "obli_headgear_norm"}
+	{blend test}
+}

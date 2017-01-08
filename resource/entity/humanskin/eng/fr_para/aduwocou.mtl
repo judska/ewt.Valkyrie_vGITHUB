@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/humanskin/commando_diff"}
+	{bump "$/humanskin/adumando_nrm"}
+	{specular "$/humanskin/commando_spc"}
+	{color "229 229 229 25"}
+	{blend none}
+}

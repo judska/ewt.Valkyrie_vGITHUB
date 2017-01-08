@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "obli_diff_2"}
+	{bump "obli_norm"}
+	{blend none}
+}

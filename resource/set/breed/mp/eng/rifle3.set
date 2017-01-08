@@ -1,11 +1,11 @@
 {breed
-	{skin "eng-soldier"}
+	{skin "eng-scot-sgt"}
 	{portrait "eng_elite4"}
 	{nationality usa}
 	{icon "rifleman3_eng"}
 	{icon_priority 1}
 	{armors
-		{head "beret_eng3"}
+		{head "beret_eng1"}
 	}
 	{perks
 		{"health" "150%"

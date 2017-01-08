@@ -1,11 +1,11 @@
 {breed
-	{skin "eng-com"}
+	{skin "eng-soldier"}
 	{portrait "eng_soldier3"}
 	{nationality eng}
 	{icon "squadleader"}
 	{icon_priority 2}
 	{armors
-		{head cap_eng}
+		{head helmet1_eng}
 	}
 	{perks
 		{"health" "200%"
