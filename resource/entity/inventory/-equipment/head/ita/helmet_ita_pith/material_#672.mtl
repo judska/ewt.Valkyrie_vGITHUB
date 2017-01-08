@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "ita pith"}
+	{blend none}
+}

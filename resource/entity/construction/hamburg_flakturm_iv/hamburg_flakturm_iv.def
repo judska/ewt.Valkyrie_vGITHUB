@@ -1,0 +1,1014 @@
+{game_entity
+	(include "/properties/building.inc")
+	{props "concrete"}
+	{obstacleid "unbreakable"}
+	("armor_heavy" args 1.0)
+	{Extension "hamburg_flakturm_iv.mdl"}
+	{Volume "body100"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body1011"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body101"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body1022"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body102"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body103"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body104"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body105"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body106"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body107"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body108"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body10"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body110"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body111"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body112"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body113"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body11"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body12"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body13"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body14"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body15"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body16"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body17"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body18"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body19"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body1"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body200"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body201"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body202"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body203"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body205"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body206"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body207"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body208"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body209"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body20"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body210"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body2111"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body211"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body211_vol02"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body212"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body212_vol01"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body213"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body214"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body215"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body216"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body217"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body218"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body219"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body21"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body220"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body221"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body222"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body223_vol_"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body224"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body225"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body226"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body227"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body228"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body229"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body22"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body230"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body231"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body232"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body233"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body234"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body235"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body236"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body237"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body238"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body239"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body23"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body240"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body241"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body242"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body243"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body244"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body245"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body246"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body247"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body248"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body249"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body24"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body250"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body251"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body252"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body253"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body254"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body255"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body256"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body257"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body258"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body259"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body25"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body260"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body261"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body262"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body263"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body264"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body265"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body266"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body267"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body268"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body269"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body26"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body270"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body271"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body272"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body273"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body274"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body275"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body276"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body277"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body278"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body279"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body27"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body280"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body281"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body282"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body283"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body284"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body285"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body28"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body29"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body2"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body30"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body31"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body32"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body33"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body34"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body35"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body36"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body38"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body39"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body3"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body40"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body41"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body42"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body43"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body44"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body45"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body46"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body47"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body48"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body49"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body4"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body50"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body51"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body52"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body53"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body54"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body55"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body56"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body57"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body58"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body59"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body5"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body60"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body62"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body63"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body64"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body65"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body667"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body66"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body67"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body68"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body69"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body6"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body70"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body71"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body72"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body73"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body74"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body75"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body76"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body77"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body78"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body79"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body7"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body801"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body80"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body81"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body82"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body83"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body84"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body85"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body86"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body87"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body88"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body89"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body8"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body90"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body91"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body92"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body93"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body94"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body95"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body96"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body98"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body99"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Volume "body"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}{touch 0}}
+	}
+	{Extender "land_patch"
+	}
+}

@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "para helmet"}
+	{blend none}
+}

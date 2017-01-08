@@ -1,0 +1,52 @@
+;Exported by: Kalinski
+;Date:        Sat Dec 10 04:31:44 2016
+;File:        C:\Users\Kalinski\Desktop\ita\officer cap.max
+{Skeleton
+	{bone "cap_ita_bus_officer"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "cap_ita_bus_officer.ply"}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "cap_ita_bus_officer"}
+	{Position 0	6.15179	0}
+}
+{Volume "select"
+	{Box 5.59662 5.08766 5.14459}
+	{Bone "cap_ita_bus_officer"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		0.919993	0.260123	3.58528
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 5.99518	-5.20987	4.01342}
+			{lookat 0.722952	-0.228536	3.95111}
+			{fov 45}
+			{horizon -0.239031}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.354828	0.33419	-0.11142}
+			}
+			{"1"
+				{type point}
+				{position 1.3762	-2.3209	3.85514}
+			}
+			{"2"
+				{type point}
+				{position 2.83572	-1.25747	3.08308}
+			}
+		}
+	}
+}

@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "ita_mas"}
+	{color "229 229 229 152"}
+	{blend test}
+}

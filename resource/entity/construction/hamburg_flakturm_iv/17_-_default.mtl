@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "bunke_side_pillar"}
+	{blend none}
+}
