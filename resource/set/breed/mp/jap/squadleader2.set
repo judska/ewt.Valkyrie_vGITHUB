@@ -5,7 +5,7 @@
 	{icon "squadleader2"}
 	{icon_priority 2}
 	{armors
-		{head cap_jap_off}
+		{head hachimaki_2}
 	}
 	{perks
 		{"health" "200%"
