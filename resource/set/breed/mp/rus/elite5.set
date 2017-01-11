@@ -1,11 +1,13 @@
 {breed
-	{skin "rus-mgunner_w"}
+	{skin "rus-smgunner_w"}
 	{portrait "rus_elite2"}
 	{nationality rus}
 	{icon "elite5"}
 	{icon_priority 3}
 	{armors
 		{head "fieldcap1_rus"}
+           {body ammo_rus}
+
 	}
 	{perks
 		{"health" "275%"
@@ -46,6 +48,7 @@
 	}
 	{inventory            
 		{item "mosin" filled}	
+           {item "mgun_ammo" 1}
 		{item "ptrd" filled}	
 		{item "ammo rifle" 100}
 		{item "bandage" 5}

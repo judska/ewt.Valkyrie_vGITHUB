@@ -1,0 +1,16 @@
+{game_entity
+	(include "/properties/stuff_eqp.ext")
+	{extender "stuff"
+		{item "ger_ammo_eq"}
+	}
+	{extender "inventory"
+		{box
+			{size 4 4}
+		}
+	}
+	{Extension "danyao-zb.mdl"}
+	{Volume "body"
+	}
+	{Volume "select"
+	}
+}

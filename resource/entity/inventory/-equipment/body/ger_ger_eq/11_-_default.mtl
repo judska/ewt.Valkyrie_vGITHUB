@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/humanskin/ger/ss_zt_kz"}
+	{bump "$/humanskin/ger/ss_zt_kz_n"}
+	{color "229 229 229 25"}
+	{blend none}
+}

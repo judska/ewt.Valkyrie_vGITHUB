@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/humanskin/ger/ger_tank_crew_eqipment_0_co"}
+	{blend none}
+}

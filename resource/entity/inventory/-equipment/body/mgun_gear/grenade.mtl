@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/humanskin/chi/de_chicom_cm"}
+	{bump "$/humanskin/chi/de_stickgrenade_nm"}
+	{color "229 229 229 25"}
+	{blend none}
+}

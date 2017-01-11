@@ -1,11 +1,13 @@
 {breed
-	{skin "rus-mgunner_w"}
+	{skin "rus-smgunner_w"}
 	{portrait "rus_soldier2"}
 	{nationality rus}
 	{icon "mg"}
 	{icon_priority 2}
 	{armors
 		{head helmet2_rus}
+           {body ammo_rus}
+           
 	}
 	{perks
 		{"health" "200%"
@@ -47,6 +49,7 @@
 	{inventory
 		{item "dp" filled}
 		{item "ammo mgun" 900}
+           {item "mgun_ammo" 1}
 		{item "bandage" 3}
 		{item "sandbag_kit" 1}
 		{in_hands 0}

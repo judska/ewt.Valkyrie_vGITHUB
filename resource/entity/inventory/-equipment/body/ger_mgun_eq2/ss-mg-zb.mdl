@@ -1,0 +1,59 @@
+;Exported by: Administrator
+;Date:        Wed Nov 18 23:38:50 2015
+;File:        D:\模型\3D模型\3D模型\狗雄连2\德国人\german\german\soldiers\grenadier\XXJ\ss-MG携行具.max
+{Skeleton
+	{bone "gear"
+		{parameters "CommonMesh;ID=s;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "gear.ply"}
+	}
+}
+{Volume "body"
+	{Box 23.1538 3.36158 1.17113}
+	{Bone "gear"}
+	{Matrix34
+		0.196568	0.000575936	0.000309545
+		-0.010313	3.70782	0.00299954
+		-0.00508779	-0.0045093	5.37875
+		0.492925	0.131643	0.11873
+	}
+}
+{Volume "select"
+	{Box 27.7845 9.72703 4.3449}
+	{Bone "gear"}
+	{Matrix34
+		0.26301	0.000770582	0.000414191
+		-0.00376176	1.35249	0.00109422
+		-0.00206269	-0.00182818	2.18051
+		0.133196	0.394133	0.150141
+	}
+}
+{Extender "preview"
+	{"stuff"
+		{camera
+			{origin 19.5399	-7.59969	-0.0931156}
+			{lookat 5.49179	-2.86783	-0.198161}
+			{fov 45}
+			{horizon 91.5645}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.453513	0.211058	0.00191724}
+				{ambient 0x5f5f5f}
+			}
+			{"1"
+				{type point}
+				{position 2.95416	-3.26028	-8.82671}
+			}
+			{"2"
+				{type point}
+				{position 1.65076	-2.64369	9.88908}
+			}
+		}
+	}
+}

@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "$/humanskin/chi/char_jap_impinf_gear02_c"}
+	{bump "$/humanskin/chi/char_jap_impinf_gear02_n"}
+	{blend none}
+}

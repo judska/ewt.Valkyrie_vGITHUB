@@ -1,0 +1,11 @@
+{game_entity
+	(include "/properties/stuff_eqp.ext")
+	{extender "stuff"
+		{item "ger_mgun_eq2"}
+	}
+	{Extension "ss-mg-zb.mdl"}
+	{Volume "body"
+	}
+	{Volume "select"
+	}
+}

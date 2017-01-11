@@ -1,0 +1,8 @@
+{item
+	{inventory
+		{size 1 1}
+		{link_bone "ik_updown"}
+		{fsm "belt"}
+	}
+	{mass 20}
+}

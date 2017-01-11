@@ -1,0 +1,8 @@
+{game_entity
+	(include "/properties/stuff_eqp.ext")
+	{extender "stuff"
+		{item "tt_gear_2"}
+	}
+	{Extension "officer_gear_chi.mdl"}
+	
+}

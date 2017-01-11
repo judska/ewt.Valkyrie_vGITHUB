@@ -1,0 +1,11 @@
+{game_entity
+	(include "/properties/stuff_eqp.ext")
+	{extender "stuff"
+		{item "ger_stg44_eq"}
+	}
+	{Extension "sttjb-zb.mdl"}
+	{Volume "body"
+	}
+	{Volume "select"
+	}
+}

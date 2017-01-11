@@ -1,0 +1,4 @@
+{from "pattern body_eq"
+	{desc "Gear (SMG)"}
+	{entity "type50_gear"}
+}

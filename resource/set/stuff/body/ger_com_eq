@@ -1,0 +1,4 @@
+{from "pattern body_eq"
+	{desc "Gear (Commander)"}
+	{entity "ger_com_eq"}
+}

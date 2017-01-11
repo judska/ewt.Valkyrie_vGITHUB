@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/humanskin/ger/scout_attachments_diff"}
+	{bump "$/humanskin/ger/scout_attachments_ddn_nrm"}
+	{specular "$/humanskin/ger/scout_attachments_spec"}
+	{color "229 229 229 128"}
+	{blend none}
+}

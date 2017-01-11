@@ -1,0 +1,60 @@
+;Exported by: Administrator
+;Date:        Tue Dec 09 17:55:40 2014
+;File:        C:\Users\Administrator\Desktop\桌面\79年解放军\65式军服\携行具\56机携行具.max
+{Skeleton
+	{bone "gear"
+		{parameters "CommonMesh;ID=s;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "gear.ply"}
+                   {position -0.46 -0.1 -0.38}
+	}
+}
+{Volume "body"
+	{Box 23.1538 3.36158 1.17113}
+	{Bone "gear"}
+	{Matrix34
+		0.196568	0.00050149	0.000309503
+		-0.0089087	3.70783	0.00299966
+		-0.00508833	-0.00450738	5.37875
+		0.57576	0.166191	-0.0252641
+	}
+}
+{Volume "select"
+	{Box 27.7845 9.72703 4.3449}
+	{Bone "gear"}
+	{Matrix34
+		0.26301	0.000670972	0.000414134
+		-0.00324952	1.35249	0.00109437
+		-0.00206291	-0.00182733	2.18051
+		0.21613	0.428814	0.00614643
+	}
+}
+{Extender "preview"
+	{"stuff"
+		{camera
+			{origin 19.6256	-7.62702	-0.237105}
+			{lookat 5.57565	-2.900491	-0.342148}
+			{fov 35}
+			{horizon 91.5645}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.453593	0.210886	0.00191733}
+				{ambient 0x5f5f5f}
+			}
+			{"1"
+				{type point}
+				{position 3.03817	-3.29389	-8.9707}
+			}
+			{"2"
+				{type point}
+				{position 1.73455	-2.67781	9.74509}
+			}
+		}
+	}
+}

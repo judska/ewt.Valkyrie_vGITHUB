@@ -1,11 +1,11 @@
 {breed
-	{skin "ger-sniperelite"}
+	{skin "ger-obersturmfuhrer"}
 	{portrait "ger_officer"}
 	{nationality ger}
 	{icon "officer"}
 	{icon_priority 6}
 	{armors
-		{head cap1_ger}
+		{head cap_ger_off_ss}
 	}
 	{tags "officer"}
 	{perks

@@ -1,0 +1,11 @@
+{game_entity
+	(include "/properties/stuff_eqp.ext")
+	{extender "stuff"
+		{item "ger_medic_eq"}
+	}
+	{Extension "medic-zb.mdl"}
+	{Volume "body"
+	}
+	{Volume "select"
+	}
+}

@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/humanskin/ger/ger_eqipment_0_co"}
+	{bump "$/humanskin/ger/ger_eqipment_0_nohq"}
+	{color "229 229 229 25"}
+	{blend none}
+}

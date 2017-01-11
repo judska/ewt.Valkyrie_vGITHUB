@@ -1,0 +1,10 @@
+;SDL
+(include "stuff_small.ext")
+{tag "stuff del_stuff"}
+	;{props "inventory_box" "spread_items"}
+	;{extender "inventory"
+	;	{box
+	;		{size 2 2}
+	;		{weight 20}
+	;	}
+	;}

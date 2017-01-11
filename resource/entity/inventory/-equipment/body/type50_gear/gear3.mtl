@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "$/humanskin/chi/tali1_cm"}
+	{bump "$/humanskin/chi/tali1_nm"}
+	{blend none}
+}

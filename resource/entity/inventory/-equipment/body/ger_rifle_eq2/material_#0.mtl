@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/humanskin/ger/de_soldierheer_base_cm"}
+	{bump "$/humanskin/ger/de_soldierheer_base_nm"}
+	{color "229 229 229 25"}
+	{blend none}
+}

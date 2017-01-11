@@ -1,0 +1,4 @@
+{material bump
+	{diffuse "$/humanskin/chi/win"}
+	{blend none}
+}
