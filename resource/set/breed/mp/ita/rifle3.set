@@ -1,11 +1,11 @@
 {breed
-	{skin "ita_carabiniere"}
+	{skin "ita-officer"}
 	{portrait "ita_soldier1"}
 	{icon "ita_soldier1"}
 	{icon_priority 0}
 	{nationality ita}
 	{armors
-		{head ita_berretto_cc}
+		{head cap_ita_alpini}
 	}
 	{perks
 		{"health" "150%"

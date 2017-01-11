@@ -1,11 +1,11 @@
 {breed
-	{skin "ita_at_rifle"}
+	{skin "ita-alp-rfl"}
 	{portrait "ita_soldier1"}
 	{icon "ita_soldier1"}
 	{icon_priority 4}
 	{nationality ita}
 	{armors
-		{head pol_helmet_wz31}
+		{head helmet_ita_m33_clean}
 	}
 	{perks
 		{"health" "150%"

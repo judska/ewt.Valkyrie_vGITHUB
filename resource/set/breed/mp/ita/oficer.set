@@ -1,11 +1,11 @@
 {breed
-	{skin "ita_officer"}
+	{skin "ita-officer"}
 	{portrait "ita_officer"}
 	{icon "ita_officer"}
 	{icon_priority 6}
 	{nationality ita}
 	{armors
-		{head ita_bustina}
+		{head cap_ita_bus_officer}
 	}
 	{perks
 		{"health" "250%"

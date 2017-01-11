@@ -1,11 +1,11 @@
 {breed
-	{skin "ita_engineer"}
+	{skin "ita-mas-smg"}
 	{portrait "ita_soldier1"}
 	{icon "ita_soldier1"}
 	{icon_priority 4}
 	{nationality ita}
 	{armors
-		{head pol_helmet_wz31}
+		{head helmet_ita_m33_alpini}
 	}
 	{perks
 		{"health" "250%"

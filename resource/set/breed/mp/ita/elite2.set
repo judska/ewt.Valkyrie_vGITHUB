@@ -1,11 +1,11 @@
 {breed
-	{skin "ita-paratrooper_nembo"}
+	{skin "ita-para-rfl"}
 	{portrait "ita_elite1"}
 	{icon "ita_elite1"}
 	{icon_priority 2}
 	{nationality ita}
 	{armors
-		{head ita_m42_para_cam}
+		{head helmet_ita_para}
 	}
 	{perks
 		{"health" "250%"

@@ -1,11 +1,11 @@
 {breed
-	{skin "ita_alpino"}
+	{skin "ita-mas-smg"}
 	{portrait "ita_soldier5"}
 	{icon "ita_soldier5"}
 	{icon_priority 0}
 	{nationality ita}
 	{armors
-		{head pol_helmet_wz31}
+		{head cap_ita_basco_mas}
 	}
 	{perks
 		{"health" "100%"

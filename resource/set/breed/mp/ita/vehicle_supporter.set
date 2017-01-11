@@ -1,11 +1,11 @@
 {breed
-	{skin "ita_rifle"}
+	{skin "ita-alp-rfl"}
 	{portrait "ita_tankman"}
 	{nationality ita}
 	{icon "ita_soldier1"}
 	{icon_priority 0}
 	{armors
-	{head ita_M33_fante}
+	{head cap_ita_bustina}
       
 	}
 	{perks

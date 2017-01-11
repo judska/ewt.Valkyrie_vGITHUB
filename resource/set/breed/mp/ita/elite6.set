@@ -1,11 +1,11 @@
 {breed
-	{skin "ita_armir_sergente"}
+	{skin "ita-mas-smg2"}
 	{portrait "ita_elite1"}
 	{icon "ita_elite1"}
 	{icon_priority 2}
 	{nationality ita}
 	{armors
-		{head pol_helmet_wz31}
+		{head helmet_ita_pith_bersaglieri}
 	}
 	{perks
 		{"health" "250%"

@@ -1,11 +1,11 @@
 {breed
-	{skin "ita_decimamas"}
+	{skin "ita-para-smg"}
 	{portrait "ita_pilot"}
 	{icon "ita_pilot"}
 	{icon_priority 2}
 	{nationality ita}
 	{armors
-		{head ita_M42_para_cam}
+		{head helmet_ita_m33_mas}
 	}
 	{perks
 		{"health" "350%"

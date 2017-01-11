@@ -1,11 +1,11 @@
 {breed
-	{skin "ita_officer_st"}
+	{skin "ita-officer"}
 	{portrait "ita_soldier3"}
 	{icon "ita_soldier3"}
 	{icon_priority 2}
 	{nationality ita}
 	{armors
-		{head pol_helmet_wz31}
+		{head cap_ita_bustina}
 	}
 	{perks
 		{"health" "200%"

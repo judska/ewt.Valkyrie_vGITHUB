@@ -1,11 +1,11 @@
 {breed
-	{skin "ita_rifle"}
+	{skin "ita-alp-smg"}
 	{portrait "ita_soldier1"}
 	{icon "ita_soldier1"}
 	{icon_priority 0}
 	{nationality ita}
 	{armors
-		{head pol_helmet_wz31}
+		{head helmet_ita_m33_alpini}
 	}
 	{perks
 		{"health" "150%"
