@@ -76,7 +76,8 @@
 			{item "bullet75 ap" 30}
 			{item "bullet75 fg" 27}
 			{item "bullet75 apcr" 5}
-			{item "mg42" filled {user "mgun"}}
+			
+			
 			{item "ammo mgun" 1200}
 		}
 	}
@@ -118,8 +119,8 @@
     		{TurnRadius 9} 
     		{TurnStop   0.8}
     		{BrakeTime  1.5} 
-     		{Gears  0.1 0.25 0.625}
-     		{RearGears  0.17}
+     		{Gears  0.2 0.5 1}
+     		{RearGears  0.35}
 		}
 		{FuelBag
 			{volume 310 }	

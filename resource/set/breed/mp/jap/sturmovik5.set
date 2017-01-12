@@ -48,7 +48,7 @@
 	{inventory
 		{item "weapon weapon type_4at" filled}
 		{item "type100smg" filled}
-		{item "ammo pistol" 500}
+		{item "ammo pistol" 400}
 		{item "bandage" 5}
 		{item "grenade type3at_a" 1}
 		{item "ammo type_4" 7}

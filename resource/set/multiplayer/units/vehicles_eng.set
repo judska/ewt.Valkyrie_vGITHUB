@@ -50,10 +50,10 @@
 
 {"mk2a"             ("v" c(0) t(all medium) 		s(eng) n1(3) n2(1) g(e3) sc(360.00) b(v4) cw(0) cp(15)) {level 4} {cost 360} {fore 1.0}}
 {"m4a4"             ("v" c(0) t(all medium) 		s(eng) n1(4) n2(1) g(e4) sc(440.00) b(v4) cw(0) cp(15)) {level 1} {cost 440} {fore 1.0}}
-{"cometa34"         ("v" c(0) t(all medium) 		s(eng) n1(3) n2(1) g(e6) sc(750.00) b(v4) cw(0) cp(15)) {level 1} {cost 750} {fore 1.0}}
+{"churchill_mk_vii" ("v" c(0) t(all heavy) 		s(eng) n1(3) n2(1) g(e8) sc(690.00) b(v4) cw(0) cp(25)) {level 1} {cost 720} {fore 1.0}} 
 
-{"m4a4_firefly"     ("v" c(0) t(all medium) 		s(eng) n1(4) n2(1) g(e7) sc(750.00) b(v4) cw(0) cp(15)) {level 1} {cost 750} {fore 1.0}}
-{"churchill_mk_vii" ("v" c(0) t(all heavy) 		s(eng) n1(3) n2(1) g(e8) sc(900.00) b(v4) cw(0) cp(30)) {level 1} {cost 900} {fore 1.0}} 	
+{"cometa34"         ("v" c(0) t(all medium) 		s(eng) n1(3) n2(1) g(e6) sc(750.00) b(v4) cw(0) cp(15)) {level 1} {cost 750} {fore 1.0}}
+{"m4a4_firefly"     ("v" c(0) t(all medium) 		s(eng) n1(4) n2(1) g(e7) sc(750.00) b(v4) cw(0) cp(15)) {level 1} {cost 770} {fore 1.0}}	
 {"centurion"        ("v" c(0) t(all heavy) 		s(eng) n1(4) n2(1) g(e9) sc(1150.00) b(v4) cw(0) cp(30)) {level 15} {cost 1150} {fore 1.0}} 	
 
 
@@ -67,7 +67,7 @@
 
 {"hero1_eng"         ("i1" c(120)					t(all hero) s(eng) n1(scout:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"heronew1_eng"      ("i3" c(120)					t(all hero) s(eng) n1(rifle3:4) n2(smg3:3) n3(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
-{"hero2_eng1"        ("i2" c(120) 			                t(all hero) s(eng) n1(smg:3) n2(bazooker3:3) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"hero2_eng1"        ("i2" c(120) 			                t(all hero) s(eng) n1(smg5:3) n2(bazooker3:3) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
 {"hero3_eng"        ("i3" c(240)					t(all hero) s(eng) n1(elite4:4) n2(elite5:5) n3(elite6:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero4_eng"        ("v4" c(360) c1(m3_eng) 		                t(all hero) s(eng) n1(elite:5) n2(elite2:2) n3(elite3:2) n4(elite_at:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}

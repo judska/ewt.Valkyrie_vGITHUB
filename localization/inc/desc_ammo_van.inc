@@ -25,6 +25,7 @@
 		{"bullet75 ap" "AP 75mm"}
 		{"bullet75 apcr" "APCR 75mm"}
 		{"bullet75 fg" "HE 75mm"}
+		{"bullet75 heat" "HEAT 75mm"}
 		{"bullet76 ap" "AP 76mm"}
 		{"bullet76 apcr" "APCR 76mm"}
 		{"bullet76 fg" "HE 76mm"}

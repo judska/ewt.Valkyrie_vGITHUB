@@ -1,0 +1,13 @@
+{from "pattern gun"		; "pz3n"
+	{filling "bullet75"}
+	{fireSound "gun/50to76_cal/75mm_kwk40"}
+	{reloadSound "gun_r03"}
+	("range_light_howitzer")
+	("caliber_medium")
+
+	{projectileDamage 52}
+	("damage_150" a(52) b(44) c(40) d(36) e(34))
+	{parameters "heat"
+        ("damage_heat" a(80) b(80) c(80) d(80) e(80))
+	}
+}

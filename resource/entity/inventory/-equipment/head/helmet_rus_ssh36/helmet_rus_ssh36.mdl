@@ -1,0 +1,53 @@
+;Exported by: Kalinski
+;Date:        Mon Nov 14 02:10:54 2016
+;File:        C:\Users\Kalinski\Desktop\ssh\ssh fin2.max
+{Skeleton
+	{bone "helmet_rus_ssh36"
+		{Matrix34
+			1	0	0
+			0	-1	0
+			0	0	1
+                        0	0	-0.15
+		}
+		{VolumeView "helmet_rus_ssh36.ply"}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "helmet_rus_ssh36"}
+	{Position 0	6.15179	0}
+}
+{Volume "select"
+	{Box 5.59662 5.08766 5.14459}
+	{Bone "helmet_rus_ssh36"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		1.05468	0.260123	2.34829
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 6.234	-4.97969	3.3486}
+			{lookat 0.945302	0.00163716	3.25642}
+			{fov 45}
+			{horizon -0.239031}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.348656	0.306587	-0.185591}
+			}
+			{"1"
+				{type point}
+				{position 1.3762	-2.3209	2.53304}
+			}
+			{"2"
+				{type point}
+				{position 3.55957	-1.33044	3.47408}
+			}
+		}
+	}
+}

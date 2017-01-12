@@ -24,6 +24,10 @@
 		{cursor "cannon_on_apcr"}
 		{cursorReloading "cannon_reload_apcr"}
 	}
+	{parameters "heat"
+		{cursor "cannon_on_heat"}
+		{cursorReloading "cannon_reload_heat"}
+	}
 	{parameters "sm"
 		{cursor "cannon_on_sm"}
 		{cursorReloading "cannon_reload_sm"}

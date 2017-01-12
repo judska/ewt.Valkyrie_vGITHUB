@@ -10,7 +10,7 @@
 {"challenger_a30"  		("extra" t() sc(950.00)  cw(0) cp(15))}	;6
 {"black_prince"  		("extra" t() sc(1350.00) cw(0) cp(32))}	;9
 
-{"pz2f"        	                ("extra" t() sc(150.00) cw(0) cp(5))}	;1
+{"lg_40"        	        ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"nebelwerfer41"                ("extra" t() sc(440.00) cw(0) cp(10))}	;3
 {"np_sdkfz8_flak"               ("extra" t() sc(700.00) cw(0) cp(15))}	;4
 {"stuh42"	        	("extra" t() sc(750.00) cw(0) cp(15))}	;5

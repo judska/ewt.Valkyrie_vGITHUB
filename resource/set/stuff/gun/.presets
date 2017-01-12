@@ -45,6 +45,10 @@
 (define "damage_160"                                                                                 
 	{projectileDamageTable {10 %a} {50 %b} {75 %c} {100 %d} {160 %e} {162 0}}
 )
+(define "damage_heat"                                                                                 
+	{projectileDamageTable {0 %a} {25 %b} {40 %c} {55 %d} {70 %e} {72 0}}
+)
+
 
 (define "accuracy_curve_1"
 	{spreading 
@@ -393,6 +397,9 @@
 	}
 	{parameters "apcr"
 		{range 110 120}
+	}
+	{parameters "heat"
+		{range 60 70}
 	}	
     {RelaxationTime 0.4}
 	{speed 150}

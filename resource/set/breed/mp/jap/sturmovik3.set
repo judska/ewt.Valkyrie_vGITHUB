@@ -50,7 +50,7 @@
 		{item "ammo pistol" 500}
 		{item "bandage" 5}
 		{item "grenade type97" 2}
-		{item "smoke grenade" 2}
+		{item "smoke grenade" 1}
 		{item "dynamite" 1}
 		{item "weapon weapon type_4at" filled}
 		{item "ammo type_4" 5}

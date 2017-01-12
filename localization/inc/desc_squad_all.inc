@@ -277,7 +277,7 @@
 		{"heronew2_ger1" "Sd.Kfz.8 8.8cm Flak"}
 		{"heronew3_ger" "PaK 43"}
 		{"heronew4_ger1" "PzKpfw III Flamer"}
-		{"heronew5_ger" "Goliath"}
+		{"heronew5_ger" "Mountain Gun"}
 		{"heronew6_ger" "Das Reich!"}
 		{"hero1_jap" "AT-Riflegrenade Squad"}
 		{"hero2_jap" "Kamikaze!"}

@@ -41,6 +41,71 @@
 					}
 				}
 			}
+			
+
+
+			{bone "log1_left"
+				{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					7	-26 	8
+				}
+				{VolumeView "timber_8.ply"}
+			}
+
+			{bone "log2_left"
+				{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					7	-25 	12
+				}
+				{VolumeView "timber_8.ply"}
+			}
+			{bone "log3_right"
+				{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					7	26  	8
+				}
+				{VolumeView "timber_8.ply"}
+			}
+
+			{bone "log4_right"
+				{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					7	25 	12
+				}
+				{VolumeView "timber_8.ply"}
+			}
+			{bone "log5_l_u"
+				{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					7	-24 	16
+				}
+				{VolumeView "timber_8.ply"}
+			}
+			{bone "log6_r_u"
+				{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					7	24	16
+				}
+				{VolumeView "timber_8.ply"}
+			}
+			
+
+
+
+
+
 			{bone revolute "wheell1"
 				{parameters "ID=trackleft;Radius=0.43;"}
 				{Matrix34
@@ -673,6 +738,113 @@
 	{Bone "engine"}
 	{Position -1.34648	-0.107344	-6.18458}
 }
+
+
+
+
+
+{Volume "log1_left"
+			
+	{Box 40 4 4}
+	{Bone "log1_left"}
+
+	{thickness 40}
+	{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					0	0 	0
+	}
+				
+}
+
+{Volume "log2_left"
+			
+	{Box 40 4 4}
+	{Bone "log2_left"}
+	{thickness 40}
+
+	{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					0	0	0
+	}
+				
+}
+
+{Volume "log3_right"
+			
+	{Box 40 4 4}
+	{Bone "log3_right"}
+	{thickness 40}
+
+	{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					0	0	0
+	}
+				
+}
+
+{Volume "log4_right"
+			
+	{Box 40 4 4}
+	{Bone "log4_right"}
+
+	{thickness 40}
+	{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					0	0 	0
+	}
+				
+}
+
+{Volume "log5_l_u"
+			
+	{Box 40 4 4}
+	{Bone "log5_l_u"}
+
+	{thickness 40}
+	{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					0	0 	0
+	}
+				
+}
+
+{Volume "log6_r_u"
+			
+	{Box 40 3 3}
+	{Bone "log6_r_u"}
+
+	{thickness 40}
+	{Matrix34
+					1	0	0
+					0	0	-1
+					0	1	0
+					0	0 	0
+	}
+				
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 {Volume "gun"
 	{Cylinder 1.99831 44.1512}
 	{Bone "gun_rot"}
@@ -728,3 +900,4 @@
 		-5.13375	-8.69428	3.23716
 	}
 }
+			

@@ -52,7 +52,7 @@
 		{"chi-to" "Chi-To"}
 		{"churchill_avre" "Churchill AVRE"}
 		{"churchill_crocodile" "Churchill Crocodile"}
-		{"churchill_mk_vii" "Mk.VII Churchill"}
+		{"churchill_mk_vii" "Mk.IV Churchill"}
 		{"cistern" "Tank wagon"}
 		{"cometa34" "Comet I (A34)"}
 		{"cow" "Cow"}
@@ -146,6 +146,7 @@
 		{"lci(l)" "LCI(L)"}
 		{"lcvp" "Landing craft"}
 		{"lefh18" "le. FH 18 M"}
+		{"lg_40" "7.5 cm Leichtgeschutz 40"}
 		{"lvt4" "LVT(A)-4"}
 		{"marder_3h" "Marder III Ausf. H"}
 		{"m10wolverine" "M10 Wolverine"}
@@ -192,6 +193,7 @@
 		{"m72" "M-72"}
 		{"m7_eng" "M7 Priest"}
 		{"m8" "M8 Scott"}
+		{"m8a1" "M8A1 Scott"}
 		{"m8grayhound" "M8 Greyhound"}
 		{"m8_howitzer" "M8"}
 		{"maxim" "Maxim MG"}
@@ -314,6 +316,7 @@
 		{"type2_20mm_stand" "20mm Type 2"}
 		{"type4_200mm" "200mm Type 4"}
 		{"type4_75mm" "75mm Type 4"}
+		{"type89" "Chi-Ro"}
 		{"type96_150mm" "150mm Type 96"}
 		{"type93scout" "Type 92"}
 		{"type94" "Type 94 mortar"}
