@@ -76,8 +76,8 @@
 
 	{extender "inventory"
 		{box
-            		{item "bullet75 ap" 22}
-            		{item "bullet75 fg" 20}
+            		{item "bullet75 ap" 32}
+            		{item "bullet75 fg" 44}
             		{item "bullet75 apcr" 5}
             		{item "ammo mgun" 3150}
 		}
