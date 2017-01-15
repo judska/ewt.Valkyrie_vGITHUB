@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/kv1b/kv1b_body_am"}
+	{bump "$/model/kv1b/kv1b_body_nm"}
+	{specular "$/model/kv1b/kv1b_body_gmm"}
+	{color "229 229 229 25"}
+	{blend test}
+}

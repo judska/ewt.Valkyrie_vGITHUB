@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/model/kv1b/kv1b_ger1"}
+	{blend blend}
+}

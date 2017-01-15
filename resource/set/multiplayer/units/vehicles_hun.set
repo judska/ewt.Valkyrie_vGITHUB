@@ -33,7 +33,7 @@
 {"csaba39m"     ("v" c(180) t(all light)      	s(hun) n1(1) n2(1) g(d2) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0}}
 {"toldi1"       ("v" c(210) t(all light) 	s(hun) n1(2) n2(1) g(d4) sc(12.50) b(v3) cw(0) cp(5)) {level 1} {cost 270} {fore 0}}
 
-{"pzkpfw38t_hun"    ("v" c(150) t(all light)   	s(hun) n1(2) n2(1) g(d6) sc(12250.00) b(v3) cw(0) cp(5)) {level 1} {cost 250} {fore 0}}
+{"pzkpfw38t_hun"    ("v" c(150) t(all light)   	s(hun) n1(2) n2(1) g(d6) sc(250.00) b(v3) cw(0) cp(5)) {level 1} {cost 250} {fore 0}}
 {"toldi2"       ("v" c(150) t(all light)      	s(hun) n1(2) n2(1) g(d8) sc(280.00) b(v3) cw(0) cp(5)) {level 1} {cost 280} {fore 0}}
 {"nimrod"       ("v" c(210) t(all light)      	s(hun) n1(2) n2(1) g(d8) sc(320.00) b(v3) cw(0) cp(15)) {level 1} {cost 320} {fore 0}}
 

@@ -59,8 +59,8 @@
 
 ;°°°Button 5°°°
 
-{"ho-ni1"           ("v"  c(0) t(all medium) 		s(jap) n1(2) n2(1) g(f1) sc(290.00) b(v5) cw(0) cp(10)) {level 1} {cost 290} {fore 1.0}} 	
-{"ho-ni_3"          ("v"  c(0) t(all medium) 		s(jap) n1(2) n2(1) g(f1) sc(300.00) b(v5) cw(0) cp(10)) {level 1} {cost 300} {fore 1.0}} 	
+{"ho-ni1"           ("v"  c(0) t(all medium) 		s(jap) n1(2) n2(1) g(f1) sc(320.00) b(v5) cw(0) cp(10)) {level 1} {cost 320} {fore 1.0}} 	
+{"ho-ni_3"          ("v"  c(0) t(all medium) 		s(jap) n1(2) n2(1) g(f1) sc(330.00) b(v5) cw(0) cp(10)) {level 1} {cost 330} {fore 1.0}} 	
 {"ho-ri"      	    ("v"  c(0) t(all sheavy) 		s(jap) n1(3) n2(1) g(f2) sc(1500.00) b(v5) cw(0) cp(27)) {level 1} {cost 1500} {fore 1.0}} 	
 
 

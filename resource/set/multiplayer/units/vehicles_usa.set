@@ -56,10 +56,10 @@
 ;°°°Button 5°°°
 
 {"m8"               ("v" c(0) t(all medium) 		s(usa) n1(3) n2(1) g(f1) sc(330.00) b(v5) cw(0) cp(10)) {level 4} {cost 330} {fore 1.0}}
-{"m8a1"             ("v" c(0) t(all medium) 		s(usa) n1(3) n2(1) g(f1) sc(350.00) b(v5) cw(0) cp(10)) {level 4} {cost 350} {fore 1.0}}
-{"m18"              ("v" c(0) t(all medium) 		s(usa) n1(4) n2(1) g(f2) sc(490.00) b(v5) cw(0) cp(10)) {level 1} {cost 490} {fore 1.0}} 	
+{"m8a1"             ("v" c(0) t(all medium) 		s(usa) n1(3) n2(1) g(f1) sc(360.00) b(v5) cw(0) cp(10)) {level 4} {cost 360} {fore 1.0}}
+{"m18"              ("v" c(0) t(all medium) 		s(usa) n1(4) n2(1) g(f2) sc(520.00) b(v5) cw(0) cp(10)) {level 1} {cost 520} {fore 1.0}} 	
 
-{"m10wolverine"     ("v" c(0) t(all medium) 		s(usa) n1(4) n2(1) g(f3) sc(515.00) b(v5) cw(0) cp(10)) {level 1} {cost 515} {fore 1.0}} 	
+{"m10wolverine"     ("v" c(0) t(all medium) 		s(usa) n1(4) n2(1) g(f3) sc(540.00) b(v5) cw(0) cp(10)) {level 1} {cost 540} {fore 1.0}} 	
 {"m36"       	    ("v" c(0) t(all medium) 		s(usa) n1(4) n2(1) g(f4) sc(720.00) b(v5) cw(0) cp(10)) {level 1} {cost 720} {fore 1.0}}
 
 

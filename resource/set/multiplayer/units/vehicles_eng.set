@@ -59,8 +59,8 @@
 
 ;같캛utton 5같�
 
-{"archer"           ("v" c(0) t(all medium) 		s(eng) n1(3) n2(1) g(f1) sc(660.00) b(v5) cw(0) cp(10)) {level 1} {cost 660} {fore 1.0}}
-{"achilles"         ("v" c(0) t(all medium) 		s(eng) n1(4) n2(1) g(f2) sc(690.00) b(v5) cw(0) cp(10)) {level 1} {cost 690} {fore 1.0}}		
+{"archer"           ("v" c(0) t(all medium) 		s(eng) n1(3) n2(1) g(f1) sc(740.00) b(v5) cw(0) cp(10)) {level 1} {cost 740} {fore 1.0}}
+{"achilles"         ("v" c(0) t(all medium) 		s(eng) n1(4) n2(1) g(f2) sc(870.00) b(v5) cw(0) cp(10)) {level 1} {cost 870} {fore 1.0}}		
 
 
 ;같캛utton Hero같�

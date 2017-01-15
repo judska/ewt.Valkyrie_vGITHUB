@@ -45,7 +45,7 @@
 
 ;같캛utton 5같�
 
-{"m18_chn"          ("v" c(0) t(all medium) 		s(chn) n1(4) n2(1) g(f1) sc(400.00) b(v5) cw(0) cp(10)) {level 1} {cost 400} {fore 1.0}} 	
+{"m18_chn"          ("v" c(0) t(all medium) 		s(chn) n1(4) n2(1) g(f1) sc(510.00) b(v5) cw(0) cp(10)) {level 1} {cost 510} {fore 1.0}} 	
 
 
 ;같캛utton Hero같�
