@@ -12,7 +12,7 @@
 
 {"lg_40"        	        ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"nebelwerfer41"                ("extra" t() sc(440.00) cw(0) cp(10))}	;3
-{"np_sdkfz8_flak"               ("extra" t() sc(700.00) cw(0) cp(15))}	;4
+{"vergeltungswaffe1"            ("extra" t() sc(700.00) cw(0) cp(15))}	;6
 {"stuh42"	        	("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"pak43"        		("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"np_sdkfz251_1w"        	("extra" t() sc(900.00) cw(0) cp(5))}	;5

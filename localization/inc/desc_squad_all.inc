@@ -274,7 +274,7 @@
 		{"hero8_ger" "Veteran Tiger"}
 		{"hero9_ger" "Sturmtiger"}
 		{"heronew1_ger1" "German Youth"}
-		{"heronew2_ger1" "Sd.Kfz.8 8.8cm Flak"}
+		{"heronew2_ger1" "Vengeance Weapon 1"}
 		{"heronew3_ger" "PaK 43"}
 		{"heronew4_ger1" "PzKpfw III Flamer"}
 		{"heronew5_ger" "Mountain Gun"}
@@ -370,7 +370,7 @@
                 {"hero2_ita" "PzKpfw KV-1B 756(r)"}
                 {"hero3_ita" "Carro Armato L35/L.F."}
                 {"hero4_ita" "45mm Brixia Modello 35"}
-                {"hero5_ita" "Truck Gun"}
+                {"hero5_ita" "Cannone Movente"}
                 {"hero6_ita" "Elefantita"}
                 {"hero8_ita" "PzKpfw III Ausf.N"}
                 {"hero9_ita" "Obice da 210/35"}

@@ -326,6 +326,7 @@
 		{"universal_carrier" "Bren carrier"}
 		{"u-boat" "U-boat"}
 		{"veteran_tiger" "Veteran Tiger"}
+		{"vergeltungswaffe1" "Vengence Weapon 1"}
 		{"vickers" "3.7-Inch QF AA Mk.II"}
 		{"vickers_mgun" "Heavy MG"}
 		{"vickers_stan" "Heavy MG"}

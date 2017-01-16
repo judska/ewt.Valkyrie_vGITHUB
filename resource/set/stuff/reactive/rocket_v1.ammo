@@ -1,0 +1,30 @@
+{bullet
+	{tag "big size_maximum shell fg bomb"}
+	{tag "big shell fg bomb"}
+	{inventory
+		{size 4 2}
+		{weight 20}
+	}	
+	{mass 165}
+	{entity "v1_rocket"}
+	{view "v1_rocket"
+		{tail "rocket_smoke_v1" "tail"}
+
+	}
+
+	{detonationThickness 1}
+	{applyProjectile}
+	{damage add blastwave	
+		{energy 22}
+		{area 22 25}
+	}
+	{damage add blastwave	
+		{energy 28}
+		{area 26 28}
+	}
+	{damage add blastwave	 
+		{energy 22}
+		{area 24 28}
+	}
+
+}

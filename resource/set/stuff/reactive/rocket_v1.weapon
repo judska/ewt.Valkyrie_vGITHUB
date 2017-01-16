@@ -1,0 +1,21 @@
+{weapon_bullet
+	{tag "gun"}
+	{filling "ammo rocket_v1" 1}
+	{entity "v1_rocket"}
+	{fireSound "reactive/SCUD_launch"}
+	{fillingVisible "rocket00"}
+	{inventory {noView}}
+	{foresight "foresight"}
+	;{burst {min 1} {noaiming}}
+	{Automatic}    
+	{rechargeTime 240}
+	{recoveryTime 120}
+	{gravity 0.1}
+	{speed 30}
+	{range 220 240}     
+	{aimtype direct}
+
+	{spreading
+                {radiusTable {0 0} {50 2} {100 4} {150 6} {200 8} {300 10} {400 12} {500 15} {600 20}}
+	}
+}
