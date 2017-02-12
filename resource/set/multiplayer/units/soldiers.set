@@ -17,6 +17,7 @@
 {"mp/fin/tankman" ("tankman" side(fin))}
 {"mp/ita/tankman" ("tankman" side(ita))}
 {"mp/chn/tankman" ("tankman" side(chn))}
+{"mp/anz/tankman" ("tankman" side(anz))}
 
 
 
@@ -38,6 +39,7 @@
 {"mp/fin/tankman2" ("tankman2" side(fin))}
 {"mp/ita/tankman2" ("tankman2" side(ita))}
 {"mp/chn/tankman2" ("tankman2" side(chn))}
+{"mp/anz/tankman2" ("tankman2" side(anz))}
 
 
 (define "vehicle_supporter"
@@ -58,6 +60,7 @@
 {"mp/fin/vehicle_supporter" ("vehicle_supporter" side(fin))}
 {"mp/ita/vehicle_supporter" ("vehicle_supporter" side(ita))}
 {"mp/chn/vehicle_supporter" ("vehicle_supporter" side(chn))}
+{"mp/anz/vehicle_supporter" ("vehicle_supporter" side(anz))}
 
 
 (define "home_guard"
@@ -77,6 +80,8 @@
 {"mp/fra/home_guard" ("home_guard" side(fra))}
 {"mp/fin/home_guard" ("home_guard" side(fin))}
 {"mp/ita/home_guard" ("home_guard" side(ita))}
+{"mp/anz/home_guard" ("home_guard" side(anz))}
+
 
 {"mp/rus/home_guard2" ("home_guard" side(rus))}
 {"mp/ger/home_guard2" ("home_guard" side(ger))}
@@ -87,6 +92,7 @@
 {"mp/fra/home_guard2" ("home_guard" side(fra))}
 {"mp/fin/home_guard2" ("home_guard" side(fin))}
 {"mp/ita/home_guard2" ("home_guard" side(ita))}
+{"mp/anz/home_guard2" ("home_guard" side(anz))}
 
 {"mp/ger/home_guard3" ("home_guard" side(ger))}
 {"mp/fra/home_guard3" ("home_guard" side(fra))}
@@ -130,6 +136,7 @@
 {"mp/fin/rifle" ("rifle" side(fin))}
 {"mp/ita/rifle" ("rifle" side(ita))}
 {"mp/chn/rifle" ("rifle" side(chn))}
+{"mp/anz/rifle" ("rifle" side(anz))}
 
 {"mp/rus/rifle2" ("rifle" side(rus))}
 {"mp/ger/rifle2" ("rifle" side(ger))}
@@ -141,6 +148,7 @@
 {"mp/fin/rifle2" ("rifle" side(fin))}
 {"mp/ita/rifle2" ("rifle" side(ita))}
 {"mp/chn/rifle2" ("rifle" side(chn))}
+{"mp/anz/rifle2" ("rifle" side(anz))}
 
 {"mp/eng/rifle3" ("rifle" side(eng))}
 {"mp/fin/rifle3" ("rifle" side(fin))}
@@ -182,6 +190,7 @@
 {"mp/fin/smg" ("smg" side(fin))}
 {"mp/ita/smg" ("smg" side(ita))}
 {"mp/chn/smg" ("smg" side(chn))}
+{"mp/anz/smg" ("smg" side(anz))}
 
 {"mp/rus/smg2" ("smg" side(rus))}
 {"mp/usa/smg2" ("smg" side(usa))}
@@ -193,6 +202,7 @@
 {"mp/fin/smg2" ("smg" side(fin))}
 {"mp/ita/smg2" ("smg" side(ita))}
 {"mp/chn/smg2" ("smg" side(chn))}
+{"mp/anz/smg2" ("smg" side(anz))}
 
 {"mp/rus/smg3" ("smg" side(rus))}
 {"mp/eng/smg3" ("smg" side(eng))}
@@ -247,6 +257,7 @@
 {"mp/fin/squadleader" ("squadleader" side(fin))}
 {"mp/ita/squadleader" ("squadleader" side(ita))}
 {"mp/chn/squadleader" ("squadleader" side(chn))}
+{"mp/anz/squadleader" ("squadleader" side(anz))}
 
 {"mp/rus/squadleader2" ("squadleader" side(rus))}
 {"mp/usa/squadleader2" ("squadleader" side(usa))}
@@ -258,6 +269,7 @@
 {"mp/fin/squadleader2" ("squadleader" side(fin))}
 {"mp/ita/squadleader2" ("squadleader" side(ita))}
 {"mp/chn/squadleader2" ("squadleader" side(chn))}
+{"mp/anz/squadleader2" ("squadleader" side(anz))}
 
 
 
@@ -283,6 +295,7 @@
 )
 {"mp/rus/mgun" ("mgun" side(rus))}
 {"mp/ger/mgun" ("mgun" side(ger))}
+{"mp/anz/mgun" ("mgun" side(anz))}
 
 {"mp/ger/mgun2" ("mgun" side(ger))}
 {"mp/usa/mgun2" ("mgun" side(usa))}
@@ -331,6 +344,7 @@
 {"mp/fin/saper" ("saper" side(fin))}
 {"mp/ita/saper" ("saper" side(ita))}
 {"mp/chn/saper" ("saper" side(chn))}
+{"mp/anz/saper" ("saper" side(anz))}
 
 {"mp/usa/saper2" ("saper" side(usa))}
 {"mp/eng/saper2" ("saper" side(eng))}
@@ -357,6 +371,7 @@
 {"mp/fin/ap_miner" ("ap_miner" side(fin))}
 {"mp/ita/ap_miner" ("ap_miner" side(ita))}
 {"mp/chn/ap_miner" ("ap_miner" side(chn))}
+{"mp/anz/ap_miner" ("ap_miner" side(anz))}
 
 
 (define "at_miner"
@@ -377,6 +392,7 @@
 {"mp/fin/at_miner" ("ap_miner" side(fin))}
 {"mp/ita/at_miner" ("ap_miner" side(ita))}
 {"mp/chn/at_miner" ("ap_miner" side(chn))}
+{"mp/anz/at_miner" ("ap_miner" side(anz))}
 
 
 
@@ -398,6 +414,7 @@
 {"mp/fin/elite" ("elite" side(fin))}
 {"mp/ita/elite" ("elite" side(ita))}
 {"mp/chn/elite" ("elite" side(chn))}
+{"mp/anz/elite" ("elite" side(anz))}
 
 {"mp/rus/elite2" ("elite" side(rus))}
 {"mp/ger/elite2" ("elite" side(ger))}
@@ -409,6 +426,7 @@
 {"mp/fin/elite2" ("elite" side(fin))}
 {"mp/ita/elite2" ("elite" side(ita))}
 {"mp/chn/elite2" ("elite" side(chn))}
+{"mp/anz/elite2" ("elite" side(anz))}
 
 {"mp/rus/elite3" ("elite" side(rus))}
 {"mp/ger/elite3" ("elite" side(ger))}
@@ -420,6 +438,7 @@
 {"mp/fin/elite3" ("elite" side(fin))}
 {"mp/ita/elite3" ("elite" side(ita))}
 {"mp/chn/elite3" ("elite" side(chn))}
+{"mp/anz/elite3" ("elite" side(anz))}
 
 {"mp/rus/elite4" ("elite" side(rus))}
 {"mp/ger/elite4" ("elite" side(ger))}
@@ -428,6 +447,7 @@
 {"mp/hun/elite4" ("elite" side(hun))}
 {"mp/fin/elite4" ("elite" side(fin))}
 {"mp/chn/elite4" ("elite" side(chn))}
+{"mp/anz/elite4" ("elite" side(anz))}
 
 {"mp/rus/elite5" ("elite" side(rus))}
 {"mp/ger/elite5" ("elite" side(ger))}
@@ -438,6 +458,7 @@
 {"mp/fin/elite5" ("elite" side(fin))}
 {"mp/ita/elite5" ("elite" side(ita))}
 {"mp/chn/elite5" ("elite" side(chn))}
+{"mp/anz/elite5" ("elite" side(anz))}
 
 {"mp/rus/elite6" ("elite" side(rus))}
 {"mp/ger/elite6" ("elite" side(ger))}
@@ -448,22 +469,26 @@
 {"mp/fin/elite6" ("elite" side(fin))}
 {"mp/ita/elite6" ("elite" side(ita))}
 {"mp/chn/elite6" ("elite" side(chn))}
+{"mp/anz/elite6" ("elite" side(anz))}
 
 {"mp/ger/elite7" ("elite" side(ger))}
 {"mp/jap/elite7" ("elite" side(jap))}
 {"mp/usa/elite7" ("elite" side(usa))}
 {"mp/fin/elite7" ("elite" side(fin))}
 {"mp/ita/elite7" ("elite" side(ita))}
+{"mp/anz/elite7" ("elite" side(anz))}
 
 {"mp/ger/elite8" ("elite" side(ger))}
 {"mp/usa/elite8" ("elite" side(usa))}
 {"mp/fin/elite8" ("elite" side(fin))}
 {"mp/ita/elite8" ("elite" side(ita))}
+{"mp/anz/elite8" ("elite" side(anz))}
 
 {"mp/ger/elite9" ("elite" side(ger))}
 {"mp/usa/elite9" ("elite" side(usa))}
 {"mp/fin/elite9" ("elite" side(fin))}
 {"mp/ita/elite9" ("elite" side(ita))}
+{"mp/anz/elite9" ("elite" side(anz))}
 
 {"mp/ger/elite10" ("elite" side(ger))}
 {"mp/ger/elite10" ("elite" side(usa))}
@@ -515,6 +540,7 @@
 {"mp/fin/sturmovik" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik" ("sturmovik" side(chn))}
+{"mp/chn/sturmovik" ("sturmovik" side(chn))}
 
 {"mp/rus/sturmovik2" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik2" ("sturmovik" side(ger))}
@@ -525,6 +551,7 @@
 {"mp/fra/sturmovik2" ("sturmovik" side(fra))}
 {"mp/fin/sturmovik2" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik2" ("sturmovik" side(ita))}
+{"mp/chn/sturmovik2" ("sturmovik" side(chn))}
 {"mp/chn/sturmovik2" ("sturmovik" side(chn))}
 
 {"mp/rus/sturmovik3" ("sturmovik" side(rus))}
@@ -537,6 +564,7 @@
 {"mp/fin/sturmovik3" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik3" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik3" ("sturmovik" side(chn))}
+{"mp/chn/sturmovik3" ("sturmovik" side(chn))}
 
 {"mp/rus/sturmovik4" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik4" ("sturmovik" side(ger))}
@@ -548,6 +576,7 @@
 {"mp/fin/sturmovik4" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik4" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik4" ("sturmovik" side(chn))}
+{"mp/chn/sturmovik4" ("sturmovik" side(chn))}
 
 {"mp/rus/sturmovik4b" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik4b" ("sturmovik" side(ger))}
@@ -558,6 +587,7 @@
 {"mp/fra/sturmovik4b" ("sturmovik" side(fra))}
 {"mp/fin/sturmovik4b" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik4b" ("sturmovik" side(ita))}
+{"mp/chn/sturmovik4b" ("sturmovik" side(chn))}
 {"mp/chn/sturmovik4b" ("sturmovik" side(chn))}
 
 {"mp/eng/sturmovik4c" ("sturmovik" side(eng))}
@@ -572,6 +602,7 @@
 {"mp/fin/sturmovik5" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik5" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik5" ("sturmovik" side(chn))}
+{"mp/chn/sturmovik5" ("sturmovik" side(chn))}
 
 {"mp/rus/sturmovik5b" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik5b" ("sturmovik" side(ger))}
@@ -582,6 +613,7 @@
 {"mp/fra/sturmovik5b" ("sturmovik" side(fra))}
 {"mp/fin/sturmovik5b" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik5b" ("sturmovik" side(ita))}
+{"mp/chn/sturmovik5b" ("sturmovik" side(chn))}
 {"mp/chn/sturmovik5b" ("sturmovik" side(chn))}
 
 {"mp/rus/sturmovik6" ("sturmovik" side(rus))}
@@ -594,6 +626,7 @@
 {"mp/fin/sturmovik6" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik6" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik6" ("sturmovik" side(chn))}
+{"mp/chn/sturmovik6" ("sturmovik" side(chn))}
 
 {"mp/rus/sturmovik6b" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik6b" ("sturmovik" side(ger))}
@@ -604,6 +637,7 @@
 {"mp/fra/sturmovik6b" ("sturmovik" side(fra))}
 {"mp/fin/sturmovik6b" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik6b" ("sturmovik" side(ita))}
+{"mp/chn/sturmovik6b" ("sturmovik" side(chn))}
 {"mp/chn/sturmovik6b" ("sturmovik" side(chn))}
 
 {"mp/rus/sturmovik7" ("sturmovik" side(rus))}
@@ -616,6 +650,7 @@
 {"mp/fin/sturmovik7" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik7" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik7" ("sturmovik" side(chn))}
+{"mp/chn/sturmovik7" ("sturmovik" side(chn))}
 
 {"mp/rus/sturmovik7b" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik7b" ("sturmovik" side(ger))}
@@ -626,6 +661,7 @@
 {"mp/fra/sturmovik7b" ("sturmovik" side(fra))}
 {"mp/fin/sturmovik7b" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik7b" ("sturmovik" side(ita))}
+{"mp/chn/sturmovik7b" ("sturmovik" side(chn))}
 {"mp/chn/sturmovik7b" ("sturmovik" side(chn))}
 
 
@@ -666,6 +702,7 @@
 {"mp/fin/flamer" ("flamer" side(fin))}
 {"mp/ita/flamer" ("flamer" side(ita))}
 {"mp/chn/flamer" ("flamer" side(chn))}
+{"mp/anz/flamer" ("flamer" side(anz))}
 
 {"mp/rus/flamer2" ("flamer" side(rus))}
 {"mp/usa/flamer2" ("flamer" side(usa))}
@@ -677,6 +714,7 @@
 {"mp/fin/flamer2" ("flamer" side(fin))}
 {"mp/ita/flamer2" ("flamer" side(ita))}
 {"mp/chn/flamer2" ("flamer" side(chn))}
+{"mp/anz/flamer2" ("flamer" side(anz))}
 
 {"mp/rus/flamer3" ("flamer" side(rus))}
 
@@ -700,6 +738,7 @@
 {"mp/fin/sniper" ("sniper" side(fin))}
 {"mp/ita/sniper" ("sniper" side(ita))}
 {"mp/chn/sniper" ("sniper" side(chn))}
+{"mp/anz/sniper" ("sniper" side(anz))}
 
 {"mp/rus/sniper2" ("sniper" side(rus))}
 {"mp/ger/sniper2" ("sniper" side(ger))}
@@ -741,6 +780,7 @@
 {"mp/fin/radioman" ("radioman" side(fin))}
 {"mp/ita/radioman" ("radioman" side(ita))}
 {"mp/chn/radioman" ("radioman" side(chn))}
+{"mp/anz/radioman" ("radioman" side(anz))}
 
 
 (define "oficer"
@@ -761,6 +801,7 @@
 {"mp/fin/oficer" ("oficer" side(fin))}
 {"mp/ita/oficer" ("oficer" side(ita))}
 {"mp/ita/oficer" ("oficer" side(chn))}
+{"mp/anz/oficer" ("oficer" side(anz))}
 
 
 (define "bazooker"
@@ -781,6 +822,7 @@
 {"mp/fin/bazooker" ("bazooker" side(fin))}
 {"mp/ita/bazooker" ("bazooker" side(ita))}
 {"mp/chn/bazooker" ("bazooker" side(chn))}
+{"mp/anz/bazooker" ("bazooker" side(anz))}
 
 {"mp/rus/bazooker2" ("bazooker" side(rus))}
 {"mp/ger/bazooker2" ("bazooker" side(ger))}
@@ -792,6 +834,7 @@
 {"mp/fin/bazooker2" ("bazooker" side(fin))}
 {"mp/ita/bazooker2" ("bazooker" side(ita))}
 {"mp/chn/bazooker2" ("bazooker" side(chn))}
+{"mp/anz/bazooker2" ("bazooker" side(anz))}
 
 
 {"mp/ger/bazooker3" ("bazooker" side(ger))}
@@ -817,6 +860,7 @@
 {"mp/fin/at_rifle" ("at_rifle" side(fin))}
 {"mp/ita/at_rifle" ("at_rifle" side(ita))}
 {"mp/chn/at_rifle" ("at_rifle" side(chn))}
+{"mp/anz/at_rifle" ("at_rifle" side(anz))}
 
 {"mp/rus/at_rifle2" ("at_rifle" side(rus))}
 {"mp/ger/at_rifle2" ("at_rifle" side(ger))}
@@ -827,6 +871,7 @@
 {"mp/fin/at_rifle2" ("at_rifle" side(fin))}
 {"mp/ita/at_rifle2" ("at_rifle" side(ita))}
 {"mp/chn/at_rifle2" ("at_rifle" side(chn))}
+{"mp/anz/at_rifle2" ("at_rifle" side(anz))}
 
 
 

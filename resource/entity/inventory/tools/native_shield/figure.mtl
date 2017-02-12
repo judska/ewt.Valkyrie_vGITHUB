@@ -1,7 +1,0 @@
-{material bump
-	{diffuse "shield"}
-	{bump "shield_bp"}
-	{specular "shield_sp"}
-	{color "229 229 229 0"}
-	{blend none}
-}

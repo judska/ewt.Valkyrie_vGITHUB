@@ -1,1 +1,1 @@
-		{"bullet114 fg" "HE 114mm"}
+		{"bullet114 heat" "HEAT 114mm"}

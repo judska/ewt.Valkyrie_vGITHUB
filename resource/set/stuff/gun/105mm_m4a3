@@ -7,7 +7,7 @@
 	("caliber_maximum")
 	{projectileDamage 150}
 	
-	{range 130 140}
+	{range 140 150}
 	("accuracy_minimum")
 }
 

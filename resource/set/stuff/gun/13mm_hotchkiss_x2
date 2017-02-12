@@ -14,7 +14,7 @@
 	("speed" s(800))
 	("range_zenite")
 	("caliber_zenite")
-	{healthDamage 280}
+	{healthDamage 100}
 	{projectileDamage 13}
 	("damage_100" a(24) b(20) c(16) d(13) e(9))
 	

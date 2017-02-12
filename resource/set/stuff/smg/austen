@@ -1,0 +1,12 @@
+{from "pattern smg"
+	{filling "ammo pistol" 32}
+	{entity "mp3008"}
+	{fireSound	"smg/mp3008_burst/"}
+	{reloadSound "sten"}
+	
+	{healthDamage 150}	
+	("recoveryTime" r(600))
+	("burst_short")
+	("accuracy_smg2")
+ 	("speed" s(365))
+}

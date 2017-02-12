@@ -40,13 +40,16 @@
 			{energy (* %0 1.15)}
 			{area 0.2 0.5}
 		}
+		; anti-apc
+		{damage add blastwave
+			{energy (* %0 0.2)}
+			{area 5.5 6}
+		}
 		; anti-personel
 		{damage add blastwave
 			{energy 1.2}
-			{area (* 0.5 (+ %0 5)) (* 0.85 (+ %0 5))}
-	        }
-)
-
+			{area 8 16}
+		}
 )
 
 (define "fg_medium"

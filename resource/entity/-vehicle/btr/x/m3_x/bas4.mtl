@@ -1,4 +1,4 @@
 {material simple
-	{diffuse "t48_x"}
+	{diffuse "t48"}
 	{blend test}
 }

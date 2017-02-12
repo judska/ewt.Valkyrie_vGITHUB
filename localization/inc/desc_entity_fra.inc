@@ -14,6 +14,8 @@
                 {"37mm_shneider" "37mm DCA Shneider"}
 		{"how_a(fra)" "BL 6\\26 cwt"}
 		{"how_b(fra)" "QF 25-pdr"}
+                                {"how_a(fra2)" "BL 6\\26 cwt"}
+                {"how_b(fra2)" "QF 25-pdr"}
 		{"ft17" "Renault FT-17"}
 		{"morriscs9_fra" "Morris CS9"}
 		{"amr35-13mm" "AMR35 ZT 1-13mm"}

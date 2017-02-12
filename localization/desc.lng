@@ -20,6 +20,7 @@
 		(include "inc/desc_entity_fin.inc")
 		(include "inc/desc_entity_ita.inc")
 		(include "inc/desc_entity_chn.inc")
+		(include "inc/desc_entity_anz.inc")
 	}
 	{"ammo"
 		(include "inc/desc_ammo_van.inc")

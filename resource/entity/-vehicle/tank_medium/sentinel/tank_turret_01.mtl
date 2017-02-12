@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "sentinel_ac_i_turret_01_am"}
+	{specular "sentinel_ac_i_turret_01_gmm"}
+	{color "255 255 255 168"}
+	{blend none}
+}

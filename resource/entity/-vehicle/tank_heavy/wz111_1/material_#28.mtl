@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "kv_track"}
+        {bump "kv_trac_nm"}
+        {specular "kv_trac_sm"}
+	{color "229 229 229 25"}
+	{blend none}
+}

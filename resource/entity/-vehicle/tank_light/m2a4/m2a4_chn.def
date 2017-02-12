@@ -1,0 +1,141 @@
+{Entity
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc"  scale(1.0))
+	{patherId "tank.light"}
+	{collider "tank.light"}
+	{props "light" "turret_rotator" "vision_vehicle_low" "muzzle_minimum"}
+	{Volume "body2"
+		{tags "body"}
+		{component "body"}
+	}
+	{Volume "body"
+		{tags "body"}
+		{component "body"}
+	}
+	{Volume "gun"
+	}
+	{Volume "inventory1"
+	}
+	{Volume "inventory2"
+	}
+	{Volume "mantlet2"
+	}
+	{Volume "mantlet"
+	}
+	{Volume "trackleft"
+	}
+	{Volume "trackright"
+	}
+	{Volume "turret"
+	}
+		
+	("armor_light" turret(38 25 25 13) body(29 25 25 13))
+	("crew_4_human")
+	{boarder
+		{anm "left"
+			{forward	{begin	"board_tank_left"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "right"
+			{forward	{begin	"board_tank_right"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+	}
+		
+	{extender "inventory"
+		{box
+			{item "bullet37_usa ap" 70}
+			{item "bullet37_usa fg" 32}
+			{item "ammo mgun" 6500}
+			{item "ammo pistol" 500}
+			{item "thompson" filled}
+			{item "smoke grenade" 4}
+				
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "37mm_m6" filling "bullet37_usa ap" 1}
+			{gunner "gunner"}
+			{charger "commander"}
+			("abm_low")
+			{basic}
+		}
+		{place "mgun1"
+			{type "mgun_coaxial"}
+			{weapon "browning_m19" filled}
+			{foresight "foresight4"}
+			{gunner "gunner"}
+			{charger "commander"}
+			("abm_mgun")
+			{basic}
+		}
+		{place "mgun2"
+			{type "mgun_hull"}		
+			{weapon "browning_m19" filled}
+			{foresight "foresight5"}
+			{gunner "driver"}
+			{charger "driver"}	
+			("abm_mgun")
+			{basic}					
+		}
+		{place "mgun3"
+			{type "mgun_hull_l"}		
+			{weapon "browning_m19" filled}
+			{foresight "foresight6"}
+			{gunner "gunner"}
+			{charger "gunner"}	
+			("abm_mgun")
+			{basic}					
+		}
+		{place "mgun4"
+			{type "mgun_hull_r"}		
+			{weapon "browning_m19" filled}
+			{foresight "foresight7"}
+			{gunner "charger"}
+			{charger "charger"}	
+			("abm_mgun")
+			{basic}					
+		}
+		{place "mgun"
+			{type "mgun_aa"}
+			{weapon "browning_m19" filled}
+			{gunner "commander"}
+			{charger "commander"}
+			{LinkBone "mgun_rot"}
+			{LinkAnimation "off"}
+			("abm_mgun")
+			{basic}
+		}
+	}
+	{mass 15200}
+	{Chassis
+		("tank_trace" fx("tracks_sm") step(0.3) len(0.3))
+		{Locomotion ("locomotion")
+			{maxspeed   58}
+			{maxSpeedAtMaxTurn 20}
+			{StartTime  22}
+			{TurnTime   8.5}
+			{TurnStart  1}			
+			{TurnRadius 13} 
+    		{TurnStop   1}
+			{BrakeTime  2.2}
+			{StopTime   3.3}
+		}
+		{FuelBag
+			{volume 212 }	; liters
+			{rate	24.57}   ; liters per kilometer
+			{remain 212 }
+			{fuel "fuel"}
+		}
+	
+	}
+	
+	{Extension "m2a4.mdl"}
+	{bone  "turret"       
+		{speed 0.0085}     ;24° per second = 15 seconds / 360°
+	}
+	("turret_speed_light")
+}

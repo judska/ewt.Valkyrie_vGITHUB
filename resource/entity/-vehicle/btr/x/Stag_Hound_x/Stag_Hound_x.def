@@ -1,0 +1,12 @@
+{game_entity
+	(include "/properties/shadow/tank.inc"  scale(0.9))
+	{Extension "Stag_Hound_x.mdl"}
+	{Volume "wheelright2"
+	}
+	{Volume "wheelleft2"
+	}
+	{Volume "wheelleft1"
+	}
+	{Volume "wheelright1"
+	}
+}

@@ -1,11 +1,17 @@
 {from "pattern gun"     ;
-	{filling "bullet114 fg"}
+	{filling "bullet114 heat"}
 	{fireSound "gun/howitzer/122mm_d25"}
 	{reloadSound "tankgun_r04"}
 	("range_grazing_howitzer")
-	
+	("accuracy_zenite_low")
+
 	("caliber_maximum")
 	
 	{range 130 140}
-	("accuracy_minimum")
+
+	{projectileDamage 80}
+	("damage_140" a(80) b(80) c(80) d(80) e(80))
+	{parameters "heat"
+        ("damage_heat" a(80) b(80) c(80) d(80) e(80))
+	}
 }

@@ -46,14 +46,14 @@
 			{item  "ammo mgun" 2475}
 			{item "ammo bullet76 ap" 54}
 			{item "ammo bullet76 fg" 33}
-                        {item "ammo bullet76 apcr" 10}
+            {item "ammo bullet76 apcr" 5}
 		}
 	}
 	{Weaponry
 		("restore_ik_time")
 		{place "gun"
 			{RestoreIKAfterAim}
-			{weapon "76mm_mk4_2" filling "ammo bullet76 ap" 1}
+			{weapon "76mm_mk4" filling "ammo bullet76 ap" 1}
 			("abm_high")
 		}
 		{place "mgun"

@@ -1,0 +1,113 @@
+;Exported by: sk
+;Date:        Mon Mar 06 15:38:16 2006
+;File:        D:\-Projects1_5-\-3DWork-\Inventory\browning\browning.max
+{Skeleton
+	{bone "browning"
+		{parameters "ID=mgun;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{LODView
+			{VolumeView "browning.ply"}
+			{VolumeView "browning_lod1.ply"}
+			{VolumeView "browning_lod2.ply"}
+		}
+		{bone "foresight3"
+			{Position 25.4949	0.815241	0.0351074}
+		}
+		{bone "handle"
+			{Position 10.2629	2.09867	-0.0168698}
+		}
+		{bone "fxshell"
+			{Matrix34
+				0	0.642788	0.766044
+				1	0	0
+				0	0.766044	-0.642788
+				8.29958	0.997651	1.96666
+			}
+		}
+		{bone "handle_box"
+			{Orientation
+				1	0	0
+				0	0	1
+				0	-1	0
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 28.065 3.48803 4.02155}
+	{Bone "browning"}
+	{Matrix34
+		1	0	0
+		0	0	-1
+		0	1	0
+		10.7631	0.56301	0.136556
+	}
+}
+{Volume "select"
+	{Box 29.0104 8.63702 7.2252}
+	{Bone "browning"}
+	{Matrix34
+		1	0	0
+		0	0	-1
+		0	1	0
+		10.8292	0.789041	0.251045
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin -9.08089	-15.7717	31.4699}
+			{lookat 12.3914	2.29525	-3.40688}
+			{fov 45}
+			{horizon -121.291}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 6.32895	-1.68206	4.55858}
+			}
+			{"1"
+				{type point}
+				{position 19.0006	4.05937	4.89094}
+			}
+			{"2"
+				{type directional}
+				{direction 0.0054664	0.499925	0.00674902}
+			}
+			{"3"
+				{type point}
+				{position 5.69445	-4.39539	0.473176}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin -9.11466	-19.5398	29.1403}
+			{lookat 12.5315	2.68968	-3.07809}
+			{fov 45}
+			{horizon -131.535}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction 0.0054664	0.499925	0.00674902}
+			}
+			{"1"
+				{type point}
+				{position 6.32895	-1.68206	4.55858}
+			}
+			{"2"
+				{type point}
+				{position 19.0006	4.05937	4.89094}
+			}
+			{"3"
+				{type point}
+				{position 5.69445	-4.39539	0.473176}
+			}
+		}
+	}
+}

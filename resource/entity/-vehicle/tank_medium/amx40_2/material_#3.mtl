@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "amx40_track"}
+	{bump "amx40_track_nm"}
+	{specular "amx40_track_sm"}
+	{color "230 230 230 25"}
+	{blend none}
+}

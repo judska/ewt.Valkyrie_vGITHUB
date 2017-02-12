@@ -12,6 +12,14 @@
 	{parameters "apcr"
         ("damage_110" a(211) b(179) c(148) d(120) e(96))
 	}
+	{special
+		{mode aim}
+		{PrepareTime 3.5}	
+		{PrepareCursor "aimed_shot"}
+		{accuracy 2.5}
+		{damage 2.5}
+		{throw_off}
+	}
 	
 	("accuracy_medium")	
 }

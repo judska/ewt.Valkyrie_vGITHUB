@@ -1,0 +1,75 @@
+{game_entity
+	(include "churchill.inc")
+	("armor_heavy" turret(89 89 89 35) body(101 76 64 22) body2(57 76 64 20) body3(10 76 64 25))
+	("armor_mantlet" t(110))
+
+	{extender "inventory"
+		{box
+            		{item "ammo mgun" 3475}
+			{item "eng_bullet57_qf6 ap" 44}
+			{item "eng_bullet57_qf6 apc" 10}
+			{item "eng_bullet57_qf6 fg" 34}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "57mm_oqf6pdr" filling "eng_bullet57_qf6 ap" 1}	
+			("abm_medium")
+			{basic}
+		}
+
+		{place "mgun1"
+			{type "mgun_hull"}
+			{weapon "besa" filled}
+			{foresight "foresight4"}
+			{gunner "gunner3"}
+			{charger "gunner3"}
+			("abm_mgun")
+		}
+		{place "mgun2"
+			{type "mgun_coaxial"}
+			{weapon "besa" filled}
+			{foresight "foresight5"}
+			("abm_mgun")
+			{basic}
+		}
+	}
+
+	{Extension "churchill_mk_iv.mdl"}
+	{mass 39600}
+	{Chassis
+		("tank_trace" fx("tracks_mid") step(0.52) len(0.2))
+		{Locomotion ("locomotion")
+			{MaxSpeed   25}
+			{maxSpeedAtMaxTurn 4}
+			{StartTime  60}
+			{TurnStart  1.8}			
+			{TurnTime   30}
+			{TurnRadius 9} 
+    			{TurnStop   0.8}
+			{BrakeTime  2}
+			{StopTime   3}
+			{Gears 0.1 0.2 0.3 0.5 1}
+			{RearGears  0.1 0.3}		
+		}
+		{FuelBag
+			{volume 680 }	
+			{rate	7.6 }   
+			{remain 680 }
+			{fuel "fuel"}
+		}
+		{speed
+        		{Normal  10}
+    		}
+	}
+
+	{bone "turret"
+		{speed2 14.3}
+	}
+	{bone "gun_rot"
+		{speed 0.001}
+	}
+}
+

@@ -1,0 +1,22 @@
+{game_entity
+	(include "/properties/shadow/tank.inc"  scale(0.9))
+	{Extension "staghound_mk3_xx.mdl"}
+	{volume "body1"
+		{tags "body"}
+		{thickness 10
+			{front	15}
+		}
+	}
+	{volume "body2"
+		{tags "body"}
+		{thickness 10
+			{front	15}
+		}
+	}
+	{volume "turret"
+		{component "turret"}
+		{thickness 16
+		    {rear 10}
+		}
+	}
+}

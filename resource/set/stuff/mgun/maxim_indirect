@@ -8,7 +8,5 @@
 	{range 130 130}
 	("burst_long")
 	("speed" s(500))
-	{healthDamage     250}
-	{burst {min 150} {noaiming}}
-	
+	{healthDamage     250}	
 }

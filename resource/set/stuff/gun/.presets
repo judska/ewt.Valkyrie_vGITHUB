@@ -45,8 +45,14 @@
 (define "damage_160"                                                                                 
 	{projectileDamageTable {10 %a} {50 %b} {75 %c} {100 %d} {160 %e} {162 0}}
 )
+(define "damage_170"                                                                                 
+	{projectileDamageTable {10 %a} {50 %b} {75 %c} {100 %d} {170 %e} {172 0}}
+)
+(define "damage_200"                                                                                 
+	{projectileDamageTable {10 %a} {50 %b} {75 %c} {100 %d} {200 %e} {202 0}}
+)
 (define "damage_heat"                                                                                 
-	{projectileDamageTable {0 %a} {25 %b} {40 %c} {55 %d} {70 %e} {72 0}}
+	{projectileDamageTable {0 %a} {50 %b} {75 %c} {100 %d} {140 %e} {142 0}}
 )
 
 
@@ -148,7 +154,7 @@
 	("accuracy_curve_1" r1(1.50))
 )
 (define "accuracy_grazinghowitzer" 
-	("accuracy_curve_2" r1(1.00))
+	("accuracy_curve_2" r1(1.50))
 )
 (define "accuracy_howitzer" 
 	("accuracy_curve_3" r1(8.00))
@@ -199,6 +205,30 @@
 	{healthDamage 150}
 )
 
+(define "range_zenite_lowdmg"
+	("accuracy_zenite_low")
+	{spreading 1
+		{SpreadPower	1}
+		{BurstAccuracy 100 90 85 80 75}
+	}
+	{SpreadTolerance 0.6}
+	
+	{range 90 100}
+	{cursor "zenite_on"}
+	{cursorReloading "zenite_reload"}
+	
+    {RelaxationTime 0.2}
+	{gravity 1.5}
+
+	{burst
+		{short 5 1}
+		{long 8 1}
+	}
+	
+	{healthDamage 100}
+)
+
+
 (define "range_zenite"
 	("accuracy_zenite_low")
 	{spreading 1
@@ -219,7 +249,7 @@
 		{long 8 1}
 	}
 	
-	{healthDamage 400}
+	{healthDamage 300}
 )
 
 (define "range_zenite_long"
@@ -242,7 +272,7 @@
 		{long 8 1}
 	}
 	
-	{healthDamage 500}
+	{healthDamage 400}
 )
 
 (define "range_minimum"
@@ -398,9 +428,6 @@
 	{parameters "apcr"
 		{range 110 120}
 	}
-	{parameters "heat"
-		{range 60 70}
-	}	
     {RelaxationTime 0.4}
 	{speed 150}
 	{gravity 7.5}
@@ -584,6 +611,9 @@
 	{parameters "apcr"	
 		{range 150 170}
 	}
+	{parameters "heat"
+		{range 130 140}
+	}	
     {RelaxationTime 1}
 	{speed 200}
 	{gravity 3.5}

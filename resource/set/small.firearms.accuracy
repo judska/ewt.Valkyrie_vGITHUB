@@ -19,16 +19,16 @@
 	("distance_1" r1(3.50) r2(8.00) r3(12.50))
 )
 
-(define "accuracy_flaer_2"
-	("distance_1" r1(1.75) r2(4.00) r3(6.25))
-)
-
 (define "accuracy_pistol"
 	("distance_1" r1(0.20) r2(0.80) r3(1.50))
 )
 
 (define "accuracy_smg"
 	("distance_1" r1(0.30) r2(1.20) r3(3.00))
+)
+
+(define "accuracy_smg2"
+	("distance_1" r1(0.20) r2(0.80) r3(2.00))
 )
 
 (define "accuracy_rifle"
@@ -45,6 +45,10 @@
 
 (define "accuracy_mgun"
 	("distance_2" r1(0.60) r2(1.20) r3(2.50))
+)
+
+(define "accuracy_mgun2"
+	("distance_2" r1(0.50) r2(1.00) r3(2.00))
 )
 
 (define "accuracy_ptr"

@@ -10,6 +10,8 @@
 		{"sgrw42_fin" "KrH 120 mortar"}
 		{"how_a(fin)" "sFH 18"}
 		{"how_b(fin)" "le. FH 18 M"}
+				{"how_a(fin2)" "sFH 18"}
+		{"how_b(fin2)" "le. FH 18 M"}
 		{"122mm_howitzer_m1910_fin" "122mm Howitzer M1910"}
 		{"152mm_m1909_30_fin" "152mm M1909/30"}
 		{"np_ba20_fin"  "BA-20"}

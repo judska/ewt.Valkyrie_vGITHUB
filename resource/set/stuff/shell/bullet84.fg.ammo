@@ -5,5 +5,5 @@
 	}
 	("fg" args 5.0)
 	{mass 16}
-	{entity "shell_fg_88"}
+	{entity "shell_fg_77"}
 }

@@ -52,8 +52,9 @@
 		{box
 			{item "ammo mgun" 4000}
 			{item "bullet45 ap" 70}
-                        {item "bullet45 apcr" 5}
 			{item "bullet45 fg" 75}
+            {item "bullet45 apcr" 5}
+
 			{item "dt" filled {user "mgun"}}
 		}
 	}

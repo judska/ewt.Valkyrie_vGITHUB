@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "indian_light_chichimeca"}
+	{bump "indian_light_chichimeca_bp"}
+	{blend none}
+}

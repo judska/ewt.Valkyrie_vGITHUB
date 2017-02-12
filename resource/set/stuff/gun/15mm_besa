@@ -19,11 +19,11 @@
 	{recoveryTime 0.13}
 	{rechargeTime 4}
 	("speed" s(800))
-	{healthDamage 180}
+	{healthDamage 100}
 	{projectileDamage 10}
 	("damage_100" a(24) b(17) c(10) d(7) e(1))
 	("accuracy_zenite_high")
 	{aimingTolerance 1}
-	("range_zenite")
+	("range_zenite_lowdmg")
 	
 }

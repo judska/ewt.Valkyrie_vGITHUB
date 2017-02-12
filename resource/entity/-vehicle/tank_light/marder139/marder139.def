@@ -120,7 +120,7 @@
 	}
 	{Weaponry
 		{place "gun"
-			{weapon "75mm_kwk40(L48)_1" filling "ammo bullet75 ap" 1}
+			{weapon "75mm_kwk40(L48)" filling "ammo bullet75 ap" 1}
 			("abm_medium")
 		}
 		{place "mgun1"

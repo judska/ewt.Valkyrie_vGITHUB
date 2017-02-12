@@ -1,0 +1,96 @@
+{game_entity
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+	{collider "tank.light"}
+	{props "medium" "turret_rotator" "vision_vehicle_medium" "muzzle_minimum"}
+	{PatherId "tank"}
+	
+	{Volume "Body1"
+		{tags "body"}
+		{component "body"}
+	}
+	{Volume "Body2"
+		{tags "body"}
+		{component "body"}
+	}
+	
+	("armor_medium" turret(30 14 14 7) body(30 14 14 10))
+	
+	("crew_3_human")
+	{boarder
+		{anm "driver"
+			{forward	{begin	"board_tank_left"}}
+			{reverse 	{end	"emit_tank_0"}}
+		}
+		{anm "gunner"
+			{forward	{begin	"board_tank_right"}}
+			{reverse 	{end	"emit_tank_2"}}
+		}
+		{anm "commander"
+			{forward	{begin	"board_tank_left"}}
+			{reverse 	{end	"emit_tank_2"}}
+		}
+	}
+	{extender "inventory"
+		{box
+			{item "bullet37 ap" 42}
+			{item "bullet37 fg" 42}
+			{item "mab_38a" filled}
+			{item "ammo mgun" 2808}
+			{item "ammo pistol" 120}
+			{item "oto_mod35 grenade" 5}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "37mm_bofors" filling "bullet37 ap" 1}
+			{RestoreIKAfterAim}
+			{gunner "gunner"}
+			{charger "gunner"}
+			("abm_low")
+		}
+		{place "mgun"
+			{type "mgun_main"}
+			{weapon "breda_38_x2" filled}
+			{Barrels 2}
+			{gunner "gunner"}
+			{charger "gunner"}
+			("abm_mgun")
+			{basic}
+		}
+	}	
+	{mass 13100}
+	{Chassis
+		("tank_trace" fx("tracks_mid") step(0.52) len(0.1))
+		{Locomotion ("locomotion")
+			{MaxSpeed   31}
+				(mod "mp"
+					{maxspeed   27}
+				)
+			{maxSpeedAtMaxTurn 12}
+			{StartTime 	 13}
+			{TurnTime  	 7}
+    		{TurnStart 1.4}
+     		{BrakeTime   1} 
+    		{StopTime    2}
+     		{TurnRadius  8} 
+    		{TurnStop   0.7}
+     		{Gears  0.1 0.25 0.625}
+     		{RearGears 0.34}
+		}
+		(mod "mp"
+			{FuelBag
+				{volume 320 }	
+				{rate	145 }   
+				{remain 320 }
+				{fuel "fuel"}
+			}
+		    {speed
+        		{Normal  10}
+    		}
+		)
+	}
+	{Extension "m1139.mdl"}
+}

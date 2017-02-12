@@ -2,12 +2,11 @@
 	{filling "bullet89" 1}
 	{fireSound "gun/85to100_cal/OQF_25pdr"}
 	("range_grazing_howitzer")
-	
-	("speed" s(225))
-	("caliber_maximum")
-	{projectileDamage 150}
-	
-	{range 130 140}
+	{rechargeTime 11.5}
 	("accuracy_minimum")
+	
+	{projectileDamage 152}
+	("damage_200" a(120) b(112) c(104) d(98) e(90))
+
 }
 

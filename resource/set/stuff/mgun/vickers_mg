@@ -1,0 +1,11 @@
+{from "pattern mgun"
+	{desc "Vickers"}
+	{entity "vickers_mg"}
+	{fireSound	"mgun/vickers"}
+	{reloadSound "mg42_reload"}
+	{filling "ammo mgun" 250}	
+
+	("recoveryTime" r(500))
+	("speed" s(744))
+	("burst_long")
+}

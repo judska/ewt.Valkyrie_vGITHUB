@@ -1,0 +1,18 @@
+{game_entity
+	{Extension "sexton_xx.mdl"}
+	{volume "body1"
+		{component "body"}
+		{tags "body"}
+		{thickness 38
+			{front  108}
+		}   
+	}
+	{volume "body2"
+		{component "body"}
+		{tags "body"}
+		{thickness 38
+			{front  108}
+		}
+	}
+	{texmod "d"}
+}

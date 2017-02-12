@@ -23,6 +23,9 @@
 	("phrase_voice" args %0 eng 1 %1)
 	("phrase_voice" args %0 eng 2 %1)
 
+    ("phrase_voice" args %0 anz 1 %1)
+	("phrase_voice" args %0 anz 2 %1)
+
 	("phrase_voice" args %0 usa 1 %1)
 	("phrase_voice" args %0 usa 2 %1)
 	

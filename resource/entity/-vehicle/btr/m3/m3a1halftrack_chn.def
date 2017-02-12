@@ -1,0 +1,124 @@
+{game_entity
+	(include "/properties/armoredcar.ext")
+	(include "/properties/selection/vehicle.inc"  scale(1.0))
+	{Extension "m3_chn.mdl"}
+	{extension "crew.ext"}
+	{props "vehicle" "armored_car" "tank" "turret" "wheeled" "explosion_throw_crew" "vision_vehicle_medium"}
+	
+	{extender "enumerator"}
+	
+	{volume "sticky"
+		{tags "grenade_fg_target"}
+		{able clear {contact} {touch}}
+		{component "sticky_body"}
+	}
+	{component "sticky_body"}
+
+	{volume "body1"
+		{tags "body"}
+		{component "body"}
+		{thickness 10}
+	}
+	{volume "body2"
+		{tags "body"}
+		{component "body"}
+		{thickness 10}
+	}
+	{volume "body3"
+		{tags "body"}
+		{component "body"}
+		{thickness 15}
+	}
+	{volume "body4"
+		{tags "body"}
+		{component "body"}
+		{thickness 15}
+	}
+	{volume "body5"
+		{tags "body"}
+		{component "body"}
+		{thickness 15}
+	}
+	{volume "body6"
+		{tags "body"}
+		{component "body"}
+		{thickness 15}
+	}
+	{volume "roll"
+		{thickness 15}
+	}
+	{volume "body7"
+		{tags "body"}
+		{component "body"}
+		{thickness 15}
+	}
+	{volume "engine"
+		{thickness 10}
+	}
+	{Volume "fuel"
+		{thickness 1}
+	}
+
+	("armor_light" args 1.0)
+
+	("wheel" args "wheelright1")
+	("wheel" args "wheelleft1")
+	("tracks")
+	
+	{extender "inventory"
+		{weapon "mgun"
+			{mask "weapon mgun"}
+		}
+		{Box
+			{item "n73at" "grenade" 12 {cell 2 0}}
+			{item "m61" "grenade" 12 {cell 2 1}}
+			{item "m61" "grenade" 12 {cell 3 1}}
+			{item "smoke" "grenade" 12 {cell 4 0}}
+			{item "mgun" "ammo" 2500 {cell 4 1}}		
+			{item "mgun" "ammo" 500 {cell 0 2}}
+			{item "mgun" "ammo" 500 {cell 2 2}}
+			{item "bandage" 12 {cell 4 4}}
+			{item "dynamite" {cell 2 3}}
+			{item "repair_kit" {cell 0 3}}
+			{item "browning" filled {user "mgun"}}	
+		}
+	}
+
+{Weaponry
+	{place "mgun"
+		{type "mgun_main"}
+		{LinkBone "mgun"}
+		{LinkAnimation "off"}
+		{charger "gunner"}
+		("abm_mgun_heavy")
+		{basic}
+	}
+}
+  	
+	{sensor
+		{visor "main"
+			{bone "mgun"}
+		}
+	}
+
+	{Chassis
+		{Locomotion ("locomotion")
+			{MaxSpeed 35}
+	  		{maxSpeedAtMaxTurn 12}
+		}
+		{FuelBag
+			{volume 230 }	
+			{rate	60 }   
+			{remain 230 }
+			{fuel "fuel"}
+		}
+		{speed
+        	{Normal  12}
+        	{Slow  20}
+    	}
+		; left track must be first
+		("tank_trace" fx("tracks_sm") step(0.3) len(0.4) boneleft("wheell4") boneright("wheelr4"))
+		("car_trace" fx("tracewheel01") step(0.09) wheell("wlf") wheelr("wrf") bonel("FXtraceL1") boner("FXtraceR1"))
+	}
+	{mass 7000}
+}

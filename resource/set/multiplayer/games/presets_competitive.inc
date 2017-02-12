@@ -5,7 +5,7 @@
 			{value "all^arcade"}
 		}
 		{commandPoints "*=%cp"}
-		{unitLimits "flamer=3;sniper_only=2;officer=1;heavyaa=1;single=30;support_single=5;hero1_ger=2;hero3_rus=2;hero3_fin=1;heronew2_fin=2"}
+		{unitLimits "flamer=3;sniper_only=2;officer=1;heavyaa=1;single=30;support_single=5;hero1_ger=1;hero4_rus=1;hero5_fin=1"}
 		{balancingFactorBonus {cp 1.0} {mp 1.0} }
 		{chargeFactors
 			{value "*=1"}

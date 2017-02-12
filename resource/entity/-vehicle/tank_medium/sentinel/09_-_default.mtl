@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "t51_track_am"}
+	{bump "t51_track_anm"}
+	{specular "t51_track_gmm"}
+	{color "229 229 229 25"}
+	{blend test}
+}

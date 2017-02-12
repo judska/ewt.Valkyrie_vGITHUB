@@ -32,7 +32,7 @@
 	}
 	{extender "inventory"
 		{box
-			{item "bullet20_ger zenite" 900}
+			{item "bullet20 zenite" 900}
 		}
 	}
 	{Weaponry

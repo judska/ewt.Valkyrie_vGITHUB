@@ -2,7 +2,7 @@
 	{filling "bullet76"}
 	{fireSound "gun/50to76_cal/76mm_mk4"}
 	{reloadSound "gun_r05"}
-	{rechargeTime 3}
+	{rechargeTime 4}
 	("range_medium")
 	
 	("speed" s(792))
@@ -13,5 +13,5 @@
         ("damage_100" a(168) b(140) c(111) d(87) e(67))
 	}
 	
-	("accuracy_medium_1")
+	("accuracy_medium")
 }

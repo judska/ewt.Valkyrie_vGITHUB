@@ -192,5 +192,6 @@
 	(include "vehicles_fra.set")
 	(include "vehicles_fin.set")
 	(include "vehicles_ita.set")
-	(include "vehicles_chn.set")         
-        (include "vehicles_x.set")
+	(include "vehicles_chn.set")
+    (include "vehicles_anz.set")           
+    (include "vehicles_x.set")

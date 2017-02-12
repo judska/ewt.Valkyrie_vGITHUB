@@ -23,14 +23,14 @@
 
     {extender "inventory"
         {box
-            {item "ammo bullet114 fg"  24}
+            {item "ammo bullet114 heat"  24}
         }
     }
     {Weaponry
         ("restore_ik_time")
         {place "gun"
             {RestoreIKAfterAim}
-            {weapon "114mm_bl45" filling "bullet114 fg" 1}
+            {weapon "114mm_bl45" filling "bullet114 heat" 1}
             {charger "gunner"}
             ("abm_low")
         }

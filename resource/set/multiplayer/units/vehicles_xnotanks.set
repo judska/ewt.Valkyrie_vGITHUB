@@ -18,6 +18,7 @@
         {"mp/hun/vehicle_supporter" ("vehicle_supporter" side(hun))}
         {"mp/fra/vehicle_supporter" ("vehicle_supporter" side(fra))}
         {"mp/fin/vehicle_supporter" ("vehicle_supporter" side(fin))}
+        {"mp/fin/vehicle_supporter" ("vehicle_supporter" side(chn))}
 	
 
 	{"degtyarev_stan" 		{charge 90} {tags "inf_only"} {score 4.50} {cp 5} {cost 180} {fore 0}} ;0.5 score

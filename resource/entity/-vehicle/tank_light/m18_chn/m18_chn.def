@@ -90,7 +90,7 @@
 		("restore_ik_time")
 		{place "gun"
 			{RestoreIKAfterAim}
-			{weapon "76mm_m1a2_1" filling "ammo bullet76 ap" 1}
+			{weapon "76mm_m1a2" filling "ammo bullet76 ap" 1}
 			("abm_high")
 		}
 		{place "mgun"

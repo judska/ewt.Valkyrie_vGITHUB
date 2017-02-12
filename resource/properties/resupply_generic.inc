@@ -240,7 +240,7 @@
 			{item "bullet128" "ap" "ammo" 2 {max 15}{value 2}}
 			{item "bullet155_1" "fg" "ammo" 2 {max 15}{value 5}}
 			{item "bullet105" "fg" "ammo" 1 {max 10}{value 5}}
-			{item "bullet114" "fg" "ammo" 1 {max 10}{value 5}}
+			{item "bullet114" "heat" "ammo" 1 {max 10}{value 5}}
 			{item "bullet120" "fg" "ammo" 1 {max 10}{value 5}}
 			{item "bullet122" "fg" "ammo" 1 {max 10}{value 5}}
 			{item "bullet128" "fg" "ammo" 1 {max 10}{value 5}}
@@ -252,7 +252,7 @@
 			{item "bullet203" "ammo" 1 {max 5}{value 5}}
 			{item "bullet290" "ammo" 1 {max 5}{value 5}}
 			;
-			{item "calliope" "ammo" 5 {max 60}{value 5}}
+			{item "calliope" "ammo" 5 {max 60}{value 7}}
 			{item "lm_ammo" "ammo" 5 {max 32}{value 5}}
 			{item "bm8" "ammo" 5 {max 24}{value 5}}
 			{item "katusha" "ammo" 3 {max 16}{value 5}}

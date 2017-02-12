@@ -1,0 +1,4 @@
+{game_entity
+	{Extension "sexton_x.mdl"}
+	{texmod "d"}
+}

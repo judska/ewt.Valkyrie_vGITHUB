@@ -1,0 +1,155 @@
+;Exported by: Yurov
+;Date:        Tue Oct 05 16:47:42 2004
+;File:        D:\-Projects-\-3DWork-\Model\Daimler Mk.II\daimler_mkII.max
+{Skeleton
+	{bone "Basis"
+		{parameters "WheelRadius=0.47;"}
+		{Orientation
+			1.0000	0.0000	0.0000
+			0.0000	-1.0000	0.0000
+			0.0000	0.0000	1.0000
+		}
+		{bone "Body"
+			{parameters "ID=body;"}
+			{animation
+				{sequence "break" {file "body.anm"}}
+			}
+			{Position 0.3799	0.0000	8.6244}
+			{VolumeView "Body.ply"}
+			{bone revolute "ring"
+				{parameters "ID=ring;"}
+				{Position 2.0000	0.0000	26.8165}
+				{VolumeView "ring.ply"}	
+				{bone "Cover"
+					{Position 12.9224	0.0001	6.2997}
+					{VolumeView "Cover.ply"}
+				}
+				{bone revolute "gun_rot"
+					{parameters "ID=ring;"}
+					{Matrix34
+						1.0000	0.0000	-0.0010
+						0.0010	-0.0000	1.0000
+						-0.0000	-1.0000	-0.0000
+						8.6646	-0.1101	6.2232
+					}
+					{VolumeView "gun_rot.ply"}
+					{bone "gun"
+						{parameters "ID=gun;"}
+						{Matrix34
+							0.0000	-0.0000	-1.0000
+							-0.0010	1.0000	-0.0000
+							1.0000	0.0010	-0.0000
+							4.1265	0.0706	0.0000
+						}
+						{VolumeView "gun.ply"}
+					}
+				}
+			}
+			{bone "engine"
+				{Position -38.6941	0.0510	16.0141}
+			}
+		}
+		{bone "pivot_front"
+			{Position 31.2079	-0.0000	12.6469}
+			{bone revolute "steer_R1"
+				{Matrix34
+					1.0000	0.0000	0.0000
+					0.0000	-1.0000	0.0000
+					0.0000	-0.0000	-1.0000
+					0.0000	-15.6299	-0.0000
+				}
+				{bone revolute "WheelR1"
+					{parameters "ID=wheelright1;"}
+					{Matrix34
+						1.0000	0.0000	0.0000
+						0.0000	-0.0000	1.0000
+						0.0000	-1.0000	-0.0000
+						0.09	3.7000	-0.4389
+					}
+					{VolumeView "WheelR1.ply"}
+				}
+			}
+			{bone revolute "steer_L1"
+				{Matrix34
+					1.0000	0.0000	0.0000
+					0.0000	-1.0000	0.0000
+					0.0000	-0.0000	-1.0000
+					0.0000	15.6299	0.0000
+				}
+				{bone revolute "WheelL1"
+					{parameters "ID=wheelleft1;"}
+					{Matrix34
+						1.0000	0.0000	0.0000
+						0.0000	0.0000	1.0000
+						0.0000	-1.0000	0.0000
+						0.09	-4.7000	-0.4389
+					}
+					{VolumeView "WheelL1.ply"}
+				}
+			}
+		}
+		{bone "pivot_back"
+			{Position -30.2512	0.0000	12.6469}
+			{bone revolute "WheelL2"
+				{parameters "ID=wheelleft2;"}
+				{Matrix34
+					1.0000	0.0000	0.0000
+					0.0000	-0.0000	-1.0000
+					0.0000	1.0000	-0.0000
+					-0.2900	20.4500	0.4389
+				}
+				{VolumeView "WheelL2.ply"}
+			}
+			{bone revolute "WheelR2"
+				{parameters "ID=wheelright2;"}
+				{Matrix34
+					1.0000	0.0000	0.0000
+					0.0000	0.0000	-1.0000
+					0.0000	1.0000	0.0000
+					-0.2900	-19.4500	0.4389
+				}
+				{VolumeView "WheelR2.ply"}
+			}
+		}
+	}
+}
+{Volume "wheelright2"
+	{Cylinder 12.7561 8.0275}
+	{Bone "WheelR2"}
+	{Matrix34
+		-1.0000	-0.0000	-0.0000
+		0.0000	-1.0000	0.0000
+		-0.0000	0.0000	1.0000
+		0.0148	0.2800	0.1349
+	}
+}
+{Volume "wheelleft2"
+	{Cylinder 12.7561 8.0275}
+	{Bone "WheelL2"}
+	{Matrix34
+		-1.0000	-0.0000	0.0000
+		0.0000	-1.0000	0.0000
+		-0.0000	-0.0000	1.0000
+		0.0376	0.2800	-0.1079
+	}
+}
+{Volume "wheelleft1"
+	{Cylinder 12.7561 8.0275}
+	{Bone "WheelL1"}
+	{Matrix34
+		-1.0000	-0.0000	0.0000
+		0.0000	-1.0000	0.0000
+		-0.0000	-0.0000	1.0000
+		-0.0000	0.2800	-0.0012
+	}
+}
+{Volume "wheelright1"
+	{Cylinder 12.7561 8.0275}
+	{Bone "WheelR1"}
+	{Matrix34
+		-1.0000	-0.0000	-0.0000
+		0.0000	-1.0000	0.0000
+		-0.0000	0.0000	1.0000
+		-0.0000	0.2800	0.0349
+	}
+}

@@ -1,0 +1,27 @@
+{from "pattern gun"
+	{filling "ammo hmgun" 160}
+	{mass 160}
+	{foresight "foresight1"}
+	
+	("range_zenite")
+	{recoveryTime 0.05}
+	{rechargeTime 3.5}
+	{Automatic}
+	{burst
+		{min 4}
+		{short 2.5 1}
+		{long 7 2}
+	}	
+	
+	("speed" s(975))
+	("caliber_zenite")
+	{healthDamage 280}
+	{projectileDamage 38}	
+	{projectileDamageTable {0 38} {40 28} {60 21} {80 12}}
+	{calibre 12}
+	{fireSound	"mgun/dshk_burst/"}
+	{reloadSound "ptrd"}
+	{cursor "zenite_on"}
+	{cursorReloading "zenite_reload"}
+}
+

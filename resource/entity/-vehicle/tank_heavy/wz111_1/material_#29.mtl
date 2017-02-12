@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "110"}
+        {specular "110_sm"}
+	{color "229 229 229 25"}
+	{blend none}
+}

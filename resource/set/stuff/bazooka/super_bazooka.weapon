@@ -1,0 +1,17 @@
+{from "pattern rpg_weapon"
+	{range 40 45}
+	{filling "ammo super_bazooka" 1}
+	
+	{preloaded}
+	{mass 6}
+	{entity "bazooka"}
+	{fireSound "reactive/grnd_launch"}
+  	{reactive 0}
+
+
+	{DisableRicochet}
+	{gravity 2}
+	{curve "cumulative"}
+    {projectileDamage 0}
+	("speed" s(105))
+}

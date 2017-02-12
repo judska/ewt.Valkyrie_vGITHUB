@@ -5,5 +5,5 @@
 	}
 	{mass 15.5}
 	("ap" args 0.9)
-	{entity "shell_ap_88"}
+	{entity "shell_ap_77"}
 }

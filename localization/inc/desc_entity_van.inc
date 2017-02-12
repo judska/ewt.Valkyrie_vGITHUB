@@ -9,7 +9,7 @@
 		{"armor_barge_cs2" "Barge"}
 		{"armored_locomotive" "Locomotive"}
 		{"arl44" "ARL-44"}		
-                {"ba11" "BA-11"}
+        {"ba11" "BA-11"}
 		{"ba64" "BA-64"}
 		{"bedford" "Bedford OYD"}
 		{"bedford_art" "Bedford OYD"}
@@ -36,15 +36,15 @@
 		{"browning_stan" "Heavy MG"}
 		{"browning_stan_fix" "Heavy MG"}
 		{"brummbar" "Brummbar"}
-                {"bs3" "BS-3"}
+        {"bs3" "BS-3"}
 		{"bt7a" "BT-7a"}
 		{"centurion" "Centurion Mk.II"}
 		{"chicken" "Chicken"}
 		{"chi-ha120" "Chi-Ha 120"}
 		{"chi-ha47" "Chi-Ha 47"}
 		{"chi-ha57" "Chi-Ha 57"}
-                {"ta-se" "Ta-Se"}
-                {"challenger_a30" "Challenger A30"}
+        {"ta-se" "Ta-Se"}
+        {"challenger_a30" "Challenger (A30)"}
 		{"chi-he" "Chi-He"}
 		{"chi-nu" "Chi-Nu"}
 		{"chi-nu_kai" "Chi-Nu Kai"}
@@ -61,6 +61,9 @@
 		{"crane_m" "Crane"}
 		{"crusaderaa2" "Crusader AAII"}
 		{"crusaderaa1" "Crusader AA"}
+		{"crusaderi" "Mk.I Crusader "}
+		{"crusaderii" "Mk.II Crusader "}
+		{"crusaderics" "Mk.ICS Crusader"}
 		{"d1" "D1"}
 		{"degtyarev_stan" "Heavy MG"}
 		{"degtyarev_stan_fix" "Heavy MG"}
@@ -82,7 +85,7 @@
 		{"gmc_eng" "GMC CCKW"}
 		{"gmc_fuel" "GMC Refueller"}
 		{"gmc_inf" "GMC CCKW"}
-                {"grant_m3" "M3 Lee"}
+        {"grant_m3" "M3 Lee"}
 		{"hamilcar" "G.A.L.49 Hamilcar"}
 		{"ha-go" "Ha-Go"}
 		{"ha-to" "Ha-To"}
@@ -161,6 +164,7 @@
 		{"m24" "M24 Chaffee"}
 		{"m26e4" "M26 E4 'Super Pershing'"}
 		{"m26_pershing" "M26 Pershing"}
+	    {"m26_pershing2" "M26 Pershing"}
 		{"m2a1l" "M2A1 L"}
 		{"m3" "M5A1"}
 		{"m3_usa" "M3A1"}
@@ -169,17 +173,18 @@
 		{"m30kangaroo" "M30 Kangaroo"}
 		{"m36" "M36 Slugger"}
 		{"m37" "M-37"}
-                {"m3cannon" "M3 AT gun"}
+        {"m3cannon" "M3 AT gun"}
 		{"m42" "M-42"}
-                {"m4a3c" "M4A3 Calliope"}
+        {"m4a3c" "M4A3 Calliope"}
 		{"m4a3e2_jumbo" "M4A3E2 Jumbo"}
 		{"m4a3e2_jumbo_76" "M4A3E2(76)W Jumbo"}
 		{"m4a3e8" "M4A3E8(76)W Sherman"}
-                {"m4a3e8_fury" "Elite M4A3E8(76)W Sherman"}
+        {"m4a3e8_fury" "Veteran M4A3E8(76)W Sherman"}
 		{"m4a3m" "M4A3 Crab"}
 		{"m4a3m_eng" "M4A3 Crab"}
 		{"m4a3vc" "M4A4 VC Firefly"}
 		{"m4a3_75" "M4A3 Sherman"}
+		{"m4a3_752" "M4A3 Sherman"}
 		{"m4a3_105" "M4A3(105) Sherman"}
 		{"m4a3_zippo" "M4A3R2 Croc"}
 		{"m4a4" "M4A4"}
@@ -216,11 +221,11 @@
 		{"cromwell_mk_vi" "Mk.VIII Cromwell 95mm"}
 		{"ml3" "ML3 Mk.II mortar"}
 		{"nashorn" "Nashorn"}
-      		{"na-to" "Na-To"}          
+        {"na-to" "Na-To"}          
 		{"nebelwerfer41" "Nebelwerfer 41"}
 		{"nebelwerfer42" "Nebelwerfer 42"}
 		{"np_type95" "Type 95"}
-                {"oerlikon" "Oerlikon 20mm"}
+        {"oerlikon" "Oerlikon 20mm"}
 		{"oerlikon_fix" "Oerlikon 20mm"}
 		{"ostwind" "Ostwind"}
 		{"pak36" "PaK 36"}
@@ -242,7 +247,7 @@
 		{"pz2l" "PzKpfw II Luchs"}
 		{"pz3" "PzKpfw III Ausf.J"}
 		{"pz3e" "PzKpfw III Ausf.E"}
-                {"pz3f" "PzKpfw III Ausf.F"}
+        {"pz3f" "PzKpfw III Ausf.F"}
 		{"pz3m" "Pz III Sapper"}
 		{"pz3_m" "PzKpfw III Ausf.M"}
 		{"pz3_m_flamer" "PzKpfw III Flamer"}
@@ -251,8 +256,8 @@
 		{"pz4g" "PzKpfw IV Ausf.G"}
 		{"pz4h" "PzKpfw IV Ausf.H"}
 		{"pz5" "PzKpfw V Panther"}
-		{"pz5g" "PzKpfw V Panther"}
-		{"pz5g_m10" "Faux M10 Wolverine"}
+		{"pz5g" "PzKpfw V Panther Ausf.G"}
+		{"pz5a" "PzKpfw V Panther Ausf.A"}
 		{"pz6b" "PzKpfw VI Kingtiger"}
 		{"pz6bh" "PzKpfw VI Kingtiger"}
 		{"pz6e" "PzKpfw VI Tiger"}
@@ -288,7 +293,7 @@
 		{"su85m" "SU-85M"}
 		{"su100" "SU-100"}
 		{"su100m1" "SU-100M1"}
-                {"t20" "T20 \"Komsomolets\" tractor"}
+        {"t20" "T20 \"Komsomolets\" tractor"}
 		{"t26" "T-26"}
 		{"t29" "T29"}
 		{"t34_0" "T-34/76 L-11"}
@@ -297,14 +302,14 @@
 		{"t34_3c" "T-34/85"}
 		{"t34m" "T-34 Sapper"}
 		{"t-38" "T-38"}
-                {"t60" "T-60"}
+        {"t60" "T-60"}
 		{"t70" "T-70"}
 		{"t90_75m" "75mm Type 90"}
 		{"t91_105m" "105mm Type 91"}
 		{"t96_150mm" "Type 96"}
 		{"ta-se" "Ta-Se"}
 		{"te-ke" "Type 97"}
-                {"tendor" "Tender"}
+        {"tendor" "Tender"}
 		{"tradevan" "House car"}
 		{"tradevan_big" "House car"}
 		{"tradevan_explosive" "Explosive car"}

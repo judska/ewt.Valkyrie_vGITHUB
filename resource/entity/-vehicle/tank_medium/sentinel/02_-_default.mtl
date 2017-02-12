@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "sentinel_ac_i_chassis_01_am"}
+	{bump "sentinel_ac_i_chassis_01_anm"}
+	{specular "sentinel_ac_i_chassis_01_gmm"}
+	{color "229 229 229 25"}
+	{blend none}
+}

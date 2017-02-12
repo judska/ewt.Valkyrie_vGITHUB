@@ -13,6 +13,7 @@
 		{"krh_120mm" "120mm Mortar"}
 		{"mosin_fin" "M/27"}
 		{"mosin_s_fin" "M/27PH (sniper)"}
+		{"fin_noscope" "G3t N0sc0p3d"}	
 		{"kp31" "Kpist m/37"}
 		{"kp31t" "Kpist m/37-39"}
 		{"suomi_m31r" "Suomi KP/-31"}

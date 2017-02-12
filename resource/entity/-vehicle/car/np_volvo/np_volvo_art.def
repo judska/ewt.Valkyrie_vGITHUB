@@ -196,7 +196,7 @@
                         {item "ammo bullet76 fg" 100}
                         {item "ammo bullet85 ap" 60}
                         {item "ammo bullet85 fg" 60}
-                        {item "ammo bullet114 fg" 80}
+                        {item "ammo bullet114 heat" 80}
                         {item "ammo bullet152 ap" 30}
                         {item "ammo bullet152 fg" 30}
                         {item "ammo bullet105 fg" 66}
