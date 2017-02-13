@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "us pilot helmet"}
+	{blend none}
+}

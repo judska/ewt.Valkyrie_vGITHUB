@@ -1,0 +1,57 @@
+;Exported by: Kalinski
+;Date:        Thu Feb 09 04:33:15 2017
+;File:        C:\Users\Kalinski\Desktop\helmet ger\mask.max
+{Skeleton
+	{bone "mask_ger_sniper"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "mask_ger_sniper.ply"}
+	}
+}
+{Volume "body"
+	{Box 3.64348 3.04445 3.7041}
+	{Bone "mask_ger_sniper"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		0.714715	0.175519	2.02511
+	}
+}
+{Volume "select"
+	{Box 5.59662 5.08766 5.14459}
+	{Bone "mask_ger_sniper"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		0.919993	0.260123	3.58528
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 6.04929	-5.17641	2.10936}
+			{lookat 0.777062	-0.195086	2.04705}
+			{fov 45}
+			{horizon -0.239031}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.354828	0.33419	-0.11142}
+			}
+			{"1"
+				{type point}
+				{position 1.3762	-2.3209	3.85514}
+			}
+			{"2"
+				{type point}
+				{position 2.83572	-1.25747	3.08308}
+			}
+		}
+	}
+}

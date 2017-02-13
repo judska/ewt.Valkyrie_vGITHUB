@@ -3,5 +3,5 @@
 	{extender "stuff"
 		{item "helmet_ger_m40_grass"}
 	}
-	{Extension "helmet_ger_m40_grass.mdl"}
+	{Extension "helmet_ger_exp.mdl"}
 }

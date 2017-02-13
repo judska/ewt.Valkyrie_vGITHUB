@@ -1,11 +1,11 @@
 {breed
-	{skin "eng-sas"}
+	{skin "eng-afr-rfl"}
 	{portrait "eng_soldier5"}
 	{nationality eng}
 	{icon "stormtrooper6"}
 	{icon_priority 4}
 	{armors
-		{head beret_sas}
+		{head cap_eng_keffiyeh}
 	}
 	{perks
 		{"health" "350%"
@@ -51,6 +51,7 @@
 		{item "grenade mk1" 2}
 		{item "smoke grenade" 2}
 		{item "dynamite" 1}
+           {item "mask_ger_afr" 1}
 		{item "sandbag_kit" 1}
 		{in_hands 0}
 	}

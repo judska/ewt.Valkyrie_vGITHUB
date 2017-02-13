@@ -1,11 +1,11 @@
 {breed
-	{skin "eng_commando_hp"}
+	{skin "eng-smg"}
 	{portrait "eng_soldier2"}
 	{nationality eng}
 	{icon "smg"}
-	{icon_priority 1}
+	{icon_priority 3}
 	{armors
-		{head "helmet1_eng"}
+		{head "helmet2_eng"}
 	}
 	{perks
 		{"health" "150%"

@@ -1,11 +1,11 @@
 {breed
-	{skin "eng-sas"}
+	{skin "eng-afr-rfl"}
 	{portrait "eng_soldier5"}
 	{nationality eng}
 	{icon "stormtrooper4b"}
 	{icon_priority 4}
 	{armors
-		{head beret_sas}
+		{head cap_eng_keffiyeh}
 	}
 	{perks
 		{"health" "350%"
@@ -49,6 +49,7 @@
 		{item "ammo pistol" 500}
 		{item "bandage" 3}
 		{item "grenade mk1" 2}
+           {item "mask_ger_afr" 1}
 		{item "smoke grenade" 2}
 		{item "ammo super_bazooka" 5}
 		{item "weapon super_bazooka" filled}

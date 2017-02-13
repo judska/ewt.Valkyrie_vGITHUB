@@ -1,0 +1,52 @@
+;Exported by: Kalinski
+;Date:        Wed Nov 16 15:17:27 2016
+;File:        C:\Users\Kalinski\Desktop\feldg helmet\googles fin.max
+{Skeleton
+	{bone "mask_ger_afr"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "mask_ger_afr.ply"}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "mask_ger_afr"}
+	{Position 0	6.15179	0}
+}
+{Volume "select"
+	{Box 5.59662 5.08766 5.14459}
+	{Bone "mask_ger_afr"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		1.05468	0.260123	1.35265
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 6.07456	-5.18038	1.65129}
+			{lookat 0.785871	-0.199044	1.55911}
+			{fov 45}
+			{horizon -0.239031}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.355176	0.334518	-0.109306}
+			}
+			{"1"
+				{type point}
+				{position 1.3762	-2.3209	1.9607}
+			}
+			{"2"
+				{type point}
+				{position 2.51532	-1.08809	1.18864}
+			}
+		}
+	}
+}

@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "slouch hat"}
+	{blend none}
+}

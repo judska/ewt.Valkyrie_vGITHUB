@@ -1,11 +1,11 @@
 {breed
-	{skin "eng-engineer"}
+	{skin "eng-afr-rfl"}
 	{portrait "eng_elite2"}
 	{nationality eng}
 	{icon "elite4"}
 	{icon_priority 3}
 	{armors
-		{head fieldcap_eng}
+		{head cap_eng_slouch}
 	}
 	{perks
 		{"health" "250%"
