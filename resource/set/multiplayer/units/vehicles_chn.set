@@ -62,6 +62,6 @@
 {"hero8_chn"       ("v1" c(360) c1(a19)		         t(all hero) s(chn) n1(vehicle_supporter:2) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
 {"hero9_chn"       ("i2" c(480)					     t(all hero) s(chn) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 
-{"hero10_chn"      ("i2" c(480)			             t(all hero) s(chn) n1(rifle3:25) n2(smg5:15) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
+{"hero10_chn"      ("i2" c(480)			             t(all hero) s(chn) n1(rifle6:45) n2(smg6:25) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero11_chn"      ("v2" c(480) c1(m24_chn) 		 t(all hero) s(chn) n1(tankman:4) n2(elite:5) g(4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero12_chn"      ("v1" c(960) c1(wz111_1)          t(all hero) s(chn) n1(tankman:3) n2(tankman2:1) g(h9) b(hero)) {level 1} {cost 9.0} {fore -0.5}}
