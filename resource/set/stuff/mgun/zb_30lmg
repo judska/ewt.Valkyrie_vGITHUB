@@ -8,7 +8,7 @@
 	{fireSound	"mgun/bren_burst/"}
 	{reloadSound "bren"}
 	{Spreading 1.2}
-	{rechargeTime 1.5}
+	{rechargeTime 3.0}
 	{recoveryTime 0.12}
 	("burst_short")
 }

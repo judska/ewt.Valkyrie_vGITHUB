@@ -10,7 +10,7 @@
 	
 	{Spreading 1.2}
 
-	{rechargeTime 1.5}
+	{rechargeTime 2.5}
 	{recoveryTime 0.12}
 	("burst_short")
 }
