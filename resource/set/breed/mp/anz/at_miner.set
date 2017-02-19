@@ -1,8 +1,8 @@
 {breed
 	{skin "eng-smg"}
-	{portrait "eng_soldier2"}
+	{portrait "eng_elite2"}
 	{nationality eng}
-	{icon "at_miner"}
+	{icon "elite4"}
 	{icon_priority 3}
 	{armors
 		{head "helmet2_eng"}

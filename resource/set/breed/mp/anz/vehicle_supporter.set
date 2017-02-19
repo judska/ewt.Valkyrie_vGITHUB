@@ -1,9 +1,9 @@
 {breed
-	{skin "eng_commando_hp"}
-	{portrait "eng_soldier2"}
+	{skin "eng-smg"}
+	{portrait "eng_elite2"}
 	{nationality eng}
-	{icon "smg"}
-	{icon_priority 1}
+	{icon "elite4"}
+	{icon_priority 3}
 	{armors
 		{head "helmet1_eng"}
 	}

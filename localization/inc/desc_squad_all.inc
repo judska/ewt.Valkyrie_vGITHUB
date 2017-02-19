@@ -410,7 +410,7 @@
         {"hero3_anz" "Native Guides"}
         {"hero4_anz" "Desert Rats"}
         {"hero5_anz" "40mm M1 Bofors L/60"}
-        {"hero6_anz" "Staghound 6-pdr"}
+        {"hero6_anz" "Staghound OF 6-pdr"}
         {"hero7_anz" "4.2 inch Mortar carrier"}
         {"hero8_anz" "Radio Operator"}
         {"hero9_anz" "Staghound Tulip"}

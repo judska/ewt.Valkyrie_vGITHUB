@@ -8,6 +8,6 @@
 	{rechargeTime 2.5}
 	("recoveryTime" r(520))
 	("burst_short")
-	("accuracy_mgun2")
+	("accuracy_mgun3")
 	("speed" s(744))
 }

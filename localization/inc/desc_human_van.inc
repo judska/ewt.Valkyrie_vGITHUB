@@ -102,6 +102,8 @@
 				{"squadleader2" "<c(c3baae)>assault squad leader"}
 				{"tankman" "<c(c3baae)>tank crew"}
 				{"tankman2" "<c(c3baae)>tank commander"}
+				{"tankman3" "<c(c3baae)>Shia LaBeouf"}
+				{"tankman4" "<c(c3baae)>Brad Pitt"}
 				{"vehicle_supporter" "<c(c3baae)>soldier"}
 			}
 			{"ger"

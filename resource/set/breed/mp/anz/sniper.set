@@ -1,9 +1,9 @@
 {breed
 	{skin "eng-para-cpl"}
-	{portrait "eng_soldier4"}
+	{portrait "eng_elite2"}
 	{nationality eng}
-	{icon "sniper"}
-	{icon_priority 5}
+	{icon "elite4"}
+	{icon_priority 3}
 	{armors
 		{head fieldcap_eng}
 	}

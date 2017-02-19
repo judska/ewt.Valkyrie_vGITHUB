@@ -1,9 +1,9 @@
 {breed
 	{skin "eng_crew_hp"}
-	{portrait "eng_tankman"}
+	{portrait "eng_elite2"}
 	{nationality eng}
-	{icon "tankman"}
-	{icon_priority 1}
+	{icon "elite4"}
+	{icon_priority 3}
 	{armors
 		{head "beret_eng1"}
 	}

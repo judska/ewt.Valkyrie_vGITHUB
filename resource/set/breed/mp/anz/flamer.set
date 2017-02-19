@@ -1,8 +1,8 @@
 {breed
 	{skin "eng-engineer"}
-	{portrait "eng_soldier2"}
+	{portrait "eng_elite2"}
 	{nationality eng}
-	{icon "flamer"}
+	{icon "elite4"}
 	{icon_priority 3}
 	{armors
 		{head "helmet1_eng"}

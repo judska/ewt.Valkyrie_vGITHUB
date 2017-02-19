@@ -2,7 +2,7 @@
 	{skin "comm_newzealand"}
 	{portrait "eng_elite2"}
 	{nationality eng}
-	{icon "elite2"}
+	{icon "elite4"}
 	{icon_priority 3}
 	{armors
 		{head "helmet1_eng"}

@@ -4,14 +4,14 @@
      	{"np_lrdg_20mm" "Chevy LDGR DAK 20mm Breda"}
      	{"m3grant_anz" "M3 Grant"}
      	{"universal_carrier_anz" "Universal Carrier"}
-     	{"np_t48_en" "M3 Halftrack 6-pdr"}
+     	{"np_t48_en" "M3 Halftrack QF 6-pdr"}
 		{"bedford_anz" "Bedford OYD"}
 		{"bedford_art_anz" "Bedford OYD"}
 		{"bedford_eng_anz" "Bedford OYD"}
      	{"bofors_anz" "40mm M1 Bofors L/60"}
      	{"willysmb_anz" "Willys MB"}
      	{"gun_carrier_3_inch" "4.2 inch Mortar carrier"}
-     	{"stag_hound" "Staghound 6-pdr"}
+     	{"stag_hound" "Staghound QF 6-pdr"}
      	{"churchill_mk_v_cs" "Churchill Mk. VCS"}
      	{"m4a4_firefly_veteran" "Veteran M4A4 Firefly"}
      	{"sexton" "Sexton"}    	

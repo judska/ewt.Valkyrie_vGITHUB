@@ -1,9 +1,9 @@
 {breed
 	{skin "eng-afr-rfl"}
-	{portrait "eng_soldier5"}
+	{portrait "eng_elite2"}
 	{nationality eng}
-	{icon "stormtrooper4b"}
-	{icon_priority 4}
+	{icon "elite4"}
+	{icon_priority 3}
 	{armors
 		{head cap_eng_keffiyeh}
 	}

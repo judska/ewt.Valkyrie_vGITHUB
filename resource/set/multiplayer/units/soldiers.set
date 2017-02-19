@@ -19,6 +19,10 @@
 {"mp/chn/tankman" ("tankman" side(chn))}
 {"mp/anz/tankman" ("tankman" side(anz))}
 
+{"mp/usa/tankman3" ("tankman" side(usa))}
+
+{"mp/usa/tankman4" ("tankman" side(usa))}
+
 
 
 (define "tankman2"
@@ -540,7 +544,7 @@
 {"mp/fin/sturmovik" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik" ("sturmovik" side(chn))}
-{"mp/chn/sturmovik" ("sturmovik" side(chn))}
+{"mp/anz/sturmovik" ("sturmovik" side(anz))}
 
 {"mp/rus/sturmovik2" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik2" ("sturmovik" side(ger))}
@@ -552,7 +556,7 @@
 {"mp/fin/sturmovik2" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik2" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik2" ("sturmovik" side(chn))}
-{"mp/chn/sturmovik2" ("sturmovik" side(chn))}
+{"mp/anz/sturmovik2" ("sturmovik" side(anz))}
 
 {"mp/rus/sturmovik3" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik3" ("sturmovik" side(ger))}
@@ -564,7 +568,7 @@
 {"mp/fin/sturmovik3" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik3" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik3" ("sturmovik" side(chn))}
-{"mp/chn/sturmovik3" ("sturmovik" side(chn))}
+{"mp/anz/sturmovik3" ("sturmovik" side(anz))}
 
 {"mp/rus/sturmovik4" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik4" ("sturmovik" side(ger))}
@@ -576,7 +580,7 @@
 {"mp/fin/sturmovik4" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik4" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik4" ("sturmovik" side(chn))}
-{"mp/chn/sturmovik4" ("sturmovik" side(chn))}
+{"mp/anz/sturmovik4" ("sturmovik" side(anz))}
 
 {"mp/rus/sturmovik4b" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik4b" ("sturmovik" side(ger))}
@@ -588,9 +592,10 @@
 {"mp/fin/sturmovik4b" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik4b" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik4b" ("sturmovik" side(chn))}
-{"mp/chn/sturmovik4b" ("sturmovik" side(chn))}
+{"mp/anz/sturmovik4b" ("sturmovik" side(anz))}
 
 {"mp/eng/sturmovik4c" ("sturmovik" side(eng))}
+{"mp/anz/sturmovik4c" ("sturmovik" side(anz))}
 
 {"mp/rus/sturmovik5" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik5" ("sturmovik" side(ger))}
@@ -602,7 +607,7 @@
 {"mp/fin/sturmovik5" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik5" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik5" ("sturmovik" side(chn))}
-{"mp/chn/sturmovik5" ("sturmovik" side(chn))}
+{"mp/anz/sturmovik5" ("sturmovik" side(anz))}
 
 {"mp/rus/sturmovik5b" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik5b" ("sturmovik" side(ger))}
@@ -614,7 +619,7 @@
 {"mp/fin/sturmovik5b" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik5b" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik5b" ("sturmovik" side(chn))}
-{"mp/chn/sturmovik5b" ("sturmovik" side(chn))}
+{"mp/anz/sturmovik5b" ("sturmovik" side(anz))}
 
 {"mp/rus/sturmovik6" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik6" ("sturmovik" side(ger))}
@@ -626,7 +631,7 @@
 {"mp/fin/sturmovik6" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik6" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik6" ("sturmovik" side(chn))}
-{"mp/chn/sturmovik6" ("sturmovik" side(chn))}
+{"mp/anz/sturmovik6" ("sturmovik" side(anz))}
 
 {"mp/rus/sturmovik6b" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik6b" ("sturmovik" side(ger))}
@@ -638,7 +643,7 @@
 {"mp/fin/sturmovik6b" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik6b" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik6b" ("sturmovik" side(chn))}
-{"mp/chn/sturmovik6b" ("sturmovik" side(chn))}
+{"mp/anz/sturmovik6b" ("sturmovik" side(anz))}
 
 {"mp/rus/sturmovik7" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik7" ("sturmovik" side(ger))}
@@ -650,7 +655,7 @@
 {"mp/fin/sturmovik7" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik7" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik7" ("sturmovik" side(chn))}
-{"mp/chn/sturmovik7" ("sturmovik" side(chn))}
+{"mp/anz/sturmovik7" ("sturmovik" side(anz))}
 
 {"mp/rus/sturmovik7b" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik7b" ("sturmovik" side(ger))}
@@ -662,13 +667,13 @@
 {"mp/fin/sturmovik7b" ("sturmovik" side(fin))}
 {"mp/ita/sturmovik7b" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik7b" ("sturmovik" side(chn))}
-{"mp/chn/sturmovik7b" ("sturmovik" side(chn))}
+{"mp/anz/sturmovik7b" ("sturmovik" side(anz))}
 
 
 
 (define "sturmovik_lowcp"
     {tags   "sturmovik %side spec infantry man"}
-    {cp     3.00}
+    {cp     1.50}
     {score  40.00}
     {basic}
     {breed}
@@ -723,7 +728,7 @@
 (define "sniper"
     {tags   "sniper %side spec infantry man"}
     {cp     10.0}
-    {score  160.00}
+    {score  280.00}
     {basic}
     {breed}
     {cw 2.0}
@@ -786,7 +791,7 @@
 (define "oficer"
     {tags   "oficer %side spec infantry man"}
     {cp     -20.0}
-    {score  320.00}
+    {score  460.00}
     {basic}
     {breed}
     {cw 10.0}

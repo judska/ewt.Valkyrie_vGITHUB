@@ -4,5 +4,6 @@
 	{reloadSound "ppd40_reload"}
 	("recoveryTime" r(900))
 	("burst_short")
+	("accuracy_smg3")
  	("speed" s(390))	
 }

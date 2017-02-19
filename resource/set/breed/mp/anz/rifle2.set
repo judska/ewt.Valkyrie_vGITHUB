@@ -1,9 +1,9 @@
 {breed
 	{skin "eng-smg"}
-	{portrait "eng_soldier2"}
+	{portrait "eng_elite2"}
 	{nationality eng}
-	{icon "rifleman"}
-	{icon_priority 1}
+	{icon "elite4"}
+	{icon_priority 3}
 	{armors
 		{head "helmet1_eng"}
 	}

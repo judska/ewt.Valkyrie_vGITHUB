@@ -1,9 +1,9 @@
 {breed
 	{skin "eng_tankman_afr"}
-	{portrait "eng_soldier3"}
+	{portrait "eng_elite2"}
 	{nationality eng}
-	{icon "radioman"}
-	{icon_priority 5}
+	{icon "elite4"}
+	{icon_priority 3}
 	{armors
 		{head "radioman_hat"}
 	}

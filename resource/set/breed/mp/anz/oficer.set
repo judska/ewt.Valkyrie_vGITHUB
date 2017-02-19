@@ -1,9 +1,9 @@
 {breed
 	{skin "eng-com"}
-	{portrait "eng_officer"}
+	{portrait "eng_elite2"}
 	{nationality eng}
-	{icon "officer"}
-	{icon_priority 6}
+	{icon "elite4"}
+	{icon_priority 3}
 	{armors
 		{head cap_eng_afr}
 	}

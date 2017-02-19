@@ -1,8 +1,8 @@
 {breed
 	{skin "eng_commando_hp"}
-	{portrait "eng_soldier2"}
+	{portrait "eng_elite2"}
 	{nationality eng}
-	{icon "sapper"}
+	{icon "elite4"}
 	{icon_priority 3}
 	{armors
 		{head fieldcap_eng}
