@@ -144,7 +144,7 @@
 ("squad_with3types" side(anz) name(elites) c(0) g(squad_4) c1(elite:3) c2(elite2:3) c3(elite3:2) b(squad1) t(all inf_only) level(4) cost(170) f(1.0))
 
 ("squad_with3types" side(rus) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik2:2) c3(sturmovik3:2) b(squad1) t(all inf_only) level(8) cost(325) f(1.0))
-("squad_with3types" side(ger) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik12:2) c3(sturmovik11:2) b(squad1) t(all inf_only) level(8) cost(360) f(1.0))
+("squad_with3types" side(ger) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik6:2) c3(sturmovik4c:2) b(squad1) t(all inf_only) level(8) cost(360) f(1.0))
 ("squad_with3types" side(usa) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik2:2) c3(sturmovik3:2) b(squad1) t(all inf_only) level(8) cost(350) f(1.0))
 ("squad_with4types" side(eng) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik2:2) c3(sturmovik3:1) c4(sturmovik4:1) b(squad1) t(all inf_only) level(8) cost(335) f(1.0))
 ("squad_with3types" side(jap) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik2:2) c3(sturmovik3:2) b(squad1) t(all inf_only) level(8) cost(310) f(1.0))
