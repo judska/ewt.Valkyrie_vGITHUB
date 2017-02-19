@@ -33,7 +33,7 @@
 
 ;°°°Button 3°°°
 
-{"m20"      	    ("v" c(150) t(all light) 		s(usa) n1(1) n2(1) g(d1) sc(150.00) b(v3) cw(0) cp(5)) {level 1} {cost 150} {fore 0.6}}
+{"m20"      	    ("v" c(150) t(all light) 		s(usa) n1(1) n2(1) g(d1) sc(155.00) b(v3) cw(0) cp(5)) {level 1} {cost 155} {fore 0.6}}
 {"m16"      	    ("v" c(150) t(all light) 		s(usa) n1(2) n2(1) g(d2) sc(170.00) b(v3) cw(0) cp(5)) {level 5} {cost 170} {fore 0}}
 {"m8grayhound"      ("v" c(150) t(all light) 		s(usa) n1(2) n2(1) g(d3) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0.4}}	
 
