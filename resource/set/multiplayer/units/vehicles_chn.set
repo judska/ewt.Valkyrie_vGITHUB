@@ -34,8 +34,8 @@
 {"amr35-13mm_chn"   ("v" c(180) t(all light) 		s(chn) n1(1) n2(1) g(d4) sc(230.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0.4}}
  
 {"sdkfz222a"        ("v" c(180) t(all light) 		s(chn) n1(1) n2(1) g(d4) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0}}      
-{"m5a1_chn"         ("v" c(150) t(all light) 		s(chn) n1(4) n2(1) g(d8) sc(280.00) b(v3) cw(0) cp(5)) {level 1} {cost 300} {fore 1.0}} 	  
-{"m24_chn"          ("v" c(150) t(all light) 		s(chn) n1(3) n2(1) g(d9) sc(320.00) b(v3) cw(0) cp(5)) {level 1} {cost 320} {fore 0}}
+{"m5a1_chn"         ("v" c(150) t(all light) 		s(chn) n1(4) n2(1) g(d8) sc(280.00) b(v3) cw(0) cp(5)) {level 1} {cost 280} {fore 1.0}} 	  
+{"m24_chn"          ("v" c(150) t(all light) 		s(chn) n1(3) n2(1) g(d9) sc(300.00) b(v3) cw(0) cp(5)) {level 1} {cost 300} {fore 0}}
  
 
 ;°°°Button 4°°°

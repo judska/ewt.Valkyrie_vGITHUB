@@ -4,12 +4,12 @@
 ;°°°Button 1°°°
 
 {"willysmb_anz" ("vs" c(60) t(all)		s(anz) n(3) g(b1) sc(100.00)  b(v1) cw(0) cp(0)) {level 2} {cost 110} {fore 1.0}}
-{"universal_carrier_anz"("vs" c(60) t(all) 		s(anz) n(4) g(b2) sc(130.00) b(v1) cw(0) cp(0)) {level 4} {cost 130} {fore 1.0}}
-{"m30kangaroo"      ("vs" c(300) t(all) 	s(anz) n(2) g(b3) sc(270.00)  b(v1) cw(0) cp(0)) {level 6} {cost 270} {fore 0.5}}
+{"universal_carrier_anz"("vs" c(60) t(all) 		s(anz) n(4) g(b2) sc(90.00) b(v1) cw(0) cp(0)) {level 4} {cost 90} {fore 1.0}}
+{"m30kangaroo"      ("vs" c(300) t(all) 	s(anz) n(2) g(b3) sc(210.00)  b(v1) cw(0) cp(0)) {level 6} {cost 210} {fore 0.5}}
 
 {"bedford_anz"	    ("vs" c(60) t(all supply) 	s(anz) n(2) g(b4) sc(50.00)  b(v1) cw(0) cp(0)) {level 1} {cost 50} {fore 1.0}}
-{"bedford_art_anz"  ("vs" c(60) t(all supply) 	s(anz) n(2) g(b5) sc(150.00)  b(v1) cw(0) cp(0)) {level 1} {cost 150} {fore 1.0}}
-{"bedford_eng_anz"  ("vs" c(60) t(all supply) 	s(anz) n(2) g(b6) sc(250.00)  b(v1) cw(0) cp(0)) {level 8} {cost 250} {fore 0.0}}
+{"bedford_art_anz"  ("vs" c(60) t(all supply) 	s(anz) n(2) g(b5) sc(135.00)  b(v1) cw(0) cp(0)) {level 1} {cost 135} {fore 1.0}}
+{"bedford_eng_anz"  ("vs" c(60) t(all supply) 	s(anz) n(2) g(b6) sc(225.00)  b(v1) cw(0) cp(0)) {level 8} {cost 225} {fore 0.0}}
 
 
 ;°°°Button 2°°°
@@ -19,10 +19,10 @@
 {"ml3"		        ("vs" c(0) t(all cannon mediumcan) 	s(anz) n(2) g(c3) sc(280.00) b(v2) cw(2) cp(5)) {level 5} {cost 280} {fore 1.0}}
 
 {"qf2"              ("vs" c(0) t(all cannon) 	        s(anz) n(2) g(c4) sc(135.00)  b(v2) cw(2) cp(5)) {level 1} {cost 135} {fore 1.0}}
-{"qf6"              ("vs" c(0) t(all cannon mediumcan) 	s(anz) n(2) g(c5) sc(225.00) b(v2) cw(2) cp(10)) {level 1} {cost 225} {fore 1.0}}
-{"qf17"             ("vs" c(0) t(all cannon heavycan) 	s(anz) n(2) g(c6) sc(480.00) b(v2) cw(2) cp(15)) {level 1} {cost 480} {fore 1.0}}
+{"qf6"              ("vs" c(0) t(all cannon mediumcan) 	s(anz) n(2) g(c5) sc(260.00) b(v2) cw(2) cp(10)) {level 1} {cost 260} {fore 1.0}}
+{"qf17"             ("vs" c(0) t(all cannon heavycan) 	s(anz) n(2) g(c6) sc(600.00) b(v2) cw(2) cp(15)) {level 1} {cost 600} {fore 1.0}}
 
-("how" side(anz) name(how_aa) c(0) c1(universal_carrier) c2(vickers) 	t(all cannon heavycan heavyaa) g(c7) b(v2) level(3) cost(730) f(1.0))
+("how" side(anz) name(how_aa) c(0) c1(universal_carrier) c2(vickers) 	t(all cannon heavycan heavyaa) g(c7) b(v2) level(3) cost(700) f(1.0))
 ("how" side(anz) name(how_b) c(0) c1(universal_carrier) c2(pdr25) 		t(all artillery) g(c8) b(v2) level(6) cost(550) f(1.0))
 ("how" side(anz) name(how_a) c(0) c1(universal_carrier) c2(bl6)   		t(all artillery heavyart) g(c9) b(v2) level(9) cost(800) f(1.0))
 
@@ -31,10 +31,10 @@
 
 {"r35"       	    ("v" c(150) t(all light) 	    s(anz) n1(1) n2(1) g(d4) sc(15.00) b(v3) cw(0) cp(5)) {level 1} {cost 215} {fore 1.0}}
 {"m1139_anz"        ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0}}
-{"m2a4"             ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(230.00) b(v3) cw(0) cp(5)) {level 1} {cost 230} {fore 0}}
-
 {"m1340_anz"        ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0}}
+
 {"staghound"        ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(280.00) b(v3) cw(0) cp(5)) {level 1} {cost 280} {fore 0}}
+{"m2a4"             ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(300.00) b(v3) cw(0) cp(5)) {level 1} {cost 300} {fore 0}}
 {"np_lrdg_20mm"     ("vs" c(180) t(all light) 		s(anz) n(3) g(d3) sc(180.00) b(v3) cw(0) cp(5)) {level 1} {cost 180} {fore 0}}
 
 
@@ -42,7 +42,7 @@
 	
 {"mk2a"             ("v" c(0) t(all medium) 		s(anz) n1(3) n2(1) g(e3) sc(310.00) b(v4) cw(0) cp(15)) {level 4} {cost 310} {fore 1.0}}
 {"m3grant_anz"      ("v" c(0) t(all medium)	        s(anz) n1(3) n2(1) g(e2) sc(340.00) b(v4) cw(0) cp(15)) {level 1} {cost 340} {fore 1.0}}
-{"m4a4_firefly"     ("v" c(0) t(all medium) 	    s(anz) n1(3) n2(1) g(e4) sc(760.00) b(v4) cw(0) cp(15)) {level 1} {cost 760} {fore 1.0}}
+{"m4a4_firefly"     ("v" c(0) t(all medium) 	    s(anz) n1(3) n2(1) g(e4) sc(780.00) b(v4) cw(0) cp(15)) {level 1} {cost 780} {fore 1.0}}
 
 
 ;°°°Button 5°°°

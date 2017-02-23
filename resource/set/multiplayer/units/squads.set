@@ -117,7 +117,7 @@
 ("squad_with3types" side(fin) name(smgs) c(30) g(squad_2) c1(squadleader2:1) c2(rifle2:3) c3(smg2:4) b(squad1) t(all inf_only) level(1) cost(130) f(1.0))
 ("squad_with3types" side(ita) name(smgs) c(30) g(squad_2) c1(squadleader2:1) c2(rifle2:3) c3(smg2:4) b(squad1) t(all inf_only) level(1) cost(110) f(1.0))
 ("squad_with3types" side(chn) name(smgs) c(30) g(squad_2) c1(squadleader2:1) c2(rifle2:3) c3(smg2:4) b(squad1) t(all inf_only) level(1) cost(90) f(1.0))
-("squad_with3types" side(anz) name(smgs) c(30) g(squad_2) c1(squadleader2:1) c2(rifle2:3) c3(smg2:4) b(squad1) t(all inf_only) level(1) cost(105) f(1.0))
+("squad_with3types" side(anz) name(smgs) c(30) g(squad_2) c1(squadleader2:1) c2(rifle2:3) c3(smg2:4) b(squad1) t(all inf_only) level(1) cost(100) f(1.0))
 
 ("squad_with4types" side(rus) name(riflemans) c(30) g(squad_2) c1(squadleader:1) c2(rifle:5) c3(smg:1) c4(mgun:1) b(squad1) t(all inf_only) level(1) cost(135) f(1.0))
 ("squad_with4types" side(ger) name(riflemans) c(30) g(squad_2) c1(squadleader:1) c2(rifle:5) c3(smg:1) c4(mgun:1) b(squad1) t(all inf_only) level(1) cost(145) f(1.0))
@@ -141,7 +141,7 @@
 ("squad_with3types" side(fin) name(elites) c(0) g(squad_4) c1(elite:3) c2(elite2:3) c3(elite3:2) b(squad1) t(all inf_only) level(4) cost(235) f(1.0))
 ("squad_with3types" side(ita) name(elites) c(0) g(squad_4) c1(elite:3) c2(elite2:3) c3(elite3:2) b(squad1) t(all inf_only) level(4) cost(215) f(1.0))
 ("squad_with3types" side(chn) name(elites) c(0) g(squad_4) c1(elite:3) c2(elite2:3) c3(elite3:2) b(squad1) t(all inf_only) level(4) cost(200) f(1.0))
-("squad_with3types" side(anz) name(elites) c(0) g(squad_4) c1(elite:3) c2(elite2:3) c3(elite3:2) b(squad1) t(all inf_only) level(4) cost(170) f(1.0))
+("squad_with3types" side(anz) name(elites) c(0) g(squad_4) c1(elite:3) c2(elite2:3) c3(elite3:2) b(squad1) t(all inf_only) level(4) cost(215) f(1.0))
 
 ("squad_with3types" side(rus) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik2:2) c3(sturmovik3:2) b(squad1) t(all inf_only) level(8) cost(325) f(1.0))
 ("squad_with3types" side(ger) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik6:2) c3(sturmovik4c:2) b(squad1) t(all inf_only) level(8) cost(355) f(1.0))
@@ -153,7 +153,7 @@
 ("squad_with3types" side(fin) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik2:2) c3(sturmovik3:2) b(squad1) t(all inf_only) level(8) cost(325) f(1.0))
 ("squad_with3types" side(ita) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik2:2) c3(sturmovik3:2) b(squad1) t(all inf_only) level(8) cost(320) f(1.0))
 ("squad_with3types" side(chn) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik2:2) c3(sturmovik3:2) b(squad1) t(all inf_only) level(8) cost(290) f(1.0))
-("squad_with4types" side(anz) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik2:2) c3(sturmovik3:1) c4(sturmovik4:1) b(squad1) t(all inf_only) level(8) cost(290) f(1.0))
+("squad_with4types" side(anz) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik2:2) c3(sturmovik3:1) c4(sturmovik4:1) b(squad1) t(all inf_only) level(8) cost(340) f(1.0))
 
 {"storm_mech_rus"      ("vb3" c(0) c1(m3) 		t(all inf_only) s(rus) n1(6) n2(2) n3(2) 		g(squad_6) b(squad1)) {level 12} {cost 460} {fore 1.0}}
 {"storm_mech_ger"      ("vb3" c(0) c1(sdkfz251_1) 	t(all inf_only) s(ger) n1(6) n2(2) n3(2) 		g(squad_6) b(squad1)) {level 12} {cost 460} {fore 1.0}}
@@ -165,7 +165,7 @@
 {"storm_mech_fin"      ("vb3" c(0) c1(bt5_fin) 	        t(all inf_only) s(fin) n1(4) n2(2) n3(2) 		g(squad_6) b(squad1)) {level 12} {cost 455} {fore 1.0}}
 {"storm_mech_ita"      ("vb3" c(0) c1(sdkfz251_1) 	t(all inf_only) s(ita) n1(6) n2(2) n3(2) 		g(squad_6) b(squad1)) {level 12} {cost 445} {fore 1.0}}
 {"storm_mech_chn"      ("vb3" c(0) c1(m3_chn) 	        t(all inf_only) s(chn) n1(6) n2(2) n3(2) 		g(squad_6) b(squad1)) {level 12} {cost 410} {fore 1.0}}
-{"storm_mech_anz"      ("vb4" c(0) c1(m30kangaroo) 		t(all inf_only) s(anz) n1(6) n2(2) n3(1) n4(1) 	        g(squad_6) b(squad1)) {level 12} {cost 480} {fore 1.0}}
+{"storm_mech_anz"      ("vb4" c(0) c1(m30kangaroo) 		t(all inf_only) s(anz) n1(6) n2(2) n3(1) n4(1) 	        g(squad_6) b(squad1)) {level 12} {cost 465} {fore 1.0}}
 
 ("squad_with1types" side(rus) name(ap_miners) c(120) g(squad_7) c1(ap_miner:4) b(squad1) t(all inf_only engineers mines) level(11) cost(130) f(0))
 ("squad_with1types" side(ger) name(ap_miners) c(120) g(squad_7) c1(ap_miner:4) b(squad1) t(all inf_only engineers mines) level(11) cost(130) f(0))
@@ -240,7 +240,7 @@
 ("squad_with1types" side(fin) name(elites2) c(0) g(soldier_3) c1(elite2:1) b(squad2) t(all inf_only single) level(1) cost(31) f(1.0))
 ("squad_with1types" side(ita) name(elites2) c(0) g(soldier_3) c1(elite2:1) b(squad2) t(all inf_only single) level(1) cost(24) f(1.0))
 ("squad_with1types" side(chn) name(elites2) c(0) g(soldier_3) c1(elite2:1) b(squad2) t(all inf_only single) level(1) cost(22) f(1.0))
-("squad_with1types" side(anz) name(elites2) c(0) g(soldier_3) c1(elite2:1) b(squad2) t(all inf_only single) level(1) cost(16) f(1.0))
+("squad_with1types" side(anz) name(elites2) c(0) g(soldier_3) c1(elite2:1) b(squad2) t(all inf_only single) level(1) cost(29) f(1.0))
 
 ("squad_with2types" side(rus) name(at_rifles) c1(at_rifle:1) c2(at_rifle2:1) c(15) g(soldier_4) b(squad2) t(all inf_only) level(1) cost(60) f(1.0))
 ("squad_with2types" side(ger) name(at_rifles) c1(at_rifle:1) c2(at_rifle2:1) c(15) g(soldier_4) b(squad2) t(all inf_only) level(1) cost(60) f(1.0))
@@ -288,7 +288,7 @@
 ("squad_with2types" side(fin) name(stormtroopers4) c(15) g(soldier_7) c1(sturmovik7:2) c2(sturmovik7b:1) b(squad2) t(all inf_only) level(1) cost(125) f(1.0))
 ("squad_with2types" side(ita) name(stormtroopers4) c(15) g(soldier_7) c1(sturmovik7:2) c2(sturmovik7b:1) b(squad2) t(all inf_only) level(1) cost(120) f(1.0))
 ("squad_with2types" side(chn) name(stormtroopers4) c(15) g(soldier_7) c1(sturmovik7:2) c2(sturmovik7b:1) b(squad2) t(all inf_only) level(1) cost(100) f(1.0))
-("squad_with2types" side(anz) name(stormtroopers4) c(15) g(soldier_7) c1(sturmovik7:2) c2(sturmovik7b:1) b(squad2) t(all inf_only) level(1) cost(100) f(1.0))
+("squad_with2types" side(anz) name(stormtroopers4) c(15) g(soldier_7) c1(sturmovik7:2) c2(sturmovik7b:1) b(squad2) t(all inf_only) level(1) cost(115) f(1.0))
 
 ("squad_with2types" side(rus) name(stormtroopers2) c(15) g(soldier_5) c1(sturmovik5:1) c2(sturmovik5b:2) b(squad2) t(all inf_only) level(14) cost(135) f(1.0))
 ("squad_with2types" side(ger) name(stormtroopers2) c(15) g(soldier_5) c1(sturmovik5:1) c2(sturmovik5b:2) b(squad2) t(all inf_only) level(14) cost(150) f(1.0))
@@ -300,7 +300,7 @@
 ("squad_with2types" side(fin) name(stormtroopers2) c(15) g(soldier_5) c1(sturmovik5:1) c2(sturmovik5b:2) b(squad2) t(all inf_only) level(1) cost(150) f(1.0))
 ("squad_with2types" side(ita) name(stormtroopers2) c(15) g(soldier_5) c1(sturmovik5:1) c2(sturmovik5b:2) b(squad2) t(all inf_only) level(1) cost(135) f(1.0))
 ("squad_with2types" side(chn) name(stormtroopers2) c(15) g(soldier_5) c1(sturmovik5:1) c2(sturmovik5b:2) b(squad2) t(all inf_only) level(1) cost(135) f(1.0))
-("squad_with2types" side(anz) name(stormtroopers2) c(15) g(soldier_5) c1(sturmovik5:1) c2(sturmovik5b:2) b(squad2) t(all inf_only) level(1) cost(135) f(1.0))
+("squad_with2types" side(anz) name(stormtroopers2) c(15) g(soldier_5) c1(sturmovik5:1) c2(sturmovik5b:2) b(squad2) t(all inf_only) level(1) cost(145) f(1.0))
 
 ("squad_with2types" side(rus) name(stormtroopers3) c(300) g(soldier_6) c1(sturmovik6:1) c2(sturmovik6b:2) b(squad2) t(all inf_only) level(21) cost(135) f(1.0))
 ("squad_with2types" side(ger) name(stormtroopers3) c(300) g(soldier_6) c1(sturmovik6:1) c2(sturmovik6b:2) b(squad2) t(all inf_only) level(21) cost(145) f(1.0))
@@ -312,7 +312,7 @@
 ("squad_with2types" side(fin) name(stormtroopers3) c(300) g(soldier_6) c1(sturmovik6:1) c2(sturmovik6b:2) b(squad2) t(all inf_only) level(1) cost(130) f(1.0))
 ("squad_with2types" side(ita) name(stormtroopers3) c(300) g(soldier_6) c1(sturmovik6:1) c2(sturmovik6b:2) b(squad2) t(all inf_only) level(1) cost(140) f(1.0))
 ("squad_with2types" side(chn) name(stormtroopers3) c(300) g(soldier_6) c1(sturmovik6:1) c2(sturmovik6b:2) b(squad2) t(all inf_only) level(1) cost(125) f(1.0))
-("squad_with2types" side(anz) name(stormtroopers3) c(300) g(soldier_6) c1(sturmovik6:1) c2(sturmovik6b:2) b(squad2) t(all inf_only) level(1) cost(125) f(1.0))
+("squad_with2types" side(anz) name(stormtroopers3) c(300) g(soldier_6) c1(sturmovik6:1) c2(sturmovik6b:2) b(squad2) t(all inf_only) level(1) cost(145) f(1.0))
 
 ("squad_with2types" side(rus) name(stormtroopers1) c(15) g(soldier_7) c1(sturmovik4:3) c2(sturmovik4b:2) b(squad2) t(all inf_only) level(7) cost(130) f(1.0))
 ("squad_with2types" side(ger) name(stormtroopers1) c(15) g(soldier_7) c1(sturmovik4:3) c2(sturmovik4b:2) b(squad2) t(all inf_only) level(7) cost(130) f(1.0))
@@ -324,7 +324,7 @@
 ("squad_with2types" side(fin) name(stormtroopers1) c(15) g(soldier_7) c1(sturmovik4:3) c2(sturmovik4b:2) b(squad2) t(all inf_only) level(1) cost(145) f(1.0))
 ("squad_with2types" side(ita) name(stormtroopers1) c(15) g(soldier_7) c1(sturmovik4:3) c2(sturmovik4b:2) b(squad2) t(all inf_only) level(1) cost(125) f(1.0))
 ("squad_with2types" side(chn) name(stormtroopers1) c(15) g(soldier_7) c1(sturmovik4:3) c2(sturmovik4b:2) b(squad2) t(all inf_only) level(1) cost(105) f(1.0))
-("squad_with2types" side(anz) name(stormtroopers1) c(15) g(soldier_7) c1(sturmovik4c:3) c2(sturmovik4b:2) b(squad2) t(all inf_only) level(1) cost(105) f(1.0))
+("squad_with2types" side(anz) name(stormtroopers1) c(15) g(soldier_7) c1(sturmovik4c:3) c2(sturmovik4b:2) b(squad2) t(all inf_only) level(1) cost(120) f(1.0))
 
 ("squad_with1types" side(rus) name(snipers) c(150) g(soldier_8) c1(sniper:1) b(squad2) t(all sniper_only inf_only) level(8) cost(250) f(0))
 ("squad_with1types" side(ger) name(snipers) c(150) g(soldier_8) c1(sniper:1) b(squad2) t(all sniper_only inf_only) level(8) cost(250) f(0))
