@@ -55,7 +55,7 @@
 
 {"hero1_anz"        ("v1" c(120) c1(boyes_gun_carrier)          t(all hero) s(anz) n1(vehicle_supporter:4) n2(bazooker:1) n3(bazooker2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero2_anz"        ("i2" c(120)					            t(all hero) s(anz) n1(elite7:1) n2(elite8:7) n3(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
-{"hero3_anz"        ("i1" c(120) 			                    t(all hero) s(anz) n1(scout:6) n2(scout:0) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"hero3_anz"        ("v1" c(120) c1(m3cannon_anz)               t(all hero) s(anz) n1(vehicle_supporter:2) n2(bazooker:0) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
 {"hero4_anz"        ("i3" c(240) 			                    t(all hero) s(anz) n1(elite4:2) n2(elite5:8) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero5_anz"        ("2v" c(240) c1(universal_carrier_anz) c2(bofors_anz) t(all hero) s(anz) n1(vehicle_supporter:2) n2(tankman2:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
