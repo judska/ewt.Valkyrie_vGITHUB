@@ -52,7 +52,6 @@
 		{item "dynamite" 1}
 		{item "panzerfaust weapon" filled}
 		{item "panzerfaust weapon" filled}
-           {item "panzerfaust weapon" filled}
 		{in_hands 0}
 	}
 }
