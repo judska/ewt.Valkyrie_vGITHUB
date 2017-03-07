@@ -1,11 +1,11 @@
 {breed
-	{skin "ger_smg_panzergrenadier_d"}
+	{skin "ss-reg-hauptsturm"}
 	{portrait "ger_soldier5"}
 	{nationality ger}
 	{icon "stormtrooper6"}
 	{icon_priority 4}
 	{armors
-		{head helmet4_ger}
+		{head helmet_ger_m40_ss_blk}
 	}
 	{perks
 		{"health" "350%"
@@ -42,7 +42,7 @@
 	}
 	{veterancy
 		(include "veterancy_generic.inc")
-		("veterancy_1")
+		("veterancy_5")
 	}
 	{inventory
 		{item "g43" filled}
@@ -51,6 +51,7 @@
 		{item "grenade m39" 2}
 		{item "smoke grenade" 2}
 		{item "grenade pwm1" 2}
+		{item "sandbag_kit" 1}
            {item "weapon panzershreck" filled}
            {item "ammo panzershreck" 5}
 		{in_hands 0}
