@@ -594,7 +594,6 @@
 {"mp/chn/sturmovik4b" ("sturmovik" side(chn))}
 {"mp/anz/sturmovik4b" ("sturmovik" side(anz))}
 
-{"mp/ger/sturmovik4c" ("sturmovik" side(ger))}
 {"mp/eng/sturmovik4c" ("sturmovik" side(eng))}
 {"mp/anz/sturmovik4c" ("sturmovik" side(anz))}
 
@@ -669,6 +668,7 @@
 {"mp/ita/sturmovik7b" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik7b" ("sturmovik" side(chn))}
 {"mp/anz/sturmovik7b" ("sturmovik" side(anz))}
+
 
 
 (define "sturmovik_lowcp"
