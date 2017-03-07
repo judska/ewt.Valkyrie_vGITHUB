@@ -709,23 +709,6 @@
 {"mp/ger/sturmovik11" ("sturmovik_lowcp" side(ger))}
 
 
-(define "sturmovik_nocp"
-    {tags   "sturmovik %side spec infantry man"}
-    {cp     0.00}
-    {score  40.00}
-    {basic}
-    {breed}
-    {cw 5.0}
-)
-{"mp/ger/sturmoviko" ("sturmovik_nocp" side(ger))}
-
-{"mp/ger/sturmovik2o" ("sturmovik_nocp" side(ger))}
-
-{"mp/ger/sturmovik3o" ("sturmovik_nocp" side(ger))}
-
-{"mp/ger/sturmovik6o" ("sturmovik_nocp" side(ger))}
-
-
 
 (define "flamer"
     {tags   "flamer %side spec infantry man"}
