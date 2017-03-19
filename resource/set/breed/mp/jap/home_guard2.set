@@ -8,7 +8,7 @@
 		{head "fieldcap1_jap"}	
 	}
 	{perks
-		{"health" "150%"
+		{"health" "100%"
 		}
 		{"health_regeneration" "100%"
 		}
