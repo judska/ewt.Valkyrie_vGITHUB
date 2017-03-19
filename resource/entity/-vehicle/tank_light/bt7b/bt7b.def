@@ -1,0 +1,118 @@
+{entity
+	(include "/properties/tank.ext")
+	(include "/properties/shadow/tank.inc" scale(1.0))
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+	{collider "tank.light"}
+	{props "light" "turret_rotator" "vision_vehicle_medium" "muzzle_minimum"}
+
+    	{targetClass "light_tank"}
+   	 {patherId "tank.light"}
+
+	{Volume "Body1"
+		{tags "body"}
+		{component "body"}
+	}
+	{Volume "Body2"
+		{tags "body"}
+		{component "body"}
+	}
+	
+	("armor_light" turret(15 15 15 10) body(22 13 13 10))
+	("armor_engine"  t(13))
+
+	{extender "enumerator"}
+	
+	{extender "inventory"
+		{box
+			{item "bullet45 ap" 47}
+			{item "bullet45 fg" 45}
+			{item "bullet45 apcr" 5}
+			{item "ammo mgun" 945}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "45mm_20k" filling "bullet45 ap" 1}
+			{charger "gunner"}        
+			("abm_low")
+		}
+		{place "mgun"
+			{type "mgun_coaxial"}
+			{weapon "dt" filled}
+			{charger "gunner"}
+			{basic}
+            		("abm_mgun")
+		}
+	}
+
+	("crew_2_human")
+	("crew_human" place(commander)	door1(emit1) door2(emit2) visor(main))
+
+	{boarder
+		{anm "left"
+			{forward	{begin	"board_kv"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "right"
+			{forward	{begin	"board_tank_right"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "armor"
+			{forward	{begin	"board_MiddleArmor"} 	{end "pose_seat_armor_1"}}
+			{reverse 	{end	"emit_tank_1"}}
+		}
+		{anm "armor1"
+			{forward	{begin	"board_MiddleArmor"} 	{end "pose_seat_armor_2"}}
+			{reverse 	{end	"emit_body"}}
+		}
+	}
+
+	("seat_human" place(seat1) bone(seat01) door(emit3)  animation(armor))
+	("seat_human" place(seat2) bone(seat02) door(emit4)  animation(armor1))
+	("seat_human" place(seat3) bone(seat03) door(emit5)  animation(armor))
+	("seat_human" place(seat4) bone(seat04) door(emit6)  animation(armor))
+        
+	{extension "bt7_37_0.mdl"}
+
+    {mass 13900}
+    {Chassis
+        ("tank_trace_ex" fx("tracks_sm") step(0.3) len(1.0) boneleft("wheell4") boneright("wheelr4"))
+        {Locomotion ("locomotion")
+            {maxspeed   40}
+            {maxSpeedAtMaxTurn 19}
+            {StartTime  15}
+            {TurnTime   8}
+            {TurnStart  1.1}
+            {TurnRadius 7}
+            {TurnStop   0.6}
+            {BrakeTime  1.5}
+            {StopTime   2.5}
+            {Gears  0.2 0.5 1}
+            {RearGears  0.25}
+        }
+        {FuelBag
+            {volume 790 }
+            {rate   100 }
+            {remain 790 }
+            {fuel "fuel"}
+        }
+		{speed
+        	{Normal  12}
+        	{Slow  18}
+    	}
+    }
+	
+    {bone "turret"
+        {speed 0.009}
+    }
+    {bone "gun_rot"
+        {speed 0.007}
+        {limits -35 7}
+    }
+	{bone "coaxial_mgun"
+        {limits 10}
+        {speed2 80}
+    }
+}

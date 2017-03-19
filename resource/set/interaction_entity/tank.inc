@@ -1001,6 +1001,46 @@
 	("t34_sound")
 	("burn_by_engine" args 0.3)
 }
+{"ot34_2 tank"
+    ("t34_sound")
+    ("burn_by_engine" args 0.2)
+
+   {on spawn   
+      {add_view "flamer_fire" "flame1" "foresight4"}
+      
+      {add_view "flamer_fire_barrel" "fire1" "foresight4"}
+   
+      {view show   "fire1"}
+      
+      {view start   "fire1"}
+   }
+   {on break_armor
+      {if name "pierce"
+         {if rand 0.3
+            {if volume "body"
+               {call "explosion"}
+            }
+                        }
+                else name "blast"
+         {if volume "body"
+            {call "explosion"}
+         }
+                }
+   }
+   {on "_explosion"
+      {spawn "fuel_die"}
+      {blastwave c4 5 r0 4 r1 15}
+      {fire radius 8 time 15 heating 10}
+   }
+   
+   {on fire "mgun1"
+      {view start   "flame1"}
+      {kill_delay "fire1"}
+      {delay 0.5 "fire1"
+         {view pause   "flame1"}
+      }
+   }
+}
 {"t34_42_fin tank"
 	("t34_sound")
 	("burn_by_engine" args 0.3)

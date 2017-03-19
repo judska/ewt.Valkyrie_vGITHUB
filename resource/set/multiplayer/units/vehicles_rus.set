@@ -38,20 +38,23 @@
 {"t60"              ("v" c(210) t(all light) 		s(rus) n1(1) n2(1) g(d6) sc(270.00) b(v3) cw(0) cp(5)) {level 1} {cost 270} {fore 0}}
 
 {"t70"              ("v" c(150) t(all light) 		s(rus) n1(1) n2(1) g(d5) sc(270.00) b(v3) cw(0) cp(5)) {level 1} {cost 270} {fore 0}}
-{"zsu37"            ("v" c(210) t(all medium) 		s(rus) n1(3) n2(1) g(d7) sc(300.00) b(v3) cw(0) cp(15)) {level 1} {cost 300} {fore 0}}
+{"bt7a"             ("v" c(150) t(all medium) 		s(rus) n1(2) n2(1) g(d1) sc(300.00) b(v3) cw(0) cp(10)) {level 1} {cost 300} {fore 1.0}}
+{"zsu37"            ("v" c(210) t(all medium) 		s(rus) n1(3) n2(1) g(d7) sc(320.00) b(v3) cw(0) cp(15)) {level 1} {cost 320} {fore 0}}
+
 
 
 ;°°°Button 4°°°
 
-{"bt7a"             ("v" c(0) t(all medium) 		s(rus) n1(2) n2(1) g(e1) sc(300.00) b(v4) cw(0) cp(10)) {level 1} {cost 300} {fore 1.0}}
+{"bt7b"              ("v" c(0) t(all medium) 		s(rus) n1(2) n2(1) g(e3) sc(210.00) b(v4) cw(0) cp(15)) {level 1} {cost 210} {fore 1.0}}
 {"t34_0"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(e2) sc(360.00) b(v4) cw(0) cp(15)) {level 1} {cost 360} {fore 1.0}}
-{"t34_2"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(e3) sc(410.00) b(v4) cw(0) cp(15)) {level 1} {cost 410} {fore 1.0}}
+{"t34_2"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(e3) sc(390.00) b(v4) cw(0) cp(15)) {level 1} {cost 390} {fore 1.0}}
 
 {"kv1"              ("v" c(0) t(all heavy) 		    s(rus) n1(4) n2(1) g(e5) sc(500.00) b(v4) cw(0) cp(15)) {level 1} {cost 500} {fore 1.0}}
 {"t34_3c"           ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(e6) sc(720.00) b(v4) cw(0) cp(15)) {level 1} {cost 720} {fore 1.0}}
 {"kv85"             ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e7) sc(950.00) b(v4) cw(0) cp(25)) {level 1} {cost 950} {fore 1.0}}
 
-{"is1"              ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e8) sc(1000.00) b(v4) cw(0) cp(25)) {level 1} {cost 1000} {fore 1.0}} 	
+{"is1"              ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e8) sc(1000.00) b(v4) cw(0) cp(25)) {level 1} {cost 1000} {fore 1.0}}
+{"is122"            ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e9) sc(1280.00) b(v4) cw(0) cp(30)) {level 1} {cost 1130} {fore 1.0}} 	
 {"is2"              ("v" c(0) t(all heavy) 		    s(rus) n1(4) n2(1) g(e9) sc(1280.00) b(v4) cw(0) cp(30)) {level 1} {cost 1280} {fore 1.0}}
 	
 
@@ -70,7 +73,7 @@
 
 {"hero1_rus"        ("i1" c(120)			     t(all hero) s(rus) n1(scout:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero2_rus"        ("i2" c(120)			     t(all hero) s(rus) n1(smg3:3) n2(flamer3:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
-{"hero3_rus1"        ("v1" c(120) c1(t-38) 	     t(all hero) s(rus) n1(tankman:1) n2(tankman2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"hero3_rus1"       ("v1" c(120) c1(t-38) 	     t(all hero) s(rus) n1(tankman:1) n2(tankman2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
 {"hero4_rus"        ("v1" c(240) c1(gaz67)       t(all hero) s(rus) n1(sniper2:2) n2(tankman2:0) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero5_rus"        ("i3" c(240)			     t(all hero) s(rus) n1(elite4:4) n2(elite5:2) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
@@ -81,5 +84,5 @@
 {"hero9_rus"        ("v1" c(600) c1(kv2) 	     t(all hero) s(rus) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 
 {"hero10_rus"       ("v1" c(600) c1(bm_8_24)	 t(all hero) s(rus) n1(tankman:1) n2(tankman2:1) g(h5) b(hero)) {level 15} {cost 5.0} {fore -0.5}}
-{"hero11_rus"       ("v23" c(720) c1(t34_1)      t(all hero) s(rus) n1(tankman:3) n2(tankman:1) n3(smg4:8) g(h7) b(hero)) {level 20} {cost 6.0} {fore -0.5}}
+{"hero11_rus"       ("v2" c(720) c1(t34_1)       t(all hero) s(rus) n1(tankman:3) n2(tankman2:1) g(h7) b(hero)) {level 20} {cost 6.0} {fore -0.5}}
 {"hero12_rus"  	    ("v1" c(1080) c1(203b4)      t(all hero) s(rus) n1(vehicle_supporter:2) n2(tankman2:0) g(h9) b(hero)) {level 1} {cost 9.0} {fore -0.5}}

@@ -50,7 +50,7 @@
 {"m7534"           ("v" c(0) t(all medium) 	        s(ita) n1(2) n2(1) g(f3) sc(360.00) b(v5) cw(2) cp(10)) {level 1} {cost 360} {fore 1.0}} 	
 
 {"stug3gita"       ("v" c(0) t(all medium) 	        s(ita) n1(2) n2(1) g(f4) sc(590.00) b(v5) cw(0) cp(10)) {level 1} {cost 590} {fore 1.0}}
-{"m7546"           ("v" c(0) t(all medium) 	        s(ita) n1(3) n2(1) g(f5) sc(640.00) b(v5) cw(0) cp(15)) {level 1} {cost 640} {fore 1.0}}   	
+{"m7546"           ("v" c(0) t(all medium) 	        s(ita) n1(3) n2(1) g(f5) sc(670.00) b(v5) cw(0) cp(15)) {level 1} {cost 670} {fore 1.0}}   	
 {"m9053"           ("v" c(0) t(all heavy) 	        s(ita) n1(3) n2(1) g(f5) sc(670.00) b(v5) cw(0) cp(15)) {level 1} {cost 670} {fore 1.0}}  			
 
 
@@ -70,6 +70,6 @@
 
 {"hero10_ita"         ("v1" c(600) c1(kv1b)          t(all hero) s(ita) n1(tankman:2) n2(tankman2:1) g(h6) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
 {"hero11_ita"         ("v1" c(840) c1(obice210)      t(all hero) s(ita) n1(tankman:3) n2(tankman2:1) g(h7) b(hero)) {level 25} {cost 7.0} {fore -0.5}}
-{"hero12_ita"         ("v1" c(1020) c1(elefantita) 	 t(all hero) s(ita) n1(tankman:3) n2(tankman2:1) g(h9) b(hero)) {level 5} {cost 9.0} {fore -0.5}}
+{"hero12_ita"         ("v1" c(960) c1(elefantita) 	 t(all hero) s(ita) n1(tankman:3) n2(tankman2:1) g(h8) b(hero)) {level 5} {cost 8.0} {fore -0.5}}
 
   

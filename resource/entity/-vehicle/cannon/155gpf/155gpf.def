@@ -36,7 +36,7 @@
 	}
 	{Weaponry
 		{place "gun"
-			{weapon "155mm_gpf" filled}
+			{weapon "155mm_gpf"}
 			{Rotate}
 			("abm_howitzer")
 		}

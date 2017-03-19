@@ -37,6 +37,7 @@
 		{"browning_stan_fix" "Heavy MG"}
 		{"brummbar" "Brummbar"}
         {"bs3" "BS-3"}
+        {"bt7b" "BT-7"}
 		{"bt7a" "BT-7a"}
 		{"centurion" "Centurion Mk.II"}
 		{"chicken" "Chicken"}
@@ -119,6 +120,7 @@
 		{"humber" "Humber"}
 		{"il-2" "IL-2"}
 		{"is1" "IS-1"}
+		{"is122" "IS-122"}
 		{"is2" "IS-2"}
 		{"is3" "IS-3"}
 		{"isu122" "ISU-122"}
@@ -229,6 +231,7 @@
         {"oerlikon" "Oerlikon 20mm"}
 		{"oerlikon_fix" "Oerlikon 20mm"}
 		{"ostwind" "Ostwind"}
+		{"ot34_2" "O-34/76"}
 		{"pak36" "PaK 36"}
 		{"pak38" "PaK 38"}
 		{"pak40" "PaK 40"}

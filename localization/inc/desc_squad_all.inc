@@ -324,7 +324,7 @@
 		{"hero8_rus" "Radio Operator"}
 		{"hero9_rus" "KV-2"}
 		{"hero10_rus" "BM-8-24"}
-		{"hero11_rus" "Assault Troops"}
+		{"hero11_rus" "Moscow Guards"}
 		{"hero12_rus" "203mm B-4M"}
 
 		{"hero1_usa" "M8 Howitzer"}
