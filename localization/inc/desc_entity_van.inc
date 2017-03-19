@@ -217,6 +217,7 @@
 		{"mk4" "Mk.IV Churchill"}
 		{"mk6" "Mk.VI Crusader"}
 		{"mk7" "Mk.VII Tetrarch"}
+		{"mk7_littlejohn" "Mk.VII Tetrarch Littlejohn"}
 		{"cromwell_mk_vii" "Mk.VIII Cromwell"}
 		{"cromwell_mk_vi" "Mk.VIII Cromwell 95mm"}
 		{"ml3" "ML3 Mk.II mortar"}
