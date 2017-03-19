@@ -388,7 +388,7 @@
         {"hero7_ita" "PzKpfw III Ausf.N"}
         {"hero8_ita" "Radio Operator"}
         {"hero9_ita" "Semovente M43 da 105/25"}
-        {"hero10_ita" "Semovente da 75/46"}
+        {"hero10_ita" "PzKpfw KV-1B 756(r)"}
         {"hero11_ita" "Obice da 210/35"}
         {"hero12_ita" "Elefantita"}
        
@@ -407,16 +407,16 @@
 
         {"hero1_anz" "Boyes .55 carrier"}
         {"hero2_anz" "Volunteer Rifles"}
-        {"hero3_anz" "Native Guides"}
+        {"hero3_anz" "Jungle Gun"}
         {"hero4_anz" "Desert Rats"}
         {"hero5_anz" "40mm M1 Bofors L/60"}
         {"hero6_anz" "Staghound OF 6-pdr"}
         {"hero7_anz" "4.2 inch Mortar carrier"}
         {"hero8_anz" "Radio Operator"}
         {"hero9_anz" "Staghound Tulip"}
-        {"hero10_anz" "Churchill Mk. VCS"}
+        {"hero10_anz" "Sexton TD"}
         {"hero11_anz" "Veteran M4A4 Firefly"}
-        {"hero12_anz" "Sexton"}
+        {"hero12_anz" "Churchill Mk. VCS"}
 
 
 

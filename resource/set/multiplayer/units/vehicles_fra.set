@@ -17,9 +17,9 @@
 {"13mm_hotchkiss"           ("vs" c(300) t(all cannon)	s(fra) n(2) g(c1) sc(170.00) b(v2) cw(2) cp(5)) {level 1} {cost 170} {fore 0.5}}
 {"mle_27"		            ("vs" c(0) t(all cannon mediumcan) 	s(fra) n(2) g(c3) sc(270.00) b(v2) cw(2) cp(5)) {level 1} {cost 270} {fore 1.0}}
 
-{"25mm_hotchkiss_mle34"     ("vs" c(0) t(all cannon) 	s(fra) n(2) g(c4) sc(115.00)  b(v2) cw(2) cp(5)) {level 1} {cost 115} {fore 0.5}}
-{"47mm_puteaux_mle37"       ("vs" c(0) t(all cannon) 	s(fra) n(2) g(c5) sc(195.00)  b(v2) cw(2) cp(10)) {level 1} {cost 195} {fore 1.0}}
-{"75mm_vickers"       	    ("vs" c(0) t(all cannon) 	s(fra) n(2) g(c4) sc(565.00)  b(v2) cw(2) cp(15)) {level 1} {cost 565} {fore 1.0}}
+{"25mm_hotchkiss_mle34"     ("vs" c(0) t(all cannon) 	s(fra) n(2) g(c4) sc(105.00)  b(v2) cw(2) cp(5)) {level 1} {cost 105} {fore 0.5}}
+{"47mm_puteaux_mle37"       ("vs" c(0) t(all cannon) 	s(fra) n(2) g(c5) sc(180.00)  b(v2) cw(2) cp(10)) {level 1} {cost 180} {fore 1.0}}
+{"75mm_vickers"       	    ("vs" c(0) t(all cannon) 	s(fra) n(2) g(c4) sc(430.00)  b(v2) cw(2) cp(15)) {level 1} {cost 430} {fore 1.0}}
 
 {"37mm_shneider"            ("vs" c(0) t(all cannon heavycan heavyaa) 	s(fra) n(1) g(c4) sc(245.00)  b(v2) cw(2) cp(5)) {level 1} {cost 245} {fore 0.5}}
 ("how" side(fra) name(how_b) c(0) c1(renault_t) c2(pdr25) 		t(all artillery) g(c8) b(v2) level(6) cost(600) f(1.0))

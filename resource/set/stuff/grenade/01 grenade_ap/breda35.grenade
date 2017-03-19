@@ -1,4 +1,15 @@
 {from "pattern grenade_ap"
+	{tag "missile smallitemin1hand throwable"}
 	{inventory {size 1 1}}	
 	{entity "grenade_breda35"}
+	{special
+		{PrepareTime 0.0}
+		{PrepareCursor "grenade"}
+		{mode detonate}
+	}	
+	{damage blastwave
+		{energy 1.6} ; kg
+		{area 0.5 5.0}
+	}
+	{possibleDamageRadius 3.2}
 }

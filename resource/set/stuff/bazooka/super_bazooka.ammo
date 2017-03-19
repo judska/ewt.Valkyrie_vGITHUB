@@ -4,8 +4,8 @@
 		{tail "bazooka_tail" "tail"}
 	} 
 	{damage blastwave
-		{energy 1.5}
-		{area 3 12}
+		{energy 1.00}
+		{area 2.5 5.0}
 	}
 }
 

@@ -1,6 +1,6 @@
 {from "pattern smg"
 	{filling "ammo pistol" 32}
-	{entity "sten"}
+	{entity "sten_mkv"}
 	{fireSound	"smg/mp3008_burst/"}
 	{reloadSound "sten"}
 	

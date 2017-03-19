@@ -1,17 +1,17 @@
 {from "pattern gun"		; "pz5g"
 	{filling "bullet75"}
-	{fireSound "gun/50to76_cal/75mm_kwk42"}
+	{fireSound "gun/50to76_cal/75mm_kwk40"}
 	{reloadSound "gun_r01"}
 	{rechargeTime 6}
-	("range_long") 
+	("range_medium") 
 	       
 	("speed" s(935))
 	("caliber_medium")
 	{projectileDamage 159}
-	("damage_140" a(159) b(143) c(128) d(114) e(103))
+	("damage_130" a(122) b(111) c(98) d(85) e(74))
 	{parameters "apcr"
-        ("damage_110" a(184) b(163) c(143) d(124) e(108))
+        ("damage_100" a(147) b(131) c(113) d(95) e(79))
 	}
 	
-	("accuracy_high")
+	("accuracy_low")
 }

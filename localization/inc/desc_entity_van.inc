@@ -257,7 +257,7 @@
 		{"pz4h" "PzKpfw IV Ausf.H"}
 		{"pz5" "PzKpfw V Panther"}
 		{"pz5g" "PzKpfw V Panther Ausf.G"}
-		{"pz5a" "PzKpfw V Panther Ausf.A"}
+		{"pz5a" "PzKpfw V Panther Ausf.D"}
 		{"pz6b" "PzKpfw VI Kingtiger"}
 		{"pz6bh" "PzKpfw VI Kingtiger"}
 		{"pz6e" "PzKpfw VI Tiger"}
@@ -297,7 +297,7 @@
 		{"t26" "T-26"}
 		{"t29" "T29"}
 		{"t34_0" "T-34/76 L-11"}
-		{"t34_1" "T-34/57"}
+		{"t34_1" "Veteran T-34/57"}
 		{"t34_2" "T-34/76 F-34"}
 		{"t34_3c" "T-34/85"}
 		{"t34m" "T-34 Sapper"}

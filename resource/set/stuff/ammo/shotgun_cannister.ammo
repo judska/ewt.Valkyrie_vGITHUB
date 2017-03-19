@@ -8,8 +8,8 @@
 	{mass 0.1}
 	{trace
 		{view "/texture/fx/trace_shotgun"
-			{ScaleY -1.0}
-			{ScaleX 1.0}
+			{ScaleY -0.3}
+			{ScaleX 0.3}
 			{Light 8}
 		}
 		{length 12.5}

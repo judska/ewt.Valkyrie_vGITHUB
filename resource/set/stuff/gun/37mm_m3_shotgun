@@ -1,5 +1,5 @@
 {from "pattern gun"
-	{filling "ammo shotgun_cannister" 99999}
+	{filling "ammo shotgun_cannister"}
 
 	{cursor "carbine_on"}
 	{cursorReloading "carbine_reload"}
@@ -17,13 +17,13 @@
 	{spreading 0.1}
 
     {RelaxationTime 0.1}
-	{recoveryTime 0.5}
-	{Automatic}
-	{rechargeTime 4.0}
+	{fireSound "gun/37mm_m6"}
+	{reloadSound "gun_r02"}
+	{rechargeTime 2.5}
 	("speed" s(500))
 
-	{ProjectileDamage 20}
-	{ProjectileDamageClip 20}
+	{ProjectileDamage 40}
+	{ProjectileDamageClip 40}
 	{projectileDamageTable {15 20} {100 5}}
 	{healthDamage 1000}
 	{HealthDamageClip 1000}

@@ -10,7 +10,7 @@
 	{view "brixia_ammo"}
 	{detonationThickness 1}
 	{damage blastwave
-		{energy 1.25}
+		{energy 1.00}
 		{area 2.5 5.0}
 	}
 

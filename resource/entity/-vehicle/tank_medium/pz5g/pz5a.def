@@ -150,4 +150,11 @@
 		{speed 0.03}
 		{terminator}
 	}
+	{bone "turret"
+		{speed 0.0015}
+	}
+	{bone "gun_rot"
+		{speed 0.0030}
+	}
 }
+

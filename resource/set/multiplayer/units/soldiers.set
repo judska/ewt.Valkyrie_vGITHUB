@@ -462,7 +462,7 @@
 {"mp/fin/elite5" ("elite" side(fin))}
 {"mp/ita/elite5" ("elite" side(ita))}
 {"mp/chn/elite5" ("elite" side(chn))}
-{"mp/anz/elite5" ("elite" side(anz))}
+
 
 {"mp/rus/elite6" ("elite" side(rus))}
 {"mp/ger/elite6" ("elite" side(ger))}
@@ -473,7 +473,7 @@
 {"mp/fin/elite6" ("elite" side(fin))}
 {"mp/ita/elite6" ("elite" side(ita))}
 {"mp/chn/elite6" ("elite" side(chn))}
-{"mp/anz/elite6" ("elite" side(anz))}
+
 
 {"mp/ger/elite7" ("elite" side(ger))}
 {"mp/jap/elite7" ("elite" side(jap))}
@@ -510,6 +510,8 @@
 {"mp/hun/mgun2" ("elite" side(hun))}
 {"mp/fra/mgun2" ("elite" side(fra))}
 
+{"mp/anz/elite4us" ("elite" side(anz))}
+
 
 
 (define "elite_lowcp"
@@ -520,10 +522,23 @@
     {breed}
     {cw 3.0}
 )
-
 {"mp/jap/elite4" ("elite_lowcp" side(jap))}
 {"mp/ita/elite4" ("elite_lowcp" side(ita))}
 
+
+(define "elite_lowcp2"
+    {tags   "elite %side infantry man"}
+    {cp 2.0}
+    {score  26.00}
+    {basic}
+    {breed}
+    {cw 3.0}
+)
+{"mp/anz/elite4" ("elite_lowcp2" side(anz))}
+
+{"mp/anz/elite5" ("elite_lowcp2" side(anz))}
+
+{"mp/anz/elite6" ("elite_lowcp2" side(anz))}
 
 
 (define "sturmovik"
@@ -805,7 +820,7 @@
 {"mp/fra/oficer" ("oficer" side(fra))}
 {"mp/fin/oficer" ("oficer" side(fin))}
 {"mp/ita/oficer" ("oficer" side(ita))}
-{"mp/ita/oficer" ("oficer" side(chn))}
+{"mp/chn/oficer" ("oficer" side(chn))}
 {"mp/anz/oficer" ("oficer" side(anz))}
 
 

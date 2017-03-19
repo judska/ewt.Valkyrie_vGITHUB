@@ -45,8 +45,8 @@
 		("veterancy_1")
 	}
 	{inventory
+	    {item "boyes" filled}
 		{item "owen_gun" filled}
-		{item "austen" filled}
 		{item "ammo pistol" 500}
 		{item "bandage" 3}
 		{item "grenade n73at" 1}

@@ -69,6 +69,8 @@
 		{"pz38tita" "PzKpfw 38(t) Ausf.F"}
 		{"kv1b" "PzKpfw KV-1B 756(r)"}
 		{"3ro" "Lancia 3 Ro Cannone da 90/53"}
+		{"m7546" "Semovente da 75/46"}
+		
 
 
 		

@@ -9,6 +9,7 @@
 		(include "inc/desc_human_fin.inc")
 		(include "inc/desc_human_ita.inc")
 		(include "inc/desc_human_chn.inc")
+		(include "inc/desc_human_anz.inc")
 	}
 	{"squad"
 		(include "inc/desc_squad_all.inc")

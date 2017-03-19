@@ -1,0 +1,13 @@
+{game_entity
+	{Extension "mk2a_xx.mdl"}
+	
+	{volume "body1"
+		{component "body"}
+		{tags "body"}
+	}
+	{volume "body2"
+		{component "body"}
+		{tags "body"}
+	}
+	
+}

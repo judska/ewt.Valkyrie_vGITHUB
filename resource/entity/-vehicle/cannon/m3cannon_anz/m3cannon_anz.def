@@ -31,16 +31,13 @@
 
 	{extender "inventory"
 		{box
-			{item "bullet37 ap" 50}
-			{item "bullet37 fg" 5}
-			{item "bullet37 apcr" 5}
+			{item "ammo shotgun_cannister" 62}
 		}
 	}
 	{Weaponry
 
 		{place "gun"
 			{weapon "37mm_m3_shotgun" filled}
-
 			{Rotate}
 			("abm_field_gun")
 		}
