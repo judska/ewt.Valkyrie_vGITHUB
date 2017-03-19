@@ -18,9 +18,9 @@
 {"type2_20mm"       ("vs" c(300) t(all cannon) 	s(jap) n(1) g(c2) sc(190.00) b(v2) cw(2) cp(5)) {level 3} {cost 190} {fore 0.5}}
 {"type94"	    ("vs" c(0) t(all cannon mediumcan) 	s(jap) n(2) g(c3) sc(280.00) b(v2) cw(2) cp(5)) {level 5} {cost 280} {fore 1.0}}
 
-{"pak47"            ("vs" c(0) t(all cannon) 	s(jap) n(2) g(c4) sc(135.00)  b(v2) cw(2) cp(5)) {level 1} {cost 135} {fore 1.0}}
+{"pak47"            ("vs" c(0) t(all cannon) 	s(jap) n(2) g(c4) sc(150.00)  b(v2) cw(2) cp(5)) {level 1} {cost 150} {fore 1.0}}
 {"pak57"            ("vs" c(0) t(all cannon mediumcan) 	s(jap) n(2) g(c5) sc(180.00)  b(v2) cw(2) cp(10)) {level 1} {cost 180} {fore 1.0}}
-{"t90_75m"          ("vs" c(0) t(all canonn heavycan) 	s(jap) n(2) g(c6) sc(350.00) b(v2) cw(2) cp(10)) {level 1} {cost 350} {fore 1.0}}
+{"t90_75m"          ("vs" c(0) t(all canonn heavycan) 	s(jap) n(2) g(c6) sc(280.00) b(v2) cw(2) cp(10)) {level 1} {cost 280} {fore 1.0}}
 
 ("how" side(jap) name(how_aa) c(0) c1(type93scout) c2(type4_75mm)  		t(all cannon heavycan heavyaa) g(c7) b(v2) level(3) cost(600) f(1.0))
 ("how" side(jap) name(how_b) c(0) c1(type93scout) c2(t91_105m) 			t(all artillery) g(c8) b(v2) level(6) cost(500) f(1.0))

@@ -18,11 +18,11 @@
 {"flak38_wheeled"   ("vs" c(300) t(all cannon) 	        s(ger) n(2) g(c2) sc(170.00) b(v2) cw(2) cp(5)) {level 3} {cost 170} {fore 0.5}}
 {"sgrw42"           ("vs" c(0) t(all cannon mediumcan) 	s(ger) n(2) g(c3) sc(280.00) b(v2) cw(2) cp(5)) {level 5} {cost 280} {fore 1.0}}
 
-{"pak36"            ("vs" c(0) t(all cannon) 	        s(ger) n(2) g(c4) sc(125.00)  b(v2) cw(2) cp(5)) {level 1} {cost 125} {fore 1.0}}
-{"pak38"            ("vs" c(0) t(all cannon mediumcan) 	s(ger) n(2) g(c5) sc(200.00) b(v2) cw(2) cp(10)) {level 1} {cost 200} {fore 1.0}}
+{"pak36"            ("vs" c(0) t(all cannon) 	        s(ger) n(2) g(c4) sc(100.00)  b(v2) cw(2) cp(5)) {level 1} {cost 100} {fore 1.0}}
+{"pak38"            ("vs" c(0) t(all cannon mediumcan) 	s(ger) n(2) g(c5) sc(150.00) b(v2) cw(2) cp(10)) {level 1} {cost 150} {fore 1.0}}
 {"pak40"            ("vs" c(0) t(all cannon heavycan) 	s(ger) n(2) g(c6) sc(390.00) b(v2) cw(2) cp(15)) {level 1} {cost 390} {fore 1.0}}
 
-("how" side(ger) name(how_aa) c(0) c1(steyr_rso) c2(flak37) 	t(all cannon heavycan heavyaa) g(c7) b(v2) level(3) cost(610) f(1.0))
+("how" side(ger) name(how_aa) c(0) c1(steyr_rso) c2(flak37) 	t(all cannon heavycan heavyaa) g(c7) b(v2) level(3) cost(630) f(1.0))
 ("how" side(ger) name(how_b) c(0) c1(steyr_rso) c2(lefh18)  	t(all artillery) g(c8) b(v2) level(6) cost(610) f(1.0))
 ("how" side(ger) name(how_a) c(0) c1(steyr_rso) c2(sfh18) 	    t(all artillery heavyart) g(c9) b(v2) level(9) cost(800) f(1.0))
 

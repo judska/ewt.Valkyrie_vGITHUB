@@ -18,8 +18,8 @@
 {"13mm_hotchkiss_hun"   ("vs" c(300) t(all cannon)	        s(hun) n(2) g(c1) sc(170.00) b(v2) cw(2) cp(5)) {level 1} {cost 170} {fore 0.5}}
 {"sgrw42_hun"           ("vs" c(0) t(all cannon mediumcan) 	s(hun) n(2) g(c3) sc(280.00) b(v2) cw(2) cp(5)) {level 1} {cost 280} {fore 1.0}}
 
-{"solothurn_hun"        ("vs" c(0) t(all cannon) 	        s(hun) n(2) g(c4) sc(105.00)  b(v2) cw(2) cp(5)) {level 1} {cost 105} {fore 1.0}}
-{"pak38_hun"            ("vs" c(0) t(all cannon mediumcan) 	s(hun) n(2) g(c5) sc(200.00)  b(v2) cw(2) cp(10)) {level 1} {cost 200} {fore 1.0}}
+{"solothurn_hun"        ("vs" c(0) t(all cannon) 	        s(hun) n(2) g(c4) sc(100.00)  b(v2) cw(2) cp(5)) {level 1} {cost 100} {fore 1.0}}
+{"pak38_hun"            ("vs" c(0) t(all cannon mediumcan) 	s(hun) n(2) g(c5) sc(150.00)  b(v2) cw(2) cp(10)) {level 1} {cost 150} {fore 1.0}}
 {"pak40_hun"            ("vs" c(0) t(all cannon heavycan) 	s(hun) n(2) g(c4) sc(390.00)  b(v2) cw(2) cp(15)) {level 1} {cost 390} {fore 1.0}}
 
 ("how" side(hun) name(how_aa) c(0) c1(krupp_protze) c2(bofors_hun) 	t(all cannon heavycan heavyaa) g(c7) b(v2) level(1) cost(260) f(1.0))

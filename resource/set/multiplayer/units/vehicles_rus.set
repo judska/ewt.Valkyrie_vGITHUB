@@ -18,9 +18,9 @@
 {"dshk_stan"        ("vs" c(300) t(all cannon)       	s(rus) n(2) g(c2) sc(140.00) b(v2) cw(2) cp(5)) {level 3} {cost 140} {fore 0.5}}
 {"bm37"             ("vs" c(0) t(all cannon mediumcan) 	s(rus) n(2) g(c3) sc(280.00) b(v2) cw(2) cp(5)) {level 1} {cost 280} {fore 1.0}}
 
-{"m37"              ("vs" c(0) t(all cannon) 	        s(rus) n(2) g(c4) sc(120.00) b(v2) cw(2) cp(5)) {level 1} {cost 120} {fore 1.0}}
-{"m42"              ("vs" c(0) t(all cannon mediumcan) 	s(rus) n(2) g(c6) sc(190.00) b(v2) cw(2) cp(10)) {level 1} {cost 190} {fore 1.0}}
-{"zis2"             ("vs" c(0) t(all cannon heavycan) 	s(rus) n(2) g(c5) sc(360.00) b(v2) cw(2) cp(15)) {level 1} {cost 360} {fore 1.0}}
+{"m37"              ("vs" c(0) t(all cannon) 	        s(rus) n(2) g(c4) sc(90.00) b(v2) cw(2) cp(5)) {level 1} {cost 90} {fore 1.0}}
+{"m42"              ("vs" c(0) t(all cannon mediumcan) 	s(rus) n(2) g(c6) sc(130.00) b(v2) cw(2) cp(10)) {level 1} {cost 130} {fore 1.0}}
+{"zis2"             ("vs" c(0) t(all cannon heavycan) 	s(rus) n(2) g(c5) sc(350.00) b(v2) cw(2) cp(15)) {level 1} {cost 350} {fore 1.0}}
 
 ("how" side(rus) name(how_aa) c(0) c1(t20) c2(k61)  		t(all cannon heavycan heavyaa) g(c7) b(v2) level(1) cost(250) f(1.0))
 ("how" side(rus) name(how_b) c(0) c1(t20) c2(m30_1938) 		t(all artillery) g(c9) b(v2) level(1) cost(700) f(1.0))

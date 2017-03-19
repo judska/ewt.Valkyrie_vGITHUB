@@ -20,7 +20,7 @@
 
 {"m3cannon"         ("vs" c(0) t(all cannon) 	s(usa) n(2) g(c4) sc(135.00)  b(v2) cw(2) cp(5)) {level 1} {cost 135} {fore 1.0}}
 {"m1_57mm"          ("vs" c(0) t(all cannon mediumcan) 	s(usa) n(2) g(c5) sc(260.00) b(v2) cw(2) cp(10)) {level 1} {cost 260} {fore 1.0}}
-{"m5"               ("vs" c(0) t(all cannon heavycan) 	s(usa) n(2) g(c6) sc(330.00) b(v2) cw(2) cp(15)) {level 1} {cost 390} {fore 1.0}}
+{"m5"               ("vs" c(0) t(all cannon heavycan) 	s(usa) n(2) g(c6) sc(350.00) b(v2) cw(2) cp(15)) {level 1} {cost 350} {fore 1.0}}
 
 ("how" side(usa) name(how_aa) c(0) c1(gmc_cckw) c2(bofors)  	t(all cannon heavycan heavyaa) g(c7) b(v2) level(3) cost(260) f(1.0))
 ("how" side(usa) name(how_b) c(0) c1(gmc_cckw) c2(m2a1l) 		t(all artillery) g(c8) b(v2) level(6) cost(600) f(1.0))
