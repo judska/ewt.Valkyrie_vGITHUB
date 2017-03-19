@@ -1,0 +1,103 @@
+{game_entity
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+
+	{collider "tank.light"}
+	{patherId "tank.light"}
+	{props "light" "turret_rotator" "vision_vehicle_low" "muzzle_minimum"}
+	{targetClass "light_tank"}
+	
+	{extender "enumerator"}
+	
+	{volume "body1"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body2"
+		{tags "body"}
+		{component "body"}
+	}
+
+	("armor_light" turret(16 16 14 8) body(16 16 14 8))
+	("armor_engine"  t(16))
+
+	("crew_4_human")
+
+	{boarder
+		{anm "left"
+			{forward	{begin	"board_tank_left"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "right"
+			{forward	{begin	"board_tank_right"}}
+			{reverse 	{end	"emit_tank_1_hold"}}
+		}
+		{anm "armor"
+			{forward	{begin	"board_LowArmor"} 	{end "seat_armor"}}
+			{reverse 	{end	"emit_tank_1"}}
+		}
+	}
+
+	{extender "inventory"
+		{box
+			{item "bullet40 ap" 30}
+			{item "bullet40 fg" 27}
+			{item "bullet40 apcr" 5}
+			{item "ammo mgun" 2000}
+		}
+	}
+	{Weaponry
+		("restore_ik_time")
+		{place "gun"
+			{RestoreIKAfterAim}
+			{weapon "40mm_oqf2pdr_littlejohn" filling "bullet40 ap" 1}
+			("abm_low")
+		}
+		{place "mgun"
+            {type "mgun_coaxial"}
+			{weapon "besa" filled}
+            {gunner "commander"}
+            {charger "commander"}
+			("abm_mgun")
+			{basic}
+		}
+	}
+	
+	{mass 7500}
+	{Chassis
+		("tank_trace" fx("tracks_sm2") step(0.15) len(0.2))
+			{Locomotion ("locomotion")
+				{maxspeed   38}
+				{maxSpeedAtMaxTurn 19}
+				{StartTime  15}
+				{TurnTime   7}
+				{TurnStart  1.1}			
+				{TurnRadius 7} 
+    			{TurnStop   0.6}
+				{BrakeTime  1.5}
+				{StopTime   3}
+				{Gears 0.2 0.5 1}
+				{RearGears  0.25}
+			}
+			{FuelBag
+				{volume 205 }	
+				{rate	 70 }   
+				{remain 205 }
+				{fuel "fuel"}
+			}
+		{speed
+        	{Normal  12}
+        	{Slow  18}
+    	}
+	}
+	
+	{Extension "mk7.mdl"}
+
+	{bone "turret"
+		{speed 0.01}
+	}
+        {bone "gun_rot"
+		{limits -25 10}
+                {speed 0.007}
+        }
+}
