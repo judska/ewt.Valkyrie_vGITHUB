@@ -44,13 +44,13 @@
 {"turan2"             ("v" c(0) t(all medium)   s(hun) n1(3) n2(1) g(e2) sc(370.00) b(v4) cw(0) cp(15)) {level 1} {cost 370} {fore 1.0}}
 {"turan3"             ("v" c(0) t(all medium) 	s(hun) n1(3) n2(1) g(e3) sc(670.00) b(v4) cw(0) cp(15)) {level 1} {cost 670} {fore 1.0}}
 
-{"tas_44m"            ("v" c(0) t(all heavy) 	s(hun) n1(3) n2(1) g(e4) sc(1300.00) b(v4) cw(0) cp(30)) {level 1} {cost 1300} {fore 1.0}}
+{"tas_44m"            ("v" c(0) t(all heavy) 	s(hun) n1(3) n2(1) g(e4) sc(1500.00) b(v4) cw(0) cp(30)) {level 1} {cost 1500} {fore 1.0}}
  
 
 ;°°°Button 5°°°
  	
 {"hetzer_hun"         ("v" c(0) t(all medium) 	s(hun) n1(3) n2(1) g(f2) sc(525.00) b(v5) cw(0) cp(10)) {level 1} {cost 525} {fore 1.0}} 	
-{"zrinyi1"            ("v" c(0) t(all heavy) 	s(hun) n1(3) n2(1) g(f3) sc(630.00) b(v5) cw(0) cp(10)) {level 1} {cost 630} {fore 1.0}}
+{"zrinyi1"            ("v" c(0) t(all heavy) 	s(hun) n1(3) n2(1) g(f3) sc(700.00) b(v5) cw(0) cp(10)) {level 1} {cost 700} {fore 1.0}}
 {"zrinyi2"            ("v" c(0) t(all heavy) 	s(hun) n1(3) n2(1) g(f3) sc(780.00) b(v5) cw(0) cp(10)) {level 1} {cost 780} {fore 1.0}}
 
 {"tas_44td"           ("v" c(0) t(all heavy) 	s(hun) n1(3) n2(1) g(f3) sc(1650.00) b(v5) cw(0) cp(20)) {level 1} {cost 1650} {fore 1.0}}

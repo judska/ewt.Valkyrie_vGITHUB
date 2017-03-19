@@ -54,9 +54,9 @@
 {"m4a4"              ("v" c(0) t(all medium) 		s(eng) n1(4) n2(1) g(e4) sc(440.00) b(v4) cw(0) cp(15)) {level 1} {cost 440} {fore 1.0}}
 {"churchill_mk_vii"  ("v" c(0) t(all heavy) 		s(eng) n1(3) n2(1) g(e8) sc(690.00) b(v4) cw(0) cp(25)) {level 1} {cost 720} {fore 1.0}} 
 
-{"cometa34"          ("v" c(0) t(all medium) 		s(eng) n1(3) n2(1) g(e6) sc(750.00) b(v4) cw(0) cp(15)) {level 1} {cost 750} {fore 1.0}}
-{"challenger_a30"    ("v" c(0) t(all medium) 	    s(eng) n1(3) n2(1) g(e6) sc(820.00) b(v4) cw(0) cp(15)) {level 1} {cost 820} {fore 1.0}}
-{"centurion"         ("v" c(0) t(all heavy) 		s(eng) n1(4) n2(1) g(e9) sc(1300.00) b(v4) cw(0) cp(30)) {level 15} {cost 1300} {fore 1.0}} 	
+{"cometa34"          ("v" c(0) t(all medium) 		s(eng) n1(3) n2(1) g(e6) sc(850.00) b(v4) cw(0) cp(15)) {level 1} {cost 850} {fore 1.0}}
+{"challenger_a30"    ("v" c(0) t(all medium) 	    s(eng) n1(3) n2(1) g(e6) sc(950.00) b(v4) cw(0) cp(15)) {level 1} {cost 950} {fore 1.0}}
+{"centurion"         ("v" c(0) t(all heavy) 		s(eng) n1(4) n2(1) g(e9) sc(1400.00) b(v4) cw(0) cp(30)) {level 15} {cost 1400} {fore 1.0}} 	
 
 
 ;°°°Button 5°°°

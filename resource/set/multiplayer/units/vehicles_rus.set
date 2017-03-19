@@ -64,8 +64,8 @@
 {"zis_30"           ("v" c(0) t(all medium) 	    s(rus) n1(3) n2(1) g(f2) sc(320.00) b(v5) cw(0) cp(10)) {level 1} {cost 320} {fore 1.0}}
 {"su85"             ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f3) sc(450.00) b(v5) cw(0) cp(10)) {level 1} {cost 450} {fore 1.0}} 
 
-{"su85m"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f3) sc(690.00) b(v5) cw(0) cp(10)) {level 1} {cost 690} {fore 1.0}}	
-{"isu122"           ("v"  c(0) t(all heavy) 		s(rus) n1(3) n2(1) g(f4) sc(760.00) b(v5) cw(0) cp(10)) {level 1} {cost 760} {fore 1.0}}
+{"su85m"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f3) sc(670.00) b(v5) cw(0) cp(10)) {level 1} {cost 670} {fore 1.0}}	
+{"isu122"           ("v"  c(0) t(all heavy) 		s(rus) n1(3) n2(1) g(f4) sc(820.00) b(v5) cw(0) cp(10)) {level 1} {cost 820} {fore 1.0}}
 {"su100"            ("v"  c(0) t(all heavy) 		s(rus) n1(3) n2(1) g(f5) sc(950.00) b(v5) cw(0) cp(10)) {level 1} {cost 950} {fore 1.0}} 	
 
 
