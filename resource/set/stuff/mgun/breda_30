@@ -5,6 +5,6 @@
 	{fireSound	"mgun/breda_37_burst/"}
  	{reloadSound "breda30_reload"}
 
-	{rechargeTime 6}
+	{rechargeTime 3}
 	("burst_short")
 }

@@ -3,7 +3,7 @@
 	{entity "lahti-saloranta_m26"}
 	{fireSound	"mgun/lathi_m26_burst"}
 	{reloadSound "mg1"}
-	{RechargeTime 2}
+	{RechargeTime 3}
 	{recoveryTime 0.09}
 	{spreading 0.5}
 	{tag "mgun_light"}
