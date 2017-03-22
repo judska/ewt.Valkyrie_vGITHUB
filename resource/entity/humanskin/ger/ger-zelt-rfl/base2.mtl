@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "base2"}
+	{blend none}
+}
