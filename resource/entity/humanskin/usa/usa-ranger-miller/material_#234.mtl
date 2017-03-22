@@ -1,4 +1,0 @@
-{material simple
-	{diffuse "model_texture"}
-	{blend none}
-}
