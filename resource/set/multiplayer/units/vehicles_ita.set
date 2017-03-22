@@ -49,7 +49,7 @@
 {"m7518"           ("v" c(0) t(all medium) 		    s(ita) n1(2) n2(1) g(f2) sc(320.00) b(v5) cw(0) cp(10)) {level 1} {cost 320} {fore 1.0}}
 {"m7534"           ("v" c(0) t(all medium) 	        s(ita) n1(2) n2(1) g(f3) sc(360.00) b(v5) cw(2) cp(10)) {level 1} {cost 360} {fore 1.0}} 	
 
-{"stug3gita"       ("v" c(0) t(all medium) 	        s(ita) n1(2) n2(1) g(f4) sc(610.00) b(v5) cw(0) cp(10)) {level 1} {cost 610} {fore 1.0}}
+{"stug3gita"       ("v" c(0) t(all medium) 	        s(ita) n1(2) n2(1) g(f4) sc(590.00) b(v5) cw(0) cp(10)) {level 1} {cost 590} {fore 1.0}}
 {"m7546"           ("v" c(0) t(all medium) 	        s(ita) n1(3) n2(1) g(f5) sc(700.00) b(v5) cw(0) cp(15)) {level 1} {cost 700} {fore 1.0}}   	
 {"m9053"           ("v" c(0) t(all heavy) 	        s(ita) n1(3) n2(1) g(f5) sc(700.00) b(v5) cw(0) cp(15)) {level 1} {cost 700} {fore 1.0}}  			
 
