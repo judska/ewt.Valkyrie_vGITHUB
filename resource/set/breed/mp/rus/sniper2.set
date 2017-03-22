@@ -5,7 +5,7 @@
 	{icon "sniper2"}
 	{icon_priority 5}
 	{armors
-		{head "winterhat"}
+	
 	}
 	{perks
 		{"health" "100%"
