@@ -43,7 +43,7 @@
 {"b1bis"                ("v" c(0) t(all heavy) 	    s(fra) n1(3) n2(1) g(e5) sc(390.00) b(v4) cw(0) cp(15)) {level 1} {cost 390} {fore 1.0}} 
 
 {"b1bis_3"              ("v" c(0) t(all heavy)    	s(fra) n1(3) n2(1) g(e6) sc(530.00) b(v4) cw(0) cp(15)) {level 1} {cost 530} {fore 1.0}} 
-{"arl44"                ("v" c(0) t(all sheavy) 	s(fra) n1(3) n2(1) g(e6) sc(1600.00) b(v4) cw(0) cp(30)) {level 1} {cost 1600} {fore 1.0}} 
+{"arl44"                ("v" c(0) t(all sheavy) 	s(fra) n1(3) n2(1) g(e6) sc(1600.00) b(v4) cw(0) cp(32)) {level 1} {cost 1600} {fore 1.0}} 
  
 
 ;°°°Button 5°°°
