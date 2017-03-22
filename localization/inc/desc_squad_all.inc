@@ -299,7 +299,7 @@
 		{"hero9_ger" "StuH 42"}
 		{"hero10_ger" "PaK 43"}
 		{"hero11_ger" "Veteran Tiger"}
-		{"hero12_ger" "Royal Tiger"}
+		{"hero12_ger" "King Tiger"}
 
 		{"hero1_jap" "AT-Riflegrenade Squad"}
 		{"hero2_jap1" "Kamikaze!"}
@@ -356,8 +356,8 @@
         {"hero1_fra" "Maginot Line Defenders"}
 		{"hero2_fra" "Mortier de 50mm"}
 		{"hero3_fra" "Vive la France"}
-		{"hero4_fra" "Dywizja Grenadierow"}	
-        {"hero5_fra" "Renault DCA 37mm Shneider"}
+		{"hero4_fra" "Renault DCA 37mm Shneider"}
+        {"hero5_fra" "Dywizja Grenadierow"}	
         {"hero6_fra" "Demi Brigade"}
 		{"hero7_fra" "Puissance Filloux"}
 		{"hero8_fra" "Char-Bis Revolver"}
@@ -375,9 +375,9 @@
         {"hero7_fin" "Toerni Detachement"}
         {"hero8_fin" "Radio Operator"}
         {"hero9_fin" "Modified KV-1"}
-        {"hero10_fin" "Captured SU-152"}
-        {"hero11_fin" "Veteran 152mm M1937"}
-        {"hero12_fin" "Charioteer"}
+        {"hero10_fin" "Captured T-34/85"}
+        {"hero11_fin" "Captured SU-152"}
+        {"hero12_fin" "Veteran 152mm M1937"}
 
         {"hero1_ita" "Polizia Militare"}
         {"hero2_ita" "Caccia Carri"}

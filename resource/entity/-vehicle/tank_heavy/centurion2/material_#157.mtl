@@ -1,4 +1,0 @@
-{material simple
-	{diffuse "$/model/centurions/internal_structure"}
-	{blend none}
-}

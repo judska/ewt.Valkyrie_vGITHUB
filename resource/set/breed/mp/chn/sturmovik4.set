@@ -5,7 +5,7 @@
 	{icon_priority 0}
 	{nationality chn}
 	{armors
-		{head "8lu_cap"}
+		{head cha_cap29}
 	}
 	{perks
 		{"health" "250%"

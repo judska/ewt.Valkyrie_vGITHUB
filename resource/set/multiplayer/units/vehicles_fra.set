@@ -34,6 +34,7 @@
 
 {"panhard"              ("v" c(150) t(all light) 	s(fra) n1(3) n2(1) g(d3) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0.4}}
 {"h39"       	        ("v" c(150) t(all light) 	s(fra) n1(1) n2(1) g(d4) sc(235.00) b(v3) cw(0) cp(10)) {level 1} {cost 235} {fore 1.0}}
+{"citroen45_mort"       ("vs" c(180) t(all light)   s(fra) n1(1) n2(1) g(d4) sc(290.00) b(v3) cw(0) cp(5)) {level 1} {cost 290} {fore 1.0}}
 
 
 ;°°°Button 4°°°
