@@ -1,11 +1,11 @@
 {breed
-	{skin "ger-obersturmfuhrer"}
+	{skin "ger-general"}
 	{portrait "ger_officer"}
 	{nationality ger}
 	{icon "officer"}
 	{icon_priority 6}
 	{armors
-		{head cap_ger_off_ss}
+		{head cap_ger_general}
 	}
 	{tags "officer"}
 	{perks

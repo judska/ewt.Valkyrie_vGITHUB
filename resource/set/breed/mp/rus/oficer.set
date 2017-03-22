@@ -1,11 +1,11 @@
 {breed
-	{skin "rus-com"}
+	{skin "rus-general"}
 	{portrait "rus_officer"}
 	{nationality rus}
 	{icon "officer"}
 	{icon_priority 6}
 	{armors
-		{head cap3_rus}
+		{head cap_rus_general}
 	}
 	{tags "officer"}
 	{perks

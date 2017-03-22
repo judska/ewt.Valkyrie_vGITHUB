@@ -1,0 +1,563 @@
+{mission
+	{Entity "map_point" 0x802c
+		{Position -3130.75 436.01}
+		{xform zl 0.35}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 45}
+	}
+	{Entity "map_point" 0x802d
+		{Position 2917.03 2131.76}
+		{xform zl -175.06}
+		{Extender "map_point"
+			{name a2}
+			{team a}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 46}
+	}
+	{Entity "flag_point_2" 0x8030
+		{Position -967.23 2488.78}
+		{xform zl -177.12 scale 0.75}
+		{Extender "map_point"
+			{name f2}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 2}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 49}
+	}
+	{Entity "flag_point_3" 0x8031
+		{Position 572.03 367.44}
+		{xform zl -43.71 scale 0.75}
+		{Extender "map_point"
+			{name f3}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 3}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 50}
+	}
+	{Entity "flag_point_1" 0x8032
+		{Position -236.58 1380.19}
+		{xform zl -89.59 scale 0.75}
+		{Extender "map_point"
+			{name f1}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 1}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{capture "b" "a"}
+				{release "b" "a"}
+			}
+		}
+		{Player 0}
+		{MID 51}
+	}
+	{Entity "map_point" 0xc004
+		{Position 2917.11 2117.42}
+		{xform zl -173.53}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 6}
+	}
+	{Entity "map_point" 0xc009
+		{Position -3129.94 467.72}
+		{xform zl -1.58}
+		{Extender "map_point"
+			{name b2}
+			{team b}
+			{phase 0}
+			{order 2}
+			{visor SpawnPoint}
+		}
+		{Player 0}
+		{MID 11}
+	}
+	{Entity "battle" 0x8000
+		{Position -2147.26 207.18}
+		{Extender "speaker"
+			{SoundName "world/skirmish_environment/open_ground_night2"}
+		}
+	}
+	{Entity "battle" 0x8001
+		{Position -2163.48 254.54}
+		{Extender "speaker"
+			{SoundName "world/rain/00"}
+		}
+	}
+	{Entity "battle" 0x8003
+		{Position -2198.8 213.53}
+		{Extender "speaker"
+			{SoundName "world/skirmish_environment/open_ground_night1"}
+		}
+	}
+	{Tags "switch_right" 0x400a}
+	{Tags "switch_right" 0x2002}
+	{Tags "switch_right" 0x100c}
+	{Tags "switch_right" 0x1010}
+	{Tags "switch_right" 0x3015}
+	{Tags "switch_right" 0x4800}
+	{Tags "keep_places_without_door" 0x3424}
+	{Tags "keep_places_without_door" 0x4200}
+	{Tags "keep_places_without_door" 0x3c00}
+	{Tags "keep_places_without_door" 0x3c04}
+	{Tags "keep_places_without_door" {0x2001 "1bsr"}}
+	{Tags "keep_places_without_door" 0x5008}
+	{Tags "keep_places_without_door" 0x581e}
+	{Tags "keep_places_without_door" 0x3f09}
+	{Tags "keep_places_without_door" 0x474b}
+	{Tags "keep_places_without_door" 0x1b81}
+	{Tags "keep_places_without_door" 0x1b93}
+	{Tags "keep_places_without_door" 0x39de}
+	{Tags "keep_places_without_door" 0x2a02}
+	{Tags "keep_places_without_door" {0x6880 "c3_3"}}
+	{Tags "keep_places_without_door" {0x6881 "int5_2"}}
+	{Tags "keep_places_without_door" 0x6880}
+	{Tags "keep_places_without_door" 0x6881}
+	{Tags "keep_places_without_door" 0x68f1}
+	{Tags "keep_places_without_door" 0x6961}
+	{Tags "keep_places_without_door" 0x6962}
+	{Tags "keep_places_without_door" 0x550b}
+	{Tags "keep_places_without_door" 0x550c}
+	{Tags "keep_places_without_door" 0x557b}
+	{Tags "keep_places_without_door" 0x557c}
+	{Tags "keep_places_without_door" 0x4423}
+	{Tags "keep_places_without_door" 0x4446}
+	{Tags "keep_places_without_door" 0x4447}
+	{Tags "keep_places_without_door" {0x1b39 "20"}}
+	{Tags "keep_places_without_door" 0x20c2}
+	{Tags "keep_places_without_door" 0x20fe}
+	{Tags "keep_places_without_door" 0x213a}
+	{Tags "keep_places_without_door" 0x2086}
+	{Tags "keep_places_without_door" 0xb85}
+	{Tags "keep_places_without_door" 0xb86}
+	{Tags "keep_places_without_door" 0x24f9}
+	{Tags "keep_places_without_door" 0x6422}
+	{Tags "keep_places_without_door" 0x6434}
+	{Tags "keep_places_without_door" 0x40e7}
+	{Tags "keep_places_without_door" 0x42f9}
+	{Tags "keep_places_without_door" 0x1027}
+	{Tags "keep_places_without_door" 0x6249}
+	{Tags "keep_places_without_door" 0x783b}
+	{Tags "keep_places_without_door" 0x2d2b}
+	{Tags "keep_places_without_door" 0x2d2c}
+	{Tags "keep_places_without_door" 0x2d2d}
+	{Tags "keep_places_without_door" 0x5a53}
+	{Tags "keep_places_without_door" 0x5a54}
+	{Tags "keep_places_without_door" 0x3ee2}
+	{Tags "keep_places_without_door" 0x1089}
+	{Tags "keep_places_without_door" 0x1c03}
+	{Tags "keep_places_without_door" 0x7c00}
+	{Tags "keep_places_without_door" 0xf12}
+	{Tags "keep_places_without_door" 0xf13}
+	{Tags "keep_places_without_door" 0x5040}
+	{Tags "keep_places_without_door" 0x6cb}
+	{Tags "keep_places_without_door" 0x3efb}
+	{Tags "keep_places_without_door" 0x6642}
+	{Tags "keep_places_without_door" 0x68f0}
+	{Tags "keep_places_without_door" 0x120f}
+	{Tags "keep_places_without_door" 0x301c}
+	{Tags "keep_places_without_door" 0x1403}
+	{Tags "keep_places_without_door" 0x1407}
+	{Tags "keep_places_without_door" 0x4025}
+	{Tags "destroyed" 0x301f}
+	{Tags "destroyed" 0x3020}
+	{Tags "keep_places_without_door" 0x5c32}
+	{Tags "keep_places_without_door" 0x40a8}
+	{Tags "keep_places_without_door" 0x4864}
+	{Tags "keep_places_without_door" 0x5f9}
+	{Tags "keep_places_without_door" 0x6225}
+	{Tags "keep_places_without_door" 0x664c}
+	{Tags "night" 0x8000}
+	{Tags "rain" 0x8001}
+	{Tags "night" 0x8003}
+	{Tags "keep_places_without_door" {0x1b93 "10"}}
+	{Tags "keep_places_without_door" {0x1b93 "11"}}
+	{Tags "keep_places_without_door" {0x141 "9"}}
+	{Brain 0x3a02
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Brain 0x404f
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Environment "multi/multi_01"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+		{triggers
+			{"environment"
+				{condition
+				}
+				{actions
+					{"switch"
+						{"case"
+							{condition
+								{type rand}
+								{value 0.1}
+							}
+							{"environment"
+								{name "multi/multi_10"}
+							}
+							{"delete"
+								{selector
+									{tag day}
+								}
+							}
+							{"delete"
+								{selector
+									{tag night}
+								}
+							}
+						}
+						{"case"
+							{condition
+								{type rand}
+								{value 0.1}
+							}
+							{"environment"
+								{name "multi/multi_09"}
+							}
+							{"delete"
+								{selector
+									{tag day}
+								}
+							}
+							{"delete"
+								{selector
+									{amount 1
+									}
+									{tag night}
+								}
+							}
+							{"delete"
+								{selector
+									{tag rain}
+								}
+							}
+						}
+						{"case"
+							{condition
+								{type rand}
+								{value 0.1}
+							}
+							{"environment"
+								{name "multi/multi_08"}
+							}
+							{"delete"
+								{selector
+									{amount 2
+									}
+									{tag day}
+								}
+							}
+							{"delete"
+								{selector
+									{tag night}
+								}
+							}
+							{"delete"
+								{selector
+									{tag rain}
+								}
+							}
+						}
+						{"case"
+							{condition
+								{type rand}
+								{value 0.1}
+							}
+							{"environment"
+								{name "multi/multi_07"}
+							}
+							{"delete"
+								{selector
+									{amount 2
+									}
+									{tag day}
+								}
+							}
+							{"delete"
+								{selector
+									{tag night}
+								}
+							}
+							{"delete"
+								{selector
+									{tag rain}
+								}
+							}
+						}
+						{"case"
+							{condition
+								{type rand}
+								{value 0.1}
+							}
+							{"environment"
+								{name "multi/multi_06"}
+							}
+							{"delete"
+								{selector
+									{amount 2
+									}
+									{tag day}
+								}
+							}
+							{"delete"
+								{selector
+									{tag night}
+								}
+							}
+							{"delete"
+								{selector
+									{tag rain}
+								}
+							}
+						}
+						{"case"
+							{condition
+								{type rand}
+								{value 0.1}
+							}
+							{"environment"
+								{name "multi/multi_05"}
+							}
+							{"delete"
+								{selector
+									{amount 2
+									}
+									{tag day}
+								}
+							}
+							{"delete"
+								{selector
+									{tag night}
+								}
+							}
+							{"delete"
+								{selector
+									{tag rain}
+								}
+							}
+						}
+						{"case"
+							{condition
+								{type rand}
+								{value 0.1}
+							}
+							{"environment"
+								{name "multi/multi_04"}
+							}
+							{"delete"
+								{selector
+									{amount 2
+									}
+									{tag day}
+								}
+							}
+							{"delete"
+								{selector
+									{tag night}
+								}
+							}
+							{"delete"
+								{selector
+									{tag rain}
+								}
+							}
+						}
+						{"case"
+							{condition
+								{type rand}
+								{value 0.1}
+							}
+							{"environment"
+								{name "multi/multi_03"}
+							}
+							{"delete"
+								{selector
+									{amount 2
+									}
+									{tag day}
+								}
+							}
+							{"delete"
+								{selector
+									{tag night}
+								}
+							}
+							{"delete"
+								{selector
+									{tag rain}
+								}
+							}
+						}
+						{"case"
+							{condition
+								{type rand}
+								{value 0.1}
+							}
+							{"environment"
+								{name "multi/multi_02"}
+							}
+							{"delete"
+								{selector
+									{amount 2
+									}
+									{tag day}
+								}
+							}
+							{"delete"
+								{selector
+									{tag night}
+								}
+							}
+							{"delete"
+								{selector
+									{tag rain}
+								}
+							}
+						}
+						{"default"
+							{"environment"
+								{name "multi/multi_01"}
+							}
+							{"delete"
+								{selector
+									{amount 2
+									}
+									{tag day}
+								}
+							}
+							{"delete"
+								{selector
+									{tag night}
+								}
+							}
+							{"delete"
+								{selector
+									{tag rain}
+								}
+							}
+						}
+					}
+				}
+			}
+			{"music"
+				{condition
+				}
+				{actions
+					{"music"
+						{start "/music/skirmish_background_01.mp3"}
+						{stop_all}
+						{volume game}
+						{fade 5}
+						{loop}
+					}
+					{"delay"
+						{time 480}
+					}
+					{"music"
+						{start "/music/skirmish_background_02.mp3"}
+						{stop_all}
+						{volume game}
+						{fade 5}
+						{loop}
+					}
+					{"delay"
+						{time 120}
+					}
+					{"music"
+						{start "/music/skirmish_background_01.mp3"}
+						{stop_all}
+						{volume game}
+						{fade 5}
+						{loop}
+					}
+					{"delay"
+						{time 480}
+					}
+					{"music"
+						{start "/music/skirmish_background_02.mp3"}
+						{stop_all}
+						{volume game}
+						{fade 5}
+						{loop}
+					}
+					{"delay"
+						{time 120}
+					}
+					{"trigger"
+						{name "music"}
+					}
+				}
+			}
+		}
+	}
+	{Players
+		{count 17}
+		{diplomacy
+			1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+			0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+		}
+	}
+	{Fog 1}
+	{EntityManager {Enabled}
+		{CountScale "x0.5"}
+	}
+}

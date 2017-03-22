@@ -1,11 +1,11 @@
 {breed
-	{skin "us_tankman_hp"}
+	{skin "usa-general"}
 	{portrait "usa_officer"}
 	{nationality usa}
 	{icon "officer"}
 	{icon_priority 6}
 	{armors
-		{head "cap1_usa"}
+		{head "cap_usa_general"}
 	}
 	{tags "officer"}
 	{perks

@@ -1,6 +1,6 @@
 {from "pattern gun"		; somua / char 1 bis
 	{filling "bullet47"}
-	{fireSound "gun/47mm_sa35_l34"}
+	{fireSound "gun/37mm_pak35"}
 	{reloadSound "gun_r02"}
 	{rechargeTime 4}
 	("range_short")
