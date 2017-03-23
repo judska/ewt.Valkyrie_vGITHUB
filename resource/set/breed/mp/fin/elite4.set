@@ -9,7 +9,7 @@
 		{head helmet_fin}
 	}
 	{perks
-		{"health" "250%"
+		{"health" "200%"
 		}
 		{"health_regeneration" "100%"
 		}
@@ -19,7 +19,7 @@
 		}
 		{"vision" mp_soldier
 		}
-		{"speed" 1.0
+		{"speed" 0.9
 		}
 		{"tank" 0.9
 		}
