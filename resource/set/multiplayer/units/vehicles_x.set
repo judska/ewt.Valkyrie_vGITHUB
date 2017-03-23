@@ -24,7 +24,7 @@
 {"type4_200mm"        	("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"ho-ri_1"        		("extra" t() sc(1350.00) cw(0) cp(40))}	;9
 
-{"t-38"        	        ("extra" t() sc(150.00) cw(0) cp(5))}	;1
+{"t38"        	        ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"bs3"        			("extra" t() sc(700.00) cw(0) cp(15))}	;4
 {"kv2"        			("extra" t() sc(750.00) cw(0) cp(30))}	;5
 {"t34_1"        	    ("extra" t() sc(700.00) cw(0) cp(15))}	;6
@@ -66,13 +66,13 @@
 {"m10525"        		 ("extra" t() sc(600.00) cw(0) cp(15))}	;4
 {"m7546"                 ("extra" t() sc(1000.00) cw(0) cp(15))};7
 {"obice210"              ("extra" t() sc(1300.00) cw(0) cp(15))};7
-{"elefantita"        	 ("extra" t() sc(1600.00) cw(0) cp(32))};8
+{"elefantita"        	 ("extra" t() sc(1600.00) cw(0) cp(30))};8
 
-{"pz1a"	                 ("extra" t() sc(150.00) cw(0) cp(3))}	;1
+{"pz1a"	                 ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"willysat_chn"	         ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"np_su12"	             ("extra" t() sc(300.00) cw(0) cp(10))}	;2
 {"a19"        			 ("extra" t() sc(700.00) cw(0) cp(15))}	;4
-{"wz111_1"        	     ("extra" t() sc(1400.00) cw(0) cp(37))};8
+{"wz111_1"        	     ("extra" t() sc(1400.00) cw(0) cp(30))};8
 
 {"boyes_gun_carrier"	 ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"bofors_anz"	         ("extra" t() sc(300.00) cw(0) cp(10))}	;2

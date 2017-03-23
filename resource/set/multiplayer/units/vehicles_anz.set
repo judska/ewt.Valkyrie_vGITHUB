@@ -47,7 +47,7 @@
 
 ;°°°Button 5°°°
 
-{"np_t48_en"        ("v" c(0) t(all medium) 		s(anz) n1(3) n2(1) g(f1) sc(290.00) b(v5) cw(0) cp(10)) {level 1} {cost 290} {fore 1.0}}
+{"np_t48_en"        ("v" c(0) t(all medium) 		s(anz) n1(3) n2(1) g(f1) sc(280.00) b(v5) cw(0) cp(10)) {level 1} {cost 280} {fore 1.0}}
 {"m10wolverine"     ("v" c(0) t(all medium) 		s(anz) n1(4) n2(1) g(f3) sc(500.00) b(v5) cw(0) cp(10)) {level 1} {cost 500} {fore 1.0}} 
 
 
@@ -65,6 +65,6 @@
 {"hero8_anz"	    ("i2" c(480)					            t(all hero) s(anz) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero9_anz"        ("v1" c(600) c1(staghound_e1)               t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 
-{"hero10_anz"       ("v1" c(600) c1(sexton)                     t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
+{"hero10_anz"       ("v1" c(600) c1(sexton)                     t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 {"hero11_anz"	    ("v1" c(720) c1(m4a4_firefly_veteran)       t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h6) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
-{"hero12_anz"       ("v1" c(720) c1(churchill_mk_v_cs)          t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h7) b(hero)) {level 1} {cost 7.0} {fore -0.5}}
+{"hero12_anz"       ("v1" c(840) c1(churchill_mk_v_cs)          t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h7) b(hero)) {level 1} {cost 7.0} {fore -0.5}}

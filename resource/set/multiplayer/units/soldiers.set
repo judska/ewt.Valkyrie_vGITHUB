@@ -107,7 +107,7 @@
 
 (define "home_guard_lowcp"
     {tags   "home_guard %side infantry man"}
-    {cp     0.55}
+    {cp     0.9375}
     {score  7.50}
     {basic}
     {breed}
@@ -173,18 +173,6 @@
 {"mp/chn/rifle3" ("rifle_lowcp" side(chn))}
 
 {"mp/hun/rifle4" ("rifle_lowcp" side(hun))}
-
-
-
-(define "rifle_nocp"
-    {tags   "rifle %side infantry man"}
-    {cp     0.1}
-    {score  10.00}
-    {basic}
-    {breed}
-    {cw 1.0}
-)
-{"mp/chn/rifle0" ("rifle_nocp" side(chn))}
 
 
 
@@ -254,19 +242,6 @@
 {"mp/chn/smg5" ("smg_lowcp" side(chn))}
 
 
-
-(define "smg_nocp"
-    {tags   "smg %side infantry man"}
-    {cp     0.1}
-    {score  12.00}
-    {basic}
-    {breed}
-    {cw 1.0}
-)
-{"mp/chn/smg0" ("smg_nocp" side(chn))}
-
-
-
 (define "squadleader"
     {tags   "smg %side infantry man"}
     {cp     2.5}
@@ -330,8 +305,6 @@
 {"mp/usa/mgun2" ("mgun" side(usa))}
 {"mp/eng/mgun2" ("mgun" side(eng))}
 {"mp/chn/mgun2" ("mgun" side(chn))}
-
-{"mp/fra/mgun3" ("mgun" side(fra))}
 
 
 
@@ -403,9 +376,6 @@
 {"mp/ita/ap_miner" ("ap_miner" side(ita))}
 {"mp/chn/ap_miner" ("ap_miner" side(chn))}
 {"mp/anz/ap_miner" ("ap_miner" side(anz))}
-
-{"mp/fra/ap_miner2" ("ap_miner" side(fra))}
-
 
 
 (define "at_miner"
@@ -556,7 +526,6 @@
 {"mp/ita/elite4" ("elite_lowcp" side(ita))}
 
 
-
 (define "elite_lowcp2"
     {tags   "elite %side infantry man"}
     {cp 2.0}
@@ -570,19 +539,6 @@
 {"mp/anz/elite5" ("elite_lowcp2" side(anz))}
 
 {"mp/anz/elite6" ("elite_lowcp2" side(anz))}
-
-
-
-(define "elite_nocp"
-    {tags   "elite %side infantry man"}
-    {cp 0.0}
-    {score  26.00}
-    {basic}
-    {breed}
-    {cw 3.0}
-)
-{"mp/chn/elite0" ("elite_nocp" side(chn))}
-
 
 
 (define "sturmovik"
@@ -866,18 +822,6 @@
 {"mp/ita/oficer" ("oficer" side(ita))}
 {"mp/chn/oficer" ("oficer" side(chn))}
 {"mp/anz/oficer" ("oficer" side(anz))}
-
-
-(define "oficer2"
-    {tags   "oficer %side spec infantry man"}
-    {cp     0.0}
-    {score  460.00}
-    {basic}
-    {breed}
-    {cw 10.0}
-)
-{"mp/fra/oficer2" ("oficer2" side(fra))}
-
 
 
 (define "bazooker"
