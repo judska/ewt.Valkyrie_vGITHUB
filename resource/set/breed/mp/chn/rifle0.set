@@ -1,11 +1,11 @@
 {breed
-	{skin "8lu_mgun2"}
-	{portrait "chn_elite1"}
-	{icon "elite_mg"}
+	{skin "8lu_rifle2"}
+	{portrait "chn_soldier1"}
+	{icon "riflemans2"}
 	{icon_priority 0}
 	{nationality chn}
 	{armors
-		{head "turban"}
+		{head helmet1_cha}
 	}
 	{perks
 		{"health" "150%"
@@ -20,24 +20,23 @@
 		}
 		{"speed" 0.9
 		}
-		{"tank"	0.9
+		{"tank"	0.8
 		}
 		{"vehicle" 1.0
 		}
 		{"cannon" 1.0
 		}
-		
-		{"pistol" lvl_3
+		{"pistol" lvl_1
 		}
-		{"smg" lvl_3
+		{"smg" lvl_1
 		}
-		{"mgun" lvl_3
+		{"mgun" lvl_1
 		}
-		{"rifle" lvl_3
+		{"rifle" lvl_2
 		}
-		{"rocketlauncher" lvl_3
+		{"rocketlauncher" lvl_1
 		}
-		{"melee" lvl_3
+		{"melee" lvl_2
 		}
 	}
 	{veterancy
@@ -45,9 +44,11 @@
 		("veterancy_1")
 	}
 	{inventory
-		{item "dp" filled}
-		{item "ammo mgun" 900}
-		{item "bandage" 3}
+		{item "mauzer1924" filled}
+		{item "ammo rifle" 100}
+		{item "ammo mgun" 50}		
+                {item "bandage" 3}
+		{item "m24 grenade" 1}
 		{item "sandbag_kit" 1}
 		{in_hands 0}
 	}

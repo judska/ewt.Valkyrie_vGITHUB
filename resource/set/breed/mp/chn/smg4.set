@@ -8,11 +8,11 @@
 		{head "turban"}
 	}
 	{perks
-		{"health" "300%"
+		{"health" "150%"
 		}
 		{"health_regeneration" "100%"
 		}
-		{"stamina" "150%"
+		{"stamina" "100%"
 		}
 		{"stamina_regeneration" "100%"
 		}
