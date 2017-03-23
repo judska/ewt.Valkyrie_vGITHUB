@@ -11,7 +11,7 @@
 	("recoveryTime" r(30))
 	{projectileDamage 30}
 	("damage" a(45) b(40) c(35) d(30) e(25))
-	{range 100 110}
+	{range 110 120}
 	{AimingTolerance 1}
 	{parameters "fg"	
 		{range 80 90}
