@@ -15,7 +15,7 @@
 ;°°°Button 2°°°
 
 {"m17_stan"             ("vs" c(300) t(all cannon) 	        s(chn) n(2) g(c1) sc(90.00) b(v2) cw(2) cp(5)) {level 1} {cost 90} {fore 1.0}}
-{"zpu-4"                ("vs" c(0) t(all cannon)	        s(chn) n(2) g(c3) sc(220.00)  b(v2) cw(2) cp(5)) {level 1} {cost 220} {fore 1.0}}
+{"zpu-4"                ("vs" c(0) t(all cannon)	        s(chn) n(2) g(c3) sc(200.00)  b(v2) cw(2) cp(5)) {level 1} {cost 200} {fore 1.0}}
 {"sgrw42_chn"           ("vs" c(0) t(all cannon mediumcan)	s(chn) n(2) g(c4) sc(280.00) b(v2) cw(2) cp(5)) {level 1} {cost 280} {fore 1.0}}
  
 {"pak35_chn"            ("vs" c(0) t(all cannon)	        s(chn) n(2) g(c5) sc(100.00) b(v2) cw(2) cp(5)) {level 1} {cost 100} {fore 1.0}}
@@ -64,4 +64,4 @@
 
 {"hero10_chn"      ("i2" c(480)			             t(all hero) s(chn) n1(rifle:25)  n2(smg:15) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero11_chn"      ("v2" c(600) c1(m24_chn) 		 t(all hero) s(chn) n1(tankman:4) n2(elite:5) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
-{"hero12_chn"      ("v1" c(960) c1(wz111_1)          t(all hero) s(chn) n1(tankman:3) n2(tankman2:1) g(h9) b(hero)) {level 1} {cost 9.0} {fore -0.5}}
+{"hero12_chn"      ("v1" c(960) c1(wz111_1)          t(all hero) s(chn) n1(tankman:3) n2(tankman2:1) g(h8) b(hero)) {level 1} {cost 8.0} {fore -0.5}}

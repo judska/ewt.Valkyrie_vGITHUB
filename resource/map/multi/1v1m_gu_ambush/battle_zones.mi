@@ -1,6 +1,6 @@
 {mission
 	{Entity "flag_point_1" 0x802f
-		{Position -549.51 -3016}
+		{Position -399.96 -2952}
 		{xform scale 0.75}
 		{Skeleton
 			{MtlParams
@@ -24,7 +24,7 @@
 		{MID 48}
 	}
 	{Entity "flag_point_3" 0x8011
-		{Position -605.43 124.16}
+		{Position -415.53 -144.03}
 		{xform scale 0.75}
 		{Skeleton
 			{MtlParams
@@ -48,7 +48,7 @@
 		{MID 17}
 	}
 	{Entity "flag_point_2" 0x8013
-		{Position -518.78 -6152.72}
+		{Position -414.12 -6000.78}
 		{xform scale 0.75}
 		{Skeleton
 			{MtlParams
@@ -72,7 +72,7 @@
 		{MID 18}
 	}
 	{Entity "map_point" 0xc007
-		{Position -3764.86 -2642.81}
+		{Position -3551.09 -2564.98}
 		{xform zl 2.22}
 		{Extender "map_point"
 			{name a1}
@@ -109,6 +109,29 @@
 		{Player 0}
 		{MID 1}
 	}
+	{Tags "keep_places_without_door" 0xa69}
+	{Tags "keep_places_without_door" 0x211e}
+	{Tags "keep_places_without_door" 0x300d}
+	{Tags "keep_places_without_door" 0xe5f}
+	{Tags "keep_places_without_door" 0xab8}
+	{Tags "keep_places_without_door" 0x131e}
+	{Tags "keep_places_without_door" 0xacb}
+	{Tags "keep_places_without_door" 0xaf6}
+	{Tags "keep_places_without_door" 0xaf7}
+	{Tags "keep_places_without_door" 0xafa}
+	{Tags "keep_places_without_door" 0x180d}
+	{Tags "keep_places_without_door" 0x180c}
+	{Tags "keep_places_without_door" 0x1aeb}
+	{Tags "keep_places_without_door" 0x1aea}
+	{Tags "keep_places_without_door" 0xb52}
+	{Tags "keep_places_without_door" 0x181b}
+	{Tags "keep_places_without_door" 0xb75}
+	{Tags "keep_places_without_door" 0x440b}
+	{Tags "keep_places_without_door" 0xb91}
+	{Tags "keep_places_without_door" 0x500d}
+	{Tags "keep_places_without_door" 0x6098}
+	{Tags "keep_places_without_door" 0xba8}
+	{Tags "keep_places_without_door" 0xbb4}
 	{Environment "single/1/6-sevastopol"}
 	{Helpers
 		{reinforcements

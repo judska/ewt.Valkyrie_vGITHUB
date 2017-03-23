@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "us officer cap"}
+	{blend none}
+}

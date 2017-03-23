@@ -50,7 +50,7 @@
 		{speed 0.005}
 	}
 	{bone "turret"
-		{limits -5 5}
+		{limits +180 -180}
 		{speed 0.003}
 	}
 	{bone "gun_rot"

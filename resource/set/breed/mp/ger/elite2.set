@@ -1,11 +1,12 @@
 {breed
-	{skin "ger-paratrooper"}
+	{skin "ger-zelt-rfl"}
 	{portrait "ger_elite1"}
 	{nationality ger}
 	{icon "elite2"}
 	{icon_priority 3}
 	{armors
-		{head helmet_lw_splitter}
+		{head helmet_ger_m38}
+
 	}
 	{perks
 		{"health" "250%"
@@ -16,7 +17,7 @@
 		}
 		{"stamina_regeneration" "100%"
 		}
-		{"vision" "mp_soldier"
+		{"vision" "mp_tier3"
 		}
 		{"speed" 1.0
 		}

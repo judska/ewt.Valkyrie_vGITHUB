@@ -1,6 +1,6 @@
 {from "pattern gun"		; Char D2
 	{filling "bullet47"}
-	{fireSound "gun/47mm_sa34_l30"}
+	{fireSound "gun/37mm_pak35"}
 	{reloadSound "gun_r02"}
 	{rechargeTime 4}
 	("range_short")

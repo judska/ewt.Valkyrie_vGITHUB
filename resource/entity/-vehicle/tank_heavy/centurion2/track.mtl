@@ -1,4 +1,0 @@
-{material simple
-	{diffuse "$/model/centurions/comet_track"}
-	{blend test}
-}

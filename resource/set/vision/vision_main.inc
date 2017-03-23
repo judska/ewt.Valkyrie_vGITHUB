@@ -12,11 +12,11 @@
     ("v_fov" v(200))
     ("vision_human")
 }
-{"mp_native"
-    ("uncover" u(80))
-    ("h_fov" h(300))
+{"mp_tier3"
+    ("uncover" u(20))
+    ("h_fov" h(225))
     ("v_fov" v(300))
-    ("vision_human_native")
+    ("vision_human")
 }
 {"mp_officer"
     ("uncover" u(50))

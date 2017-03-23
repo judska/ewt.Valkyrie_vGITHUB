@@ -40,7 +40,8 @@
 ;같캛utton 4같�
 
 {"p40"             ("v" c(0) t(all medium) 		    s(ita) n1(3) n2(1) g(e2) sc(430.00) b(v4) cw(0) cp(15)) {level 1} {cost 430} {fore 1.0}}
-{"pz4hita"         ("v" c(0) t(all medium) 		    s(ita) n1(3) n2(1) g(e2) sc(610.00) b(v4) cw(0) cp(15)) {level 1} {cost 610} {fore 1.0}}  
+{"pz4hita"         ("v" c(0) t(all medium) 		    s(ita) n1(3) n2(1) g(e2) sc(610.00) b(v4) cw(0) cp(15)) {level 1} {cost 610} {fore 1.0}}
+{"kv1b"            ("v" c(0) t(all medium) 		    s(ita) n1(3) n2(1) g(e2) sc(1000.00) b(v4) cw(0) cp(15)) {level 1} {cost 1000} {fore 1.0}}   
 
 
 ;같캛utton 5같�
@@ -49,7 +50,7 @@
 {"m7518"           ("v" c(0) t(all medium) 		    s(ita) n1(2) n2(1) g(f2) sc(320.00) b(v5) cw(0) cp(10)) {level 1} {cost 320} {fore 1.0}}
 {"m7534"           ("v" c(0) t(all medium) 	        s(ita) n1(2) n2(1) g(f3) sc(360.00) b(v5) cw(2) cp(10)) {level 1} {cost 360} {fore 1.0}} 	
 
-{"stug3gita"       ("v" c(0) t(all medium) 	        s(ita) n1(2) n2(1) g(f4) sc(610.00) b(v5) cw(0) cp(10)) {level 1} {cost 610} {fore 1.0}}
+{"stug3gita"       ("v" c(0) t(all medium) 	        s(ita) n1(2) n2(1) g(f4) sc(590.00) b(v5) cw(0) cp(10)) {level 1} {cost 590} {fore 1.0}}
 {"m7546"           ("v" c(0) t(all medium) 	        s(ita) n1(3) n2(1) g(f5) sc(700.00) b(v5) cw(0) cp(15)) {level 1} {cost 700} {fore 1.0}}   	
 {"m9053"           ("v" c(0) t(all heavy) 	        s(ita) n1(3) n2(1) g(f5) sc(700.00) b(v5) cw(0) cp(15)) {level 1} {cost 700} {fore 1.0}}  			
 

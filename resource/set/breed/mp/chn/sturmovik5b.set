@@ -5,7 +5,7 @@
 	{icon_priority 0}
 	{nationality chn}
 	{armors
-		{head 8lu_cap}
+		{head cha_cap29}
 	}
 	{perks
 		{"health" "250%"
@@ -48,7 +48,7 @@
 		{item "ammo pistol" 500}
 		{item "bandage" 5}
 		{item "m24 grenade" 2}
-                {item "erguotou" 1}
+        {item "erguotou" 1}
 		{item "smoke grenade" 1}
 		{item "ammo type36recoilless" 3}
 		{in_hands 0}

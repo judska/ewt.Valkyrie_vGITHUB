@@ -16,7 +16,7 @@
 		}
 		{"stamina_regeneration" "100%"
 		}
-		{"vision" "mp_soldier"
+		{"vision" "mp_tier3"
 		}
 		{"speed" 1.0
 		}

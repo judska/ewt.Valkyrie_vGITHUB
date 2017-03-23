@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "cap"}
+	{bump "cap_bp"}
+	{specular "cap_sp"}
+	{blend none}
+}
