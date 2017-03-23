@@ -40,7 +40,8 @@
 ;같캛utton 4같�
 
 {"p40"             ("v" c(0) t(all medium) 		    s(ita) n1(3) n2(1) g(e2) sc(430.00) b(v4) cw(0) cp(15)) {level 1} {cost 430} {fore 1.0}}
-{"pz4hita"         ("v" c(0) t(all medium) 		    s(ita) n1(3) n2(1) g(e2) sc(610.00) b(v4) cw(0) cp(15)) {level 1} {cost 610} {fore 1.0}}  
+{"pz4hita"         ("v" c(0) t(all medium) 		    s(ita) n1(3) n2(1) g(e2) sc(610.00) b(v4) cw(0) cp(15)) {level 1} {cost 610} {fore 1.0}}
+{"kv1b"            ("v" c(0) t(all medium) 		    s(ita) n1(3) n2(1) g(e2) sc(1000.00) b(v4) cw(0) cp(15)) {level 1} {cost 1000} {fore 1.0}}   
 
 
 ;같캛utton 5같�

@@ -1,0 +1,36 @@
+{actor
+	(include "/properties/cannon_mgun.ext")
+	{props "vision_cannon_low" "cannon" "cannon_small" "ammo_box"}
+	{collider "cannon_small"}
+	{Extension "crate7.mdl"}
+  	{extender "inventory"
+    		{box
+			{size 6 8}     
+		    {item "mg42" filled}
+		    {item "mg42" filled}
+		    {item "mg42" filled}
+		    {item "mg42" filled}
+			{item "panzerfaust weapon" filled}
+			{item "panzerfaust weapon" filled}
+			{item "panzerfaust weapon" filled}
+		    {item "panzerfaust weapon" filled}
+		    {item "panzerfaust weapon" filled}
+            {item "panzerfaust weapon" filled}
+            {item "panzerfaust weapon" filled}
+            {item "panzerfaust weapon" filled}
+            {item "panzerfaust weapon" filled}
+            {item "panzerfaust weapon" filled}
+            {item "panzerfaust weapon" filled}
+            {item "panzerfaust weapon" filled}
+		}
+  	}
+
+
+	{Volume "body1"
+	{tags "body"}
+	{able{obstacle 0}}
+	{thickness 1}
+	{component "body"}
+	}
+}
+
