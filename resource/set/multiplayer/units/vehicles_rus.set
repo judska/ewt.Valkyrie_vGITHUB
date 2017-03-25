@@ -51,18 +51,18 @@
 
 {"kv1"              ("v" c(0) t(all heavy) 		    s(rus) n1(4) n2(1) g(e5) sc(500.00) b(v4) cw(0) cp(15)) {level 1} {cost 500} {fore 1.0}}
 {"t34_3c"           ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(e6) sc(720.00) b(v4) cw(0) cp(15)) {level 1} {cost 720} {fore 1.0}}
-{"kv85"             ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e7) sc(950.00) b(v4) cw(0) cp(25)) {level 1} {cost 930} {fore 1.0}}
+{"kv85"             ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e7) sc(950.00) b(v4) cw(0) cp(25)) {level 1} {cost 950} {fore 1.0}}
 
-{"is1"              ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e8) sc(1000.00) b(v4) cw(0) cp(25)) {level 1} {cost 990} {fore 1.0}}
-{"is122"            ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e9) sc(1280.00) b(v4) cw(0) cp(30)) {level 1} {cost 1220} {fore 1.0}} 	
-{"is2"              ("v" c(0) t(all heavy) 		    s(rus) n1(4) n2(1) g(e9) sc(1280.00) b(v4) cw(0) cp(30)) {level 1} {cost 1320} {fore 1.0}}
+{"is1"              ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e8) sc(1000.00) b(v4) cw(0) cp(25)) {level 1} {cost 1000} {fore 1.0}}
+{"is122"            ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e9) sc(1150.00) b(v4) cw(0) cp(30)) {level 1} {cost 1150} {fore 1.0}} 	
+{"is2"              ("v" c(0) t(all heavy) 		    s(rus) n1(4) n2(1) g(e9) sc(1300.00) b(v4) cw(0) cp(30)) {level 1} {cost 1300} {fore 1.0}}
 	
 
 ;°°°Button 5°°°
 
 {"su76"             ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f1) sc(280.00) b(v5) cw(0) cp(10)) {level 1} {cost 280} {fore 1.0}}
 {"zis_30"           ("v" c(0) t(all medium) 	    s(rus) n1(3) n2(1) g(f2) sc(320.00) b(v5) cw(0) cp(10)) {level 1} {cost 320} {fore 1.0}}
-{"su85"             ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f3) sc(450.00) b(v5) cw(0) cp(10)) {level 1} {cost 450} {fore 1.0}} 
+{"su85"             ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f3) sc(400.00) b(v5) cw(0) cp(10)) {level 1} {cost 400} {fore 1.0}} 
 
 {"su85m"            ("v" c(0) t(all medium) 		s(rus) n1(3) n2(1) g(f3) sc(670.00) b(v5) cw(0) cp(10)) {level 1} {cost 670} {fore 1.0}}	
 {"isu122"           ("v"  c(0) t(all heavy) 		s(rus) n1(3) n2(1) g(f4) sc(820.00) b(v5) cw(0) cp(10)) {level 1} {cost 820} {fore 1.0}}
