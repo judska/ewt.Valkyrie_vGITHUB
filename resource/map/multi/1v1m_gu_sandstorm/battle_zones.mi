@@ -19,7 +19,7 @@
 		{MID 45}
 	}
 	{Entity "flag_point_2" 0x8030
-		{Position -4708.25 631.26}
+		{Position -4631.28 472.19}
 		{xform zl 0.14 scale 0.75}
 		{Skeleton
 			{MtlParams

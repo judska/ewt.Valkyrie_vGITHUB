@@ -6911,37 +6911,13 @@
 		{Position -2394.87 594.59}
 		{xform zl -8.61}
 	}
-	{Entity "bush8" 0xed2
-		{Position -2398.26 -220.64}
-		{xform zl -2.05}
-	}
-	{Entity "bush8a" 0xed3
-		{Position -2416.06 -51.24}
-		{xform zl 36.27}
-	}
-	{Entity "bush8a" 0xed4
-		{Position -2335.67 -147.06}
-		{xform zl -93.61}
-	}
-	{Entity "bush8" 0xed5
-		{Position -2443.26 -118.58}
-		{xform zl -133.85}
-	}
 	{Entity "bush8" 0xed6
 		{Position -2270.21 25.33}
 		{xform zl 128.01}
 	}
-	{Entity "bush8a" 0xed7
-		{Position -2388.41 -97.33}
-		{xform zl 166.33}
-	}
 	{Entity "bush8a" 0xed8
 		{Position -2402.75 34.05}
 		{xform zl 36.45}
-	}
-	{Entity "bush8" 0xed9
-		{Position -2319.36 -74.81}
-		{xform zl -3.79}
 	}
 	{Entity "bush8" 0xeda
 		{Position -2346 308.85}
@@ -6991,25 +6967,9 @@
 		{Position -2359.37 -668.46}
 		{xform zl -3.79}
 	}
-	{Entity "bush8" 0xee7
-		{Position -2386.01 -284.8}
-		{xform zl -176.99}
-	}
-	{Entity "bush8a" 0xee8
-		{Position -2441.87 -363.62}
-		{xform zl 91.45}
-	}
-	{Entity "bush8a" 0xee9
-		{Position -2384.93 -408.5}
-		{xform zl -8.61}
-	}
 	{Entity "bush8a" 0xeea
 		{Position -2395.57 -533.14}
 		{xform zl -138.49}
-	}
-	{Entity "bush8" 0xeeb
-		{Position -2451.73 -437.04}
-		{xform zl -178.73}
 	}
 	{Entity "bush8" 0xeec
 		{Position -2405.59 -831.79}
@@ -7595,10 +7555,6 @@
 		{Position -1226.67 -319.91}
 		{xform zl 128.01}
 	}
-	{Entity "fence-wood_3" 0x1b55
-		{Position -1927.08 -21.05}
-		{xform zl -169.91}
-	}
 	{Entity "bush8" 0xa4d
 		{Position -1704.68 248.96}
 		{xform zl 128.01}
@@ -7614,10 +7570,6 @@
 	{Entity "bush8a" 0xa6c
 		{Position -1875.7 12.18}
 		{xform zl -138.49}
-	}
-	{Entity "bush8" 0xa6d
-		{Position -1909.37 -154.76}
-		{xform zl -176.99}
 	}
 	{Entity "bush8" 0xa6e
 		{Position -1834.45 1619.01}
@@ -8162,10 +8114,6 @@
 		{Position -2148.73 100.24}
 		{xform zl 142.88}
 	}
-	{Entity "ash_tree_bush1" 0x1577
-		{Position -2128.11 -48.73}
-		{xform zl -114.33}
-	}
 	{Entity "ash_tree_bush1" 0x1578
 		{Position -2273.82 148.29}
 		{xform zl -131.84}
@@ -8173,10 +8121,6 @@
 	{Entity "bush8" 0x1579
 		{Position -2204.96 95.83}
 		{xform zl -117.75}
-	}
-	{Entity "bush8" 0x157a
-		{Position -2197.91 -305.42}
-		{xform zl -2.05}
 	}
 	{Entity "bush8" 0x157b
 		{Position -2113.81 -528.03}
@@ -8264,9 +8208,6 @@
 	{Entity "stub_tree" 0xbba
 		{Position -2328.83 767.93}
 	}
-	{Entity "stub_tree" 0xbbb
-		{Position -2425.21 -400.12}
-	}
 	{Entity "stub_tree" 0xbbc
 		{Position -1763.84 2064.2}
 	}
@@ -8308,9 +8249,6 @@
 	}
 	{Entity "stub_tree_small" 0xbc9
 		{Position -2450.65 262.13}
-	}
-	{Entity "stub_tree_small" 0xbca
-		{Position -2437.62 -212.95}
 	}
 	{Entity "stub_tree_small" 0xbcb
 		{Position -2434.68 -564.48}
@@ -9302,51 +9240,6 @@
 	{Entity "r_side_piece6" 0x1c42
 		{Position -639.82 132.79 0.07}
 		{xform zl 54.02}
-	}
-	{Entity "tree_x" 0x1c46
-		{Position -2278.77 -220.5}
-	}
-	{Entity "branch2" 0x1c47
-		{Position -2202.57 -224.9}
-	}
-	{Entity "branch1" 0x1c48
-		{Position -2162.83 -238.93}
-	}
-	{Entity "tree" 0x1c49
-		{Position -2114.45 -226.57}
-		{xform zl -60.25}
-	}
-	{Entity "tree" 0xfc0
-		{Position -1959.62 -230.73 -9.5}
-		{xform zl -34.03 y 26.36 zw 56.1}
-	}
-	{Entity "tree" 0xfc1
-		{Position -2013.57 -218.45 -9.5}
-		{xform zl -34.03 y 26.36 zw -9.88}
-	}
-	{Entity "tree" 0xfc2
-		{Position -2027.15 -209.84 -9.5}
-		{xform zl -34.03 y 26.36 zw 133.42}
-	}
-	{Entity "tree" 0xfc3
-		{Position -2227.97 -248.31 -9.5}
-		{xform zl -34.03 y 26.36 zw -15.49}
-	}
-	{Entity "tree" 0xfc4
-		{Position -2359.72 -251.01 -9.5}
-		{xform zl -34.03 y 26.36 zw 171.39}
-	}
-	{Entity "beam" 0xfc5
-		{Position -2019.73 -155.08 -12}
-		{xform zl -91.81}
-	}
-	{Entity "beam" 0xfc6
-		{Position -2215.14 -180.2 -10}
-		{xform zl 33.28 y 5.56 zw 52.75}
-	}
-	{Entity "axe" 0xfc7
-		{Position -2199.66 -136.19 1.5}
-		{xform zl 46.03 scale 2}
 	}
 	{Entity "axe" 0xfc8
 		{Position -2092.57 -131.88 13.5}
