@@ -1,16 +1,17 @@
 {game_entity
 	(include "/properties/car.ext")
+	(include "/properties/shadow/tank.inc"  scale(0.8))
 	(include "/properties/selection/vehicle.inc"  scale(1.1))
-	{props "vehicle" "car" "wheeled" "turn_over" "vision_vehicle_high" "-tractor"}
+	{props "vehicle" "car" "wheeled" "turn_over" "vision_vehicle_low"}
 	{PatherId "vehicle.small"}
-	("armor_light"  args 1.0)
+	("armor_light" args 2.3)
 	
 	{extender "enumerator"}
 
 	{Volume "Body"
 		{tags "body"}
 		{component "body"}
-		{thickness 8}
+		{thickness 7}
 	}
 
 	("wheel" args "wheelright1")
@@ -23,7 +24,7 @@
 	{placer
 		{place "driver"		{group "driver"} {visor "driver"}}
 		{place "commander"	{group "driver"} {visor "main"}}
-		{place "gunner"		{group "gunner"} {visor "main"} {turnoff {targetable 0}}}
+		{place "gunner"		{group "driver"} {visor "main"} {turnoff {targetable 0}}}
 	}
 
 	("board_animation" place(driver) board_begin(board_willis_driver) board_end(seat_Willis_driver) base(doorleft))
