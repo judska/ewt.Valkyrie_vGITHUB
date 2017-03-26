@@ -15,6 +15,7 @@
 			{item "rifle_grenade_at" "ammo" 2 {max 5}}
 			{item "shotgun" "ammo" 3 {max 20}}
 			{item "mortar" "fg" "ammo" 3 {max 30}{value 2}}
+                        {item "brixia45" "fg" "ammo" 5 {max 45}{value 2}}
 		        {item "mortar50" "fguk" "ammo" 3 {max 30}{value 2}}
 		        {item "mortar50" "fgger" "ammo" 3 {max 30}{value 2}}
 			{item "hmgun" "ammo" 30 {max 300}{value 2}}
