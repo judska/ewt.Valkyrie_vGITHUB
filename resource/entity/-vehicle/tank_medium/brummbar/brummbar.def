@@ -33,7 +33,7 @@
 	{component "shieldr4" {tags "shield"}}
 	{component "shieldr5" {tags "shield"}}	
 			
-	("armor_spa_heavy" armor(100 50 30 10))
+	("armor_spa_heavy" armor(100 82 30 10))
 	("armor_mantlet" t(110))
 	("armor_engine"  t(10 45 45 20))
 

@@ -647,6 +647,37 @@
 	{gravity 4.2}
 )
 
+(define "range_grazing_howitzer_2"
+	{curve "gun_medium"}
+	{spreading 1
+		{SpreadPower	1}
+	}
+	("accuracy_grazinghowitzer")
+	("caliber_howitzer")
+
+	{rechargeTime 25}
+
+	{bullet_view "howitzer_shell"}
+	
+	{SpreadTolerance 0.7}	
+	{DisableRicochet}
+	{range 160 170}
+
+	{ZeroingAccuracy 0.85 0.7}
+	{parameters "fg"	
+		{range 140 150}
+	}
+	{parameters "apcr"	
+		{range 130 140}
+	}
+	{parameters "heat"
+		{range 130 140}
+	}	
+    {RelaxationTime 1}
+	{speed 200}
+	{gravity 3.5}
+)
+
 (define "range_medium_howitzer"
 	{spreading 1
 		{SpreadPower	1}

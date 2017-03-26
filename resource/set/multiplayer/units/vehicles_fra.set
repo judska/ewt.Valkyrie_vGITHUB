@@ -34,7 +34,7 @@
 
 {"panhard"              ("v" c(150) t(all light) 	s(fra) n1(3) n2(1) g(d3) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0.4}}
 {"h39"       	        ("v" c(150) t(all light) 	s(fra) n1(1) n2(1) g(d4) sc(235.00) b(v3) cw(0) cp(10)) {level 1} {cost 235} {fore 1.0}}
-{"citroen45_mort"       ("vs" c(180) t(all light)   s(fra) n1(1) n2(1) g(d4) sc(290.00) b(v3) cw(0) cp(5)) {level 1} {cost 290} {fore 1.0}}
+{"citroen45_mort"       ("v" c(150) t(all light)    s(fra) n1(1) n2(1) g(d4) sc(290.00) b(v3) cw(0) cp(5)) {level 1} {cost 290} {fore 1.0}}
 
 
 ;°°°Button 4°°°
@@ -68,6 +68,6 @@
 {"hero9_fra"       ("i2" c(480)	                        t(all hero) s(fra) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 
 {"hero10_fra"      ("v1" c(600) c1(amx-13-90)           t(all hero) s(fra) n1(tankman:2) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
-{"hero11_fra"      ("v2" c(720) c1(155gpf) 		        t(all hero) s(fra) n1(vehicle_supporter:2) n2(vehicle_supporter:0) g(h6) b(hero)) {level 20} {cost 6.0} {fore -0.5}}
+{"hero11_fra"      ("v2" c(600) c1(155gpf2) 		    t(all hero) s(fra) n1(vehicle_supporter:2) n2(vehicle_supporter:0) g(h6) b(hero)) {level 20} {cost 5.0} {fore -0.5}}
 {"hero12_fra"  	   ("v1" c(960) c1(amx50-100)           t(all hero) s(fra) n1(tankman:3) n2(tankman2:1) g(h8) b(hero)) {level 1} {cost 8.0} {fore -0.5}}
 

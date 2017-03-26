@@ -1,12 +1,12 @@
 {from "pattern gun"		; "cromwell_mk_vi"
 	{filling "bullet89" 1}
 	{fireSound "gun/85to100_cal/OQF_25pdr"}
-	("range_grazing_howitzer")
+	("range_grazing_howitzer_2")
 	{rechargeTime 11.5}
 	("accuracy_minimum")
 	
 	{projectileDamage 152}
-	("damage_200" a(120) b(112) c(104) d(98) e(90))
+	("damage_170" a(120) b(112) c(104) d(88) e(69))
 
 }
 

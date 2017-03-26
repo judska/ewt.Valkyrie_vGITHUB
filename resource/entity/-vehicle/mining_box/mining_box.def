@@ -7,9 +7,7 @@
     		{box
 			{size 6 8}     
 		    {item "mg42" filled}
-		    {item "mg42" filled}
-		    {item "mg42" filled}
-		    {item "mg42" filled}
+		    {item "ammo mgun" 3000}
 			{item "panzerfaust weapon" filled}
 			{item "panzerfaust weapon" filled}
 			{item "panzerfaust weapon" filled}
@@ -19,13 +17,10 @@
             {item "panzerfaust weapon" filled}
             {item "panzerfaust weapon" filled}
             {item "panzerfaust weapon" filled}
-            {item "panzerfaust weapon" filled}
-            {item "panzerfaust weapon" filled}
-            {item "panzerfaust weapon" filled}
+		    {item "panzerfaust weapon" filled}
+            {item "b33r"}
 		}
   	}
-
-
 	{Volume "body1"
 	{tags "body"}
 	{able{obstacle 0}}
