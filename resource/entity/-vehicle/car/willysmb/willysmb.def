@@ -1,5 +1,6 @@
-{entity
+{game_entity
 	(include "/properties/car.ext")
+	(include "/properties/shadow/tank.inc"  scale(0.8))
 	(include "/properties/selection/vehicle.inc"  scale(1.1))
 	{props "vehicle" "car" "wheeled" "turn_over" "vision_vehicle_low"}
 	{PatherId "vehicle.small"}
@@ -28,42 +29,37 @@
 
 	("board_animation" place(driver) board_begin(board_willis_driver) board_end(seat_Willis_driver) base(doorleft))
 	("board_animation" place(commander) board_begin(board_willis) board_end(seat_Willis_passenger) base(doorright))
-	
-	
-;--- skr: изменяем позу пулемётчика --------------------------------------------
-; пулемёт оказывается чуть ниже, чем хотелось бы, но зато его ноги не точат из крыльев задних колёс
 	{boarder
 		{anm "gunner"
-;			{forward {begin "board_LowTank_stand"} {end "seat_gunner_stand"}}
-			{forward {begin "board_LowTank_stand"} {end "pose_mgun_pz6"}}
+			{forward {begin "board_LowTank_stand"} {end "seat_gunner_stand"}}
 			{reverse {end "emit_tank_1_hold" 1}}
 		}
 	}
-;----------------------------------------------------------------------------------
-
-
 
 	{sensor
 		{visor "driver"
-			{bone "visor2"}
+			{bone "visor1"}
 			{vision "moto_crew"}
 		}
 		{visor "main"
-			{bone "visor"}
+			{bone "visor2"}
 			{vision "vehicle_top_mgun"}
 		}
 	}
 
 	{extender "inventory"
+		{weapon "mgun"
+			{mask "weapon mgun"}
+		}
 		{Box
 			{size 5 6}
 			{item  "ammo mgun" 1200}
+			{item "browning_m19" filled {user "mgun"}}
 		}
 	}
 	{Weaponry
 		{place "mgun"
 			{type "mgun_main"}
-			{weapon "browning_m19" filled}
 			{charger "gunner"}
 			{LinkBone "mgun"}
 			{LinkAnimation "off"}
@@ -92,12 +88,10 @@
 	}
 	{Extension "willysmb.mdl"}
 
-;--- skr: пулемёт теперь не вращается ---
-;	{bone "mgun"
-;		{limits -25 20}
-;	}
-;----------------------------------------
-	{bone "mgun_turret"
+	{bone "gun_rot"
+		{limits -25 20}
+	}
+	{bone "turret"
 		{speed 0.03}
 	}
 }
