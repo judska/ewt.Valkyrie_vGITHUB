@@ -15,7 +15,7 @@
 ;°°°Button 2°°°
 
 {"m17_stan"             ("vs" c(300) t(all cannon) 	        s(chn) n(2) g(c1) sc(90.00) b(v2) cw(2) cp(5)) {level 1} {cost 90} {fore 1.0}}
-{"zpu-4"                ("vs" c(0) t(all cannon)	        s(chn) n(2) g(c3) sc(220.00)  b(v2) cw(2) cp(5)) {level 1} {cost 220} {fore 1.0}}
+{"zpu-4"                ("vs" c(0) t(all cannon)	        s(chn) n(2) g(c3) sc(200.00)  b(v2) cw(2) cp(5)) {level 1} {cost 200} {fore 1.0}}
 {"sgrw42_chn"           ("vs" c(0) t(all cannon mediumcan)	s(chn) n(2) g(c4) sc(280.00) b(v2) cw(2) cp(5)) {level 1} {cost 280} {fore 1.0}}
  
 {"pak35_chn"            ("vs" c(0) t(all cannon)	        s(chn) n(2) g(c5) sc(100.00) b(v2) cw(2) cp(5)) {level 1} {cost 100} {fore 1.0}}
