@@ -8,7 +8,7 @@
 {"m3_eng"           ("vs" c(300) t(all) 	s(eng) n(2) g(b3) sc(150.00) b(v1) cw(0) cp(0)) {level 1} {cost 150} {fore 0.5}}
 
 {"bedford"	        ("vs" c(60) t(all supply) 	s(eng) n(2) g(b4) sc(50.00)  b(v1) cw(0) cp(0)) {level 1} {cost 50} {fore 1.0}}
-{"bedford_art"      ("vs" c(60) t(all supply) 	s(eng) n(2) g(b5) sc(135.00)  b(v1) cw(0) cp(0)) {level 1} {cost 135} {fore 1.0}}
+{"bedford_art"      ("vs" c(60) t(all supply) 	s(eng) n(2) g(b5) sc(200.00)  b(v1) cw(0) cp(0)) {level 1} {cost 200} {fore 1.0}}
 {"bedford_eng"      ("vs" c(60) t(all supply) 	s(eng) n(2) g(b6) sc(225.00)  b(v1) cw(0) cp(0)) {level 1} {cost 225} {fore 0.0}}
 
 
