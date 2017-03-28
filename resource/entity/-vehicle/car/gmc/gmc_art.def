@@ -71,28 +71,19 @@
 	{Extension "GMC.mdl"}
 	{extender "inventory"
 		{box
-      		{size 10 15}
+      		{size 6 10}
 			{clear}
-			{item "bullet37" "ap" "ammo" 75}
-			{item "bullet37" "fg" "ammo" 75}
-			{item "bullet57" "ap" "ammo" 50}
-			{item "bullet57" "fg" "ammo" 50}
-			{item "bullet75" "ap" "ammo" 50}
-			{item "bullet75" "fg" "ammo" 50}
-			{item "bullet76" "fg" "ammo" 50}
-			{item "bullet76" "ap" "ammo" 50}
-			{item "bullet90" "fg" "ammo" 25}
-			{item "bullet90" "ap" "ammo" 25}
-			{item "bullet105" "fg" "ammo" 30}
-			{item "bullet155" "fg" "ammo" 30}
-                        {item "bullet155_1" "fg" "ammo" 30}
-			{item "bullet20" "zenite" "ammo" 400}
-			{item "bullet40" "zenite" "ammo" 400}
-                        {item "bullet37" "zenite" "ammo" 400}
-			{item "hmgun" "ammo" 3000}
-			{item "mortar" "fg" "ammo" 100}
-			{item "calliope" "ammo" 240}
-			{item "barrel" 2 filling "fuel" 500}
+			{item "mgun" "ammo" 5000}
+			{item "pistol" "ammo" 2000}
+			{item "rifle" "ammo" 500}
+			{item "m61" "grenade" 20}
+			{item "n73at" "grenade" 10}
+			{item "smoke" "grenade" 10}
+			{item "ammo bazooka" 10}		
+			{item "mortar" "ammo" 60}
+			{item "bandage" 50}
+			{item "dynamite" 2}
+			{item "repair_kit"}
 		}
 	}
 	(include "/properties/resupply_generic.inc")

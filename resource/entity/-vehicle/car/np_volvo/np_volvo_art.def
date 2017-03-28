@@ -175,33 +175,20 @@
 		{tags "body"}
 		{component "body"}
 		{thickness 7}   
-	}
-	{extender "inventory"
+		{extender "inventory"
 		{box
-			{size 10 15}
-			{clear}
+      			{size 6 10}
+         		 	{clear}
+			{item "mgun" "ammo" 5000}
+			{item "pistol" "ammo" 2000}
+			{item "rifle" "ammo" 500}
+			{item "m24" "grenade" 20}
+			{item "m24x5" "grenade" 10}
 			{item "smoke" "grenade" 10}
-			{item "can"}
+			{item "mortar" "ammo" 60}
+			{item "bandage" 50}
+			{item "dynamite" 2}
 			{item "repair_kit"}
-			{item "barrel" 2 filling "fuel" 500}
-                        {item "ammo bullet20 zenite" 2000}
-                        {item "ammo bullet40 zenite" 2000}
-                        {item "ammo bullet37 ap" 100}
-                        {item "ammo bullet37 fg" 100}
-                        {item "ammo bullet45 ap" 100}
-                        {item "ammo bullet45 fg" 100}
-                        {item "ammo bullet75 ap" 60}
-                        {item "ammo bullet75 fg" 60}
-                        {item "ammo bullet76 ap" 60}
-                        {item "ammo bullet76 fg" 100}
-                        {item "ammo bullet85 ap" 60}
-                        {item "ammo bullet85 fg" 60}
-                        {item "ammo bullet114 heat" 80}
-                        {item "ammo bullet152 ap" 30}
-                        {item "ammo bullet152 fg" 30}
-                        {item "ammo bullet105 fg" 66}
-                        {item "ammo bullet150 fg" 48}
-                        {item "tank_balloon" filled}
                         
             
                            

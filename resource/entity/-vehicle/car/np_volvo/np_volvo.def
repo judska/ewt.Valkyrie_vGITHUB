@@ -89,17 +89,16 @@
 		{box
       			{size 6 10}
          		 	{clear}
-			{item "antipersonnel" "mine" 20}
-			{item "can"}
+			{item "mgun" "ammo" 5000}
+			{item "pistol" "ammo" 2000}
+			{item "rifle" "ammo" 500}
+			{item "m24" "grenade" 20}
+			{item "m24x5" "grenade" 10}
+			{item "smoke" "grenade" 10}
+			{item "mortar" "ammo" 60}
+			{item "bandage" 50}
 			{item "dynamite" 2}
 			{item "repair_kit"}
-			{item "ammunition_box_1" 3}
-			{item "ammunition_box_2" 3}
-			{item "ammunition_box_4" 1}
-			{item "m24" "grenade" 20}
-			{item "smoke" "grenade" 10}
-			{item "kasapanos_2kg" 10}
-			{item "kasapanos_4kg" 10}
       		  }
  	 }
 }

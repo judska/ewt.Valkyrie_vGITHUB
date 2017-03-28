@@ -62,7 +62,6 @@
 			{item "mk1" "grenade" 20}
 			{item "n73at" "grenade" 10}
 			{item "smoke" "grenade" 10}
-			{item "ammo piatrocket" 10}
 			{item "mortar" "ammo" 60}
 			{item "antipersonnel" "mine" 50}
 			{item "bandage" 50}

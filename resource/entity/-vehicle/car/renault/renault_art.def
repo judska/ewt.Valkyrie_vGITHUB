@@ -52,36 +52,21 @@
 	{extender "shield"
 			{off}
 	}
-		{extender "inventory"
-			{box
-				{size 10 15}
-               				{clear}
-				{item "can"}
-				{item "repair_kit"}
-                                {item "smoke" "grenade" 10}
-			        {item "can"}
-			        {item "repair_kit"}
-                                {item "ammo hmgun" 3000}
-			        {item "barrel" 2 filling "fuel" 500}
-                                {item "ammo bullet20 zenite" 2000}
-                                {item "ammo bullet37 zenite" 2000}
-                                {item "ammo bullet25 ap" 100}
-                                {item "ammo bullet25 fg" 100}
-                                {item "ammo bullet37 ap" 100}
-                                {item "ammo bullet37 fg" 100}
-                                {item "ammo bullet47 ap" 100}
-                                {item "ammo bullet47 fg" 100}
-                                {item "ammo bullet57 ap" 100}
-                                {item "ammo bullet57 fg" 100}
-                                {item "ammo bullet75 ap" 60}
-                                {item "ammo bullet75 fg" 60}
-                                {item "ammo bullet90 ap" 60}
-                                {item "ammo bullet90 fg" 60}
-                                {item "ammo bullet100 ap" 60}
-                                {item "ammo bullet100 fg" 60}
-                                {item "ammo bullet89 fg" 60}
-                                {item "ammo bullet155 fg" 96}
-                                {item "ammo bullet152 fg" 48}
+	    	{extender "inventory"
+   {box  
+      {size 6 10}
+            {clear}
+                  		{item "mgun" "ammo" 5000}
+			{item "pistol" "ammo" 2000}
+			{item "rifle" "ammo" 500}
+			{item "mk1" "grenade" 20}
+			{item "n73at" "grenade" 10}
+			{item "smoke" "grenade" 10}
+			{item "mortar" "ammo" 60}
+			{item "antipersonnel" "mine" 50}
+			{item "bandage" 50}
+			{item "dynamite" 2}
+			{item "repair_kit"}
 			}
 		}
 	(include "/properties/resupply_generic.inc")

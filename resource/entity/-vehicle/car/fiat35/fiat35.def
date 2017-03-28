@@ -79,18 +79,16 @@
 		{box
       			{size 6 12}
           			{clear}
-			{item "balloon" filling "fuel" 30}
-			{item "antipersonnel" "mine" 20}
-			{item "dynamite" }
-			{item "can" }
-			{item "repair_kit" }
-			{item "ammunition_box_1" 3}
-			{item "ammunition_box_2" 3}
-			{item "ammunition_box_3" 1}
-			{item "ammunition_box_4" 1}
-			{item "oto42flam" "grenade" 20}
-			{item "ccm34smoke" "grenade" 20 }
-			{item "OTO_mod35" "grenade" 30 }
+			{item "mgun" "ammo" 5000}
+			{item "pistol" "ammo" 2000}
+			{item "rifle" "ammo" 500}
+			{item "m24" "grenade" 20}
+			{item "m24x5" "grenade" 10}
+			{item "smoke" "grenade" 10}
+			{item "mortar" "ammo" 60}
+			{item "bandage" 50}
+			{item "dynamite" 2}
+			{item "repair_kit"}
 		}
 	}
 	

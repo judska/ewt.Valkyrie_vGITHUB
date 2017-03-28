@@ -154,7 +154,8 @@
 			{item "type_4" "ammo" 1 {max 5}}
 			{item "rifle_grenade" "ammo" 2 {max 10}}
 			{item "rifle_grenade_at" "ammo" 2 {max 10}}
-			{item "shotgun" "ammo" 5 {max 30}}
+			{item "shotgun" "ammo" 5 {max 60}}
+                        {item "brixia45" "fg" "ammo" 5 {max 45}{value 2}}
 			{item "mortar" "fg" "ammo" 5 {max 30}{value 2}}
 		        {item "mortar50" "fguk" "ammo" 3 {max 30}{value 2}}
 		        {item "mortar50" "fgger" "ammo" 3 {max 30}{value 2}}
@@ -251,10 +252,11 @@
 			{item "bullet152" "fg" "ammo" 1 {max 20}{value 5}}
 			{item "bullet152" "ap" "ammo" 1 {max 20}{value 5}}
 			{item "bullet155" "fg" "ammo" 1 {max 20}{value 5}}
-			{item "bullet203" "ammo" 1 {max 5}{value 5}}
-			{item "bullet290" "ammo" 1 {max 5}{value 5}}
+			{item "bullet203" "ammo" 1 {max 10}{value 5}}
+                        {item "bullet210" "ammo" 1 {max 10}{value 5}}
+			{item "bullet290" "ammo" 1 {max 10}{value 5}}
 			;
-			{item "calliope" "ammo" 5 {max 120}{value 7}}
+			{item "calliope" "ammo" 20 {max 120}{value 7}}
 			{item "lm_ammo" "ammo" 5 {max 32}{value 5}}
 			{item "bm8" "ammo" 5 {max 48}{value 5}}
 			{item "katusha" "ammo" 3 {max 32}{value 5}}
@@ -263,7 +265,9 @@
 			{item "nebel42" "ammo" 2 {max 24}{value 5}}
 			{item "m31" "ammo" 2 {max 12}{value 5}}
 			{item "20cm_rocket" "ammo" 2 {max 10}{value 5}}
+                        {item "bullet82" "ammo" 20 {max 132}{value 5}}
 			{item "tulip" "ammo" 2 {max 15}{value 5}}
+                        
 			;
 			{item "30cm_rocket" "ammo" 1 {max 5}{value 10}}
 			{item "sturmtiger" "ammo" 1 {max 5}{value 10}}

@@ -176,32 +176,19 @@
 	             {able clear {bullet 0} {touch 1}}
 	          }
 	)
-	{extender "inventory"
+		{extender "inventory"
 		{box
-      		{size 10 15}
-			{clear}
-			{item "type97" "grenade" 25}
-			{item "type3at_a" "grenade" 10}
+                        {clear}
+			{item "mgun" "ammo" 5000}
+			{item "pistol" "ammo" 2000}
+			{item "rifle" "ammo" 500}
+			{item "m24" "grenade" 20}
+			{item "m24x5" "grenade" 10}
 			{item "smoke" "grenade" 10}
+			{item "mortar" "ammo" 60}
+			{item "bandage" 50}
 			{item "dynamite" 2}
-			{item "can"}
 			{item "repair_kit"}
-			{item "barrel" 2 filling "fuel" 500}
-                        {item "ammo hmgun" 3000}
-                        {item "ammo bullet20 zenite" 2000}
-                        {item "ammo bullet40 zenite" 2000}
-                        {item "ammo bullet37 ap" 100}
-                        {item "ammo bullet37 fg" 100}
-                        {item "ammo bullet40 ap" 100}
-                        {item "ammo bullet40 fg" 100}
-                        {item "ammo bullet50 ap" 100}
-                        {item "ammo bullet50 fg" 100}
-                        {item "ammo bullet75 ap" 60}
-                        {item "ammo bullet75 fg" 60}
-                        {item "ammo bullet88 ap" 60}
-                        {item "ammo bullet88 fg" 60}
-                        {item "ammo bullet105 fg" 66}
-                        {item "ammo bullet150 fg" 48}
 		}
 	}
 	(include "/properties/resupply_generic.inc")

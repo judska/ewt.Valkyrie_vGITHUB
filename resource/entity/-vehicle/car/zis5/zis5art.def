@@ -90,30 +90,20 @@
 		{component "body"}
 		{thickness 7}   
 	}
-    {extender "inventory"
-        {box
-      		{size 10 15}
+        {extender "inventory"
+    	{box
+			{size 6 10}
 			{clear}
-			{item "bullet45" "ap" "ammo" 75}
-            {item "bullet45" "fg" "ammo" 75}
-			{item "bullet57" "ap" "ammo" 50}
-			{item "bullet57" "fg" "ammo" 50}
-			{item "bullet76" "ap" "ammo" 50}
-			{item "bullet76" "fg" "ammo" 50}
-			{item "bullet85" "ap" "ammo" 30}
-			{item "bullet85" "fg" "ammo" 30}
-			{item "bullet100" "ap" "ammo" 30}
-			{item "bullet100" "fg" "ammo" 30}
-			{item "bullet122" "ap" "ammo" 20}
-			{item "bullet122" "fg" "ammo" 30}
-			{item "bullet152" "ap" "ammo" 30}
-			{item "bullet152" "fg" "ammo" 30}
-			{item "bullet37" "zenite" "ammo" 400}
-			{item "hmgun" "ammo" 2000}
-			{item "katusha" "ammo" 64}
-                        {item "bullet82" "ammo" 264}
-			{item "barrel" 2 filling "fuel" 500}
-			{item "bullet203" "ammo" 30}
+			{item "mgun" "ammo" 5000}
+			{item "pistol" "ammo" 2000}
+			{item "rifle" "ammo" 500}
+			{item "rpg40" "grenade" 10}
+			{item "f1" "grenade" 20}
+			{item "smoke" "grenade" 10}
+			{item "mortar" "ammo" 60}
+			{item "bandage" 50}
+			{item "dynamite" 2}
+			{item "repair_kit"}
 		}
 	}
 	(include "/properties/resupply_generic.inc")

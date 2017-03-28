@@ -62,28 +62,21 @@
 	{extender "enumerator"
 		{digit_folder "ger"}
 	}
-	{extender "inventory"
+{extender "inventory"
 		{box
-			{size 10 15}
-			{clear}
-			{item "bullet42" "ap" "ammo" 75}
-			{item "bullet42" "fg" "ammo" 75}
-			{item "bullet50" "ap" "ammo" 60}
-			{item "bullet50" "fg" "ammo" 60}
-			{item "bullet75" "ap" "ammo" 50}
-			{item "bullet75" "fg" "ammo" 50}
-			{item "bullet88" "ap" "ammo" 35}
-			{item "bullet88" "fg" "ammo" 35}
-			{item "bullet105" "fg" "ammo" 60}
-			{item "bullet128" "ap" "ammo" 25}
-			{item "bullet128" "fg" "ammo" 25}
-			{item "bullet150" "fg" "ammo" 30}
-			{item "bullet20" "zenite" "ammo" 400}
-			{item "panzerwerfer42" "ammo" 20}
-			{item "nebel41" "ammo" 60}
-			{item "sturmtiger" "ammo" 5}
-			{item "barrel" 2 filling "fuel" 500}
-		}
+      		{size 6 10}
+          	{clear}
+			{item "mgun" "ammo" 5000}
+			{item "pistol" "ammo" 2000}
+			{item "rifle" "ammo" 500}
+			{item "m24" "grenade" 20}
+			{item "m24x5" "grenade" 10}
+			{item "smoke" "grenade" 10}
+			{item "bullet42" "fg" "ammo" 50}
+			{item "mortar" "ammo" 60}
+			{item "bandage" 50}
+			{item "dynamite" 2}
+			{item "repair_kit"}
 	}
 	(include "/properties/resupply_generic.inc")
 	("truck_ammo_art")

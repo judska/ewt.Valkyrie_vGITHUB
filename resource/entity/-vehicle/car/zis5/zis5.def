@@ -100,9 +100,7 @@
 			{item "rpg40" "grenade" 10}
 			{item "f1" "grenade" 20}
 			{item "smoke" "grenade" 10}
-			{item "ammo bazooka" 10}
 			{item "mortar" "ammo" 60}
-			{item "antipersonnel" "mine" 50}
 			{item "bandage" 50}
 			{item "dynamite" 2}
 			{item "repair_kit"}
