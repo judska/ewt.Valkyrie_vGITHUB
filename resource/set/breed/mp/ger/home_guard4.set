@@ -49,6 +49,7 @@
 		{item "ammo pistol" 500}
 		{item "bandage" 3}
 		{item "grenade m24" 2}
+		{item "faustpatrone weapon" filled}
 		{in_hands 0}
 	}
 }
