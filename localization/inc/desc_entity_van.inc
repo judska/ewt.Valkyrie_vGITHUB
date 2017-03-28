@@ -258,7 +258,8 @@
 		{"pz3_m_flamer" "PzKpfw III Flamer"}
 		{"pz3n" "PzKpfw III Ausf.N"}
 		{"pz4d" "PzKpfw IV Ausf.D"}
-		{"pz4g" "PzKpfw IV Ausf.G"}
+		{"pz4g" "PzKpfw IV Ausf.F2"}
+		{"pz4g2" "PzKpfw IV Ausf.G"}
 		{"pz4h" "PzKpfw IV Ausf.H"}
 		{"pz5" "PzKpfw V Panther"}
 		{"pz5g" "PzKpfw V Panther Ausf.G"}

@@ -291,7 +291,7 @@
 		{"hero1_ger" "Veteran Sniper"}
 		{"hero2_ger1" "German Youth"}
 		{"hero3_ger" "Brandenburger"}
-		{"hero4_ger1" "PzKpfw III Flamer"}
+		{"hero4_ger1" "Blitzkrieg!"}
 		{"hero5_ger" "Fallschirmjager"}
 		{"hero6_ger" "Nebelwerfer 41"}
 		{"hero7_ger" "Radio Operator"}
@@ -316,7 +316,7 @@
 		
 		{"hero1_rus" "Spetsnaz"}
 		{"hero2_rus" "Shock Infantry"}
-		{"hero3_rus1" "T-38"}
+		{"hero3_rus1" "Amphibious Assault!"}
 		{"hero4_rus" "Guards Sniper"}
 		{"hero5_rus" "Guards Rifle"}
 		{"hero6_rus" "Charge!"}
@@ -377,13 +377,13 @@
         {"hero9_fin" "Modified KV-1"}
         {"hero10_fin" "Nebelwefer 42"}
         {"hero11_fin" "Captured SU-152"}
-        {"hero12_fin" "Thor's Thunder"}
+        {"hero12_fin" "Thor's Hammer"}
 
         {"hero1_ita" "Polizia Militare"}
         {"hero2_ita" "Caccia Carri"}
         {"hero3_ita" "Carro Armato L35/L.F."}
         {"hero4_ita" "45mm Brixia Modello 35"}
-        {"hero5_ita" "ARMIR"}
+        {"hero5_ita" "Eroi di Stalingrado"}
         {"hero6_ita" "Cannone Movente"}
         {"hero7_ita" "PzKpfw III Ausf.N"}
         {"hero8_ita" "Radio Operator"}

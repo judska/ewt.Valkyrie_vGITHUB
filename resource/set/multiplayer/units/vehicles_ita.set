@@ -62,7 +62,7 @@
 {"hero3_ita"         ("v1" c(120) c1(l35lf)          t(all hero) s(ita) n1(tankman:3) n2(tankman2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
 {"hero4_ita"         ("v1" c(240) c1(brixia45) 		 t(all hero) s(ita) n1(vehicle_supporter:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
-{"hero5_ita"         ("i3" c(240)                    t(all hero) s(ita) n1(elite7:4) n2(elite9:2) n3(elite8:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"hero5_ita"         ("i3" c(240)                    t(all hero) s(ita) n1(elite7:5) n2(elite9:2) n3(elite8:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero6_ita"         ("v1" c(360) c1(3ro)            t(all hero) s(ita) n1(vehicle_supporter:4) g(h3) b(hero)) {level 20} {cost 3.0} {fore -0.5}}
 
 {"hero7_ita"         ("v1" c(360) c1(pz3nita)        t(all hero) s(ita) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 20} {cost 3.0} {fore -0.5}}

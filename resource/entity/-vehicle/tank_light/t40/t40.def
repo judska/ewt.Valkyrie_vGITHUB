@@ -25,22 +25,17 @@
 			{item "ammo hmgun" 1500}
 			{item "ammo mgun" 3000}
 			{item "dshk" filled {user "gun"}}
-			{item "dt" filled {user "mgun"}}
 		}
 	}
 	{Weaponry
 		{place "gun"
-			{type "mgun_main"}
-			{foresight "foresight3"}
-			{gunner "gunner"}
+			{weapon "dshk" filled}
 			{charger "gunner"}
-			{basic}
-			("abm_mgun")
+			("abm_low")
 		}			
 		{place "mgun"
 			{type "mgun_coaxial"}
-			{LinkBone "mgun"}
-			{LinkAnimation "off"}
+			{weapon "dt" filled}
 			{charger "gunner"}
 			("abm_mgun")
 			{basic}

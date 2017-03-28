@@ -33,8 +33,8 @@
 {"m1139_anz"        ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0}}
 {"m1340_anz"        ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0}}
 
+{"m2a4"             ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(265.00) b(v3) cw(0) cp(5)) {level 1} {cost 265} {fore 0}}
 {"staghound"        ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(280.00) b(v3) cw(0) cp(5)) {level 1} {cost 280} {fore 0}}
-{"m2a4"             ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(300.00) b(v3) cw(0) cp(5)) {level 1} {cost 300} {fore 0}}
 {"np_lrdg_20mm"     ("vs" c(180) t(all light) 		s(anz) n(3) g(d3) sc(180.00) b(v3) cw(0) cp(5)) {level 1} {cost 180} {fore 0}}
 
 

@@ -14,7 +14,7 @@
 }
 {"mp_tier3"
     ("uncover" u(20))
-    ("h_fov" h(225))
+    ("h_fov" h(180))
     ("v_fov" v(300))
     ("vision_human")
 }
@@ -26,7 +26,7 @@
 }
 {"mp_sniper"
     ("uncover" u(10))
-    ("h_fov" h(150))
+    ("h_fov" h(180))
     ("v_fov" v(200))
     ("vision_human")
 }
