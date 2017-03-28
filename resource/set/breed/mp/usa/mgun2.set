@@ -5,7 +5,7 @@
 	{icon "mg2"}
 	{icon_priority 2}
 	{armors
-		{head helmet101st_usa}
+		
 	}
 	{perks
 		{"health" "200%"
