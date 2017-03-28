@@ -67,7 +67,7 @@
       {size 8 8}
     }
   }
-    {extender "inventory"
+      {extender "inventory"
 		{box
       		{size 6 10}
           	{clear}
@@ -77,11 +77,9 @@
 			{item "dynamite" 2}
 			{item "can"}
 			{item "repair_kit"}
-			{item "antipersonnel" "mine" 50}
                         {item "mgun" "ammo" 5000}
 			{item "pistol" "ammo" 2000}
 			{item "rifle" "ammo" 500}
-                        {item "ammo piatrocket" 10}
         }
     }
 	(include "/properties/resupply_generic.inc")

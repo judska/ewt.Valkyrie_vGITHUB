@@ -193,14 +193,14 @@
 			{item "mortar" "fg" "ammo" 5 {max 30}{value 2}}
 		        {item "mortar50" "fguk" "ammo" 3 {max 30}{value 2}}
 		        {item "mortar50" "fgger" "ammo" 3 {max 30}{value 2}}			
-                        {item "hmgun" "ammo" 50 {max 300}{value 2}}
-			{item "mortar150" "fg" "ammo" 2 {max 15}{value 2}}
+                        {item "hmgun" "ammo" 50 {max 500}{value 2}}
+			{item "mortar150" "fg" "ammo" 2 {max 20}{value 2}}
 			;
-			{item "bullet20" "zenite" "ammo" 10 {max 100}{value 2}}
-			{item "bullet25" "zenite" "ammo" 10 {max 100}{value 2}}
-			{item "bullet30" "zenite" "ammo" 10 {max 100}{value 2}}
-			{item "bullet37" "zenite" "ammo" 10 {max 100}{value 2}}
-			{item "bullet40" "zenite" "ammo" 10 {max 100}{value 2}}
+			{item "bullet20" "zenite" "ammo" 10 {max 500}{value 2}}
+			{item "bullet25" "zenite" "ammo" 10 {max 500}{value 2}}
+			{item "bullet30" "zenite" "ammo" 10 {max 500}{value 2}}
+			{item "bullet37" "zenite" "ammo" 10 {max 500}{value 2}}
+			{item "bullet40" "zenite" "ammo" 10 {max 500}{value 2}}
 			{item "bullet25" "ap" "ammo" 3 {max 30}{value 2}}
 			{item "bullet25" "fg" "ammo" 3 {max 25}{value 2}}
 			{item "bullet37" "ap" "ammo" 3 {max 30}{value 2}}
@@ -216,53 +216,54 @@
 			{item "bullet57" "ap" "ammo" 3 {max 30}{value 2}}
 			{item "bullet57" "fg" "ammo" 3 {max 25}{value 2}}
 			{item "bullet75" "ap" "ammo" 2 {max 20}{value 2}}
-			{item "bullet75" "fg" "ammo" 2 {max 15}{value 2}}
+			{item "bullet75" "fg" "ammo" 2 {max 20}{value 2}}
 			{item "bullet76" "ap" "ammo" 2 {max 20}{value 2}}
-			{item "bullet76" "fg" "ammo" 2 {max 15}{value 2}}
+			{item "bullet76" "fg" "ammo" 2 {max 20}{value 2}}
 			{item "bullet77" "ap" "ammo" 2 {max 20}{value 2}}
-			{item "bullet77" "fg" "ammo" 2 {max 15}{value 2}}
+			{item "bullet77" "fg" "ammo" 2 {max 20}{value 2}}
 			{item "bullet85" "ap" "ammo" 2 {max 20}{value 2}}
-			{item "bullet85" "fg" "ammo" 2 {max 15}{value 2}}
+			{item "bullet85" "fg" "ammo" 2 {max 20}{value 2}}
 			{item "bullet88" "ap" "ammo" 2 {max 20}{value 2}}
-			{item "bullet88" "fg" "ammo" 2 {max 15}{value 2}}
+			{item "bullet88" "fg" "ammo" 2 {max 20}{value 2}}
 			{item "bullet89" "ap" "ammo" 2 {max 20}{value 2}}
-			{item "bullet89" "fg" "ammo" 2 {max 15}{value 2}}
+			{item "bullet89" "fg" "ammo" 2 {max 20}{value 2}}
 			{item "bullet90" "ap" "ammo" 2 {max 20}{value 2}}
-			{item "bullet90" "fg" "ammo" 2 {max 15}{value 2}}
+			{item "bullet90" "fg" "ammo" 2 {max 20}{value 2}}
 			{item "bullet93" "ap" "ammo" 2 {max 20}{value 2}}
-			{item "bullet93" "fg" "ammo" 2 {max 15}{value 2}}
+			{item "bullet93" "fg" "ammo" 2 {max 20}{value 2}}
 			{item "bullet95" "ap" "ammo" 2 {max 20}{value 2}}
-			{item "bullet95" "fg" "ammo" 2 {max 15}{value 2}}
+			{item "bullet95" "fg" "ammo" 2 {max 20}{value 2}}
 			{item "bullet100" "ap" "ammo" 2 {max 20}{value 2}}
-			{item "bullet100" "fg" "ammo" 2 {max 15}{value 2}}
+			{item "bullet100" "fg" "ammo" 2 {max 20}{value 2}}
 			{item "bullet105" "ap" "ammo" 2 {max 20}{value 2}}
+                        {item "bullet105" "fg" "ammo" 2 {max 20}{value 2}}
 			{item "bullet120" "ap" "ammo" 2 {max 20}{value 2}}
 			{item "bullet122" "ap" "ammo" 2 {max 20}{value 2}}
-			{item "bullet128" "ap" "ammo" 2 {max 15}{value 2}}
-			{item "bullet155_1" "fg" "ammo" 2 {max 15}{value 5}}
-			{item "bullet105" "fg" "ammo" 1 {max 10}{value 5}}
-			{item "bullet114" "heat" "ammo" 1 {max 10}{value 5}}
-			{item "bullet120" "fg" "ammo" 1 {max 10}{value 5}}
-			{item "bullet122" "fg" "ammo" 1 {max 10}{value 5}}
-			{item "bullet128" "fg" "ammo" 1 {max 10}{value 5}}
+			{item "bullet128" "ap" "ammo" 2 {max 25}{value 2}}
+			{item "bullet155_1" "fg" "ammo" 2 {max 25}{value 5}}
+			{item "bullet105" "fg" "ammo" 1 {max 20}{value 5}}
+			{item "bullet114" "heat" "ammo" 1 {max 20}{value 5}}
+			{item "bullet120" "fg" "ammo" 1 {max 20}{value 5}}
+			{item "bullet122" "fg" "ammo" 1 {max 20}{value 5}}
+			{item "bullet128" "fg" "ammo" 1 {max 20}{value 5}}
 			{item "bullet149" "fg" "ammo" 1 {max 20}{value 5}}
 			{item "bullet150" "fg" "ammo" 1 {max 20}{value 5}}
-			{item "bullet152" "fg" "ammo" 1 {max 10}{value 5}}
-			{item "bullet152" "ap" "ammo" 1 {max 10}{value 5}}
-			{item "bullet155" "fg" "ammo" 1 {max 10}{value 5}}
+			{item "bullet152" "fg" "ammo" 1 {max 20}{value 5}}
+			{item "bullet152" "ap" "ammo" 1 {max 20}{value 5}}
+			{item "bullet155" "fg" "ammo" 1 {max 20}{value 5}}
 			{item "bullet203" "ammo" 1 {max 5}{value 5}}
 			{item "bullet290" "ammo" 1 {max 5}{value 5}}
 			;
-			{item "calliope" "ammo" 5 {max 60}{value 7}}
+			{item "calliope" "ammo" 5 {max 120}{value 7}}
 			{item "lm_ammo" "ammo" 5 {max 32}{value 5}}
-			{item "bm8" "ammo" 5 {max 24}{value 5}}
-			{item "katusha" "ammo" 3 {max 16}{value 5}}
+			{item "bm8" "ammo" 5 {max 48}{value 5}}
+			{item "katusha" "ammo" 3 {max 32}{value 5}}
 			{item "panzerwerfer42" "ammo" 2 {max 10}{value 5}}
-			{item "nebel41" "ammo" 2 {max 12}{value 5}}
-			{item "nebel42" "ammo" 2 {max 12}{value 5}}
+			{item "nebel41" "ammo" 2 {max 24}{value 5}}
+			{item "nebel42" "ammo" 2 {max 24}{value 5}}
 			{item "m31" "ammo" 2 {max 12}{value 5}}
 			{item "20cm_rocket" "ammo" 2 {max 10}{value 5}}
-			{item "tulip" "ammo" 2 {max 10}{value 5}}
+			{item "tulip" "ammo" 2 {max 15}{value 5}}
 			;
 			{item "30cm_rocket" "ammo" 1 {max 5}{value 10}}
 			{item "sturmtiger" "ammo" 1 {max 5}{value 10}}

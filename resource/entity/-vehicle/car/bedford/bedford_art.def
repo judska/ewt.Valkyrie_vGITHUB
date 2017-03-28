@@ -61,35 +61,20 @@
 
 	{extender "enumerator"
 	}
-	{extender "inventory"
+	    {extender "inventory"
 		{box
-      		{size 10 15}
-			{clear}
-			{item "bullet37" "ap" "ammo" 75}
-			{item "bullet37" "fg" "ammo" 75}
-			{item "ammo piatrocket" 10}
-			{item "bullet40" "ap" "ammo" 75}
-			{item "bullet40" "fg" "ammo" 75}
-			{item "bullet57" "ap" "ammo" 50}
-			{item "bullet57" "fg" "ammo" 50}
-			{item "bullet75" "ap" "ammo" 50}
-			{item "bullet75" "fg" "ammo" 50}
-			{item "bullet76" "ap" "ammo" 50}
-			{item "bullet76" "fg" "ammo" 50}
-			{item "bullet77" "ap" "ammo" 50}
-			{item "bullet77" "fg" "ammo" 50}
-			{item "bullet89" "ap" "ammo" 30}
-			{item "bullet89" "fg" "ammo" 30}
-			{item "bullet93" "ap" "ammo" 25}
-            {item "bullet93" "fg" "ammo" 25}
-			{item "bullet20" "zenite" "ammo" 400}
-			{item "ammo tulip" "fg" "ammo" 50}
-			{item "bullet105" "fg" "ammo" 60}
-			{item "bullet152" "fg" "ammo" 30}
-			{item "barrel" 2 filling "fuel" 500}
-			{item "hmgun" "ammo" 3000}
-			{item "lm_ammo" "ammo" 128}
-                        {item "bullet290" "ammo" 30}
+      		{size 6 10}
+          	{clear}
+			{item "mk1" "grenade" 20}
+			{item "n73at" "grenade" 10}
+			{item "smoke" "grenade" 10}
+			{item "dynamite" 2}
+			{item "can"}
+			{item "repair_kit"}
+                        {item "mgun" "ammo" 5000}
+			{item "pistol" "ammo" 2000}
+			{item "rifle" "ammo" 500}
+			
 		}
 	}
 	(include "/properties/resupply_generic.inc")
