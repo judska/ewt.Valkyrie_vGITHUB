@@ -303,7 +303,7 @@
 
 		{"hero1_jap" "AT-Riflegrenade Squad"}
 		{"hero2_jap1" "Kamikaze!"}
-		{"hero3_jap1" "Divine Wind"}
+		{"hero3_jap1" "Gyokusai"}
 		{"hero4_jap" "Homeland Fury"}
 		{"hero5_jap" "Marine Paratroopers"}
 	    {"hero6_jap" "Type 97 Mortar"}
