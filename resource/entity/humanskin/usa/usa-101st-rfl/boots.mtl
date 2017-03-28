@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "para boots"}
+	{blend none}
+}

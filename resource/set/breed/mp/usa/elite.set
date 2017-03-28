@@ -1,11 +1,12 @@
 {breed
-	{skin "usa-101st-air-sgt"}
+	{skin "usa-101st-rfl"}
 	{portrait "usa_elite1"}
 	{nationality usa}
 	{icon "elite"}
 	{icon_priority 3}
 	{armors
 		{head helmet_airborne_usa1}
+                  {body "ammo_us2"}
 	}
 	{perks
 		{"health" "250%"
