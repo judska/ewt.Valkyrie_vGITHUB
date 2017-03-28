@@ -62,19 +62,20 @@
 	{extender "enumerator"
 		{digit_folder "ger"}
 	}
-	   {extender "inventory"
+	  	{extender "inventory"
 		{box
-      		{size 6 10}
-          	{clear}
-			{item "mk1" "grenade" 20}
-			{item "n73at" "grenade" 10}
-			{item "smoke" "grenade" 10}
-			{item "dynamite" 2}
-			{item "can"}
-			{item "repair_kit"}
-                        {item "mgun" "ammo" 5000}
+			{size 6 10}
+			{clear}
+			{item "mgun" "ammo" 5000}
 			{item "pistol" "ammo" 2000}
 			{item "rifle" "ammo" 500}
+			{item "m24" "grenade" 20}
+			{item "m24x5" "grenade" 10}
+			{item "smoke" "grenade" 10}
+			{item "mortar" "ammo" 60}
+			{item "bandage" 50}
+			{item "dynamite" 2}
+			{item "repair_kit"}
 		}
     }
 	(include "/properties/resupply_generic.inc")

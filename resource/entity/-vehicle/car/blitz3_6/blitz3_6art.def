@@ -77,6 +77,7 @@
 			{item "bandage" 50}
 			{item "dynamite" 2}
 			{item "repair_kit"}
+                     }
 	}
 	(include "/properties/resupply_generic.inc")
 	("truck_ammo_art")

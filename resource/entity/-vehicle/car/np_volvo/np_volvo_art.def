@@ -175,7 +175,8 @@
 		{tags "body"}
 		{component "body"}
 		{thickness 7}   
-		{extender "inventory"
+		}
+	{extender "inventory"
 		{box
       			{size 6 10}
          		 	{clear}
