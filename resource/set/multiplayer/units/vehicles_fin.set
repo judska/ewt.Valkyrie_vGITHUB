@@ -66,6 +66,6 @@
 {"hero8_fin"            ("i2" c(480)	                 t(all hero) s(fin) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero9_fin"            ("v1" c(600) c1(kv1_41_fin)      t(all hero) s(fin) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 
-{"hero10_fin"           ("v1" c(600) c1(t34_3_fin) 	     t(all hero) s(fin) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 15} {cost 5.0} {fore -0.5}}
+{"hero10_fin"           ("v1" c(600) c1(nebelwerfer42) 	 t(all hero) s(fin) n1(vehicle_supporter:2) g(h5) b(hero)) {level 15} {cost 5.0} {fore -0.5}}
 {"hero11_fin"  	        ("v1" c(720) c1(su152)           t(all hero) s(fin) n1(tankman:3) n2(tankman2:1) g(h6) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
-{"hero12_fin"           ("2v" c(840) c1(t20_fin)         c2(np_ml20_fin_veteran)	 t(all hero) s(fin) n1(vehicle_supporter:2) n2(vehicle_supporter:2) g(h7) b(hero)) {level 20} {cost 7.0} {fore -0.5}}
+{"hero12_fin"           ("2v" c(840) c1(t20_fin) c2(np_ml20_fin_veteran)  t(all hero) s(fin) n1(vehicle_supporter:2) n2(vehicle_supporter:2) g(h6) b(hero)) {level 20} {cost 6.0} {fore -0.5}}

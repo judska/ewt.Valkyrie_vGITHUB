@@ -33,13 +33,13 @@
 
 	{extender "inventory"
 		{box
-			{item "bullet76_eng fg" 50}
+            {item "ammo bullet76 fg" 30}
 			{item "sandbag_kit2"}
 		}
 	}
 	{Weaponry
 		{place "gun"
-                        		{weapon "76mm_qf13" filling "bullet76_eng fg" 1}
+			                    {weapon "76mm_qf3" filling "ammo bullet76 fg" 1}
                         		{Rotate}
 			("abm_howitzer")
 		}

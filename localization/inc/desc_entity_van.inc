@@ -228,6 +228,7 @@
 		{"nebelwerfer41" "Nebelwerfer 41"}
 		{"nebelwerfer42" "Nebelwerfer 42"}
 		{"np_type95" "Type 95"}
+		{"np_sdkfz8_flak" "8.8 cm Flak.37 sfl"}
         {"oerlikon" "Oerlikon 20mm"}
 		{"oerlikon_fix" "Oerlikon 20mm"}
 		{"ostwind" "Ostwind"}
@@ -289,6 +290,7 @@
 		{"staghound_e1" "Staghound Tulip"}
 		{"steam_locomotive" "Locomotive"}
 		{"stug3g" "StuG III Ausf.G"}
+		{"stug4g" "StuG IV Ausf.G"}
 		{"stuh42" "StuH 42"}
 		{"sturmtiger" "Sturmtiger"}
 		{"su122" "SU-122"}

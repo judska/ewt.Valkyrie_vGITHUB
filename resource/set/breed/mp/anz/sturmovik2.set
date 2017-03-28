@@ -45,13 +45,11 @@
 		("veterancy_1")
 	}
 	{inventory
-		{item "bren" filled}
-		{item "ammo mgun" 900}
+		{item "m12_shotgun" filled}
+		{item "ammo shotgun" 90}
 		{item "bandage" 5}
-           {item "mask_ger_afr" 1}
-		{item "grenade mk1" 2}
-		{item "grenade n73at" 1}
-		{item "dynamite" 1}
+        {item "mask_ger_afr" 1}
+		{item "grenade mk1" 1}
 		{in_hands 0}
 	}
 }

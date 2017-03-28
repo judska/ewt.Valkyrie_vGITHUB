@@ -303,7 +303,7 @@
 
 		{"hero1_jap" "AT-Riflegrenade Squad"}
 		{"hero2_jap1" "Kamikaze!"}
-		{"hero3_jap1" "Ke-Nu"}
+		{"hero3_jap1" "Divine Wind"}
 		{"hero4_jap" "Homeland Fury"}
 		{"hero5_jap" "Marine Paratroopers"}
 	    {"hero6_jap" "Type 97 Mortar"}
@@ -324,7 +324,7 @@
 		{"hero8_rus" "Radio Operator"}
 		{"hero9_rus" "KV-2"}
 		{"hero10_rus" "BM-8-24"}
-		{"hero11_rus" "Kremlin Regiment"}
+		{"hero11_rus" "Moscow Guards"}
 		{"hero12_rus" "203mm B-4M"}
 
 		{"hero1_usa" "M8 Howitzer"}
@@ -336,7 +336,7 @@
 		{"hero7_usa" "M4A3R2 Croc"}
 		{"hero8_usa" "Radio Operator"}
 		{"hero9_usa" "M4A3(105)"}
-		{"hero10_usa" "Veteran M4A3E8(76)W Sherman"}
+		{"hero10_usa" "Fury!"}
 		{"hero11_usa" "M1 155mm Long Tom"}
 		{"hero12_usa" "Super Pershing"}
 
@@ -346,7 +346,7 @@
 		{"hero4_hun" "Szent Laszlo Infantry"}
 		{"hero5_hun" "Arrow Cross Fanatics"}
 		{"hero6_hun" "SdKfz 250/9"}
-		{"hero7_hun" "Skoda T25"}
+		{"hero7_hun" "Hetzer!"}
 		{"hero8_hun" "Rapid Corps"}
 		{"hero9_hun" "Radio Operator"}		
         {"hero10_hun" "15 cm sIG 33"}
@@ -371,13 +371,13 @@
         {"hero3_fin" "Trench Clearers"}
         {"hero4_fin" "76mm M1909"}
         {"hero5_fin" "White Death"}
-        {"hero6_fin" "Captured SU-152"}
+        {"hero6_fin" "Prototype BT-42"}
         {"hero7_fin" "Toerni Detachement"}
         {"hero8_fin" "Radio Operator"}
         {"hero9_fin" "Modified KV-1"}
-        {"hero10_fin" "Captured T-34/85"}
+        {"hero10_fin" "Nebelwefer 42"}
         {"hero11_fin" "Captured SU-152"}
-        {"hero12_fin" "Veteran 152mm M1937"}
+        {"hero12_fin" "Thor's Thunder"}
 
         {"hero1_ita" "Polizia Militare"}
         {"hero2_ita" "Caccia Carri"}
@@ -399,7 +399,7 @@
         {"hero5_chn" "Korean Rebels"}
         {"hero6_chn" "SU-12"}
         {"hero7_chn" "Burma Road Soliders"}
-        {"hero8_chn" "122mm M1931/37 (A-19)"}
+        {"hero8_chn" "122mm A-19"}
         {"hero9_chn" "Radio Operator"}
         {"hero10_chn" "China Uprising"}
         {"hero11_chn" "Foreign Aid"}
@@ -407,15 +407,15 @@
 
         {"hero1_anz" "Boyes .55 carrier"}
         {"hero2_anz" "Volunteer Rifles"}
-        {"hero3_anz" "Jungle Gun"}
-        {"hero4_anz" "Desert Rats"}
-        {"hero5_anz" "40mm M1 Bofors L/60"}
-        {"hero6_anz" "Staghound OF 6-pdr"}
-        {"hero7_anz" "4.2 inch Mortar carrier"}
-        {"hero8_anz" "Radio Operator"}
-        {"hero9_anz" "Staghound Tulip"}
-        {"hero10_anz" "Sexton TD"}
-        {"hero11_anz" "Veteran M4A4 Firefly"}
+        {"hero3_anz" "Jungle Gun!"}
+        {"hero4_anz" "Desert Patrol"}
+        {"hero5_anz" "Desert Rats"}
+        {"hero6_anz" "40mm M1 Bofors L/60"}     
+        {"hero7_anz" "Staghound OF 6-pdr"}   
+        {"hero8_anz" "4.2 inch Mortar carrier"}        
+        {"hero9_anz" "Radio Operator"}         
+        {"hero10_anz" "Staghound Tulip"} 
+        {"hero11_anz" "Sexton TD"}
         {"hero12_anz" "Churchill Mk. VCS"}
 
 

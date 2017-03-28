@@ -1,13 +1,13 @@
 {from "pattern gun"		; "pz2l", "sdkfz222"
-	{filling "bullet20 zenite" 100}	
+	{filling "bullet20 zenite" 300}	
 	{fireSound "gun/zenite/20mm_burst/"}
 	{reloadSound "flak38"}
-	{rechargeTime 3}
+	{rechargeTime 10}
 	("range_zenite")
 	
 	("speed" s(900))
 	("caliber_zenite")
-	("recoveryTime" r(520))
+	("recoveryTime" r(280))
 	{projectileDamage 57}
 	("damage_100" a(57) b(23) c(18) d(12) e(8))
 	

@@ -44,12 +44,12 @@
 		("veterancy_1")
 	}
 	{inventory
-		{item "dp" filled}
-		{item "ammo mgun" 900}
+		{item "pystykorva" filled}
+		{item "rifle ammo" 300}
 		{item "bandage" 5}
-		{item "grenade m24" 2}
-		{item "grenade m24x5" 1}
-		{item "dynamite" 1}
+		{item "grenade m24" 4}
+		{item "grenade m24x5" 2}
+		{item "smoke grenade" 2}
 		{in_hands 0}
 	}
 }

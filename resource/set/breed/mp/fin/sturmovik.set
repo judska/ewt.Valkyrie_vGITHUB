@@ -44,8 +44,8 @@
 		("veterancy_1")
 	}
 	{inventory
-		{item "suomi_m31" filled}
-		{item "ammo pistol" 500}
+		{item "avs36" filled}
+		{item "rifle ammo" 300}
 		{item "bandage" 5}
 		{item "grenade m24" 4}
 		{item "grenade m24x5" 2}

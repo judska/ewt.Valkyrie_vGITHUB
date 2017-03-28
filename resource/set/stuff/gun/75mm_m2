@@ -5,4 +5,5 @@
 	("range_light_howitzer")
 
 	("caliber_medium")
+	{gravity 8.5}
 }

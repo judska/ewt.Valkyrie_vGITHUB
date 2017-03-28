@@ -62,7 +62,7 @@
 {"stug3g"           ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f2) sc(610.00) b(v5) cw(0) cp(10)) {level 1} {cost 610} {fore 1.0}}
 {"stug4g"           ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f2) sc(630.00) b(v5) cw(0) cp(10)) {level 1} {cost 630} {fore 1.0}}
 
-{"np_sdkfz8_flak"   ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f2) sc(900.00) b(v5) cw(0) cp(10)) {level 1} {cost 900} {fore 1.0}}
+{"np_sdkfz8_flak"   ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f2) sc(900.00) b(v5) cw(0) cp(10)) {level 1} {cost 710} {fore 1.0}}
 {"jagdpanzer_iv"    ("v" c(0) t(all heavy)		s(ger) n1(3) n2(1) g(f3) sc(915.00) b(v5) cw(0) cp(10)) {level 1} {cost 900} {fore 1.0}} 				
 {"nashorn"          ("v" c(0) t(all heavy) 	    s(ger) n1(3) n2(1) g(f4) sc(950.00) b(v5) cw(0) cp(10)) {level 1} {cost 940} {fore 1.0}}  			
 
@@ -73,7 +73,7 @@
 ;°°°Button Hero°°°
 
 {"hero1_ger"        ("i1" c(120)				                   t(all hero) s(ger) n1(sniper2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
-{"hero2_ger1"       ("v3" c(120) c1(mining_box)				       t(all hero) s(ger) n1(home_guard3:2) n2(home_guard4:3) n3(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"hero2_ger1"       ("i3" c(120)				                   t(all hero) s(ger) n1(home_guard3:2) n2(home_guard4:2) n3(mgun2:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero3_ger"        ("i3" c(240)				                   t(all hero) s(ger) n1(elite4:3) n2(elite5:4) n3(elite6:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 
 {"hero4_ger1"       ("v1" c(240) c1(pz3_m_flamer) 		           t(all hero) s(ger) n1(tankman:3) n2(tankman2:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}  
@@ -84,6 +84,6 @@
 {"hero8_ger1"       ("24v" c(600) c1(sdkfz251_1_D_R) c2(sdkfz251_1_D_R)     t(all hero) s(ger) n1(sturmovik9:3) n2(sturmovik8:3) n3(sturmovik11:2) n4(sturmovik10:2) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 {"hero9_ger"	    ("v1" c(600) c1(stuh42) 		               t(all hero) s(ger) n1(tankman:4) n2(tankman2:1) g(h5) b(hero)) {level 10} {cost 5.0} {fore -0.5}}
 
-{"hero10_ger"	    ("v1" c(120) c1(pak43)	                       t(all hero) s(ger) n1(vehicle_supporter:2) g(h1) b(hero)) {level 15} {cost 1.0} {fore -0.5}}
+{"hero10_ger"	    ("v1" c(720) c1(pak43)	                       t(all hero) s(ger) n1(vehicle_supporter:2) g(h6) b(hero)) {level 15} {cost 6.0} {fore -0.5}}
 {"hero11_ger"       ("v1" c(840) c1(veteran_tiger) 	               t(all hero) s(ger) n1(tankman:4) n2(tankman2:1) g(h7) b(hero)) {level 20} {cost 7.0} {fore -0.5}}  
 {"hero12_ger"       ("v1" c(1200) c1(pz6bh) 		               t(all hero) s(ger) n1(tankman:4) n2(tankman2:1) g(h10) b(hero)) {level 10} {cost 10.0} {fore -0.5}}

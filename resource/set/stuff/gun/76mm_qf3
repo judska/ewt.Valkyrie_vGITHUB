@@ -1,8 +1,13 @@
-{from "pattern gun"		; "bt7a"
+{from "pattern gun"		;
 	{filling "bullet76 fg"}
 	{fireSound "gun/50to76_cal/76mm_kt26"}
 	{reloadSound "gun_r03"}
-	("range_light_howitzer")
-
+	("range_grazing_howitzer")
+	("accuracy_lighthowitzer")
+	{rechargeTime 4.2}
+	{parameters "fg"	
+		{range 120 130}
+	}
 	("caliber_medium")
+	{gravity 4.5}
 }

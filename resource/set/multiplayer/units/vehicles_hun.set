@@ -30,7 +30,7 @@
 ;°°°Button 3°°°
 
 {"l335_hun"           ("v" c(150) t(all light)   s(hun) n1(1) n2(1) g(d1) sc(120.00)  b(v3) cw(0) cp(5)) {level 1} {cost 120} {fore 0.6}}
-{"csaba39m"           ("v" c(180) t(all light)   s(hun) n1(1) n2(1) g(d2) sc(225.00) b(v3) cw(0) cp(5)) {level 1} {cost 225} {fore 0}}
+{"csaba40m"           ("v" c(180) t(all light)   s(hun) n1(1) n2(1) g(d2) sc(225.00) b(v3) cw(0) cp(5)) {level 1} {cost 150} {fore 0}}
 {"toldi1"             ("v" c(210) t(all light)   s(hun) n1(2) n2(1) g(d4) sc(255.00) b(v3) cw(0) cp(5)) {level 1} {cost 255} {fore 0}}
 
 {"pzkpfw38t_hun"      ("v" c(150) t(all light)   s(hun) n1(2) n2(1) g(d6) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0}}
@@ -49,16 +49,14 @@
 
 ;°°°Button 5°°°
  	
-{"hetzer_hun"         ("v" c(0) t(all medium) 	s(hun) n1(3) n2(1) g(f2) sc(525.00) b(v5) cw(0) cp(10)) {level 1} {cost 525} {fore 1.0}} 	
 {"zrinyi1"            ("v" c(0) t(all heavy) 	s(hun) n1(3) n2(1) g(f3) sc(700.00) b(v5) cw(0) cp(10)) {level 1} {cost 700} {fore 1.0}}
 {"zrinyi2"            ("v" c(0) t(all heavy) 	s(hun) n1(3) n2(1) g(f3) sc(780.00) b(v5) cw(0) cp(10)) {level 1} {cost 780} {fore 1.0}}
-
 {"tas_44td"           ("v" c(0) t(all heavy) 	s(hun) n1(3) n2(1) g(f3) sc(1650.00) b(v5) cw(0) cp(20)) {level 1} {cost 1650} {fore 1.0}}
 
        			
 ;°°°Button Hero°°°
 
-{"hero1_hun"         ("v1" c(120) c1(csaba40m)	        t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h1) b(hero))) {level 1} {cost 1.0} {fore -0.5}}
+{"hero1_hun"         ("v1" c(120) c1(csaba39m)	        t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h1) b(hero))) {level 1} {cost 1.0} {fore -0.5}}
 {"hero2_hun"         ("i2" c(120)			            t(all hero) s(hun) n1(smg4:5) n2(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero3_hun"         ("v1" c(240) c1(pz4e_hun) 		    t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 
@@ -66,7 +64,7 @@
 {"hero5_hun"         ("i2" c(240)  	                    t(all hero) s(hun) n1(rifle4:8) n2(rifle3:10) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero6_hun"         ("v1" c(240) c1(sdkfz250_9_hun) 	t(all hero) s(hun) n1(tankman:2) n2(tankman2:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}  
 
-{"hero7_hun"         ("v1" c(360) c1(t25ger) 	        t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}  
+{"hero7_hun"         ("v1" c(360) c1(hetzer_hun) 	    t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}  
 {"hero8_hun"         ("v4" c(360) c1(np_sdkfz251_hun) 	t(all hero) s(hun) n1(elite:4) n2(elite2:2) n3(elite3:2) n4(elite_at:2) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}} 
 {"hero9_hun"         ("i2" c(480)                       t(all hero) s(hun) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 

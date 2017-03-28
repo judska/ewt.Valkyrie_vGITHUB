@@ -74,5 +74,5 @@
 {"hero9_jap"        ("i2" c(480)			         t(all hero) s(jap) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 10} {cost 4.0} {fore -0.5}}
 
 {"hero10_jap"       ("v2" c(480) c1(chi-ha47) 	     t(all hero) s(jap) n1(tankman:5) n2(elite4:10) g(h4) b(hero)) {level 15} {cost 4.0} {fore -0.5}}
-{"hero11_jap"       ("v1" c(480) c1(type4_200mm) 	 t(all hero) s(jap) n1(vehicle_supporter:2) n2(tankman2:0) g(h4) b(hero)) {level 20} {cost 4.0} {fore -0.5}}
+{"hero11_jap"       ("v1" c(600) c1(type4_200mm) 	 t(all hero) s(jap) n1(vehicle_supporter:2) n2(tankman2:0) g(h6) b(hero)) {level 20} {cost 6.0} {fore -0.5}}
 {"hero12_jap"  	    ("v1" c(960) c1(ho-ri_1) 		 t(all hero) s(jap) n1(tankman:3) n2(tankman2:1) g(h8) b(hero)) {level 25} {cost 8.0} {fore -0.5}}
