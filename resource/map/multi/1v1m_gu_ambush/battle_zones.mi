@@ -1,0 +1,143 @@
+{mission
+	{Entity "flag_point_1" 0x802f
+		{Position -399.96 -2952}
+		{xform scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f1}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 1}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 48}
+	}
+	{Entity "flag_point_3" 0x8011
+		{Position -415.53 -144.03}
+		{xform scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f3}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 3}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 17}
+	}
+	{Entity "flag_point_2" 0x8013
+		{Position -414.12 -6000.78}
+		{xform scale 0.75}
+		{Skeleton
+			{MtlParams
+				{"specular color" "e6e6e6ff"}
+			}
+		}
+		{Extender "map_point"
+			{name f2}
+			{zoneA 12}
+			{zoneB 12}
+			{phase 0}
+			{order 2}
+			{show All}
+			{visor MapPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 18}
+	}
+	{Entity "map_point" 0xc007
+		{Position -3551.09 -2564.98}
+		{xform zl 2.22}
+		{Extender "map_point"
+			{name a1}
+			{team a}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 9}
+	}
+	{Entity "map_point" 0xc000
+		{Position 2822.4 -3343.26}
+		{xform zl 176.82}
+		{Extender "map_point"
+			{name b1}
+			{team b}
+			{zoneA 0}
+			{zoneB 0}
+			{phase 0}
+			{order 1}
+			{visor SpawnPoint}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 1}
+	}
+	{Tags "keep_places_without_door" 0xa69}
+	{Tags "keep_places_without_door" 0x211e}
+	{Tags "keep_places_without_door" 0x300d}
+	{Tags "keep_places_without_door" 0xe5f}
+	{Tags "keep_places_without_door" 0xab8}
+	{Tags "keep_places_without_door" 0x131e}
+	{Tags "keep_places_without_door" 0xacb}
+	{Tags "keep_places_without_door" 0xaf6}
+	{Tags "keep_places_without_door" 0xaf7}
+	{Tags "keep_places_without_door" 0xafa}
+	{Tags "keep_places_without_door" 0x180d}
+	{Tags "keep_places_without_door" 0x180c}
+	{Tags "keep_places_without_door" 0x1aeb}
+	{Tags "keep_places_without_door" 0x1aea}
+	{Tags "keep_places_without_door" 0xb52}
+	{Tags "keep_places_without_door" 0x181b}
+	{Tags "keep_places_without_door" 0xb75}
+	{Tags "keep_places_without_door" 0x440b}
+	{Tags "keep_places_without_door" 0xb91}
+	{Tags "keep_places_without_door" 0x500d}
+	{Tags "keep_places_without_door" 0x6098}
+	{Tags "keep_places_without_door" 0xba8}
+	{Tags "keep_places_without_door" 0xbb4}
+	{Environment "single/1/6-sevastopol"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

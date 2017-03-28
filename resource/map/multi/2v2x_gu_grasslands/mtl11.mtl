@@ -1,0 +1,12 @@
+{material
+	{layer bump
+		{diffuse "/texture/land/fields/fieldgrass2"}
+		{bump "/texture/land/fields/fieldgrass2_nm"}
+	}
+	{layer bump
+		{diffuse "/texture/land/_new/dirtstones_01"}
+		{bump "/texture/land/_new/dirtstones_01_nm"}
+		{height "/texture/land/_new/dirtstones_01_hm"}
+		{parallax_scale 0}
+	}
+}
