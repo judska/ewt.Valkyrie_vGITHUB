@@ -1,4 +1,5 @@
 {sound
 	{tag environment}
 	{loudness "footstep"}
+        {volume 3.0}
 }

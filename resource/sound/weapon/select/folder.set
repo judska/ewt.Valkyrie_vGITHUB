@@ -1,5 +1,5 @@
 {sound
         {tag effects}
 	{loudness "local environment"}
-	{volume 0.4}
+	{volume 2.0}
 }

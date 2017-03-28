@@ -980,6 +980,26 @@
 	}
 	("burn_by_engine" args 0.3)
 }
+{"t34_41_fin tank"
+	{on "add_movement_sound" overload
+		{link_sound "move"			"vehicle/tracks/t34"	}
+		{link_sound "rotate_turret" 	"vehicle/turret/medium"		}
+		{link_sound "engine"			"vehicle/engine/t34"		}
+		{link_sound "engine_end"		"vehicle/engine/t34_end"	}
+		{link_sound "exhaust"			"vehicle/engine/hetzer_up"		}
+	}
+	("burn_by_engine" args 0.3)
+}
+{"t34_42 tank"
+	{on "add_movement_sound" overload
+		{link_sound "move"			"vehicle/tracks/t34"	}
+		{link_sound "rotate_turret" 	"vehicle/turret/medium"		}
+		{link_sound "engine"			"vehicle/engine/t34"		}
+		{link_sound "engine_end"		"vehicle/engine/t34_end"	}
+		{link_sound "exhaust"			"vehicle/engine/hetzer_up"		}
+	}
+	("burn_by_engine" args 0.3)
+}
 (define "t34_sound"
 	{on "add_movement_sound" overload
 		{link_sound "move"			"vehicle/tracks/t34"	}
@@ -1161,6 +1181,36 @@
 		{link_sound "engine_end"		"vehicle/engine/pz2_end"	}
 		{link_sound "rotate_turret" 	"vehicle/turret/medium1"		}
 		{link_sound "exhaust"			"vehicle/engine/pz2_up" 	}
+	}
+	("burn_by_engine" args 0.3)
+}
+{"crusaderi tank"
+	{on "add_movement_sound" overload
+		{link_sound "move"				"vehicle/tracks/crusader"	}
+		{link_sound "engine"			"vehicle/engine/crusader"		}
+		{link_sound "engine_end"		"vehicle/engine/crusader_end"	}
+		{link_sound "rotate_turret" 	"vehicle/turret/medium1"		}
+		{link_sound "exhaust"			"vehicle/engine/crusader_up" 	}
+	}
+	("burn_by_engine" args 0.3)
+}
+{"crusaderii tank"
+	{on "add_movement_sound" overload
+		{link_sound "move"				"vehicle/tracks/crusader"	}
+		{link_sound "engine"			"vehicle/engine/crusader"		}
+		{link_sound "engine_end"		"vehicle/engine/crusader_end"	}
+		{link_sound "rotate_turret" 	"vehicle/turret/medium1"		}
+		{link_sound "exhaust"			"vehicle/engine/crusader_up" 	}
+	}
+	("burn_by_engine" args 0.3)
+}
+{"crusaderics tank"
+	{on "add_movement_sound" overload
+		{link_sound "move"				"vehicle/tracks/crusader"	}
+		{link_sound "engine"			"vehicle/engine/crusader"		}
+		{link_sound "engine_end"		"vehicle/engine/crusader_end"	}
+		{link_sound "rotate_turret" 	"vehicle/turret/medium1"		}
+		{link_sound "exhaust"			"vehicle/engine/crusader_up" 	}
 	}
 	("burn_by_engine" args 0.3)
 }
@@ -1620,7 +1670,7 @@
 }
 (define "pz6_sound"
 	{on "add_movement_sound" overload
-		{link_sound "move"				"vehicle/tracks/pz6"	}
+		{link_sound "move"				"vehicle/tracks/tiger_tracks"	}
 		{link_sound "engine"			"vehicle/engine/pz6"		}
 		{link_sound "engine_end"		"vehicle/engine/pz6_end"	}
 		{link_sound "rotate_turret" 	"vehicle/turret/pz6"	}
@@ -1802,6 +1852,13 @@
 	}
 	("burn_by_engine" args 0.3)
 }
+{"stug3gita tank"
+	("pz3_sound")
+	{on "gunner_hatch_open" overload
+		{ani_play "open" -1.0 resume}
+	}
+	("burn_by_engine" args 0.3)
+}
 {"stuh42 tank"
 	("pz3_sound")
 	{on "gunner_hatch_open" overload
@@ -1899,6 +1956,26 @@
 	("burn_by_engine" args 0.3)
 }
 {"p40 tank"
+	{on "add_movement_sound" overload
+		{link_sound "move"				"vehicle/tracks/tank_tracks"		}
+		{link_sound "engine"			"vehicle/engine/cromwell"		}
+		{link_sound "engine_end"		"vehicle/engine/panhard_end"	}
+		{link_sound "rotate_turret" 	"vehicle/turret/medium1"			}
+		{link_sound "exhaust"			"vehicle/engine/cromwell_up"	}
+	}
+	("burn_by_engine" args 0.3)
+}
+{"m9053 tank"
+	{on "add_movement_sound" overload
+		{link_sound "move"				"vehicle/tracks/tank_tracks"		}
+		{link_sound "engine"			"vehicle/engine/cromwell"		}
+		{link_sound "engine_end"		"vehicle/engine/panhard_end"	}
+		{link_sound "rotate_turret" 	"vehicle/turret/medium1"			}
+		{link_sound "exhaust"			"vehicle/engine/cromwell_up"	}
+	}
+	("burn_by_engine" args 0.3)
+}
+{"m7546 tank"
 	{on "add_movement_sound" overload
 		{link_sound "move"				"vehicle/tracks/tank_tracks"		}
 		{link_sound "engine"			"vehicle/engine/cromwell"		}
@@ -2178,6 +2255,16 @@
 		{link_sound "engine_end"		"vehicle/engine/sdkfz232_end"	}
 		{link_sound "rotate_turret" 	"vehicle/turret/light1"			}
 		{link_sound "exhaust"			"vehicle/engine/sdkfz232_up"	}
+	}
+	("burn_by_engine" args 0.3)
+}
+{"t40"
+	{on "add_movement_sound" overload
+		{link_sound "move"				"vehicle/tracks/pz2"			}
+		{link_sound "engine"			"vehicle/engine/t-38"		}
+		{link_sound "engine_end"		"vehicle/engine/t-38_end"	}
+		{link_sound "rotate_turret" 	"vehicle/turret/light1"			}
+		{link_sound "exhaust"			"vehicle/engine/t-38_up"	}
 	}
 	("burn_by_engine" args 0.3)
 }
