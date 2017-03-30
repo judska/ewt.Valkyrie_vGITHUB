@@ -1,11 +1,11 @@
 {breed
-	{skin "eng-com"}
+	{skin "eng-general"}
 	{portrait "eng_elite2"}
 	{nationality eng}
 	{icon "elite4"}
 	{icon_priority 3}
 	{armors
-		{head cap_eng_afr}
+		{head cap_eng_general}
 	}
 	{tags "officer"}
 	{perks

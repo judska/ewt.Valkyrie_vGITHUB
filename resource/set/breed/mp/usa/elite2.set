@@ -5,7 +5,7 @@
 	{icon "elite2"}
 	{icon_priority 3}
 	{armors
-		{head helmet_airborne_usa1}
+		{head helmet_usa_506th_camo}
                   {body "ammo_us2"}
 	}
 	{perks

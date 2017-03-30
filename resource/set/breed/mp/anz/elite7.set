@@ -1,11 +1,11 @@
 {breed
-	{skin "eng_officer_afr"}
+	{skin "eng-afr-rfl-ind"}
 	{portrait "eng_elite2"}
 	{nationality eng}
 	{icon "elite4"}
 	{icon_priority 3}
 	{armors
-		{head fieldcap_eng}
+		{head helmet_eng_afr}
 	}
 	{perks
 		{"health" "200%"

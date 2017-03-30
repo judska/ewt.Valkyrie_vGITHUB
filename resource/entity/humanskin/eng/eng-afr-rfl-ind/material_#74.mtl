@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "british_infantry_gear_d"}
+	{blend none}
+}

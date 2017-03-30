@@ -5,7 +5,7 @@
 	{icon "elite4"}
 	{icon_priority 3}
 	{armors
-		{head fieldcap_eng}
+		{head helmet2_eng}
 	}
 	{perks
 		{"health" "100%"

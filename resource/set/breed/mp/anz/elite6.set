@@ -1,11 +1,11 @@
 {breed
-	{skin "comm_newzealand"}
+	{skin "eng-para-cpl"}
 	{portrait "eng_elite2"}
 	{nationality eng}
 	{icon "elite4"}
 	{icon_priority 3}
 	{armors
-		{head "helmet1_eng"}
+		{head "helmet2_eng"}
 	}
 	{perks
 		{"health" "250%"
