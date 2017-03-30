@@ -228,6 +228,7 @@
 		{"nebelwerfer41" "Nebelwerfer 41"}
 		{"nebelwerfer42" "Nebelwerfer 42"}
 		{"np_type95" "Type 95"}
+		{"np_sdkfz234_4" "SdKfz 234/4 Pakwagen"}
 		{"np_sdkfz8_flak" "8.8 cm Flak.37 sfl"}
         {"oerlikon" "Oerlikon 20mm"}
 		{"oerlikon_fix" "Oerlikon 20mm"}
