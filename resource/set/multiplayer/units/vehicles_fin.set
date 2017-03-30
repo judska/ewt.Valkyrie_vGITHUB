@@ -33,17 +33,17 @@
 {"bt5_fin"               ("v" c(150) t(all light) 		s(fin) n1(2) n2(1) g(e1) sc(170.00) b(v3) cw(0) cp(5)) {level 1} {cost 170} {fore 0}}
 
 {"ot-130"                ("v" c(150) t(all light) 		s(fin) n1(2) n2(1) g(d3) sc(200.00) b(v3) cw(0) cp(5)) {level 1} {cost 200} {fore 1.0}}
-{"t50_fin"               ("v" c(150) t(all light) 		s(fin) n1(3) n2(1) g(e2) sc(290.00) b(v3) cw(0) cp(10)) {level 1} {cost 290} {fore 0}}
-{"landsverk_anti_2"      ("v" c(210) t(all light) 		s(fin) n1(4) n2(1) g(d4) sc(375.00) b(v3) cw(0) cp(15)) {level 1} {cost 375} {fore 0}}
+{"t50_fin"               ("v" c(150) t(all light) 		s(fin) n1(3) n2(1) g(e2) sc(310.00) b(v3) cw(0) cp(6)) {level 1} {cost 310} {fore 0}}
+{"landsverk_anti_2"      ("v" c(210) t(all light) 		s(fin) n1(4) n2(1) g(d4) sc(375.00) b(v3) cw(0) cp(10)) {level 1} {cost 375} {fore 0}}
 
 
 ;°°°Button 4°°°
 
-{"t28_fin"               ("v" c(0) t(all medium) 		s(fin) n1(5) n2(1) g(e3) sc(380.00) b(v4) cw(0) cp(15)) {level 1} {cost 380} {fore 1.0}}
+{"t28_fin"               ("v" c(0) t(all medium) 		s(fin) n1(5) n2(1) g(e3) sc(380.00) b(v4) cw(0) cp(10)) {level 1} {cost 380} {fore 1.0}}
 {"t34_41_fin"            ("v" c(0) t(all medium) 		s(fin) n1(3) n2(1) g(e3) sc(380.00) b(v4) cw(0) cp(15)) {level 1} {cost 380} {fore 1.0}}
 {"t34_42_fin"            ("v" c(0) t(all medium) 		s(fin) n1(3) n2(1) g(e3) sc(380.00) b(v4) cw(0) cp(15)) {level 1} {cost 380} {fore 1.0}}
 
-{"t28_l10_fin"           ("v" c(0) t(all medium) 		s(fin) n1(6) n2(1) g(e3) sc(440.00) b(v4) cw(0) cp(15)) {level 1} {cost 440} {fore 1.0}}
+{"t28_l10_fin"           ("v" c(0) t(all medium) 		s(fin) n1(6) n2(1) g(e3) sc(440.00) b(v4) cw(0) cp(10)) {level 1} {cost 440} {fore 1.0}}
 {"pz4jfin"               ("v" c(0) t(all medium) 		s(fin) n1(3) n2(1) g(e3) sc(520.00) b(v4) cw(0) cp(15)) {level 1} {cost 520} {fore 1.0}}
 
 
