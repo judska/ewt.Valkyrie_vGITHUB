@@ -8,9 +8,9 @@
 	("speed" s(759))
 	("caliber_minimum")
 	{projectileDamage 50}
-	("damage_110" a(82) b(62) c(44) d(31) e(22))
+	("damage_110" a(62) b(48) c(35) d(28) e(22))
 	{parameters "apcr"
-        ("damage_80" a(107) b(82) c(59) d(41) e(27))
+        ("damage_80" a(86) b(67) c(50) d(38) e(27))
 	}
 	
 	("accuracy_minimum")	
