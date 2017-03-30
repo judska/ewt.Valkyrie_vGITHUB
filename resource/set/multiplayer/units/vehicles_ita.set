@@ -8,7 +8,7 @@
 
 {"fiat35_inf"      ("vs" c(60) t(all supply) 	s(ita) n(2) g(b5) sc(50.00) b(v1) cw(0) cp(0)) {level 1} {cost 50} {fore 1.0}}
 {"fiat35_art"      ("vs" c(60) t(all supply) 	s(ita) n(2) g(b6) sc(200.00) b(v1) cw(0) cp(0)) {level 1} {cost 200} {fore 1.0}}
-{"fiat35_eng"      ("vs" c(60) t(all supply) 	s(ita) n(2) g(b7) sc(225.00) b(v1) cw(0) cp(0)) {level 1} {cost 225} {fore 0.0}}
+{"fiat35_eng"      ("vs" c(60) t(all supply) 	s(ita) n(2) g(b7) sc(125.00) b(v1) cw(0) cp(0)) {level 1} {cost 125} {fore 0.0}}
 
 
 ;°°°Button 2°°°
@@ -30,7 +30,7 @@
 
 {"l335c"           ("v" c(180) t(all light) 		s(ita) n1(1) n2(1) g(d2) sc(170.00)  b(v3) cw(0) cp(5)) {level 1} {cost 170} {fore 0.6}}
 {"ab43"            ("v" c(150) t(all light)         s(ita) n1(2) n2(1) g(d1) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0.4}}
-{"l640"            ("v" c(210) t(all light) 		s(ita) n1(1) n2(1) g(d3) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 250} {fore 0}} 
+{"l640"            ("v" c(210) t(all light) 		s(ita) n1(1) n2(1) g(d3) sc(250.00) b(v3) cw(0) cp(5)) {level 1} {cost 250} {fore 0}} 
 
 {"m1441"           ("v" c(150) t(all light)         s(ita) n1(1) n2(1) g(d4) sc(250.00)  b(v3) cw(0) cp(5)) {level 1} {cost 250} {fore 0.6}}
 {"pz38tita"        ("v" c(150) t(all light) 	    s(ita) n1(3) n2(1) g(e1) sc(255.00) b(v3) cw(0) cp(5)) {level 1} {cost 255} {fore 1.0}}
@@ -59,7 +59,7 @@
 
 {"hero1_ita"         ("i2" c(120)				     t(all hero) s(ita) n1(smg4:4) n2(rifle3:6) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero2_ita"         ("i3" c(120)				     t(all hero) s(ita) n1(elite4:2) n2(elite5:1) n3(elite6:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
-{"hero3_ita"         ("v1" c(120) c1(l35lf)          t(all hero) s(ita) n1(tankman:3) n2(tankman2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"hero3_ita"         ("v1" c(120) c1(l35lf)          t(all hero) s(ita) n1(tankman:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
 {"hero4_ita"         ("v1" c(240) c1(brixia45) 		 t(all hero) s(ita) n1(vehicle_supporter:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero5_ita"         ("i3" c(240)                    t(all hero) s(ita) n1(elite7:5) n2(elite9:2) n3(elite8:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
@@ -70,7 +70,7 @@
 {"hero9_ita"	     ("v1" c(480) c1(m10525)		 t(all hero) s(ita) n1(tankman:2) n2(tankman2:1) g(h4) b(hero)) {level 10} {cost 4.0} {fore -0.5}}
 
 {"hero10_ita"         ("v1" c(600) c1(kv1b)          t(all hero) s(ita) n1(tankman:2) n2(tankman2:1) g(h6) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
-{"hero11_ita"         ("v1" c(840) c1(obice210)      t(all hero) s(ita) n1(tankman:3) n2(tankman2:1) g(h7) b(hero)) {level 25} {cost 7.0} {fore -0.5}}
+{"hero11_ita"         ("v1" c(840) c1(obice210)       t(all hero) s(ita) n1(vehicle_supporter:2) g(h7) b(hero)) {level 25} {cost 7.0} {fore -0.5}}
 {"hero12_ita"         ("v1" c(960) c1(elefantita) 	 t(all hero) s(ita) n1(tankman:3) n2(tankman2:1) g(h8) b(hero)) {level 5} {cost 8.0} {fore -0.5}}
 
   
