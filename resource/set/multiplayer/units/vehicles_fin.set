@@ -39,7 +39,7 @@
 
 ;°°°Button 4°°°
 
-{"t28_fin"               ("v" c(0) t(all medium) 		s(fin) n1(5) n2(1) g(e3) sc(380.00) b(v4) cw(0) cp(10)) {level 1} {cost 380} {fore 1.0}}
+{"t28_fin"               ("v" c(0) t(all medium) 		s(fin) n1(5) n2(1) g(e3) sc(340.00) b(v4) cw(0) cp(10)) {level 1} {cost 340} {fore 1.0}}
 {"t34_41_fin"            ("v" c(0) t(all medium) 		s(fin) n1(3) n2(1) g(e3) sc(380.00) b(v4) cw(0) cp(15)) {level 1} {cost 380} {fore 1.0}}
 {"t34_42_fin"            ("v" c(0) t(all medium) 		s(fin) n1(3) n2(1) g(e3) sc(380.00) b(v4) cw(0) cp(15)) {level 1} {cost 380} {fore 1.0}}
 
@@ -68,4 +68,4 @@
 
 {"hero10_fin"           ("v1" c(600) c1(nebelwerfer42) 	 t(all hero) s(fin) n1(vehicle_supporter:2) g(h5) b(hero)) {level 15} {cost 5.0} {fore -0.5}}
 {"hero11_fin"  	        ("v1" c(720) c1(su152)           t(all hero) s(fin) n1(tankman:3) n2(tankman2:1) g(h6) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
-{"hero12_fin"           ("2v" c(840) c1(t20_fin) c2(np_ml20_fin_veteran)  t(all hero) s(fin) n1(vehicle_supporter:2) n2(vehicle_supporter:2) g(h6) b(hero)) {level 20} {cost 5.0} {fore -0.5}}
+{"hero12_fin"           ("2v" c(840) c1(t20_fin) c2(np_ml20_fin_veteran)  t(all hero) s(fin) n1(vehicle_supporter:2) n2(vehicle_supporter:2) g(h6) b(hero)) {level 20} {cost 6.0} {fore -0.5}}

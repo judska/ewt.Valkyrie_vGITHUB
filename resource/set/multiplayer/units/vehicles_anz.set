@@ -3,7 +3,7 @@
 
 ;°°°Button 1°°°
 
-{"willysmb_anz" ("vs" c(60) t(all)		s(anz) n(3) g(b1) sc(100.00)  b(v1) cw(0) cp(0)) {level 2} {cost 110} {fore 1.0}}
+{"willysmb_anz" ("vs" c(60) t(all)		s(anz) n(3) g(b1) sc(110.00)  b(v1) cw(0) cp(0)) {level 2} {cost 110} {fore 1.0}}
 {"universal_carrier_anz"("vs" c(60) t(all) 		s(anz) n(4) g(b2) sc(90.00) b(v1) cw(0) cp(0)) {level 4} {cost 90} {fore 1.0}}
 {"m30kangaroo"      ("vs" c(300) t(all) 	s(anz) n(2) g(b3) sc(200.00)  b(v1) cw(0) cp(0)) {level 6} {cost 200} {fore 0.5}}
 
@@ -29,13 +29,13 @@
 
 ;°°°Button 3°°°
 
-{"r35"       	    ("v" c(150) t(all light) 	    s(anz) n1(1) n2(1) g(d4) sc(15.00) b(v3) cw(0) cp(5)) {level 1} {cost 215} {fore 1.0}}
+{"r35"       	    ("v" c(150) t(all light) 	    s(anz) n1(1) n2(1) g(d4) sc(215.00) b(v3) cw(0) cp(5)) {level 1} {cost 215} {fore 1.0}}
 {"m1139_anz"        ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0}}
 {"m1340_anz"        ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0}}
 
 {"m2a4"             ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(265.00) b(v3) cw(0) cp(5)) {level 1} {cost 265} {fore 0}}
 {"staghound"        ("v" c(150) t(all light) 		s(anz) n1(3) n2(1) g(d3) sc(280.00) b(v3) cw(0) cp(5)) {level 1} {cost 280} {fore 0}}
-{"np_lrdg_20mm"     ("vs" c(180) t(all light) 		s(anz) n(3) g(d3) sc(210.00) b(v3) cw(0) cp(5)) {level 1} {cost 210} {fore 0}}
+{"np_lrdg_20mm"     ("vs" c(180) t(all light) 		s(anz) n(3) g(d3) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0}}
 
 
 ;°°°Button 4°°°
