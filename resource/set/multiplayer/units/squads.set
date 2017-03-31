@@ -277,7 +277,7 @@
 ("squad_with1types" side(rus) name(elites2) c(0) g(soldier_3) c1(elite2:1) b(squad2) t(all inf_only single) level(1) cost(26) f(1.0))
 ("squad_with1types" side(ger) name(elites2) c(0) g(soldier_3) c1(elite:1) b(squad2) t(all inf_only single) level(1) cost(26) f(1.0))
 ("squad_with1types" side(usa) name(elites2) c(0) g(soldier_3) c1(elite:1) b(squad2) t(all inf_only single) level(1) cost(24) f(1.0))
-("squad_with1types" side(eng) name(elites2) c(0) g(soldier_3) c1(elite2:1) b(squad2) t(all inf_only single) level(1) cost(29) f(1.0))
+("squad_with1types" side(eng) name(elites2) c(0) g(soldier_3) c1(elite2:1) b(squad2) t(all inf_only single) level(1) cost(35) f(1.0))
 ("squad_with1types" side(jap) name(elites2) c(0) g(soldier_3) c1(elite2:1) b(squad2) t(all inf_only single) level(1) cost(24) f(1.0))
 ("squad_with1types" side(hun) name(elites2) c(0) g(soldier_3) c1(elite2:1) b(squad2) t(all inf_only single) level(1) cost(25) f(1.0))
 ("squad_with1types" side(fra) name(elites2) c(0) g(soldier_3) c1(elite2:1) b(squad2) t(all inf_only single) level(1) cost(25) f(1.0))

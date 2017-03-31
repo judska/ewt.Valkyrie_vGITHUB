@@ -5261,12 +5261,12 @@
 		{xform zl 139.99}
 	}
 	{Entity "new_boat3" 0x7ce
-		{Position -186.21 1314.07 0}
+		{Position -186.21 1314.07}
 		{xform zl 65.57}
 	}
 	{Entity "boat1" 0x7cf
-		{Position -2.27 1095.01 0}
-		{xform zl -75.42 y 11.6 zw 75.5}
+		{Position -2.27 1095.01}
+		{xform zl -0.21}
 	}
 	{Entity "cane2" 0x88d
 		{Position 663.73 1100.77}
@@ -5355,36 +5355,36 @@
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8ab
-		{Position -190.17 1255.13 0}
+		{Position -190.17 1255.13}
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8ac
-		{Position -153.4 1237.77 0}
+		{Position -153.4 1237.77}
 		{xform zl -51.63}
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8ad
-		{Position -172.77 1210.3 0}
+		{Position -172.77 1210.3}
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8af
-		{Position -130.13 1192.2 0}
+		{Position -130.13 1192.2}
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8b0
-		{Position -249.36 1268.38 0}
+		{Position -249.36 1268.38}
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8b1
-		{Position -266.4 1230.39 0}
+		{Position -266.4 1230.39}
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8b2
-		{Position -264.26 1265.56 0}
+		{Position -264.26 1265.56}
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8b3
-		{Position -220.1 1230.3 0}
+		{Position -220.1 1230.3}
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8b4
@@ -5404,7 +5404,7 @@
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8be
-		{Position -273.54 1330.54 -33.66}
+		{Position -273.54 1330.54}
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8c0
@@ -5412,7 +5412,7 @@
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8c1
-		{Position -265.78 1298.11 0}
+		{Position -265.78 1298.11}
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x8c5
@@ -5630,15 +5630,15 @@
 		{TexMod "1"}
 	}
 	{Entity "tree_wilow" 0x91c
-		{Position -167.49 1163.83 0.2}
-		{xform zl -17.77 y 14.27 zw 17.82}
+		{Position -167.49 1163.83}
+		{xform zl -0.48}
 	}
 	{Entity "clay_11angle" 0x91d
 		{Position 44.63 1581.46}
 		{xform zl 164.58}
 	}
 	{Entity "breakwater_2" 0x181a
-		{Position 16.97 1109.42 0}
+		{Position 16.97 1109.42}
 	}
 	{Entity "dtruck1" 0x1600
 		{Position -1168.35 -310.77}
@@ -5692,7 +5692,7 @@
 		{Color 0xffe6e6c5}
 	}
 	{Entity "path_sand2a" 0xc1f
-		{Position -71.74 1006.22 0}
+		{Position -71.74 1006.22}
 		{xform zl 169.78}
 		{Color 0xffe6e6c5}
 	}
@@ -9364,8 +9364,8 @@
 		{xform zl 48.09 y 17.34 zw 101.89 scale 1.5}
 	}
 	{Entity "wood_swim" 0x16a2
-		{Position 124.81 1141.11 -45}
-		{xform zl -0.73 y 11.96 zw 0.73}
+		{Position 124.81 1141.11}
+		{xform zl -0.02}
 	}
 	{Entity "wood_swim" 0x16a3
 		{Position 609.81 1482.75 -44.98}
@@ -10673,12 +10673,11 @@
 		{Constrain zero}
 	}
 	{Entity "barrel_woods_small1" 0x2003
-		{Position -137.52 1105.62 -35}
-		{Constrain zero}
+		{Position -137.52 1105.62}
 	}
 	{Entity "timber_1" 0x2004
-		{Position -92 1164.89 0.07}
-		{xform zl 170.68 y 20.01 zw 70.66}
+		{Position -92 1164.89}
+		{xform zl -119.25}
 	}
 	{Entity "stone11" 0x1a2
 		{Position 824.77 1340.47 -24.13}
@@ -10789,19 +10788,19 @@
 		{TexMod "1"}
 	}
 	{Entity "water_lily2" 0x403c
-		{Position -312.71 1183.98 -44.89}
+		{Position -312.71 1183.98}
 		{xform zl -52.47}
-		{Constrain zero}
+		{Constrain ground}
 	}
 	{Entity "water_lily2" 0x403d
-		{Position -298.05 1113.49 -44.89}
+		{Position -298.05 1113.49}
 		{xform zl -134.23}
-		{Constrain zero}
+		{Constrain ground}
 	}
 	{Entity "water_lily2" 0x403e
-		{Position -407.97 1179.81 -44.89}
+		{Position -407.97 1179.81}
 		{xform zl -7.63}
-		{Constrain zero}
+		{Constrain ground}
 	}
 	{Entity "water_lily2" 0x403f
 		{Position -581.32 1130.4 -44.89}
@@ -10809,7 +10808,7 @@
 		{Constrain zero}
 	}
 	{Entity "cane2" 0x4040
-		{Position -288.71 1048.74 -4.51}
+		{Position -288.71 1048.74}
 		{xform zl -97.68}
 		{TexMod "1"}
 	}
@@ -10844,7 +10843,7 @@
 		{Constrain zero}
 	}
 	{Entity "ash_tree_bush1" 0x2007
-		{Position -187.96 1028.37 -8}
+		{Position -187.96 1028.37}
 		{xform zl 7.31 scale 0.93}
 	}
 	{Entity "ash_tree_bush1" 0x2009
@@ -11018,7 +11017,7 @@
 		{TexMod "1"}
 	}
 	{Entity "cane2" 0x1b7
-		{Position -159.8 1355.19 -57}
+		{Position -159.8 1355.19}
 		{xform zl 38.09 scale 0.856}
 		{TexMod "1"}
 	}
@@ -11157,9 +11156,9 @@
 		{Constrain zero}
 	}
 	{Entity "water_lily2" 0x4060
-		{Position -157.26 1372.41 -44.89}
+		{Position -157.26 1372.41}
 		{xform zl 23.22}
-		{Constrain zero}
+		{Constrain ground}
 	}
 	{Entity "water_lily2" 0x4061
 		{Position -171.63 1621.09 -44.89}
@@ -11172,9 +11171,9 @@
 		{Constrain zero}
 	}
 	{Entity "water_lily2" 0x4063
-		{Position 155.17 1111.78 -44.89}
+		{Position 155.17 1111.78}
 		{xform zl -154.25}
-		{Constrain zero}
+		{Constrain ground}
 	}
 	{Entity "stone12" 0x4064
 		{Position -624.78 1707.88 -32.66}
@@ -11198,9 +11197,9 @@
 		{Constrain zero}
 	}
 	{Entity "water_lily2" 0x1bf
-		{Position -318.74 1051.62 -44.89}
+		{Position -318.74 1051.62}
 		{xform zl 148.5}
-		{Constrain zero}
+		{Constrain ground}
 	}
 	{Entity "water_lily2" 0x1c0
 		{Position -526.36 1155.17 -44.89}

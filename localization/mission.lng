@@ -48,6 +48,9 @@
                 }		
                 {"1v1m_gu_ambush"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Ambush <e(shadow)><c(FBCC98)>1v1</c>"}
+                }		
+                {"1v1m_gu_bocage"		
+			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Bocage <e(shadow)><c(FBCC98)>1v1</c>"}
                 }
 		{"1v1m_gu_farm"		
 			{"name" "<e(shadow)><c(5F5F64)>(GU)</c></e> Farm <e(shadow)><c(FBCC98)>1v1</c>"}	
