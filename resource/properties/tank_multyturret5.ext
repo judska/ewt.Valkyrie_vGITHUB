@@ -57,6 +57,9 @@
 	{place "mgun6"
 	}
 }
+
+{collider "tank.medium"}
+
 {extender "inventory"	
 	{weapon "mgun"
 		{mask "weapon mgun"}

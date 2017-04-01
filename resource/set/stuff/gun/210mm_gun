@@ -2,5 +2,6 @@
 	{filling "bullet210" 6}
 	{fireSound "gun/howitzer/203mm"}
 	{reloadSound "gun_r04"}
-	("range_heavy_howitzer")	
+	("range_heavy_howitzer")
+	("accuracy_howitzer")
 }

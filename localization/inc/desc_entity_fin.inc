@@ -42,4 +42,5 @@
 		{"su152" "SU-152"} 
 		{"maxim_ind" "Maxim"} 
 		{"itk31" "76 ItK/31 BK"} 
-		{"charioteer" "Charioteer"}
+		{"t34_41_fin" "T-34 1941 mod"}
+		{"t34_41_fin" "T-34 1942 mod"}

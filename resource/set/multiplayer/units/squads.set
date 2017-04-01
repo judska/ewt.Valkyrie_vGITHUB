@@ -135,7 +135,7 @@
 {"smgs_mech_hun"      ("rb4" c(0) c1(np_sdkfz251_hun) 	t(all inf_only) s(hun) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 470} {fore 1.0}}
 {"smgs_mech_fra"      ("rb4" c(0) c1(m3_fra) 	        t(all inf_only) s(fra) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 455} {fore 1.0}}
 {"smgs_mech_fin"      ("rb4" c(0) c1(bt5_fin) 	        t(all inf_only) s(fin) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 470} {fore 1.0}}
-{"smgs_mech_ita"      ("rb4" c(0) c1(sdkfz251_1) 	    t(all inf_only) s(ita) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 430} {fore 1.0}}
+{"smgs_mech_ita"      ("rb4" c(0) c1(sdkfz251_1ita) 	t(all inf_only) s(ita) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 430} {fore 1.0}}
 {"smgs_mech_chn"      ("rb4" c(0) c1(m3_chn) 	        t(all inf_only) s(chn) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 410} {fore 1.0}}
 {"smgs_mech_anz"      ("rb4" c(0) c1(m30kangaroo)       t(all inf_only) s(anz) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 440} {fore 1.0}}
 

@@ -161,7 +161,7 @@
 
 (define "rifle_lowcp"
     {tags   "rifle %side infantry man"}
-    {cp     0.75}
+    {cp     0.5}
     {score  10.00}
     {basic}
     {breed}
@@ -172,20 +172,8 @@
 {"mp/jap/rifle3" ("rifle_lowcp" side(jap))}
 {"mp/chn/rifle3" ("rifle_lowcp" side(chn))}
 
+{"mp/chn/rifle4" ("rifle_lowcp" side(chn))}
 {"mp/hun/rifle4" ("rifle_lowcp" side(hun))}
-
-
-
-(define "rifle_nocp"
-    {tags   "rifle %side infantry man"}
-    {cp     0.1}
-    {score  10.00}
-    {basic}
-    {breed}
-    {cw 1.0}
-)
-{"mp/chn/rifle0" ("rifle_nocp" side(chn))}
-
 
 
 (define "smg"
@@ -242,7 +230,7 @@
 
 (define "smg_lowcp"
     {tags   "smg %side infantry man"}
-    {cp     0.75}
+    {cp     0.5}
     {score  12.00}
     {basic}
     {breed}
@@ -251,20 +239,7 @@
 {"mp/rus/smg4" ("smg_lowcp" side(rus))}
 {"mp/jap/smg4" ("smg_lowcp" side(jap))}
 
-{"mp/chn/smg5" ("smg_lowcp" side(chn))}
-
-
-
-(define "smg_nocp"
-    {tags   "smg %side infantry man"}
-    {cp     0.1}
-    {score  12.00}
-    {basic}
-    {breed}
-    {cw 1.0}
-)
-{"mp/chn/smg0" ("smg_nocp" side(chn))}
-
+{"mp/chn/smg6" ("smg_lowcp" side(chn))}
 
 
 (define "squadleader"

@@ -2,7 +2,7 @@
 	(include "/properties/tank_multyturret.ext")
 	(include "/properties/selection/vehicle.inc"  scale(1.2))			
 	{props  "medium" "multiturret" "turret_rotator" "turret2_rotator" "turret3_rotator" "turret"  "turret2" "turret3" "vision_vehicle_maximum" "muzzle_large"}
-	{collider "tank.medium"}		
+	{lodclass "vehicle_big"}		
 
 	{props  "tank"  "medium" "turret_rotator" "turret_rotator2" "turret_rotator3" "turret"  "turret2" "turret3" "vision_vehicle_maximum" "muzzle_large"}
 	{volume "turret3"
