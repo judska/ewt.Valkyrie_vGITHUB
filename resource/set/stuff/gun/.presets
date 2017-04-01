@@ -162,6 +162,9 @@
 (define "accuracy_howitzer_1" 
 	("accuracy_curve_3" r1(6.00))
 )
+(define "accuracy_howitzer_2" 
+	("accuracy_curve_3" r1(10.00))
+)
 (define "accuracy_support"
 	("accuracy_curve_1" r1(2.50))
 )
@@ -760,7 +763,7 @@
 		{SpreadYadjust	0.5}
 		
 	}
-	("accuracy_howitzer")
+	("accuracy_howitzer_1")
 	("caliber_howitzer")
 	{curve "cumulative"}
 	{aimtype adaptive}
