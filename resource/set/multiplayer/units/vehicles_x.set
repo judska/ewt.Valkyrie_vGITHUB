@@ -15,7 +15,7 @@
 {"pak43"        		("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"np_sdkfz251_1w"       ("extra" t() sc(900.00) cw(0) cp(5))}	;5
 {"veteran_tiger"        ("extra" t() sc(1400.00) cw(0) cp(30))}	;7
-{"pz6bh"                ("extra" t() sc(2100.00) cw(0) cp(40))}	;9
+{"pz6bh"                ("extra" t() sc(2100.00) cw(0) cp(40))}	;10
 
 {"ke-nu"                ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"type_97_150mm"        ("extra" t() sc(450.00) cw(0) cp(10))}	;3
@@ -24,9 +24,10 @@
 {"type4_200mm"        	("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"ho-ri_1"        		("extra" t() sc(1350.00) cw(0) cp(40))}	;9
 
-{"t-38"        	        ("extra" t() sc(150.00) cw(0) cp(5))}	;1
+{"t40"        	        ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"bs3"        			("extra" t() sc(700.00) cw(0) cp(15))}	;4
 {"kv2"        			("extra" t() sc(750.00) cw(0) cp(30))}	;5
+{"bm_8_24"        		("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"t34_1"        	    ("extra" t() sc(700.00) cw(0) cp(15))}	;6
 {"203b4"        		("extra" t() sc(2000.00) cw(0) cp(40))}	;10
 
@@ -35,12 +36,12 @@
 {"m4a3_zippo"        	("extra" t() sc(480.00) cw(0) cp(15))}	;3
 {"m4a3e8_fury"        	("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"m4a3_105"          	("extra" t() sc(750.00) cw(0) cp(15))} ;5
-{"155mm_longtom"        ("extra" t() sc(750.00) cw(0) cp(20))} ;5
+{"155mm_longtom"        ("extra" t() sc(1000.00) cw(0) cp(20))} ;6
 {"m26e4"      			("extra" t() sc(1350.00) cw(0) cp(40))};9
 
-{"csaba40m"	             ("extra" t() sc(150.00) cw(0) cp(5))}	;1
+{"csaba39m"	             ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"pz4e_hun"              ("extra" t() sc(300.00) cw(0) cp(15))}	;2
-{"t25ger"        	     ("extra" t() sc(440.00) cw(0) cp(15))}	;3
+{"hetzer"        	     ("extra" t() sc(440.00) cw(0) cp(15))}	;3
 {"np_sig33"        	     ("extra" t() sc(440.00) cw(0) cp(15))}	;4
 {"sturmpz1"        		 ("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"brummbar"        	     ("extra" t() sc(1200.00) cw(0) cp(35))};8
@@ -49,15 +50,17 @@
 {"renault_aa"	         ("extra" t() sc(250.00) cw(0) cp(10))}	;2
 {"b1bis_2"        		 ("extra" t() sc(600.00) cw(0) cp(15))}	;4
 {"amx-13-90"             ("extra" t() sc(800.00) cw(0) cp(15))}  ;5
-{"155gpf"                ("extra" t() sc(500.00) cw(0) cp(15))}  ;6
+{"155gpf2"                ("extra" t() sc(500.00) cw(0) cp(15))}  ;6
 {"amx50-100"        	 ("extra" t() sc(1500.00) cw(0) cp(35))} ;8
 
 {"maxim_ind"        	 ("extra" t() sc(75.00) cw(0) cp(2.5))}	;1
 {"76mm_m1909_fin"	     ("extra" t() sc(350.00) cw(0) cp(10))}	;2
 {"bt42"        		     ("extra" t() sc(440.00) cw(0) cp(15))}	;3
 {"kv1_41_fin"            ("extra" t() sc(750.00) cw(0) cp(15))}	;5
+{"nebelwerfer42"         ("extra" t() sc(750.00) cw(0) cp(10))};5
 {"su152"        		 ("extra" t() sc(1000.00) cw(0) cp(20))};6
-{"charioteer"            ("extra" t() sc(1400.00) cw(0) cp(25))};8
+{"np_ml20_fin_veteran"    ("extra" t() sc(1300.00) cw(0) cp(20))};6
+
 
 {"l35lf"	             ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"brixia45"	             ("extra" t() sc(300.00) cw(0) cp(10))}	;2
@@ -74,14 +77,15 @@
 {"a19"        			 ("extra" t() sc(700.00) cw(0) cp(15))}	;4
 {"wz111_1"        	     ("extra" t() sc(1400.00) cw(0) cp(30))};8
 
+{"m3a1scout_us"	         ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"boyes_gun_carrier"	 ("extra" t() sc(150.00) cw(0) cp(5))}	;1
+{"qf13"	                 ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"bofors_anz"	         ("extra" t() sc(300.00) cw(0) cp(10))}	;2
 {"stag_hound"        	 ("extra" t() sc(440.00) cw(0) cp(15))}	;3
 {"gun_carrier_3_inch"    ("extra" t() sc(440.00) cw(0) cp(15))}	;3
-{"staghound_e1"        	 ("extra" t() sc(600.00) cw(0) cp(15))}	;4
-{"churchill_mk_v_cs"     ("extra" t() sc(800.00) cw(0) cp(15))} ;5
-{"m4a4_firefly_veteran"  ("extra" t() sc(1000.00) cw(0) cp(15))};6
-{"sexton"        	     ("extra" t() sc(1300.00) cw(0) cp(15))};8
+{"staghound_e1"        	 ("extra" t() sc(600.00) cw(0) cp(15))}	;5
+{"churchill_mk_v_cs"     ("extra" t() sc(800.00) cw(0) cp(25))} ;5
+{"sexton"        	     ("extra" t() sc(1300.00) cw(0) cp(25))};8
 
 
 ;°°°Artillery°°°

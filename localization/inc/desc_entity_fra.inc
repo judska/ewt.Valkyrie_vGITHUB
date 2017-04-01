@@ -32,3 +32,4 @@
                 {"mortarlightuk" "Mortier de 50mm"}
                 {"amx-13-90" "AMX-13/75"}
                 {"amx50-100" "AMX-50/100"}
+                {"citroen45_mort" "Citroen Mortar Truck"}

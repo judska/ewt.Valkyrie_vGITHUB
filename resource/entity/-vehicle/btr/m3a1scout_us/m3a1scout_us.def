@@ -101,7 +101,8 @@
 			{item "smoke" "grenade" 10}
 			{item "bandage" 10}
 			{item "dynamite"}
-			{item "browning_m19" filled {user "mgun"}}
+			{item "browning" filled {user "mgun"}}
+			{item "ammo hmgun" 1000}
 			{item "mgun" "ammo" 4500}		
 		}
 	}

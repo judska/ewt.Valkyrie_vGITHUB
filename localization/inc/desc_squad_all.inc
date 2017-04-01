@@ -373,7 +373,7 @@
 		{"hero11_usa" "M1 155mm Long Tom"}
 		{"hero12_usa" "Super Pershing"}
 
-        {"hero1_hun" "Csaba 40M"}
+        {"hero1_hun" "Csaba 39M"}
 		{"hero2_hun" "Calarasi"}
 		{"hero3_hun" "PzKpfw IV Ausf.D"}
 		{"hero4_hun" "Szent Laszlo Infantry"}
