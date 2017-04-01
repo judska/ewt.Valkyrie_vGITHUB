@@ -1,15 +1,15 @@
 {from "pattern rpg_weapon"
-	{filling "ammo faustpatrone" 1}
+	{filling "ammo panzerfaust" 1}
 	{fillingVisible "faustrocket"}
 	{preloaded}
 	{inventory
 		{size 6 1}
 	}
 	{mass 6}
-	{entity "faustpatrone"}
+	{entity "panzerfaust100"}
 	{fireSound "reactive/panzerfaust"}
 	{ammoLocked}
-    {projectileDamage 140}
+    {projectileDamage 200}
 	{gravity 0.8}
 	{reactive 0}
 	{spreading 2}

@@ -2322,6 +2322,10 @@
 	("hanomag_sound")
 	("burn_by_engine" args 0.3)
 }
+{"np_sdkfz251_1_D_R tank"
+	("hanomag_sound")
+	("burn_by_engine" args 0.3)
+}
 {"np_sdkfz251_hun tank"
 	("hanomag_sound")
 	("burn_by_engine" args 0.3)
