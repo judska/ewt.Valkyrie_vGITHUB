@@ -61,9 +61,9 @@
 	{mass 3140}
 	{Chassis
 		{Locomotion ("locomotion")
-			{MaxSpeed	60}
+			{MaxSpeed	52}
 			{maxSpeedAtMaxTurn 20}		
-			{TurnRadius	5}
+			{TurnRadius	20}
 		}
 		{FuelBag
 			{volume 100}

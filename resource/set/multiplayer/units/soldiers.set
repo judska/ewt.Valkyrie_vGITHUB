@@ -158,6 +158,8 @@
 {"mp/fin/rifle3" ("rifle" side(fin))}
 {"mp/ita/rifle3" ("rifle" side(ita))}
 
+{"mp/ita/rifle4" ("rifle" side(ita))}
+
 
 (define "rifle_lowcp"
     {tags   "rifle %side infantry man"}
@@ -224,6 +226,7 @@
 {"mp/ita/smg4" ("smg" side(ita))}
 {"mp/chn/smg4" ("smg" side(chn))}
 
+{"mp/ita/smg5" ("smg" side(ita))}
 {"mp/rus/smg5" ("smg" side(rus))}
 {"mp/fin/smg5" ("smg" side(fin))}
 
@@ -327,6 +330,7 @@
 {"mp/ita/mgun" ("mgun_light" side(ita))}
 {"mp/chn/mgun" ("mgun_light" side(chn))}
 
+{"mp/ita/mgun2" ("mgun_light" side(ita))}
 {"mp/fin/mgun2" ("mgun_light" side(fin))}
 
 {"mp/fin/mgun3" ("mgun_light" side(fin))}
