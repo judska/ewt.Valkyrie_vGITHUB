@@ -2322,6 +2322,14 @@
 	("hanomag_sound")
 	("burn_by_engine" args 0.3)
 }
+{"sdkfz251_D_R tank"
+	("hanomag_sound")
+	("burn_by_engine" args 0.3)
+}
+{"sdkfz251_1ita tank"
+	("hanomag_sound")
+	("burn_by_engine" args 0.3)
+}
 {"np_sdkfz251_hun tank"
 	("hanomag_sound")
 	("burn_by_engine" args 0.3)
@@ -2599,7 +2607,7 @@
 {"chi-ha47 tank"
 	{on "add_movement_sound" overload
 		{link_sound "rotate_turret" 	"vehicle/turret/churchill_turret"	}
-		{link_sound "move"				"vehicle/tracks/chi-ha"	}
+		{link_sound "move"				"vehicle/tracks/pz3"	}
 		{link_sound "engine"			"vehicle/engine/chi-ha"	}
 		{link_sound "engine_end"		"vehicle/engine/hetzer_end"}
 		{link_sound "exhaust"			"vehicle/engine/hetzer_up"	}
@@ -2609,7 +2617,7 @@
 {"chi-ha57 tank"
 	{on "add_movement_sound" overload
 		{link_sound "rotate_turret" 	"vehicle/turret/light"	}
-		{link_sound "move"				"vehicle/tracks/chi-ha"	}
+		{link_sound "move"				"vehicle/tracks/pz3"	}
 		{link_sound "engine"			"vehicle/engine/chi-ha"	}
 		{link_sound "engine_end"		"vehicle/engine/hetzer_end"}
 		{link_sound "exhaust"			"vehicle/engine/hetzer_up"	}
@@ -2629,7 +2637,7 @@
 {"ke-nu tank"
 	{on "add_movement_sound" overload
 		{link_sound "rotate_turret" 	"vehicle/turret/light"	}
-		{link_sound "move"				"vehicle/tracks/m26"	}
+		{link_sound "move"				"vehicle/tracks/pz1"	}
 		{link_sound "engine"			"vehicle/engine/chi-ha"	}
 		{link_sound "engine_end"		"vehicle/engine/mb_end"}
 		{link_sound "exhaust"			"vehicle/engine/mb_up"	}
@@ -2651,8 +2659,8 @@
 		{link_sound "rotate_turret" 	"vehicle/turret/medium1"	}
 		{link_sound "move"				"vehicle/tracks/m8"	}
 		{link_sound "engine"			"vehicle/engine/chi-ha"	}
-		{link_sound "engine_end"		"vehicle/engine/mb_end"}
-		{link_sound "exhaust"			"vehicle/engine/mb_up"	}
+		{link_sound "engine_end"		"vehicle/engine/jp_end"}
+		{link_sound "exhaust"			"vehicle/engine/jp_up"	}
 	}
 	("burn_by_engine" args 0.3)
 }
