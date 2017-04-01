@@ -69,7 +69,7 @@
 {"hero8_ita"         ("i2" c(480)			         t(all hero) s(ita) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero9_ita"	     ("v1" c(480) c1(m10525)		 t(all hero) s(ita) n1(tankman:2) n2(tankman2:1) g(h4) b(hero)) {level 10} {cost 4.0} {fore -0.5}}
 
-{"hero10_ita"        ("34v" c(600) c1(pz4gita) c2(sdkfz251_1ita) c3(flak37ita)  t(all hero) s(ita) n1(tankman:4) n2(vehicle_supporter:2) n3(smg:2) n4(rifle:4) n5(mgun:2) g(h6) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
+{"hero10_ita"        ("34v" c(600) c1(pz4gita) c2(sdkfz251_1ita) c3(flak37ita)  t(all hero) s(ita) n1(tankman:4) n2(vehicle_supporter2:2) n3(smg5:2) n4(rifle4:4) n5(mgun2:2) g(h6) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 {"hero11_ita"        ("v1" c(840) c1(obice210)                   t(all hero) s(ita) n1(vehicle_supporter:2) g(h7) b(hero)) {level 25} {cost 7.0} {fore -0.5}}
 {"hero12_ita"        ("v1" c(960) c1(elefantita) 	             t(all hero) s(ita) n1(tankman:3) n2(tankman2:1) g(h8) b(hero)) {level 5} {cost 8.0} {fore -0.5}}
 
