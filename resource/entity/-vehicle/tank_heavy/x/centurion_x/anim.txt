@@ -1,0 +1,180 @@
+-= Animation: break, Node Body =-
+	Frame 100 {
+		Visibility 1
+		Position	0.0168302	0.873796	7.27718
+		Orientation	0 0 0 1
+	}
+	Frame 101 {
+		Position	0.0168302	0.873796	7.04394
+		Orientation	0 0.00121638 0 0.999999
+	}
+	Frame 102 {
+		Position	0.0168302	0.873796	6.48775
+		Orientation	0 0.00411698 0 0.999992
+	}
+	Frame 103 {
+		Position	0.0168302	0.873796	5.82392
+		Orientation	0 0.00757893 0 0.999971
+	}
+	Frame 104 {
+		Position	0.0168302	0.873796	5.26774
+		Orientation	0 0.0104794 0 0.999945
+	}
+	Frame 105 {
+		Position	0.0168302	0.873796	5.0345
+		Orientation	0 0.0116957 0 0.999932
+	}
+	Frame 106 {
+		Orientation	0.000865115 0.00965923 3.55636e-005 0.999953
+	}
+	Frame 107 {
+		Orientation	0.00302753 0.00456762 0.000109361 0.999985
+	}
+	Frame 108 {
+		Orientation	0.00583761 -0.002052 0.00017238 0.999981
+	}
+	Frame 109 {
+		Orientation	0.00864614 -0.00867179 0.000198175 0.999925
+	}
+	Frame 110 {
+		Orientation	0.0108052 -0.0137638 0.000192683 0.999847
+	}
+	Frame 111 {
+		Orientation	0.0116685 -0.0158005 0.000184317 0.999807
+	}
+	Frame 150 {
+		Visibility 1
+		Position	0.0168302	0.873796	5.0345
+		Orientation	0.0116685 -0.0158005 0.000184317 0.999807
+	}
+-= Animation: break, Node Engine =-
+	Frame 150 {
+		Visibility 1
+		Position	-50.9621	-0.953645	29.3418
+		Orientation	0 0 0 1
+	}
+	Frame 151 {
+		Orientation	-0.00559475 0.00551471 0.00210726 0.999967
+	}
+	Frame 152 {
+		Orientation	-0.0178169 0.0177277 0.00652355 0.999663
+	}
+	Frame 153 {
+		Orientation	-0.0299136 0.0300448 0.0106351 0.999044
+	}
+	Frame 154 {
+		Orientation	-0.0353684 0.0356756 0.0124023 0.99866
+	}
+	Frame 155 {
+		Orientation	-0.0259821 0.0256744 0.00983081 0.999284
+	}
+	Frame 156 {
+		Orientation	-0.00331271 0.00203608 0.00292038 0.999988
+	}
+	Frame 157 {
+		Orientation	0.0242126 -0.0257269 -0.00673657 0.999353
+	}
+	Frame 158 {
+		Orientation	0.0476033 -0.0485484 -0.0159776 0.997558
+	}
+	Frame 159 {
+		Orientation	0.0574872 -0.0579861 -0.0201577 0.996457
+	}
+	Frame 200 {
+		Visibility 1
+		Position	-50.9621	-0.953645	29.3418
+		Orientation	0.0574872 -0.0579861 -0.0201577 0.996457
+	}
+-= Animation: break, Node Turret =-
+	Frame 0 {
+		Visibility 1
+		Position	10.3364	-0.263971	25.8827
+		Orientation	0 0 0 1
+	}
+	Frame 1 {
+		Position	10.0315	-0.263971	26.0827
+		Orientation	-0.00812748 0.0059988 0.00506028 0.999936
+	}
+	Frame 2 {
+		Position	9.36055	-0.263971	26.5225
+		Orientation	-0.0257837 0.0194803 0.0158405 0.999352
+	}
+	Frame 3 {
+		Position	8.68962	-0.263971	26.9624
+		Orientation	-0.0431145 0.0333355 0.0261248 0.998172
+	}
+	Frame 4 {
+		Position	8.38465	-0.263971	27.1623
+		Orientation	-0.050879 0.0397511 0.0306313 0.997443
+	}
+	Frame 5 {
+		Orientation	-0.044461 0.0342416 0.0226474 0.998167
+	}
+	Frame 6 {
+		Orientation	-0.0287774 0.0215387 0.00329408 0.999348
+	}
+	Frame 7 {
+		Orientation	-0.00939251 0.00721108 -0.0203502 0.999723
+	}
+	Frame 8 {
+		Orientation	0.00737061 -0.00406372 -0.040579 0.999141
+	}
+	Frame 9 {
+		Orientation	0.0145336 -0.00858744 -0.049167 0.998648
+	}
+	Frame 50 {
+		Visibility 1
+		Position	8.38465	-0.263971	27.1623
+		Orientation	0.0145336 -0.00858744 -0.049167 0.998648
+	}
+-= Animation: break, Node Gun_rot =-
+	Frame 50 {
+		Visibility 1
+		Position	16.5863	-0.6588	9.9827
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 51 {
+		Orientation	0.707638 0.00547399 0.0058038 0.70653
+	}
+	Frame 52 {
+		Orientation	0.708126 0.0109386 0.0116158 0.705905
+	}
+	Frame 53 {
+		Orientation	0.707771 0.00695141 0.00735525 0.70637
+	}
+	Frame 54 {
+		Orientation	0.706907 -0.00183824 -0.00200238 0.707301
+	}
+	Frame 55 {
+		Orientation	0.705934 -0.0106513 -0.0113374 0.708107
+	}
+	Frame 56 {
+		Orientation	0.705455 -0.0146645 -0.0155726 0.708432
+	}
+	Frame 100 {
+		Visibility 1
+		Position	16.5863	-0.6588	9.9827
+		Orientation	0.705455 -0.0146645 -0.0155726 0.708432
+	}
+-= Animation: break, Node TrackR =-
+	Frame 200 {
+		Visibility 1
+		Position	-2.03839	-0.51903	0.270658
+		Orientation	0 0 0 1
+	}
+	Frame 250 {
+		Visibility 1
+		Position	-2.03839	-0.51903	0.270658
+		Orientation	0 0 0 1
+	}
+-= Animation: break, Node TrackL =-
+	Frame 200 {
+		Visibility 1
+		Position	2.03843	-0.518954	0.270658
+		Orientation	0 0 0 1
+	}
+	Frame 250 {
+		Visibility 1
+		Position	2.03843	-0.518954	0.270658
+		Orientation	0 0 0 1
+	}

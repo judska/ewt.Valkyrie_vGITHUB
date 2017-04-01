@@ -79,4 +79,4 @@
 
 {"hero10_eng"       ("v1" c(600) c1(churchill_crocodile) 	t(all hero) s(eng) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 {"hero11_eng"       ("v1" c(600) c1(churchill_avre)         t(all hero) s(eng) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
-{"hero12_eng"       ("v1" c(1080) c1(black_prince)          t(all hero) s(eng) n1(tankman:3) n2(tankman2:1) g(h9) b(hero)) {level 1} {cost 9.0} {fore -0.5}}
+{"hero12_eng"       ("v1" c(960) c1(black_prince)          t(all hero) s(eng) n1(tankman:3) n2(tankman2:1) g(h9) b(hero)) {level 1} {cost 8.0} {fore -0.5}}

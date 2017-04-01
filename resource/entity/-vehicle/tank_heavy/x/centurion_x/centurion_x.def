@@ -1,0 +1,49 @@
+{game_Entity
+	{Extension "centurions_x.mdl"}
+	{Volume "baffle1"
+	}
+	{Volume "baffle2"
+	}
+	{Volume "baffle3"
+	}
+	{Volume "baffle4"
+	}
+	{Volume "baffle5"
+	}
+	{Volume "baffle6"
+	}
+	{Volume "baffle"
+	}
+	{Volume "body1"
+	}
+	{Volume "body2"
+	}
+	{Volume "body"
+	}
+	{Volume "crew"
+	}
+	{Volume "engine"
+	}
+	{Volume "gun"
+	}
+	{Volume "inventory"
+	}
+	{Volume "shieldl1"
+	}
+	{Volume "shieldl2"
+	}
+	{Volume "shieldl3"
+	}
+	{Volume "shieldr1"
+	}
+	{Volume "shieldr2"
+	}
+	{Volume "shieldr3"
+	}
+	{Volume "trackleft"
+	}
+	{Volume "trackright"
+	}
+	{Volume "turret"
+	}
+}
