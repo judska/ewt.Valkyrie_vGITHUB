@@ -1,6 +1,6 @@
 {weapon_bullet
 	{filling "ammo tulip" 4}
-	{fireSound "reactive/tulip"}
+	{fireSound "reactive/calliope_burst"}
 	("heavy_artillery")
 
 	{recoveryTime 0.15}		
