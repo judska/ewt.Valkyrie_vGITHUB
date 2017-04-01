@@ -6,7 +6,7 @@
 	{Weaponry
 		{place "mgun"
 			{type "mgun_main"}
-			{weapon "mg13" filled}
+			{weapon "type1hmg" filled}
 			{Rotate}
 		}
 	}  
@@ -21,7 +21,7 @@
 			{item "ammo mgun" 1000}
 			{item "sandbag_kit2"}
 		}
-	}
+	}	
 	{extender "cannon"
 		{rotate_ik_Limit 0}
 	}

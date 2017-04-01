@@ -6,7 +6,7 @@
 	{Weaponry
 		{place "mgun"
 			{type "mgun_main"}
-			{weapon "mg13" filled}
+			{weapon "mg42_120" filled}
 			{Rotate}
 		}
 	}  

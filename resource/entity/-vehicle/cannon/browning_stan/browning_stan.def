@@ -6,10 +6,10 @@
 	{Weaponry
 		{place "mgun"
 			{type "mgun_main"}
-			{weapon "mg13" filled}
+			{weapon "browning_m19" filled}
 			{Rotate}
 		}
-	}  
+	}  	
 	{sensor
 		{visor "main"
 			{vision "cannon_mgun"}
@@ -26,14 +26,20 @@
 		{rotate_ik_Limit 0}
 	}
 	
-	{Extension "mg42_stan.mdl"}
+	{Extension "browning_stan.mdl"}
 	{bone "turret" 
 		{limits -90 90}
 	}
 
+	{Volume "body"
+		{tags "body"}
+		{able{obstacle 0}} ;{blast 0}
+		{thickness 1}
+		{component "body"}
+	}
 	{Volume "body1"
 		{tags "body"}
-		{able{obstacle 0}}
+		{able{obstacle 0}{blast 0}}
 		{thickness 1}
 		{component "body"}
 	}
@@ -49,8 +55,15 @@
 		{thickness 1}
 		{component "body"}
 	}
+	{Volume "body4"
+		{tags "body"}
+		{able{obstacle 0}}
+		{thickness 1}
+		{component "body"}
+	}
 
 	{Volume "touch"
 		{able clear {touch}}
 	}
+
 }
