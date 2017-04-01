@@ -2,8 +2,7 @@
 	{filling "bullet76 fg"}
 	{fireSound "gun/50to76_cal/76mm_kt26"}
 	{reloadSound "gun_r03"}
-	("range_grazing_howitzer")
-	("accuracy_lighthowitzer")
+	("range_light_howitzer")
 	{rechargeTime 4.2}
 	{parameters "fg"	
 		{range 120 130}
