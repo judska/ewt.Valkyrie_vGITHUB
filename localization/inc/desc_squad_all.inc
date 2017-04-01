@@ -305,10 +305,10 @@
 		{"hero2_jap1" "Kamikaze!"}
 		{"hero3_jap1" "Gyokusai"}
 		{"hero4_jap" "Homeland Fury"}
-		{"hero5_jap" "Marine Paratroopers"}
+		{"hero5_jap1" "Na-To"}
 	    {"hero6_jap" "Type 97 Mortar"}
 	    {"hero7_jap" "Marine Tank"}
-	    {"hero8_jap1" "Na-To"}
+		{"hero8_jap" "Marine Paratroopers"}
 		{"hero9_jap" "Radio Operator"}
 		{"hero10_jap" "Banzai!"}
 		{"hero11_jap" "200mm Rocket"}
@@ -331,7 +331,7 @@
 		{"hero2_usa" ".30 cal Browning A6"}
 		{"hero3_usa1" "Marauders"}
 		{"hero4_usa" "U.S. Marines"}
-		{"hero5_usa1" "M15A1 CGMC"}
+		{"hero5_usa1" "Flyswatter"}
 		{"hero6_usa" "Devil's Brigade"}
 		{"hero7_usa" "M4A3R2 Croc"}
 		{"hero8_usa" "Radio Operator"}

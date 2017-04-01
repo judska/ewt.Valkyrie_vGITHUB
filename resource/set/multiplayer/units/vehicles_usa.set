@@ -75,5 +75,5 @@
 {"hero9_usa"       ("v1" c(600)  c1(m4a3_105) 	                t(all hero) s(usa) n1(tankman:4) n2(tankman2:1) g(h5) b(hero)) {level 2} {cost 5.0} {fore -0.5}}
 
 {"hero10_usa"  	   ("v1" c(600)  c1(m4a3e8_fury) 	            t(all hero) s(usa) n1(tankman:4) n2(tankman2:1) g(h5) b(hero)) {level 15} {cost 5.0} {fore -0.5}}
-{"hero11_usa"      ("2v" c(720)  c1(m4hst) c2(155mm_longtom) 	t(all hero) s(usa) n1(vehicle_supporter:3) n2(vehicle_supporter:2) g(h6) b(hero)) {level 15} {cost 6.0} {fore -0.5}}
+{"hero11_usa"      ("2v" c(860)  c1(m4hst) c2(155mm_longtom) 	t(all hero) s(usa) n1(vehicle_supporter:3) n2(vehicle_supporter:2) g(h6) b(hero)) {level 15} {cost 7.0} {fore -0.5}}
 {"hero12_usa"	   ("v1" c(1080) c1(m26e4)		                t(all hero) s(usa) n1(tankman:4) n2(tankman2:1) g(h9) b(hero)) {level 25} {cost 9.0} {fore -0.5}}

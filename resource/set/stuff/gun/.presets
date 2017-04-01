@@ -154,10 +154,13 @@
 	("accuracy_curve_1" r1(1.50))
 )
 (define "accuracy_grazinghowitzer" 
-	("accuracy_curve_2" r1(1.50))
+	("accuracy_curve_2" r1(1.00))
 )
 (define "accuracy_howitzer" 
 	("accuracy_curve_3" r1(8.00))
+)
+(define "accuracy_howitzer_1" 
+	("accuracy_curve_3" r1(6.00))
 )
 (define "accuracy_support"
 	("accuracy_curve_1" r1(2.50))
@@ -590,8 +593,8 @@
 
 (define "range_grazing_howitzer"
 	{curve "gun_medium"}
-	{spreading 1
-		{SpreadPower	1}
+	{Spreading 1
+		{SpreadPower 1}
 	}
 	("accuracy_grazinghowitzer")
 	("caliber_howitzer")
@@ -611,9 +614,6 @@
 	{parameters "apcr"	
 		{range 150 170}
 	}
-	{parameters "heat"
-		{range 130 140}
-	}	
     {RelaxationTime 1}
 	{speed 200}
 	{gravity 3.5}
@@ -811,7 +811,7 @@
 		{SpreadPower	1}
 		{SpreadYadjust	0.5}
 	}
-	("accuracy_howitzer")
+	("accuracy_howitzer_1")
 	("caliber_howitzer")
 
 	{burst {min 6} {noaiming}}
@@ -824,7 +824,7 @@
 	{DisableRicochet}
 	{aimtype adaptive}
 	{traceFreq 0} 
-	{range 265 275}
+	{range 290 300}
 	{RelaxationTime 2}
 	
 	{speed 450}
