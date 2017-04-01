@@ -1,10 +1,8 @@
 ;Exported by: Kalinski
-;Date:        Thu Jun 23 14:54:53 2016
-;File:        C:\Users\Kalinski\Desktop\afr tex\ger-smg-afr.max
+;Date:        Fri Jan 06 20:49:43 2017
+;File:        C:\Users\Kalinski\Desktop\afrikakorps2\dak1 smg.max
 {Skeleton
-	{bone revolute "basis"
-		{limits -30 30}
-		{speed 0.1}
+	{bone "basis"
 		{Orientation
 			1	0	0
 			0	-1	0
@@ -94,20 +92,16 @@
 					}
 				}
 			}
-			{bone revolute "ik_leftright"
+			{bone "ik_leftright"
 				{parameters "Voxels=0;"}
-				{limits -20 20}
-				{speed 0.1}
 				{Matrix34
 					0	0	1
 					0	-1	0
 					1	0	0
 					1.90368	0.0344548	0
 				}
-				{bone revolute "ik_updown"
+				{bone "ik_updown"
 					{parameters "Voxels=0;"}
-					{limits -40 20}
-					{speed 0.1}
 					{Matrix34
 						1	0	0
 						0	0	1
@@ -282,7 +276,7 @@
 					}
 				}
 			}
-			{bone revolute "placement"
+			{bone "placement"
 				{Matrix34
 					0	1	0
 					-1	0	0
@@ -291,10 +285,8 @@
 				}
 			}
 		}
-		{bone revolute "foresight2rot"
+		{bone "foresight2rot"
 			{parameters "Voxels=0;"}
-			{limits -20 20}
-			{speed 0.1}
 			{Position 13.7429	0.0246876	27.5947}
 		}
 		{bone "skin"
@@ -302,7 +294,7 @@
 				0.906308	0	-0.422618
 				0	-1	0
 				0.422618	0	0.906308
-				0.992398	-6.89244e-005	26.8307
+				0.992398	-6.89244e-005	26.9396
 			}
 			{VolumeView "skin.ply"}
 		}

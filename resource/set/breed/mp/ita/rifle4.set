@@ -1,6 +1,6 @@
 {breed
-	{skin "ita-alp-rfl"}
-	{portrait "ger-afr-smg"}
+	{skin "ger-afr-smg"}
+	{portrait "ita_soldier1"}
 	{icon "ita_soldier1"}
 	{icon_priority 0}
 	{nationality ita}
