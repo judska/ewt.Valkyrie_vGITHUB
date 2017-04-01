@@ -41,6 +41,17 @@
 		{"bazookers(ita)" "AT infantry"}
 		{"bazookers(chn)" "AT infantry"}
 		{"bazookers(anz)" "AT infantry"}
+		{"defenders(eng)" "Defender infantry"}
+		{"defenders(ger)" "Defender infantry"}
+		{"defenders(jap)" "Defender infantry"}
+		{"defenders(rus)" "Defender infantry"}
+		{"defenders(usa)" "Defender infantry"}
+		{"defenders(hun)" "Defender infantry"}
+		{"defenders(fra)" "Defender infantry"}
+		{"defenders(fin)" "Defender infantry"}
+		{"defenders(ita)" "Defender infantry"}
+		{"defenders(chn)" "Defender infantry"}
+		{"defenders(anz)" "Defender infantry"}
 		{"elites(eng)" "Commandos"}
 		{"elites(ger)" "Paratroopers"}
 		{"elites(jap)" "Paratroopers"}
@@ -108,6 +119,17 @@
 		{"riflemans(ita)" "Regular infantry"}
 		{"riflemans(chn)" "Regular infantry"}
 		{"riflemans(anz)" "Regular infantry"}
+		{"riflemans_moto_eng" "Motorized Regular infantry"}
+		{"riflemans_moto_ger" "Motorized Regular infantry"}
+		{"riflemans_moto_jap" "Motorized Regular infantry"}
+		{"riflemans_moto_rus" "Motorized Regular infantry"}
+		{"riflemans_moto_usa" "Motorized Regular infantry"}
+		{"riflemans_moto_hun" "Motorized Regular infantry"}
+		{"riflemans_moto_fra" "Motorized Regular infantry"}
+		{"riflemans_moto_fin" "Motorized Regular infantry"}
+		{"riflemans_moto_ita" "Motorized Regular infantry"}
+		{"riflemans_moto_chn" "Motorized Regular infantry"}
+		{"riflemans_moto_anz" "Motorized Regular infantry"}
 		{"riflemans2(eng)" "Rifleman"}
 		{"riflemans2(ger)" "Rifleman"}
 		{"riflemans2(jap)" "Rifleman"}
@@ -141,6 +163,17 @@
 		{"smgs(ita)" "Assault infantry"}
 		{"smgs(chn)" "Assault infantry"}
 		{"smgs(anz)" "Assault infantry"}
+		{"smgs_moto_eng" "Motorized Assault infantry"}
+		{"smgs_moto_ger" "Motorized Assault infantry"}
+		{"smgs_moto_jap" "Motorized Assault infantry"}
+		{"smgs_moto_rus" "Motorized Assault infantry"}
+		{"smgs_moto_usa" "Motorized Assault infantry"}
+		{"smgs_moto_hun" "Motorized Assault infantry"}
+		{"smgs_moto_fra" "Motorized Assault infantry"}
+		{"smgs_moto_fin" "Motorized Assault infantry"}
+		{"smgs_moto_ita" "Motorized Assault infantry"}
+		{"smgs_moto_chn" "Motorized Assault infantry"}
+		{"smgs_moto_anz" "Motorized Assault infantry"}
 		{"smgs2(eng)" "SMG"}
 		{"smgs2(ger)" "SMG"}
 		{"smgs2(jap)" "SMG"}
@@ -388,7 +421,7 @@
         {"hero7_ita" "PzKpfw III Ausf.N"}
         {"hero8_ita" "Radio Operator"}
         {"hero9_ita" "Semovente M43 da 105/25"}
-        {"hero10_ita" "PzKpfw KV-1B 756(r)"}
+        {"hero10_ita" "Afrika Korps"}
         {"hero11_ita" "Obice da 210/35"}
         {"hero12_ita" "Elefantita"}
        
