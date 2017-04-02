@@ -1,0 +1,5 @@
+{sound
+	{loudness "engine"}
+	{signal movement 40}
+        {volume 0.50}
+}
