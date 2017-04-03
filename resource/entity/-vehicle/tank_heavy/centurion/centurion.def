@@ -113,31 +113,32 @@
 	{Chassis
 		("tank_trace" fx("tracks_mid") step(0.50) len(0.63))
 		{Locomotion ("locomotion")
-			{MaxSpeed	35}
-			{maxSpeedAtMaxTurn 5}
-			{StartTime	50}
-			{TurnTime	20}
+			{MaxSpeed	28}
+			{maxSpeedAtMaxTurn 11}
+			{StartTime	17}
+			{TurnTime	11}
 			{TurnStart  1.8} 
-    			{BrakeTime  1.5}
-     			{StopTime   2.5} 
-    			{TurnRadius 11} 
-    			{TurnStop   0.8} 
-			{Gears 0.1 0.2 0.3 0.5 1}
-    			{RearGears  0.1 0.2}
+    		{BrakeTime  1.5}
+     		{StopTime   2.5} 
+    		{TurnRadius 11} 
+    		{TurnStop   0.8} 
+    		{Gears      0.1 0.5 1.0}
+    		{RearGears  0.1 0.28}
 		}
 		{FuelBag
 			{volume 750 }	
-			{rate	4 }   
+			{rate	170 }   
 			{remain 750 }
 			{fuel "fuel"}
 		}
 		{speed
-        		{Normal  13}
-    		}
-	}
+        	{Normal  10}
+        	{Slow  12}
+    	}
+}
 
 	{bone "turret"
-		{speed2 10.7}
+		{speed 0.0071}
 	}
 	{bone "gun_rot"
 		{limits -15 7}

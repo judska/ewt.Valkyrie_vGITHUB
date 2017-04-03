@@ -28,7 +28,7 @@
 
 {"m7"               ("v" c(0) t(all artillery) 		s(usa) n1(3) n2(1) g(c10) sc(660.00) b(v2) cw(0) cp(12)) {level 12} {cost 660} {fore 1.0}}
 {"m12gmc"           ("v" c(0) t(all artillery heavyart) s(usa) n1(3) n2(1) g(c11) sc(900.00) b(v2) cw(0) cp(12)) {level 15} {cost 900} {fore 1.0}}
-{"m4a3c"            ("v" c(0) t(all artillery heavyart) s(usa) n1(3) n2(1) g(c12) sc(1400.00) b(v2) cw(0) cp(17)) {level 18} {cost 1400} {fore 1.0}}
+{"m4a3c"            ("v" c(0) t(all artillery heavyart) s(usa) n1(3) n2(1) g(c12) sc(1530.00) b(v2) cw(0) cp(17)) {level 18} {cost 1530} {fore 1.0}}
 
 
 ;°°°Button 3°°°

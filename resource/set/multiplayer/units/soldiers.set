@@ -711,7 +711,7 @@
 
 (define "sturmovik_lowcp"
     {tags   "sturmovik %side spec infantry man"}
-    {cp     1.50}
+    {cp     2.00}
     {score  40.00}
     {basic}
     {breed}

@@ -255,7 +255,7 @@
 		{long 8 1}
 	}
 	
-	{healthDamage 300}
+	{healthDamage 350}
 )
 
 (define "range_zenite_long"
@@ -277,8 +277,8 @@
 		{short 5 1}
 		{long 8 1}
 	}
-	
-	{healthDamage 400}
+
+	{healthDamage 700}	
 )
 
 (define "range_minimum"
