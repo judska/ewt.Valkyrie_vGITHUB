@@ -14,7 +14,7 @@
 ;°°°Button 2°°°
 
 {"hotchkiss_stan"           ("vs" c(300) t(all cannon)	s(fra) n(2) g(c1) sc(100.00) b(v2) cw(2) cp(5)) {level 1} {cost 100} {fore 0.5}}
-{"13mm_hotchkiss"           ("vs" c(300) t(all cannon)	s(fra) n(2) g(c1) sc(170.00) b(v2) cw(2) cp(5)) {level 1} {cost 170} {fore 0.5}}
+{"13mm_hotchkiss"           ("vs" c(300) t(all cannon)	s(fra) n(2) g(c1) sc(150.00) b(v2) cw(2) cp(5)) {level 1} {cost 150} {fore 0.5}}
 {"mle_27"		            ("vs" c(0) t(all cannon mediumcan) 	s(fra) n(2) g(c3) sc(270.00) b(v2) cw(2) cp(5)) {level 1} {cost 270} {fore 1.0}}
 
 {"25mm_hotchkiss_mle34"     ("vs" c(0) t(all cannon) 	s(fra) n(2) g(c4) sc(105.00)  b(v2) cw(2) cp(5)) {level 1} {cost 105} {fore 0.5}}
@@ -68,6 +68,6 @@
 {"hero9_fra"       ("i2" c(480)	                        t(all hero) s(fra) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 
 {"hero10_fra"      ("v1" c(600) c1(amx-13-90)           t(all hero) s(fra) n1(tankman:2) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
-{"hero11_fra"      ("v2" c(600) c1(155gpf2) 		    t(all hero) s(fra) n1(vehicle_supporter:2) n2(vehicle_supporter:0) g(h6) b(hero)) {level 20} {cost 5.0} {fore -0.5}}
+{"hero11_fra"      ("v2" c(720) c1(155gpf2) 		    t(all hero) s(fra) n1(vehicle_supporter:2) n2(vehicle_supporter:0) g(h6) b(hero)) {level 20} {cost 6.0} {fore -0.5}}
 {"hero12_fra"  	   ("v1" c(960) c1(amx50-100)           t(all hero) s(fra) n1(tankman:3) n2(tankman2:1) g(h8) b(hero)) {level 1} {cost 8.0} {fore -0.5}}
 

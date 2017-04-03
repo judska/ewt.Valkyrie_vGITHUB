@@ -15,7 +15,7 @@
 ;°°°Button 2°°°
 
 {"browning_stan"    ("vs" c(300) t(all cannon) 	s(usa) n(2) g(c1) sc(100.00) b(v2) cw(2) cp(5)) {level 1} {cost 100} {fore 1.0}}
-{"maxson"           ("vs" c(300) t(all cannon) 	s(usa) n(1) g(c2) sc(150.00) b(v2) cw(2) cp(5)) {level 3} {cost 150} {fore 0.5}}
+{"maxson"           ("vs" c(300) t(all cannon) 	s(usa) n(1) g(c2) sc(125.00) b(v2) cw(2) cp(5)) {level 3} {cost 125} {fore 0.5}}
 {"m1mortar"         ("vs" c(0) t(all cannon mediumcan) 	s(usa) n(2) g(c3) sc(280.00) b(v2) cw(2) cp(5)) {level 5} {cost 280} {fore 1.0}}
 
 {"m3cannon"         ("vs" c(0) t(all cannon) 	s(usa) n(2) g(c4) sc(135.00)  b(v2) cw(2) cp(5)) {level 1} {cost 135} {fore 1.0}}

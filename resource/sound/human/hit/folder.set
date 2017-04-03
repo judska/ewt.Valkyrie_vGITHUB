@@ -1,5 +1,4 @@
 {sound
-	{tag emotions}
-	{loudness "talk"}
-	{signal movement 2}
+	{loudness "hit"}
+	{signal movement 38}
 }

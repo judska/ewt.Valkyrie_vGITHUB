@@ -757,6 +757,31 @@
 	{gravity 5}
 )
 
+(define "range_heavy_howitzer_2"
+	{spreading 1
+		{SpreadPower	1}
+		{SpreadYadjust	0.5}
+	}
+	("accuracy_howitzer_2")
+	("caliber_howitzer")
+
+	{burst {min 6} {noaiming}}
+	{recoveryTime 5.00}
+	{rechargeTime 100}
+
+	{bullet_view "howitzer_shell"}
+	
+	{ZeroingAccuracy 0.95 0.90}
+	{DisableRicochet}
+	{aimtype adaptive}
+	{traceFreq 0} 
+	{range 240 250}
+	{RelaxationTime 2}
+	
+	{speed 450}
+	{gravity 5}
+)
+
 (define "range_heavy_howitzer_152_fin"
 	{spreading 1
 		{SpreadPower	1}
@@ -768,7 +793,7 @@
 	{curve "cumulative"}
 	{aimtype adaptive}
 	{recoveryTime 14}
-	{rechargeTime 50}
+	{rechargeTime 60}
 
 	{bullet_view "howitzer_shell"}
 	{burst {min 3} {noaiming}}		
@@ -814,7 +839,7 @@
 		{SpreadPower	1}
 		{SpreadYadjust	0.5}
 	}
-	("accuracy_howitzer_1")
+	("accuracy_howitzer")
 	("caliber_howitzer")
 
 	{burst {min 6} {noaiming}}

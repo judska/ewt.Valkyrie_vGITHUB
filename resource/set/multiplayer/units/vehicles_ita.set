@@ -14,7 +14,7 @@
 ;°°°Button 2°°°
 
 {"breda_safat88_stan"        ("vs" c(300) t(all cannon) 	s(ita) n(2) g(c1) sc(95.00) b(v2) cw(2) cp(5)) {level 1} {cost 95} {fore 1.0}}
-{"20mmScotti"                ("vs" c(300) t(all cannon) 	s(ita) n(2) g(c2) sc(160.00) b(v2) cw(2) cp(5)) {level 1} {cost 160} {fore 0.5}}
+{"20mmScotti"                ("vs" c(300) t(all cannon) 	s(ita) n(2) g(c2) sc(150.00) b(v2) cw(2) cp(5)) {level 1} {cost 160} {fore 0.5}}
 {"sgrw42_ita"                ("vs" c(0) t(all cannon mediumcan) s(ita) n(2) g(c3) sc(280.00) b(v2) cw(2) cp(5)) {level 1} {cost 280} {fore 1.0}}
 
 {"cannone6517"               ("vs" c(0) t(all cannon) 	        s(ita) n(2) g(c4) sc(140.00)  b(v2) cw(2) cp(5)) {level 1} {cost 140} {fore 1.0}}

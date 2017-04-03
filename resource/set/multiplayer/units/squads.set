@@ -139,41 +139,17 @@
 ("squad_with4types" side(chn) name(riflemans) c(30) g(squad_2) c1(squadleader:1) c2(rifle:5) c3(smg:1) c4(mgun:1) b(squad1) t(all inf_only) level(1) cost(115) f(1.0))
 ("squad_with4types" side(anz) name(riflemans) c(30) g(squad_2) c1(squadleader:1) c2(rifle:5) c3(smg:1) c4(mgun:1) b(squad1) t(all inf_only) level(1) cost(140) f(1.0))
 
-("squad_with2types" side(rus) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(100) f(-1.0))
-("squad_with2types" side(ger) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(120) f(-1.0))
-("squad_with2types" side(usa) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(110) f(-1.0))
-("squad_with2types" side(eng) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(105) f(-1.0))
-("squad_with2types" side(jap) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(105) f(-1.0))
-("squad_with2types" side(hun) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(105) f(-1.0))
-("squad_with2types" side(fra) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(105) f(-1.0))
-("squad_with2types" side(fin) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(100) f(-1.0))
-("squad_with2types" side(ita) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(105) f(-1.0))
-("squad_with2types" side(chn) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(95) f(-1.0))
-("squad_with2types" side(anz) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(110) f(-1.0))
-
-{"smgs_moto_rus"      ("rb4" c(0) c1(zis5_rus_moto)		     t(all inf_only) s(rus) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 180} {fore 1.0}}
-{"smgs_moto_ger"      ("rb4" c(0) c1(blitz3_6_ger_moto)      t(all inf_only) s(ger) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 180} {fore 1.0}}
-{"smgs_moto_usa"      ("rb4" c(0) c1(gmc_usa_moto) 		     t(all inf_only) s(usa) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 180} {fore 1.0}}
-{"smgs_moto_eng"      ("rb4" c(0) c1(bedford_uk_moto)		 t(all inf_only) s(eng) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 170} {fore 1.0}}
-{"smgs_moto_jap"      ("rb4" c(0) c1(isuzutx40_jap_moto)     t(all inf_only) s(jap) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 160} {fore 1.0}}
-{"smgs_moto_hun"      ("rb4" c(0) c1(mercedes_hun_moto)    	 t(all inf_only) s(hun) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 175} {fore 1.0}}
-{"smgs_moto_fra"      ("rb4" c(0) c1(renault_fra_moto) 	     t(all inf_only) s(fra) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 180} {fore 1.0}}
-{"smgs_moto_fin"      ("rb4" c(0) c1(np_volvo_fin_moto) 	 t(all inf_only) s(fin) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 180} {fore 1.0}}
-{"smgs_moto_ita"      ("rb4" c(0) c1(fiat35_ita_moto) 	     t(all inf_only) s(ita) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 170} {fore 1.0}}
-{"smgs_moto_chn"      ("rb4" c(0) c1(chevrolet_chn_moto) 	 t(all inf_only) s(chn) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 150} {fore 1.0}}
-{"smgs_moto_anz"      ("rb4" c(0) c1(bedford_anz_moto)       t(all inf_only) s(anz) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 170} {fore 1.0}}
-
-{"riflemans_moto_rus"      ("rb5" c(0) c1(zis5_rus_moto) 		    t(all inf_only) s(rus) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 185} {fore 1.0}}
-{"riflemans_moto_ger"      ("rb5" c(0) c1(blitz3_6_ger_moto)      	t(all inf_only) s(ger) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 205} {fore 1.0}}
-{"riflemans_moto_usa"      ("rb5" c(0) c1(gmc_usa_moto) 		    t(all inf_only) s(usa) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 200} {fore 1.0}}
-{"riflemans_moto_eng"      ("rb5" c(0) c1(bedford_uk_moto) 		    t(all inf_only) s(eng) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 190} {fore 1.0}}
-{"riflemans_moto_jap"      ("rb5" c(0) c1(isuzutx40_jap_moto)    	t(all inf_only) s(jap) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 190} {fore 1.0}}
-{"riflemans_moto_hun"      ("rb5" c(0) c1(mercedes_hun_moto) 	    t(all inf_only) s(hun) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 190} {fore 1.0}}
-{"riflemans_moto_fra"      ("rb5" c(0) c1(renault_fra_moto) 	    t(all inf_only) s(fra) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 190} {fore 1.0}}
-{"riflemans_moto_fin"      ("rb5" c(0) c1(np_volvo_fin_moto)     	t(all inf_only) s(fin) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 185} {fore 1.0}}
-{"riflemans_moto_ita"      ("rb5" c(0) c1(fiat35_ita_moto) 	        t(all inf_only) s(ita) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 190} {fore 1.0}}
-{"riflemans_moto_chn"      ("rb5" c(0) c1(chevrolet_chn_moto) 	    t(all inf_only) s(chn) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 175} {fore 1.0}}
-{"riflemans_moto_anz"      ("rb5" c(0) c1(bedford_anz_moto) 		t(all inf_only) s(anz) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 200} {fore 1.0}}
+("squad_with2types" side(rus) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(100) f(1.0))
+("squad_with2types" side(ger) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(120) f(1.0))
+("squad_with2types" side(usa) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(110) f(1.0))
+("squad_with2types" side(eng) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(105) f(1.0))
+("squad_with2types" side(jap) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(105) f(1.0))
+("squad_with2types" side(hun) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(105) f(1.0))
+("squad_with2types" side(fra) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(105) f(1.0))
+("squad_with2types" side(fin) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(100) f(1.0))
+("squad_with2types" side(ita) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(105) f(1.0))
+("squad_with2types" side(chn) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(95) f(1.0))
+("squad_with2types" side(anz) name(defenders) c(30) g(squad_1) c1(rifle:5) c2(mgun:1) b(squad1) t(all inf_only) level(1) cost(110) f(1.0))
 
 ("squad_with3types" side(rus) name(elites) c(0) g(squad_4) c1(elite:4) c2(elite2:3) c3(elite3:1) b(squad1) t(all inf_only) level(4) cost(230) f(1.0))
 ("squad_with3types" side(ger) name(elites) c(0) g(squad_4) c1(elite:4) c2(elite2:3) c3(elite3:1) b(squad1) t(all inf_only) level(4) cost(230) f(1.0))
@@ -198,7 +174,31 @@
 ("squad_with3types" side(ita) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:5) c2(sturmovik2:1) c3(sturmovik3:2) b(squad1) t(all inf_only) level(8) cost(340) f(1.0))
 ("squad_with3types" side(chn) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:5) c2(sturmovik2:1) c3(sturmovik3:2) b(squad1) t(all inf_only) level(8) cost(300) f(1.0))
 ("squad_with4types" side(anz) name(stormtroopers) c(0) g(squad_5) c1(sturmovik:4) c2(sturmovik2:2) c3(sturmovik3:1) c4(sturmovik4:1) b(squad1) t(all inf_only) level(8) cost(315) f(1.0))
-  
+ 
+{"smgs_moto_rus"      ("rb4" c(0) c1(zis5_rus_moto)		     t(all inf_only) s(rus) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 180} {fore 1.0}}
+{"smgs_moto_ger"      ("rb4" c(0) c1(blitz3_6_ger_moto)      t(all inf_only) s(ger) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 180} {fore 1.0}}
+{"smgs_moto_usa"      ("rb4" c(0) c1(gmc_usa_moto) 		     t(all inf_only) s(usa) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 180} {fore 1.0}}
+{"smgs_moto_eng"      ("rb4" c(0) c1(bedford_uk_moto)		 t(all inf_only) s(eng) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 170} {fore 1.0}}
+{"smgs_moto_jap"      ("rb4" c(0) c1(isuzutx40_jap_moto)     t(all inf_only) s(jap) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 160} {fore 1.0}}
+{"smgs_moto_hun"      ("rb4" c(0) c1(mercedes_hun_moto)    	 t(all inf_only) s(hun) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 175} {fore 1.0}}
+{"smgs_moto_fra"      ("rb4" c(0) c1(renault_fra_moto) 	     t(all inf_only) s(fra) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 180} {fore 1.0}}
+{"smgs_moto_fin"      ("rb4" c(0) c1(np_volvo_fin_moto) 	 t(all inf_only) s(fin) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 180} {fore 1.0}}
+{"smgs_moto_ita"      ("rb4" c(0) c1(fiat35_ita_moto) 	     t(all inf_only) s(ita) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 170} {fore 1.0}}
+{"smgs_moto_chn"      ("rb4" c(0) c1(chevrolet_chn_moto) 	 t(all inf_only) s(chn) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 150} {fore 1.0}}
+{"smgs_moto_anz"      ("rb4" c(0) c1(bedford_anz_moto)       t(all inf_only) s(anz) n1(2) n2(1) n3(3) n4(4)  g(squad_6) b(squad1)) {level 12} {cost 170} {fore 1.0}}
+
+{"riflemans_moto_rus"      ("rb5" c(0) c1(zis5_rus_moto) 		    t(all inf_only) s(rus) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 185} {fore 1.0}}
+{"riflemans_moto_ger"      ("rb5" c(0) c1(blitz3_6_ger_moto)      	t(all inf_only) s(ger) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 205} {fore 1.0}}
+{"riflemans_moto_usa"      ("rb5" c(0) c1(gmc_usa_moto) 		    t(all inf_only) s(usa) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 200} {fore 1.0}}
+{"riflemans_moto_eng"      ("rb5" c(0) c1(bedford_uk_moto) 		    t(all inf_only) s(eng) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 190} {fore 1.0}}
+{"riflemans_moto_jap"      ("rb5" c(0) c1(isuzutx40_jap_moto)    	t(all inf_only) s(jap) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 190} {fore 1.0}}
+{"riflemans_moto_hun"      ("rb5" c(0) c1(mercedes_hun_moto) 	    t(all inf_only) s(hun) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 190} {fore 1.0}}
+{"riflemans_moto_fra"      ("rb5" c(0) c1(renault_fra_moto) 	    t(all inf_only) s(fra) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 190} {fore 1.0}}
+{"riflemans_moto_fin"      ("rb5" c(0) c1(np_volvo_fin_moto)     	t(all inf_only) s(fin) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 185} {fore 1.0}}
+{"riflemans_moto_ita"      ("rb5" c(0) c1(fiat35_ita_moto) 	        t(all inf_only) s(ita) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 190} {fore 1.0}}
+{"riflemans_moto_chn"      ("rb5" c(0) c1(chevrolet_chn_moto) 	    t(all inf_only) s(chn) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 175} {fore 1.0}}
+{"riflemans_moto_anz"      ("rb5" c(0) c1(bedford_anz_moto) 		t(all inf_only) s(anz) n1(2) n2(1) n3(5) n4(1) n5(1)  g(squad_6) b(squad1)) {level 12} {cost 200} {fore 1.0}}
+
 {"storm_mech_rus"      ("vb3" c(0) c1(m3) 		        t(all inf_only) s(rus) n1(6) n2(2) n3(2) 		g(squad_6) b(squad1)) {level 12} {cost 460} {fore 1.0}}
 {"storm_mech_ger"      ("vb3" c(0) c1(sdkfz251_1)    	t(all inf_only) s(ger) n1(6) n2(2) n3(2) 		g(squad_6) b(squad1)) {level 12} {cost 480} {fore 1.0}}
 {"storm_mech_usa"      ("vb3" c(0) c1(m3_usa) 		    t(all inf_only) s(usa) n1(6) n2(2) n3(2) 		g(squad_6) b(squad1)) {level 12} {cost 470} {fore 1.0}}
