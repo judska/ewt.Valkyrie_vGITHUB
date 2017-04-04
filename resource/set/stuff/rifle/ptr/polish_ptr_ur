@@ -1,6 +1,6 @@
 {from "pattern at_rifle"
 	{filling "ammo ptr" 4}
-	{fireSound	"rifle/ptr/wz35"}
+	{fireSound	"rifle/ptr/ptrs"}
 	{Automatic}                                         
 	{entity "wz35"}
 	{reloadSound "ptrs"}
