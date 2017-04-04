@@ -7,7 +7,7 @@
 	{foresight "foresight"}
 	
 	{spreading 
-		{SpreadRadius 15}
+		{SpreadRadius 8}
 		{radiusFunction
 			0	0.6
 			0.5	0.6

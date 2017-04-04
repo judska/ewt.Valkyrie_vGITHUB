@@ -10,7 +10,7 @@
 	("caliber_howitzer")
 	{RelaxationTime 1.5}
 	{projectileDamage 1000}
-	{gravity 8}
+	{gravity 7}
 	{cursor "cannon_on_fg"}
 	{cursorReloading "cannon_reload_fg"}
 }

@@ -8,36 +8,36 @@
 		{head "pol_helmet_m16"}
 	}
 	{perks
-		{"health" "250%"
+		{"health" "350%"
 		}
 		{"health_regeneration" "100%"
 		}
-		{"stamina" "150%"
+		{"stamina" "200%"
 		}
 		{"stamina_regeneration" "100%"
 		}
 		{"vision" "mp_soldier"
 		}
-		{"speed" 1.0
+		{"speed" 0.9
 		}
-		{"tank"	0.9
+		{"tank"	1.0
 		}
 		{"vehicle" 1.0
 		}
 		{"cannon" 1.0
 		}
 		
-		{"pistol" lvl_3
+		{"pistol" lvl_4
 		}
-		{"smg" lvl_3
+		{"smg" lvl_4
 		}
-		{"mgun" lvl_3
+		{"mgun" lvl_4
 		}
-		{"rifle" lvl_3
+		{"rifle" lvl_4
 		}
-		{"rocketlauncher" lvl_3
+		{"rocketlauncher" lvl_4
 		}
-		{"melee" lvl_3
+		{"melee" lvl_4
 		}
 	}
 	{veterancy
@@ -49,7 +49,8 @@
 		{item "ammo rifle" 100}
 		{item "bandage" 5}
 		{item "grenade poland_o33" 1}
-		{item "grenade poland_z33" 2}
+		{item "grenade poland_z33" 1}
+		{item "grenade n73at" 1}
 		{item "sandbag_kit" 1}
 		{in_hands 0}
 	}

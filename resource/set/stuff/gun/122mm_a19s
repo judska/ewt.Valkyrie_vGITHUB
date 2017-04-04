@@ -3,7 +3,7 @@
 	{fireSound "gun/howitzer/122mm_d25"}
 	{reloadSound "tankgun_r04"}
 	("range_grazing_howitzer_1")
-	{rechargeTime 12}
+	{rechargeTime 16}
 
 	("speed" s(792))
 	("caliber_maximum")

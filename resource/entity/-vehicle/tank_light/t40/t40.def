@@ -24,7 +24,6 @@
 		{box
 			{item "ammo hmgun" 1500}
 			{item "ammo mgun" 3000}
-			{item "dshk" filled {user "gun"}}
 		}
 	}
 	{Weaponry

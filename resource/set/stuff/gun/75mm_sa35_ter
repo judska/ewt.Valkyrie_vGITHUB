@@ -10,4 +10,5 @@
 	{parameters "apcr"
         ("damage_110" a(77) b(64) c(55) d(46) e(39))
 	}
+	{gravity 3.5}
 }

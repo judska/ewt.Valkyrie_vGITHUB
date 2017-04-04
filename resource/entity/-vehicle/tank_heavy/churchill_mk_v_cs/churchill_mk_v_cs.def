@@ -1,6 +1,6 @@
 {game_entity
 	(include "churchill.inc")
-	("armor_heavy" turret(89 89 89 35) body(101 76 64 22) body2(57 76 64 20) body3(10 76 64 25))
+	("armor_heavy" turret(152 95 95 20) body(152 95 51 20) body2(57 95 51 20) body3(140 95 51 25))
 	("armor_mantlet" t(110))
 
 
