@@ -764,7 +764,7 @@
 		{Color 0xffeeeeee}
 	}
 	{Entity "poplar6" 0x2007
-		{Position -505.32 1430.23 14}
+		{Position -505.32 1430.23 17.96}
 	}
 	{Entity "tree_oak" 0x2008
 		{Position 913.63 77.85}
@@ -2520,7 +2520,7 @@
 		{Color 0xffffffe7}
 	}
 	{Entity "pla01b" 0x144
-		{Position -509.7 1422.61 1.01}
+		{Position -509.7 1422.61 3.43}
 		{xform zl 141.52 scale 0.87}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
@@ -3154,7 +3154,7 @@
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x40c9
-		{Position -877.07 1738.22 7.73}
+		{Position -877.07 1738.22 7.92}
 		{xform zl -85.4 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -3189,12 +3189,12 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x1ab
-		{Position -869.75 1683.38 9.5}
+		{Position -869.75 1683.38 10.19}
 		{xform zl 103.12 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x1ac
-		{Position -827.28 1549.56 6.07}
+		{Position -827.28 1549.56 6.14}
 		{xform zl -141.82 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
@@ -3212,7 +3212,7 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x1af
-		{Position -856.77 1604.49 12.5}
+		{Position -856.77 1604.49 12.79}
 		{xform zl -83.6 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -3281,13 +3281,13 @@
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x1bc
-		{Position -812.77 1493.08 16.82}
+		{Position -812.77 1493.08 16.32}
 		{xform zl 167.08}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x1bd
-		{Position -805.56 1488.36 15.19}
+		{Position -805.56 1488.36 14.71}
 		{xform zl 111.87 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -3349,7 +3349,7 @@
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0x1ca
-		{Position -472.19 1352.22 3.77}
+		{Position -472.19 1352.22 3.5}
 		{xform zl -16.95 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
@@ -3361,12 +3361,12 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x1cc
-		{Position -451.67 1326.73 9.21}
+		{Position -451.67 1326.73 8.5}
 		{xform zl -60.78 scale 0.9}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x1cd
-		{Position -447.03 1310.92 2.51}
+		{Position -447.03 1310.92 2.27}
 		{xform zl -30.86 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
@@ -6402,7 +6402,7 @@
 		{Color 0xff9aac73}
 	}
 	{Entity "pla01b" 0x7e6
-		{Position 473.32 1915.67 50.24}
+		{Position 473.32 1915.67 0.35}
 		{xform zl 12.24 scale 1.05}
 		{TexMod "color"}
 		{Color 0xff9aac73}
@@ -6472,11 +6472,11 @@
 		{xform zl -78.57}
 	}
 	{Entity "fence_low_afric_5" 0x88b
-		{Position 656.63 2280.85 54.35}
+		{Position 656.63 2280.85 -0.02}
 		{xform zl -78.57}
 	}
 	{Entity "cane3" 0x88c
-		{Position 652.61 2317.49 47.5}
+		{Position 652.61 2317.49 -5.5}
 		{xform zl 112.27 scale 0.947}
 		{TexMod "aut"}
 		{Color 0xffc7bfc7}
@@ -6506,7 +6506,7 @@
 		{Color 0xffd8d8d8}
 	}
 	{Entity "cane3" 0x88d
-		{Position 513.98 2649.32 21.19}
+		{Position 513.98 2649.32 -3}
 		{xform zl -67.73 scale 0.786}
 		{TexMod "aut"}
 		{Color 0xffa8bfc7}
@@ -7749,39 +7749,39 @@
 		{xform zl -77.27}
 	}
 	{Entity "pla01b" 0x3a3
-		{Position -164.22 1501.46 3.91}
+		{Position -164.22 1501.46 27.11}
 		{xform zl 17.84 scale 0.653}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x3a4
-		{Position -275.59 1481.87 2.36}
+		{Position -275.59 1481.87 23.64}
 		{xform zl 23.98 scale 0.9}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x3a5
-		{Position -259.42 1485.04 -3.95}
+		{Position -259.42 1485.04 17.97}
 		{xform zl 53.9 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x3a6
-		{Position -235.17 1489.38 3.55}
+		{Position -235.17 1489.38 26.51}
 		{xform zl -110.39}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x3a7
-		{Position -86.78 1523.1 4}
+		{Position -86.78 1523.1 30.26}
 		{xform zl -164.86 scale 0.577}
 	}
 	{Entity "cane3" 0x3a8
-		{Position -109.58 1510.53 1.49}
+		{Position -109.58 1510.53 25.5}
 		{xform zl -149.23 scale 0.573}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x3a9
-		{Position -56.02 1527.62 0.49}
+		{Position -56.02 1527.62 27.2}
 		{xform zl 16.46 scale 0.573}
 		{Color 0xffbabfb1}
 	}
@@ -15885,13 +15885,13 @@
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x84d
-		{Position 1643.38 1376.57 -4.61}
+		{Position 1643.38 1376.57}
 		{xform zl -141.82 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0x84e
-		{Position 1653.79 1373.48 -2.7}
+		{Position 1653.79 1373.48 -2.8}
 		{xform zl 135.9 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
@@ -15908,7 +15908,7 @@
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x851
-		{Position 1641.42 1403.78 1.5}
+		{Position 1641.42 1403.78}
 		{xform zl 92.07 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -15919,66 +15919,66 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x853
-		{Position 1641.5 1420.26 -5.47}
+		{Position 1641.5 1420.26}
 		{xform zl 121.99 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x854
-		{Position 1642.04 1444.88 1}
+		{Position 1642.04 1444.88}
 		{xform zl -42.3}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "new_orchard2" 0x855
-		{Position 1698.78 1494.23 0.62}
+		{Position 1698.78 1494.23}
 		{xform zl -10.27}
 	}
 	{Entity "new_orchard2" 0x856
-		{Position 1621.81 1518.67 -1.82}
+		{Position 1621.81 1518.67}
 		{xform zl 94.55 scale 1.093}
 	}
 	{Entity "new_orchard2" 0x857
-		{Position 1560.57 1508.19 -15}
+		{Position 1560.57 1508.19}
 		{xform zl 33.26}
 	}
 	{Entity "pla01b" 0x858
-		{Position 1658.84 1483.48 -8.49}
+		{Position 1658.84 1483.48}
 		{xform zl -132.63 scale 1.11}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x859
-		{Position 1561.2 1499.74 -4.5}
+		{Position 1561.2 1499.74}
 		{xform zl 135.56 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x85a
-		{Position 1764.84 1549.43 -10.95}
+		{Position 1764.84 1549.43}
 		{xform zl 143.66 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0x85b
-		{Position 1740.61 1542.14 -9.5}
+		{Position 1740.61 1542.14}
 		{xform zl 61.38 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x85c
-		{Position 1685.54 1522.49 -2}
+		{Position 1685.54 1522.49}
 		{xform zl -119.71}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x85d
-		{Position 1678.12 1518.11 -3.32}
+		{Position 1678.12 1518.11}
 		{xform zl -174.92 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x85e
-		{Position 1777.96 1552.25 -3.5}
+		{Position 1777.96 1552.25}
 		{xform zl 25.59 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -15989,28 +15989,28 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla02d" 0x860
-		{Position 1644.8 1516.57 2.05}
+		{Position 1644.8 1516.57}
 		{xform zl -33.96 scale 0.9}
 		{Color 0xffe7e7d9}
 	}
 	{Entity "pla01b" 0x861
-		{Position 1588.73 1478.57 -1.84}
+		{Position 1588.73 1478.57}
 		{xform zl -92.34 scale 1.073}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x862
-		{Position 1626.81 1500.94 -3.5}
+		{Position 1626.81 1500.94}
 		{xform zl 104.79 scale 0.9}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x863
-		{Position 1703.21 1490.54 -1.51}
+		{Position 1703.21 1490.54}
 		{xform zl 109.76 scale 0.9}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x864
-		{Position 1538.97 1494.79 -9.56}
+		{Position 1538.97 1494.79}
 		{xform zl -160.48 scale 1.077}
 		{Color 0xffbabfb1}
 	}
@@ -16189,13 +16189,13 @@
 		{Color 0xffffffe7}
 	}
 	{Entity "pla01b" 0x8a1
-		{Position 1852.79 1589.93 -10.44}
+		{Position 1852.79 1589.93}
 		{xform zl 166.7 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x8a2
-		{Position 1780.89 1566.48 -7.08}
+		{Position 1780.89 1566.48}
 		{xform zl -152.34 scale 0.8}
 	}
 	{Entity "fence-wood_3" 0x8a3
@@ -16207,7 +16207,7 @@
 		{xform zl 102.51}
 	}
 	{Entity "cane3" 0x8a5
-		{Position 1830.08 1585.18 -4.49}
+		{Position 1830.08 1585.18}
 		{xform zl -152.17 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -16220,12 +16220,12 @@
 		{xform zl 8.64}
 	}
 	{Entity "cane3" 0x8a8
-		{Position 1911.25 1608.74 -4.99}
+		{Position 1911.25 1608.74}
 		{xform zl 17.34 scale 0.73}
 		{Color 0xffecd4d4}
 	}
 	{Entity "cane3" 0x8a9
-		{Position 2054.63 1635.37 -5.49}
+		{Position 2054.63 1635.37}
 		{xform zl 26.12 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -16238,34 +16238,34 @@
 		{xform zl -173.07}
 	}
 	{Entity "cane3" 0x8ac
-		{Position 2004.19 1625.83 -5.19}
+		{Position 2004.19 1625.83}
 		{xform zl -170.61 scale 0.73}
 		{Color 0xffecd4d4}
 	}
 	{Entity "pla01b" 0x8ad
-		{Position 2262.19 1650.26 -18.48}
+		{Position 2262.19 1650.26}
 		{xform zl -139.1 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x8ae
-		{Position 2286.81 1649.42 -11.86}
+		{Position 2286.81 1649.42}
 		{xform zl 56.61}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x8af
-		{Position 2294.5 1653.31 -13.78}
+		{Position 2294.5 1653.31}
 		{xform zl 1.4 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x8b0
-		{Position 2230.22 1643.18 -10.77}
+		{Position 2230.22 1643.18}
 		{xform zl 1.4 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x8b1
-		{Position 2549.38 1701.81 -24.4}
+		{Position 2549.38 1701.81}
 		{xform zl 18.91 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -16276,35 +16276,35 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x8b3
-		{Position 2331.06 1664.12 -15.87}
+		{Position 2331.06 1664.12}
 		{xform zl 12.45 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x8b4
-		{Position 2424.92 1675.16 -26.47}
+		{Position 2424.92 1675.16}
 		{xform zl 127.51 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0x8b5
-		{Position 2421.72 1664.79 -23.93}
+		{Position 2421.72 1664.79}
 		{xform zl 45.23 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x8b6
-		{Position 2373 1660.38 -13.99}
+		{Position 2373 1660.38}
 		{xform zl -119.06}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x8b7
-		{Position 2365.62 1655.93 -15.05}
+		{Position 2365.62 1655.93}
 		{xform zl -174.27 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x8b8
-		{Position 2452.15 1676.8 -20.13}
+		{Position 2452.15 1676.8}
 		{xform zl 1.4 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -16315,24 +16315,24 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x8ba
-		{Position 2468.63 1676.53 -26.91}
+		{Position 2468.63 1676.53}
 		{xform zl 31.32 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x8bb
-		{Position 2493.25 1675.7 -20.15}
+		{Position 2493.25 1675.7}
 		{xform zl -132.97}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x8bc
-		{Position 2500.95 1679.59 -22.41}
+		{Position 2500.95 1679.59}
 		{xform zl 171.82 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x8bd
-		{Position 2577.72 1685.26 -20.48}
+		{Position 2577.72 1685.26}
 		{xform zl 177.96 scale 0.8}
 	}
 	{Entity "pla01b" 0x8be
@@ -16342,18 +16342,18 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x8bf
-		{Position 2537.51 1690.4 -23.5}
+		{Position 2537.51 1690.4}
 		{xform zl -177.13 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x8c0
-		{Position 2624.83 1693.57 -23}
+		{Position 2624.83 1693.57}
 		{xform zl 51.36}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x8c1
-		{Position 2617.44 1689.12 -24.5}
+		{Position 2617.44 1689.12}
 		{xform zl -3.85 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -16364,19 +16364,19 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x8c3
-		{Position 1662.74 1439.16 -0.67}
+		{Position 1662.74 1439.16}
 		{xform zl 78.62}
 		{TexMod "aut"}
 		{Color 0xffc7bfc7}
 	}
 	{Entity "cane3" 0x8c4
-		{Position 2443.14 1657.43 -15.47}
+		{Position 2443.14 1657.43}
 		{xform zl -171.26}
 		{TexMod "aut"}
 		{Color 0xffc7bfc7}
 	}
 	{Entity "cane3" 0x8c5
-		{Position 2082.29 1618.27 -5}
+		{Position 2082.29 1618.27}
 		{xform zl -20.82 scale 0.927}
 		{TexMod "aut"}
 		{Color 0xffc7bfc7}
@@ -16387,7 +16387,7 @@
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x8c7
-		{Position 2723.72 1512.28 -23.06}
+		{Position 2723.72 1512.28}
 		{xform zl 45.08 scale 0.654}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
@@ -16464,7 +16464,7 @@
 		{Color 0xffcdcdc0}
 	}
 	{Entity "cane2" 0x8d5
-		{Position 2652.53 1678.42 -25.66}
+		{Position 2652.53 1678.42}
 		{xform zl 120.32 scale 0.7}
 		{TexMod "2"}
 	}
@@ -16477,7 +16477,7 @@
 		{xform zl -74.27}
 	}
 	{Entity "cane3" 0x8d8
-		{Position 2693.1 1557.98 -17.81}
+		{Position 2693.1 1557.98}
 		{xform zl -65.57 scale 0.73}
 		{Color 0xffecd4d4}
 	}
@@ -16908,7 +16908,7 @@
 		{Color 0xff9aac73}
 	}
 	{Entity "cane3" 0x947
-		{Position 977.45 1488.65 -6.5}
+		{Position 977.45 1488.65}
 		{xform zl -166.53}
 		{TexMod "aut"}
 		{Color 0xff9fa8a1}
@@ -16919,40 +16919,40 @@
 		{Color 0xffd8d8bc}
 	}
 	{Entity "new_bush1" 0x949
-		{Position 894.27 1483.15 -0.14}
+		{Position 894.27 1483.15 12.4}
 		{xform zl 121.17 scale 1.293}
 	}
 	{Entity "pla01b" 0x94a
-		{Position 825.41 1493.47 -13}
+		{Position 825.41 1493.47 1.3}
 		{xform zl 88.97 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0x94b
-		{Position 816.45 1487.36 -11.5}
+		{Position 816.45 1487.36 1.88}
 		{xform zl 6.69 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x94c
-		{Position 847.74 1477.79 -5.5}
+		{Position 847.74 1477.79 6.23}
 		{xform zl -37.14 scale 0.9}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x94d
-		{Position 882.5 1453.01 -11.5}
+		{Position 882.5 1453.01 -3.99}
 		{xform zl -7.22 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x94e
-		{Position 828.62 1468.25 -3.5}
+		{Position 828.62 1468.25 6.91}
 		{xform zl 150.2}
 		{TexMod "aut"}
 		{Color 0xffc7bfc7}
 	}
 	{Entity "pla01b" 0x94f
-		{Position 1400.79 1503.15 -11.49}
+		{Position 1400.79 1503.15}
 		{xform zl 166.7 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
@@ -16970,12 +16970,12 @@
 		{xform zl -0.23}
 	}
 	{Entity "cane3" 0x953
-		{Position 1050.2 1494.48 -5.99}
+		{Position 1050.2 1494.48}
 		{xform zl 8.47 scale 0.73}
 		{Color 0xffecd4d4}
 	}
 	{Entity "cane3" 0x954
-		{Position 1195.97 1498.7 -5.49}
+		{Position 1195.97 1498.7}
 		{xform zl 17.25 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -16988,12 +16988,12 @@
 		{xform zl 178.06}
 	}
 	{Entity "cane3" 0x957
-		{Position 1144.66 1497.04 -5.99}
+		{Position 1144.66 1497.04}
 		{xform zl -179.48 scale 0.73}
 		{Color 0xffecd4d4}
 	}
 	{Entity "cane3" 0x958
-		{Position 1514.5 1503.45 -9.5}
+		{Position 1514.5 1503.45}
 		{xform zl -20.82 scale 0.927}
 		{TexMod "aut"}
 		{Color 0xffc7bfc7}
@@ -17007,12 +17007,12 @@
 		{xform zl 177.14}
 	}
 	{Entity "cane3" 0x95b
-		{Position 1362.26 1491.47 -5.99}
+		{Position 1362.26 1491.47}
 		{xform zl -174.16 scale 0.73}
 		{Color 0xffecd4d4}
 	}
 	{Entity "cane3" 0x95c
-		{Position 1216.45 1493.95 -5.49}
+		{Position 1216.45 1493.95}
 		{xform zl -165.38 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -17025,29 +17025,29 @@
 		{xform zl -4.57}
 	}
 	{Entity "cane3" 0x95f
-		{Position 1267.78 1493.25 -5.99}
+		{Position 1267.78 1493.25}
 		{xform zl -2.11 scale 0.73}
 		{Color 0xffecd4d4}
 	}
 	{Entity "pla01b" 0x960
-		{Position 1087.95 1491.68 -11.5}
+		{Position 1087.95 1491.68}
 		{xform zl -154.09 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x961
-		{Position 1111.52 1484.5 -4}
+		{Position 1111.52 1484.5}
 		{xform zl 41.62}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x962
-		{Position 1119.97 1486.27 -5.5}
+		{Position 1119.97 1486.27}
 		{xform zl -13.59 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x963
-		{Position 1055.26 1493.1 -5.5}
+		{Position 1055.26 1493.1}
 		{xform zl -13.59 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -17058,7 +17058,7 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x965
-		{Position 1158.07 1487.27 -5.5}
+		{Position 1158.07 1487.27}
 		{xform zl -2.54 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -17642,24 +17642,24 @@
 		{xform zl -60.04 scale 0.737}
 	}
 	{Entity "pla01b" 0xa19
-		{Position 396.48 1543.96 -11.5}
+		{Position 396.48 1543.96 12.85}
 		{xform zl -149.37 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xa1a
-		{Position 470.54 1535.38 -3.51}
+		{Position 470.54 1535.38 19.49}
 		{xform zl 46.34}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xa1b
-		{Position 484.42 1546.67 -4.5}
+		{Position 484.42 1546.67 19.12}
 		{xform zl -8.87 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xa1c
-		{Position 743.86 1532.56 -5.49}
+		{Position 743.86 1532.56 14.38}
 		{xform zl 8.64 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -17670,35 +17670,35 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xa1e
-		{Position 523.29 1540.78 -4.51}
+		{Position 523.29 1540.78 18.52}
 		{xform zl 2.18 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xa1f
-		{Position 616.8 1549.78 -12}
+		{Position 616.8 1549.78 10.93}
 		{xform zl 117.24 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0xa20
-		{Position 611.81 1540.14 -10.5}
+		{Position 611.81 1540.14 11.47}
 		{xform zl 34.96 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xa21
-		{Position 563.08 1544.49 -3}
+		{Position 563.08 1544.49 19.96}
 		{xform zl -129.33}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xa22
-		{Position 555.02 1541.42 -4.5}
+		{Position 555.02 1541.42 17.69}
 		{xform zl 175.46 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xa23
-		{Position 643.89 1546.53 -4.5}
+		{Position 643.89 1546.53 17.71}
 		{xform zl -8.87 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -17709,24 +17709,24 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xa25
-		{Position 659.09 1536.94 -10.49}
+		{Position 659.09 1536.94 10.16}
 		{xform zl 21.05 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xa26
-		{Position 683.17 1531.73 -3.24}
+		{Position 683.17 1531.73 17.12}
 		{xform zl -143.24}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xa27
-		{Position 691.44 1534.19 -5.16}
+		{Position 691.44 1534.19 15.88}
 		{xform zl 161.55 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xa28
-		{Position 769.76 1517.62 -2}
+		{Position 769.76 1517.62 15.43}
 		{xform zl 167.69 scale 0.8}
 	}
 	{Entity "pla01b" 0xa29
@@ -17736,18 +17736,18 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xa2a
-		{Position 730.15 1523.45 -5.5}
+		{Position 730.15 1523.45 13.82}
 		{xform zl 172.6 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xa2b
-		{Position 817.6 1517.4 -4}
+		{Position 817.6 1517.4 13.69}
 		{xform zl 41.09}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xa2c
-		{Position 809.53 1514.34 -5.5}
+		{Position 809.53 1514.34 11.92}
 		{xform zl -14.12 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -17758,13 +17758,13 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xa2e
-		{Position 631.57 1529.08 -2.5}
+		{Position 631.57 1529.08 17.35}
 		{xform zl 178.47}
 		{TexMod "aut"}
 		{Color 0xffc7bfc7}
 	}
 	{Entity "stone_af1f" 0xa2f
-		{Position 914.11 1545.11 17}
+		{Position 914.11 1545.11 37.1}
 		{xform zl -32.19 y 159.09 zw 123.39}
 		{TexMod "6"}
 	}
@@ -17791,41 +17791,41 @@
 		{xform zl 78.78}
 	}
 	{Entity "cane3" 0xa34
-		{Position -30.33 1523.17 0.26}
+		{Position -30.33 1523.17 26.53}
 		{xform zl -116.93 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xa35
-		{Position 17.18 1545.85 -9.54}
+		{Position 17.18 1545.85 19.54}
 		{xform zl 134.63 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0xa36
-		{Position 13.37 1535.69 -7.02}
+		{Position 13.37 1535.69 20.02}
 		{xform zl 52.35 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xa37
-		{Position 157.11 1552.57 -3.2}
+		{Position 157.11 1552.57 26.22}
 		{xform zl 2.38 scale 0.653}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xa38
-		{Position 44.46 1545.88 -2.22}
+		{Position 44.46 1545.88 26.32}
 		{xform zl 8.52 scale 0.9}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xa39
-		{Position 60.89 1544.63 -8.51}
+		{Position 60.89 1544.63 19.88}
 		{xform zl 38.44 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xa3a
-		{Position 85.42 1542.36 -1.19}
+		{Position 85.42 1542.36 26.19}
 		{xform zl -125.85}
 		{TexMod "color"}
 		{Color 0xff95a47d}
@@ -17835,7 +17835,7 @@
 		{xform zl -81.92}
 	}
 	{Entity "pla01b" 0xa3c
-		{Position 327.31 1552.32 -5.5}
+		{Position 327.31 1552.32 20.68}
 		{xform zl -142.7 scale 0.603}
 		{TexMod "color"}
 		{Color 0xff95a47d}
@@ -21397,17 +21397,17 @@
 		{xform zl 59.82}
 	}
 	{Entity "cane2" 0xb93
-		{Position 2675.56 2296.06 -38.75}
+		{Position 2675.56 2296.06 -39.25}
 		{xform zl 123.77 scale 0.7}
 		{TexMod "2"}
 	}
 	{Entity "cane2" 0xb94
-		{Position 2646.2 2131.94 -37.84}
+		{Position 2646.2 2131.94 -39.27}
 		{xform zl 87.25 scale 0.7}
 		{TexMod "2"}
 	}
 	{Entity "cane2" 0xb95
-		{Position 2579.71 1994.74 -41.44}
+		{Position 2579.71 1994.74 -39.36}
 		{xform zl -129.51 scale 0.66}
 		{TexMod "2"}
 	}
@@ -21417,7 +21417,7 @@
 		{TexMod "2"}
 	}
 	{Entity "ground_clay5" 0xb97
-		{Position 2659.41 2172.87 -29.09}
+		{Position 2659.41 2172.87 -30.09}
 		{xform zl 80.71}
 	}
 	{Entity "ground_clay5b" 0xb98
@@ -21425,12 +21425,12 @@
 		{xform zl 66.31}
 	}
 	{Entity "cane3" 0xb99
-		{Position 2602.9 2011.54 -38.9}
+		{Position 2602.9 2011.54 -38.14}
 		{xform zl -95.08 scale 0.8}
 		{Color 0xffbeb987}
 	}
 	{Entity "pla01b" 0xb9a
-		{Position 2598.17 1972.99 -40.71}
+		{Position 2598.17 1972.99}
 		{xform zl 21.67}
 		{TexMod "color"}
 		{Color 0xff95b96f}
@@ -21476,30 +21476,30 @@
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xba3
-		{Position 2580.26 2320.85 -43.9}
+		{Position 2580.26 2320.85 -43.92}
 		{xform zl 7.24 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0xba4
-		{Position 2572.92 2328.84 -39.4}
+		{Position 2572.92 2328.84 -40.16}
 		{xform zl -75.04 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xba5
-		{Position 2611.8 2371.88 -38.24}
+		{Position 2611.8 2371.88 -37.26}
 		{xform zl 120.67}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xba6
-		{Position 2611.68 2380.49 -38.74}
+		{Position 2611.68 2380.49 -37.86}
 		{xform zl 65.46 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xba7
-		{Position 2567.95 2296.51 -35.99}
+		{Position 2567.95 2296.51 -35.85}
 		{xform zl -118.87 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -21510,13 +21510,13 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xba9
-		{Position 2564.88 2282.41 -42.61}
+		{Position 2564.88 2282.41 -42.17}
 		{xform zl -88.95 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xbaa
-		{Position 2555.76 2314.05 -28.21}
+		{Position 2555.76 2314.05 -29.21}
 		{xform zl 68.47}
 		{TexMod "aut"}
 		{Color 0xffc7bfc7}
@@ -21714,7 +21714,7 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xbcd
-		{Position 2546.31 2367.81 -38.35}
+		{Position 2546.31 2367.81 -39.35}
 		{xform zl 161.34 scale 1.004}
 		{TexMod "color"}
 		{Color 0xff95a47d}
@@ -21800,7 +21800,7 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xbdc
-		{Position 2394.82 2404.79 -32.94}
+		{Position 2394.82 2404.79 -33.51}
 		{xform zl 73.42 scale 0.9}
 		{TexMod "color"}
 		{Color 0xff95a47d}
@@ -21817,23 +21817,23 @@
 		{Color 0xffb39b83}
 	}
 	{Entity "cane3" 0xbdf
-		{Position 2436.47 2236.41 -21.51}
+		{Position 2436.47 2236.41 -23.11}
 		{xform zl -66.99 scale 0.726}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xbe0
-		{Position 2440.47 2194.5 -21}
+		{Position 2440.47 2194.5 -23}
 		{xform zl 161.5 scale 0.953}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xbe1
-		{Position 2434.75 2200.94 -21.93}
+		{Position 2434.75 2200.94 -23.91}
 		{xform zl 106.29 scale 0.726}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xbe2
-		{Position 2417.23 2204.41 -23.18}
+		{Position 2417.23 2204.41 -24.38}
 		{xform zl -98.12 scale 0.953}
 		{TexMod "color"}
 		{Color 0xffb39b83}
@@ -21856,18 +21856,18 @@
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xbe6
-		{Position 2425.04 2402.9 -18.85}
+		{Position 2425.04 2402.9 -19.37}
 		{xform zl -38.36 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xbe7
-		{Position 2541.13 1963.36 -49.79}
+		{Position 2541.13 1963.36}
 		{xform zl 173.8}
 		{TexMod "color"}
 		{Color 0xffb39b83}
 	}
 	{Entity "pla01b" 0xbe8
-		{Position 2522.31 1959.12 -57.71}
+		{Position 2522.31 1959.12}
 		{xform zl -98.12 scale 0.953}
 		{TexMod "color"}
 		{Color 0xffb39b83}
@@ -21879,13 +21879,13 @@
 		{Color 0xffb39b83}
 	}
 	{Entity "pla01b" 0xbea
-		{Position 2559.49 2246.96 -52.97}
+		{Position 2559.49 2246.96 -52.56}
 		{xform zl 73.42 scale 0.99}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane2" 0xbeb
-		{Position 2563.85 2244.43 -41.51}
+		{Position 2563.85 2244.43 -40.77}
 		{xform zl 87.25 scale 0.7}
 		{TexMod "2"}
 	}
@@ -21896,30 +21896,30 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane2" 0xbed
-		{Position 2545.41 2197.08 -40.32}
+		{Position 2545.41 2197.08 -40.15}
 		{xform zl -6.35 scale 0.7}
 		{TexMod "2"}
 	}
 	{Entity "pla01b" 0xbee
-		{Position 2531.54 2168.14 -47.64}
+		{Position 2531.54 2168.14 -48.45}
 		{xform zl 138.54 scale 0.99}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane2" 0xbef
-		{Position 2535.9 2165.61 -36.39}
+		{Position 2535.9 2165.61 -36.57}
 		{xform zl 152.37 scale 0.7}
 		{TexMod "2"}
 	}
 	{Entity "pla01b" 0xbf0
-		{Position 2514.29 2087.21 -51.39}
-		{xform zl 79.23 y 10.81 zw -5.81 scale 0.827}
+		{Position 2514.29 2087.21}
+		{xform zl 73.61 scale 0.827}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane2" 0xbf1
-		{Position 2518.65 2084.68 -39.6}
-		{xform zl 93.06 y 10.81 zw -5.81 scale 0.537}
+		{Position 2518.65 2084.68}
+		{xform zl 87.2 scale 0.537}
 		{TexMod "2"}
 	}
 	{Entity "path_sand2a" 0xbf2
@@ -22995,7 +22995,7 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcad
-		{Position 1564.44 2098.37 1}
+		{Position 1564.44 2098.37}
 		{xform zl -36.81}
 		{TexMod "color"}
 		{Color 0xff95a47d}
@@ -23011,7 +23011,7 @@
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xcb0
-		{Position 1601.06 1833.13 -5.49}
+		{Position 1601.06 1833.13}
 		{xform zl -74.51 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -23022,35 +23022,35 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xcb2
-		{Position 1576.48 2053.31 -1.5}
+		{Position 1576.48 2053.31}
 		{xform zl -80.97 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xcb3
-		{Position 1581.89 1958.97 -11}
+		{Position 1581.89 1958.97}
 		{xform zl 34.09 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0xcb4
-		{Position 1571.73 1962.78 -9.49}
+		{Position 1571.73 1962.78}
 		{xform zl -48.19 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcb5
-		{Position 1570.24 2011.67 -1}
+		{Position 1570.24 2011.67}
 		{xform zl 147.52}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xcb6
-		{Position 1566.23 2019.31 -2.13}
+		{Position 1566.23 2019.31}
 		{xform zl 92.31 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xcb7
-		{Position 1581.9 1931.68 -3.64}
+		{Position 1581.9 1931.68}
 		{xform zl -92.02 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -23061,24 +23061,24 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcb9
-		{Position 1580.64 1915.25 -10.49}
+		{Position 1580.64 1915.25}
 		{xform zl -62.1 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcba
-		{Position 1578.35 1890.72 -3}
+		{Position 1578.35 1890.72}
 		{xform zl 133.61}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xcbb
-		{Position 1581.77 1882.81 -4.5}
+		{Position 1581.77 1882.81}
 		{xform zl 78.4 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xcbc
-		{Position 1582.84 1805.84 -2}
+		{Position 1582.84 1805.84}
 		{xform zl 84.54 scale 0.8}
 	}
 	{Entity "pla01b" 0xcbd
@@ -23088,30 +23088,30 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xcbe
-		{Position 1590.38 1845.67 -5.5}
+		{Position 1590.38 1845.67}
 		{xform zl 89.45 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xcbf
-		{Position 1599.99 1705.61 -13}
+		{Position 1599.99 1705.61}
 		{xform zl -155.49 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0xcc0
-		{Position 1589.83 1709.43 -11.5}
+		{Position 1589.83 1709.43}
 		{xform zl 122.23 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcc1
-		{Position 1588.33 1758.31 -4}
+		{Position 1588.33 1758.31}
 		{xform zl -42.06}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xcc2
-		{Position 1584.33 1765.95 -5.5}
+		{Position 1584.33 1765.95}
 		{xform zl -97.27 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -23126,29 +23126,29 @@
 		{xform zl -168.08}
 	}
 	{Entity "pla01b" 0xcc5
-		{Position 1056.9 1788.59 1.31}
+		{Position 1056.9 1788.59}
 		{xform zl -161.42 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcc6
-		{Position 1079.36 1778.46 6.91}
+		{Position 1079.36 1778.46}
 		{xform zl 34.29}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xcc7
-		{Position 1087.95 1779.14 5.36}
+		{Position 1087.95 1779.14}
 		{xform zl -20.92 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xcc8
-		{Position 1024.64 1794.19 8.61}
+		{Position 1024.64 1794.19 0.76}
 		{xform zl -20.92 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xcc9
-		{Position 1398.46 1720.11 -3.49}
+		{Position 1398.46 1720.11}
 		{xform zl 14.65 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -23159,35 +23159,35 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xccb
-		{Position 1125.89 1775.26 4.98}
+		{Position 1125.89 1775.26}
 		{xform zl -9.87 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xccc
-		{Position 1216.9 1749.82 -6}
+		{Position 1216.9 1749.82}
 		{xform zl 105.19 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0xccd
-		{Position 1210 1741.44 -4.54}
+		{Position 1210 1741.44}
 		{xform zl 22.91 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcce
-		{Position 1163.26 1755.87 4.54}
+		{Position 1163.26 1755.87}
 		{xform zl -141.38}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xccf
-		{Position 1154.74 1754.55 2.91}
+		{Position 1154.74 1754.55}
 		{xform zl 163.41 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xcd0
-		{Position 1242.72 1740.99 0.56}
+		{Position 1242.72 1740.99}
 		{xform zl -20.92 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -23198,24 +23198,24 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcd2
-		{Position 1257.86 1734.48 -6.09}
+		{Position 1257.86 1734.48}
 		{xform zl 9 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcd3
-		{Position 1304.32 1736.86 1}
+		{Position 1304.32 1736.86}
 		{xform zl -137.23}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xcd4
-		{Position 1348.5 1701.55 -3.21}
+		{Position 1348.5 1701.55}
 		{xform zl 167.56 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xcd5
-		{Position 1425.48 1701.49 -1}
+		{Position 1425.48 1701.49}
 		{xform zl 173.7 scale 0.8}
 	}
 	{Entity "pla01b" 0xcd6
@@ -23225,30 +23225,30 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xcd7
-		{Position 1385.77 1709.61 -3.5}
+		{Position 1385.77 1709.61}
 		{xform zl 178.61 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xcd8
-		{Position 1526.59 1728.91 -13}
+		{Position 1526.59 1728.91}
 		{xform zl -66.33 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0xcd9
-		{Position 1522.62 1718.81 -11.5}
+		{Position 1522.62 1718.81}
 		{xform zl -148.61 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcda
-		{Position 1473.09 1706.28 -4}
+		{Position 1473.09 1706.28}
 		{xform zl 47.1}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xcdb
-		{Position 1465.39 1702.39 -5.5}
+		{Position 1465.39 1702.39}
 		{xform zl -8.11 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -23263,29 +23263,29 @@
 		{xform zl -78.92}
 	}
 	{Entity "pla01b" 0xcde
-		{Position 1675.21 1740.31 -11.5}
+		{Position 1675.21 1740.31}
 		{xform zl -129.79 scale 0.807}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcdf
-		{Position 1699.65 1743.46 -4}
+		{Position 1699.65 1743.46}
 		{xform zl 65.92 scale 0.87}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xce0
-		{Position 1706.61 1748.55 -5.5}
+		{Position 1706.61 1748.55}
 		{xform zl 10.71 scale 0.643}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xce1
-		{Position 1644.81 1728.17 -5.5}
+		{Position 1644.81 1728.17}
 		{xform zl 10.71 scale 0.643}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xce2
-		{Position 2067.75 1851.2 -4.14}
+		{Position 2067.75 1851.2}
 		{xform zl 20.6 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -23296,35 +23296,35 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xce4
-		{Position 1740.95 1765.13 -5.5}
+		{Position 1740.95 1765.13}
 		{xform zl 21.76 scale 0.643}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xce5
-		{Position 1852.38 1802.9 -14}
+		{Position 1852.38 1802.9}
 		{xform zl 136.82 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0xce6
-		{Position 1850.9 1792.15 -12.49}
+		{Position 1850.9 1792.15}
 		{xform zl 54.54 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xce7
-		{Position 1782.94 1768.22 -4}
+		{Position 1782.94 1768.22}
 		{xform zl -109.75 scale 0.87}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xce8
-		{Position 1776.37 1762.63 -5.5}
+		{Position 1776.37 1762.63}
 		{xform zl -164.96 scale 0.643}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xce9
-		{Position 1879 1808.92 -7.5}
+		{Position 1879 1808.92}
 		{xform zl 10.71 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -23335,57 +23335,57 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xceb
-		{Position 1895.3 1811.31 -14.49}
+		{Position 1895.3 1811.31}
 		{xform zl 40.63 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcec
-		{Position 1919.73 1814.48 -8}
+		{Position 1919.73 1814.48}
 		{xform zl -123.66}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xced
-		{Position 1926.7 1819.56 -10.06}
+		{Position 1926.7 1819.56}
 		{xform zl -178.87 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xcee
-		{Position 2096.55 1835.49 6.02}
+		{Position 2096.55 1835.49}
 		{xform zl 179.65 scale 0.8}
 	}
 	{Entity "pla01b" 0xcef
-		{Position 1971.28 1821.89 -12.14}
+		{Position 1971.28 1821.89}
 		{xform zl 138.67 scale 0.877}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xcf0
-		{Position 2056.21 1839.45 -5.46}
+		{Position 2056.21 1839.45}
 		{xform zl -175.44 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xcf1
-		{Position 2194.86 1861.51 6.7}
+		{Position 2194.86 1861.51}
 		{xform zl -60.38 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0xcf2
-		{Position 2191.96 1851.05 4.96}
+		{Position 2191.96 1851.05}
 		{xform zl -142.66 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xcf3
-		{Position 2143.4 1845.2 10.05}
+		{Position 2143.4 1845.2}
 		{xform zl 53.05}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xcf4
-		{Position 2136.15 1840.53 9.48}
+		{Position 2136.15 1840.53}
 		{xform zl -2.16 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -23438,13 +23438,13 @@
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0xcfe
-		{Position 1542.39 2531.49 3.83}
+		{Position 1542.39 2531.49 0.93}
 		{xform zl 34.09 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0xcff
-		{Position 1532.23 2535.3 6.33}
+		{Position 1532.23 2535.3 0.54}
 		{xform zl -48.19 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
@@ -23461,7 +23461,7 @@
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0xd02
-		{Position 1542.4 2504.2 10.31}
+		{Position 1542.4 2504.2 2.27}
 		{xform zl -92.02 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -23472,19 +23472,19 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xd04
-		{Position 1541.14 2487.77 4.17}
+		{Position 1541.14 2487.77 -4.29}
 		{xform zl -62.1 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0xd05
-		{Position 1538.85 2463.24 11.04}
+		{Position 1538.85 2463.24 1.51}
 		{xform zl 133.61}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xd06
-		{Position 1542.27 2455.33 8.9}
+		{Position 1542.27 2455.33 1.13}
 		{xform zl 78.4 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -23495,7 +23495,7 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xd09
-		{Position 1550.88 2418.19 7.24}
+		{Position 1550.88 2418.19 3.62}
 		{xform zl 89.45 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -23545,7 +23545,7 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x43ce
-		{Position 1070.8 2593.7 33.51}
+		{Position 1070.8 2593.7 33.5}
 		{xform zl 9.53 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -23566,35 +23566,35 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x43d2
-		{Position 1105.47 2609.57 34.5}
+		{Position 1105.47 2609.57 8.96}
 		{xform zl 20.58 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x43d3
-		{Position 1196.82 2633.76 27}
+		{Position 1196.82 2633.76 -9.71}
 		{xform zl 135.64 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0x43d4
-		{Position 1195.12 2623.05 28.51}
+		{Position 1195.12 2623.05 -6.67}
 		{xform zl 53.36 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x43d5
-		{Position 1147.52 2611.8 37}
+		{Position 1147.52 2611.8 7.46}
 		{xform zl -110.93}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x43d6
-		{Position 1140.84 2606.34 35.09}
+		{Position 1140.84 2606.34 0.37}
 		{xform zl -166.14 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x43d7
-		{Position 1223.55 2639.24 33.5}
+		{Position 1223.55 2639.24 -5.5}
 		{xform zl 9.53 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -23605,7 +23605,7 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x43d9
-		{Position 1285.22 2648.37 24.51}
+		{Position 1285.22 2648.37 17.84}
 		{xform zl 39.45 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
@@ -23670,24 +23670,24 @@
 		{xform zl -66.53}
 	}
 	{Entity "pla01b" 0x43e5
-		{Position 651.49 2473.02 29.25}
+		{Position 651.49 2473.02 -6.14}
 		{xform zl -130.97 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x43e6
-		{Position 675.99 2475.66 35.48}
+		{Position 675.99 2475.66 4.07}
 		{xform zl 64.74}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x43e7
-		{Position 683.05 2480.61 33.49}
+		{Position 683.05 2480.61 4.05}
 		{xform zl 9.53 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x43e8
-		{Position 620.85 2461.49 38.36}
+		{Position 620.85 2461.49 -4.36}
 		{xform zl 9.53 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -23698,35 +23698,35 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x43ea
-		{Position 717.72 2496.48 30.9}
+		{Position 717.72 2496.48 13.15}
 		{xform zl 20.58 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x43eb
-		{Position 809.07 2520.67 21}
+		{Position 809.07 2520.67 -6.62}
 		{xform zl 135.64 scale 0.827}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0x43ec
-		{Position 807.37 2509.96 23.51}
+		{Position 807.37 2509.96 -5.23}
 		{xform zl 53.36 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x43ed
-		{Position 759.77 2498.71 31.18}
+		{Position 759.77 2498.71 12.47}
 		{xform zl -110.93}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x43ee
-		{Position 753.09 2493.25 30.23}
+		{Position 753.09 2493.25 9.34}
 		{xform zl -166.14 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x43ef
-		{Position 835.8 2526.15 28.73}
+		{Position 835.8 2526.15 -0.25}
 		{xform zl 9.53 scale 0.9}
 		{Color 0xffbabfb1}
 	}
@@ -23747,24 +23747,24 @@
 		{xform zl 126.39 scale 1.15}
 	}
 	{Entity "pla01b" 0x43f3
-		{Position 629.32 2460.09 31.64}
+		{Position 629.32 2460.09 -9.66}
 		{xform zl 159.41 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x43f4
-		{Position 629.63 2412.48 42.38}
+		{Position 629.63 2412.48 -5.5}
 		{xform zl -60.09 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "new_tree2" 0x43f5
-		{Position 628.15 2534.8 35.26}
+		{Position 628.15 2534.8 5.23}
 		{xform zl 33.69}
 		{TexMod "color1"}
 		{Color 0xffe7f1bc}
 	}
 	{Entity "pla02d" 0x43f6
-		{Position 645.64 2481.72 40.4}
+		{Position 645.64 2481.72 5.75}
 		{xform zl 87.66 scale 0.9}
 		{Color 0xffbbbbb0}
 	}
@@ -23836,19 +23836,19 @@
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x4403
-		{Position 2259.69 2017.26 -1.78}
+		{Position 2259.69 2017.26}
 		{xform zl 97.78 scale 0.937}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x4404
-		{Position 2267.39 2048.01 -13.77}
+		{Position 2267.39 2048.01}
 		{xform zl -66.51 scale 0.9}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x4405
-		{Position 2253.74 1982.44 7.72}
+		{Position 2253.74 1982.44}
 		{xform zl -121.72 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -23859,24 +23859,24 @@
 		{Color 0xffb39b83}
 	}
 	{Entity "pla01b" 0x4407
-		{Position 2226.43 2017.5 -7.74}
+		{Position 2226.43 2017.5}
 		{xform zl 97.78 scale 1.034}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x4408
-		{Position 2227.18 1956.94 0.34}
+		{Position 2227.18 1956.94}
 		{xform zl 10.54 scale 0.794}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x4409
-		{Position 2203.97 1978.51 -0.21}
+		{Position 2203.97 1978.51}
 		{xform zl -145.48 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "cane3" 0x440a
-		{Position 2243.05 2030 3.3}
+		{Position 2243.05 2030}
 		{xform zl -178.29 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -24055,7 +24055,7 @@
 		{xform zl 74.12}
 	}
 	{Entity "fence-wood_3" 0x442b
-		{Position 696.92 1873.08 33.62}
+		{Position 696.92 1873.08 -1}
 		{xform zl -108.67 y 4.58 zw -2.49}
 	}
 	{Entity "fence_low_crete_2" 0x442c
@@ -24075,19 +24075,19 @@
 		}
 	}
 	{Entity "cane3" 0xd10
-		{Position 716.43 1919.78 30.83}
+		{Position 716.43 1919.78 -7.51}
 		{xform zl 127.48 scale 0.903}
 		{TexMod "aut"}
 		{Color 0xff9fa8a1}
 	}
 	{Entity "pla01b" 0xd11
-		{Position 738.6 1863.41 22.48}
+		{Position 738.6 1863.41 -8.29}
 		{xform zl 141.47}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0xd12
-		{Position 882.54 2548.64 29.51}
+		{Position 882.54 2548.64 18.86}
 		{xform zl 33.94 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -24096,12 +24096,12 @@
 		{xform zl 18.54}
 	}
 	{Entity "cane3" 0xd14
-		{Position 370.04 1826.18 31.15}
+		{Position 370.04 1826.18 -3.15}
 		{xform zl 126.95 scale 0.73}
 		{Color 0xffecd4d4}
 	}
 	{Entity "cane3" 0xd15
-		{Position 903.53 2549.97 29.85}
+		{Position 903.53 2549.97 21.02}
 		{xform zl -148.69 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -24119,7 +24119,7 @@
 		{Color 0xffecd4d4}
 	}
 	{Entity "cane3" 0xd19
-		{Position 374.41 1817.7 29.67}
+		{Position 374.41 1817.7 -0.66}
 		{xform zl 14.15 scale 0.773}
 		{Color 0xffbabfb1}
 	}
@@ -24226,7 +24226,7 @@
 		{xform zl 69.11}
 	}
 	{Entity "ground_clay5a" 0x442f
-		{Position 2242.64 2057.69 2.1}
+		{Position 2242.64 2057.69}
 		{xform zl 37.9}
 	}
 	{Entity "cane3" 0x4430
@@ -61257,136 +61257,136 @@
 		{TexMod "bare"}
 	}
 	{Entity "apple-tree7" 0x2364
-		{Position 25.34 1850.91 32.04}
+		{Position 25.34 1850.91 -4.56}
 		{xform zl 27.58 y 12.34 zw -54.48 scale 0.774}
 		{TexMod "color1"}
 		{Color 0xffc5db99}
 	}
 	{Entity "apple-tree7" 0x2365
-		{Position 23.84 1850.72 35.37}
+		{Position 23.84 1850.72 -1.03}
 		{xform zl -163.89 scale 1.087}
 		{TexMod "bare"}
 	}
 	{Entity "cane3" 0x2366
-		{Position 27.81 2072.11 54.28}
+		{Position 27.81 2072.11 -7.5}
 		{xform zl 153.6 scale 0.65}
 		{TexMod "aut"}
 		{Color 0xff99aea6}
 	}
 	{Entity "pla01b" 0x2367
-		{Position 26.01 2063.47 49.69}
+		{Position 26.01 2063.47 -11.48}
 		{xform zl -110.73 scale 0.554}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x2368
-		{Position -36.48 1868.76 34.15}
+		{Position -36.48 1868.76 -5.51}
 		{xform zl 64.03 scale 0.793}
 		{TexMod "aut"}
 		{Color 0xff99aea6}
 	}
 	{Entity "pla01b" 0x2369
-		{Position -43.57 1860.15 28.47}
+		{Position -43.57 1860.15 -9.47}
 		{xform zl -133.59 scale 0.67}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x236a
-		{Position -4.85 1795.95 18.35}
+		{Position -4.85 1795.95 -2.04}
 		{xform zl -62.77 scale 0.527}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x236b
-		{Position -106.87 1833.69 29.14}
+		{Position -106.87 1833.69 -3.83}
 		{xform zl 134.85 scale 0.65}
 		{TexMod "aut"}
 		{Color 0xff99aea6}
 	}
 	{Entity "pla01b" 0x236c
-		{Position -111.35 1826.08 23.64}
+		{Position -111.35 1826.08 -6.68}
 		{xform zl -129.48 scale 0.554}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x236d
-		{Position -419.23 1835.86 20.07}
+		{Position -419.23 1835.86 1.92}
 		{xform zl 11.06 scale 0.65}
 		{TexMod "aut"}
 		{Color 0xff99aea6}
 	}
 	{Entity "pla01b" 0x236e
-		{Position -423.05 1843.81 16.5}
+		{Position -423.05 1843.81 -3.15}
 		{xform zl 106.73 scale 0.554}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x236f
-		{Position -433.17 2176.4 25.13}
+		{Position -433.17 2176.4 -6.29}
 		{xform zl -78.51 scale 0.793}
 		{TexMod "aut"}
 		{Color 0xff99aea6}
 	}
 	{Entity "pla01b" 0x2370
-		{Position -432.78 2187.55 20.47}
+		{Position -432.78 2187.55 -10.17}
 		{xform zl 83.87 scale 0.67}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x2371
-		{Position -502.56 2214.96 11.21}
+		{Position -502.56 2214.96 -7.49}
 		{xform zl 154.69 scale 0.527}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x2372
-		{Position -398.62 2247.05 24.59}
+		{Position -398.62 2247.05 -6.53}
 		{xform zl -7.69 scale 0.65}
 		{TexMod "aut"}
 		{Color 0xff99aea6}
 	}
 	{Entity "pla01b" 0x2373
-		{Position -399.7 2255.81 19.97}
+		{Position -399.7 2255.81 -10.48}
 		{xform zl 87.98 scale 0.554}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x2374
-		{Position -601.63 1620.97 12.51}
+		{Position -601.63 1620.97 14.51}
 		{xform zl -69.49 scale 0.773}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x2375
-		{Position -605.42 1679.68 4.62}
+		{Position -605.42 1679.68 6.03}
 		{xform zl -134.81 scale 0.694}
 		{TexMod "color"}
 		{Color 0xffa8a87d}
 	}
 	{Entity "pla01b" 0x2376
-		{Position -591.47 1658.22 5.7}
+		{Position -591.47 1658.22 8.51}
 		{xform zl 142.91 scale 0.804}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x2377
-		{Position -616.87 1685.21 12.51}
+		{Position -616.87 1685.21 13.51}
 		{xform zl 99.08 scale 0.767}
 		{Color 0xffbabfb1}
 	}
 	{Entity "pla01b" 0x2378
-		{Position -615.79 1701.65 6.14}
+		{Position -615.79 1701.65 6.84}
 		{xform zl 129 scale 0.804}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "pla01b" 0x2379
-		{Position -613.75 1726.2 13}
+		{Position -613.75 1726.2 14}
 		{xform zl -35.29 scale 0.867}
 		{TexMod "color"}
 		{Color 0xff95a47d}
 	}
 	{Entity "cane3" 0x237a
-		{Position -628.81 1769.2 10.63}
+		{Position -628.81 1769.2 10.52}
 		{xform zl 96.37 scale 0.67}
 		{Color 0xffbabfb1}
 	}
@@ -71009,6 +71009,84 @@
 		{xform zl 50.89}
 		{TexMod "color"}
 		{Color 0xff95a47d}
+	}
+	{Entity "cane3" 0x27e1
+		{Position 263.18 1416.02 8.05}
+		{xform zl 153.6 scale 0.65}
+		{TexMod "aut"}
+		{Color 0xff99aea6}
+	}
+	{Entity "pla01b" 0x27e2
+		{Position 261.38 1407.38 3.49}
+		{xform zl -110.73 scale 0.554}
+		{TexMod "color"}
+		{Color 0xff95a47d}
+	}
+	{Entity "pla01b" 0x27e3
+		{Position 336.19 1559.61}
+		{xform zl 104.24 scale 0.883}
+		{TexMod "color"}
+		{Color 0xff9aac73}
+	}
+	{Entity "pla01" 0x27e4
+		{Position 327.57 1508.73}
+		{xform zl 104.24 scale 0.736}
+		{TexMod "color"}
+		{Color 0xff9aac73}
+	}
+	{Entity "pla01b" 0x27e5
+		{Position 240.68 1532.83}
+		{xform zl -75.76 scale 0.883}
+		{TexMod "color"}
+		{Color 0xff9aac73}
+	}
+	{Entity "cane3" 0x27e6
+		{Position 324.83 1535.35}
+		{xform zl -155.76}
+		{TexMod "aut"}
+		{Color 0xffc7bfc7}
+	}
+	{Entity "stone_af1d" 0x27e7
+		{Position 316.13 1578.13}
+		{xform zl 34.24}
+		{TexMod "6"}
+	}
+	{Entity "stone_af1a" 0x27e8
+		{Position 304.42 1484.24}
+		{xform zl 34.24}
+	}
+	{Entity "stone_af1d" 0x27e9
+		{Position 267.24 1574.62}
+		{xform zl 34.24}
+		{TexMod "6"}
+	}
+	{Entity "stone_af1f" 0x27ea
+		{Position 289.07 1527.15}
+		{xform zl 34.24}
+		{TexMod "6"}
+	}
+	{Entity "cane3" 0x27eb
+		{Position 382.13 1515.79}
+		{xform zl -100.76}
+		{TexMod "aut"}
+		{Color 0xffc7bfc7}
+	}
+	{Entity "stone_af1f" 0x27ec
+		{Position 187.82 1547.9}
+		{xform zl 163.37}
+		{TexMod "6"}
+	}
+	{Entity "pla01" 0x27ed
+		{Position 226.99 1582.87}
+		{xform zl -172.11 scale 0.98}
+		{TexMod "color"}
+		{Color 0xff9aac73}
+	}
+	{Entity "pla01" 0x27ee
+		{Position 208.12 1504.17}
+		{xform zl -172.11 scale 1.123}
+		{TexMod "color"}
+		{Color 0xff9aac73}
 	}
 	{Link 0x1a {0x19 "1"}}
 	{Link 0x2f {0x19 "2"}}

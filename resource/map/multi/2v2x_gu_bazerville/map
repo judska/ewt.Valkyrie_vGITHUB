@@ -5,8 +5,8 @@
 	{Clips
 		{"[auto]"
 			{world -4129.53 -4129.53 4110.47 4110.47}
-			{camera -3732.88 -3803.87 3871.03 3802.68}
-			{pather -3517.17 -3509.44 3499.2 3504.79}
+			{camera -3500.94 -3803.87 3394.75 3802.68}
+			{pather -3198.52 -3509.44 3169.13 3504.79}
 			{distance 200 800}
 			{viewAngle 20 50}
 		}
@@ -563,6 +563,7 @@
 	}
 	{Entity "shaft_euro" 0x1006
 		{Position -2141.1 376.95 61.86}
+		{AreaDisable "cut"}
 	}
 	{Entity "stuff2" 0x1007
 		{Position -243.57 -1018.9}
@@ -3362,6 +3363,7 @@
 	{Entity "shaft_euro" 0x1d8
 		{Position 1290.57 374.76 35}
 		{xform zl -120.76}
+		{AreaDisable "cut"}
 	}
 	{Entity "sand_dark" 0x1d9
 		{Position 1312.31 350.85}

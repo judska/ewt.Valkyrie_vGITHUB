@@ -1,7 +1,7 @@
 {material
 	{layer bump
-		{diffuse "/texture/land/fields/tillage_growed"}
-		{bump "/texture/land/fields/tillage_growed_nm"}
+		{diffuse "/texture/land/fields/tillage_2"}
+		{bump "/texture/land/fields/tillage_2_nm"}
 	}
 	{layer bump
 		{diffuse "/texture/land/grass/gramma_12b"}

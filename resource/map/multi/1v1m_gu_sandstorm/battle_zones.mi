@@ -19,7 +19,7 @@
 		{MID 45}
 	}
 	{Entity "flag_point_2" 0x8030
-		{Position -4631.28 472.19}
+		{Position -3978.29 429.04}
 		{xform zl 0.14 scale 0.75}
 		{Skeleton
 			{MtlParams
@@ -45,7 +45,7 @@
 		{MID 49}
 	}
 	{Entity "flag_point_3" 0x8031
-		{Position 1297.2 541.03}
+		{Position 932.82 595.54}
 		{xform zl 1.2 scale 0.75}
 		{Skeleton
 			{MtlParams
@@ -71,7 +71,7 @@
 		{MID 50}
 	}
 	{Entity "flag_point_1" 0x8032
-		{Position -1523.54 506.6}
+		{Position -1502.44 477.67}
 		{xform zl -0.56 scale 0.75}
 		{Skeleton
 			{MtlParams
@@ -116,16 +116,28 @@
 		{MID 6}
 	}
 	{Entity "burn_grass1" 0xc000
-		{Position -4579.37 533.28}
+		{Position -3915.74 584.21}
 	}
 	{Entity "burn_grass1" 0xc001
-		{Position -4577.67 475.07}
+		{Position -3924.68 431.92}
 	}
 	{Entity "burn_grass1" 0xc002
-		{Position -4567.76 443.71}
+		{Position -3914.77 400.56}
 	}
 	{Entity "burn_grass1" 0xc003
-		{Position -4569.62 433.37}
+		{Position -3905.99 484.3}
+	}
+	{Entity "burn_grass1" 0x8000
+		{Position -3984.45 203.3}
+	}
+	{Entity "burn_grass1" 0x8001
+		{Position -3980 145.24}
+	}
+	{Entity "burn_grass1" 0x8002
+		{Position -3968.62 114.38}
+	}
+	{Entity "burn_grass1" 0x8003
+		{Position -3969.99 103.96}
 	}
 	{Tags "keep_places_without_door" 0x405c}
 	{Tags "keep_places_without_door" 0x405d}
@@ -142,6 +154,7 @@
 	{Tags "keep_places_without_door" 0x3af}
 	{Tags "keep_places_without_door" 0x42fa}
 	{Tags "burned" 0x526}
+	{Tags "burned" 0x529}
 	{Tags "keep_places_without_door" 0x21d2}
 	{Tags "keep_places_without_door" 0x21d3}
 	{Tags "keep_places_without_door" 0xbf7}
@@ -161,5 +174,5 @@
 			{scoreCurrent 0}
 		}
 	}
-	{Fog 1}
+	{Fog 0}
 }

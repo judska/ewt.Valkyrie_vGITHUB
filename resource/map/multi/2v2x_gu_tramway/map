@@ -689,13 +689,8 @@
 		{Position -608.47 -1210.92}
 		{xform zl -179.95}
 	}
-	{Entity "tramway_b" 0x16c5
-		{Position 417.98 320.84}
-		{xform zl -150}
-		{TexMod "1"}
-	}
 	{Entity "tramway" 0x16c6
-		{Position -527.8 589.03}
+		{Position -532.04 86.09}
 		{xform zl -90}
 		{TexMod "1"}
 		{Fogable never}
@@ -865,7 +860,7 @@
 		}
 	}
 	{Entity "tram_rail2" 0xa50
-		{Position 460.38 817.47}
+		{Position 460.38 817.47 1}
 		{xform zl 0.11}
 		{UseDecal 0}
 	}
@@ -1198,7 +1193,7 @@
 		{UseDecal 0}
 	}
 	{Entity "tram_rail2" 0x62f
-		{Position 480.23 1049.27}
+		{Position 480.23 1049.27 1}
 		{xform zl 0.11}
 		{UseDecal 0}
 	}
@@ -1222,7 +1217,7 @@
 		{DecalOrder 1}
 	}
 	{Entity "tram_rail2d" 0x1
-		{Position 384.51 954.67}
+		{Position 384.51 954.67 1}
 		{xform zl 118.33}
 		{UseDecal 0}
 	}
@@ -1268,7 +1263,7 @@
 		{xform zl -90}
 	}
 	{Entity "post_tram2" 0x120e
-		{Position 512.24 879.92}
+		{Position 512.24 879.92 1}
 		{xform zl -90}
 	}
 	{Entity "post_tram2" 0x120f
@@ -1288,11 +1283,11 @@
 		{xform zl -165 y 20 zw -135}
 	}
 	{Entity "post_tram2" 0x1214
-		{Position 274.75 907.75}
+		{Position 274.75 907.75 1}
 		{xform zl 60}
 	}
 	{Entity "post_tram2" 0x1216
-		{Position 512.39 887.69}
+		{Position 512.39 887.69 1}
 		{xform zl 90}
 	}
 	{Entity "post_tram2" 0x121b
@@ -1659,7 +1654,7 @@
 		{Position 519.26 702.23}
 	}
 	{Entity "tram_rail2_part" 0x1183
-		{Position 521.13 935.71}
+		{Position 521.13 935.71 1}
 	}
 	{Entity "coil_tros" 0x64f
 		{Position -962.99 -780.53}
@@ -1826,7 +1821,7 @@
 		{Constrain surface}
 	}
 	{Entity "tramway" 0x645
-		{Position 477.6 935.31}
+		{Position 477.6 935.31 1}
 		{xform zl 0.98}
 		{Fogable never}
 		{Extender "enumerator"
@@ -1864,7 +1859,7 @@
 		{xform zl 180}
 	}
 	{Entity "tramway" 0x1800
-		{Position -529.2 -321.33}
+		{Position -530.99 -109.48}
 		{xform zl 89.86}
 		{TexMod "2"}
 		{Fogable never}
@@ -1908,7 +1903,7 @@
 		{DecalOrder 20}
 	}
 	{Entity "tramway" 0x64b
-		{Position -760.27 -533.26}
+		{Position -854.26 -531.64}
 		{TexMod "1"}
 		{Fogable never}
 		{Extender "enumerator"
@@ -2141,23 +2136,6 @@
 		{UseDecal 0}
 		{DecalOrder 1}
 	}
-	{Entity "tramway" 0x182d
-		{Position -712 -39.14}
-		{xform zl -175.35}
-		{TexMod "2"}
-		{Fogable never}
-		{Extender "enumerator"
-			{number 10}
-		}
-	}
-	{Entity "tramway" 0x1831
-		{Position 375.95 712.73}
-		{xform zl 160.76}
-		{Fogable never}
-		{Extender "enumerator"
-			{number 2}
-		}
-	}
 	{Entity "post_tram2" 0x3bd
 		{Position -188.49 452.53}
 	}
@@ -2172,7 +2150,7 @@
 		{xform zl -90}
 	}
 	{Entity "post_tram2" 0x704
-		{Position 469.84 1093.63}
+		{Position 469.84 1093.63 1}
 		{xform zl -90}
 	}
 	{Entity "post_tram2" 0x1407
@@ -3315,7 +3293,7 @@
 		{UseDecal 0}
 	}
 	{Entity "tramway" 0x1031
-		{Position 513.72 -299.96}
+		{Position 704.96 -301.29}
 		{xform zl -0.55}
 		{TexMod "1"}
 		{Fogable never}
@@ -9637,11 +9615,11 @@
 		{xform zl -105 scale 0.7}
 	}
 	{Entity "poplar_white3a" 0x64d
-		{Position -1936.25 -1055.13 -19.7}
+		{Position -1936.25 -1055.13 -17.56}
 		{xform zl -150 scale 0.8}
 	}
 	{Entity "poplar_white3a" 0x64e
-		{Position -2011.74 -768.61 -20}
+		{Position -2011.74 -768.61 -27.8}
 		{xform zl -25 scale 0.9}
 	}
 	{Entity "new_tree1" 0x655
@@ -9657,19 +9635,19 @@
 		{xform zl -160}
 	}
 	{Entity "poplar_white3a" 0x658
-		{Position -1994.5 -612.69 -5.03}
+		{Position -1994.5 -612.69 -18.03}
 		{xform zl -160}
 	}
 	{Entity "poplar_white3a" 0x65c
-		{Position -1799.11 -538.88 22.82}
+		{Position -1799.11 -538.88 10.82}
 		{xform zl -130 scale 0.7}
 	}
 	{Entity "poplar_white3a" 0x660
-		{Position -1941 -915.94 -20.91}
+		{Position -1941 -915.94 -22.06}
 		{xform zl -130 scale 0.7}
 	}
 	{Entity "poplar_white3a" 0x661
-		{Position -1815.63 -752.25 -20}
+		{Position -1815.63 -752.25 -16.61}
 		{xform zl -12.43 scale 0.7}
 	}
 	{Entity "new_bush1a" 0x662
@@ -9684,19 +9662,19 @@
 		{xform zl -59.81 scale 0.737}
 	}
 	{Entity "new_bush1a" 0x667
-		{Position -1767.46 -578.97 19.74}
+		{Position -1767.46 -578.97 11.68}
 		{xform zl -73.39}
 	}
 	{Entity "new_bush1a" 0x668
-		{Position -1732.94 -831.19 1.57}
+		{Position -1732.94 -831.19 3.57}
 		{xform zl 62.39}
 	}
 	{Entity "new_bush1a" 0x669
-		{Position -1963.88 -847.96 -21.46}
+		{Position -1963.88 -847.96 -26.44}
 		{xform zl -90.64}
 	}
 	{Entity "new_bush1a" 0x66a
-		{Position -1946.87 -994.51 -20}
+		{Position -1946.87 -994.51 -18.37}
 		{xform zl 34.49}
 	}
 	{Entity "new_bush1a" 0x66b
@@ -9706,7 +9684,7 @@
 		{Position -2547.52 -1322.18}
 	}
 	{Entity "new_bush1a" 0x66e
-		{Position -1875.38 -955.25 -20}
+		{Position -1875.38 -955.25 -17.25}
 		{xform scale 0.71}
 	}
 	{Entity "new_bush1a" 0x66f
@@ -9749,11 +9727,11 @@
 		{Position -2183.57 1072.78}
 	}
 	{Entity "new_bush1a" 0x67a
-		{Position -2005.26 -480.84 28.56}
+		{Position -2005.26 -480.84 16.06}
 		{xform zl -34.92}
 	}
 	{Entity "new_bush1a" 0x67b
-		{Position -1912.52 -496.95 35.04}
+		{Position -1912.52 -496.95 17.64}
 		{xform zl -26.64 scale 0.81}
 	}
 	{Entity "new_bush1a" 0x681
@@ -9773,7 +9751,7 @@
 		{xform zl 10.08 scale 0.73}
 	}
 	{Entity "alder_crush" 0x688
-		{Position -1825.97 -468.19 9}
+		{Position -1825.97 -468.19 -0.02}
 		{xform zl -136.22}
 		{Placer
 			{State "4" {Unlinked}}
@@ -9789,22 +9767,22 @@
 		{TexMod "1"}
 	}
 	{Entity "branch2" 0x68d
-		{Position -1975.09 -653.28 -20}
+		{Position -1975.09 -653.28 -31.28}
 	}
 	{Entity "branch2" 0x68e
-		{Position -1893.48 -898.08 -20.86}
+		{Position -1893.48 -898.08 -19.4}
 		{xform zl 70.5}
 	}
 	{Entity "branch2" 0x690
-		{Position -1841.74 -597.78 -4.33}
+		{Position -1841.74 -597.78 -14.69}
 		{xform zl 178.13}
 	}
 	{Entity "ground_clay5" 0x84d
-		{Position -1826.17 -100.99 -0.03}
+		{Position -1826.17 -100.99 -0.98}
 		{xform zl 83.72}
 	}
 	{Entity "ground_clay5a" 0x84e
-		{Position -1876.78 -254.35 0.02}
+		{Position -1876.78 -254.35 -1.71}
 		{xform zl 48.51}
 	}
 	{Entity "ground_clay5b" 0x84f
@@ -9820,7 +9798,7 @@
 		{xform zl 135.54}
 	}
 	{Entity "ground_clay5" 0x187f
-		{Position -2303.46 -528.95 1.71}
+		{Position -2303.46 -528.95 5.47}
 		{xform zl 45.93}
 	}
 	{Entity "ground_clay5a" 0x1880
@@ -9836,7 +9814,7 @@
 		{xform zl -44.99 scale 0.707}
 	}
 	{Entity "new_bush1a" 0x1884
-		{Position -1982.2 -398.53 15.17}
+		{Position -1982.2 -398.53 8.88}
 		{xform zl 18.64 scale 0.873}
 	}
 	{Entity "new_bush1a" 0x1885
@@ -9863,7 +9841,7 @@
 		{xform scale 1.323}
 	}
 	{Entity "new_bush1a" 0x189f
-		{Position -1881.73 -20.88}
+		{Position -1881.73 -20.88 -6.44}
 		{xform zl -70.99 scale 0.713}
 	}
 	{Entity "crash_stone1" 0x18a8
@@ -9895,7 +9873,7 @@
 		{Color 0xfffff1cf}
 	}
 	{Entity "new_tree1" 0xcee
-		{Position -2266.44 -1252.78 6.03}
+		{Position -2266.44 -1252.78 9.03}
 		{xform zl -170}
 	}
 	{Entity "poplar_white3a" 0xcef
@@ -9919,7 +9897,7 @@
 		{xform zl 160 scale 1.2}
 	}
 	{Entity "poplar_white3a" 0xd32
-		{Position -2176.43 -1322.08 -12.47}
+		{Position -2176.43 -1322.08 -12.06}
 		{xform zl 130 scale 0.9}
 	}
 	{Entity "new_bush1a" 0xd34
@@ -9927,7 +9905,7 @@
 		{xform zl -90.64}
 	}
 	{Entity "new_bush1a" 0xd35
-		{Position -1919.6 -1085.66 -17.16}
+		{Position -1919.6 -1085.66 -16.16}
 		{xform zl 34.49}
 	}
 	{Entity "new_bush1a" 0xd36
@@ -10968,7 +10946,7 @@
 		{MID 10020}
 	}
 	{Entity "isu152_dead_c4" 0x6b7
-		{Position 465.34 767.13 3.62}
+		{Position 465.34 767.13 4.62}
 		{xform zl 90.01 y 93.94 zw -87.78}
 		{Simulation {Able 1}}
 	}
@@ -13924,15 +13902,6 @@
 		{Position 1475.1 -271.58}
 		{UseDecal 0}
 		{Color 0xfffff1cf}
-	}
-	{Entity "tramway" 0x141f
-		{Position -713.56 317.12}
-		{xform zl 5.18}
-		{TexMod "2"}
-		{Fogable never}
-		{Extender "enumerator"
-			{number 4}
-		}
 	}
 	{Entity "car-dead2" 0x807
 		{Position 1633.98 -960.19}
@@ -17792,7 +17761,7 @@
 		{xform zl 90}
 	}
 	{Entity "ground_clay5" 0x1255
-		{Position -2466.1 -681.47 15.43}
+		{Position -2466.1 -681.47 14.24}
 		{xform zl 35.93}
 	}
 	{Entity "ground_clay5a" 0xc28
@@ -17804,7 +17773,7 @@
 		{xform zl 46.86}
 	}
 	{Entity "ground_clay5" 0xd00
-		{Position -2821.3 -934.29 7.09}
+		{Position -2821.3 -934.29 8.79}
 		{xform zl 55.93}
 	}
 	{Entity "road_aero" 0x141e
@@ -18368,7 +18337,7 @@
 		{xform zl -103.14}
 	}
 	{Entity "ground_clay5" 0x109b
-		{Position -2018.9 -357.72 0.85}
+		{Position -2018.9 -357.72 1.67}
 		{xform zl 23.8}
 	}
 	{Entity "ground_clay5b" 0x111f
@@ -18409,7 +18378,7 @@
 		{xform zl -74.07}
 	}
 	{Entity "mound_steep1a" 0x1865
-		{Position -2813.12 1111.57}
+		{Position -2813.12 1111.57 -21.33}
 		{xform zl 100}
 		{TexMod "flow2"}
 	}
@@ -18439,7 +18408,7 @@
 		{TexMod "flow2"}
 	}
 	{Entity "mound_steep1a" 0x186e
-		{Position -2929.07 1280.88}
+		{Position -2929.07 1280.88 -10.92}
 		{xform zl -90}
 		{TexMod "flow1"}
 	}
@@ -18477,22 +18446,22 @@
 		{UseDecal 0}
 	}
 	{Entity "mound_steep1a" 0x1e27
-		{Position -2803.44 1346.35 -20.67}
+		{Position -2803.44 1346.35 -9.91}
 		{xform zl 80}
 		{TexMod "flow1"}
 	}
 	{Entity "mound_steep1a" 0x1e28
-		{Position -2790.16 1573.55 -2.85}
+		{Position -2790.16 1573.55 -2.56}
 		{xform zl 90}
 		{TexMod "flow1"}
 	}
 	{Entity "mound_steep1a" 0x1e29
-		{Position -2909.91 1492.26 -55.58}
+		{Position -2909.91 1492.26 -47.52}
 		{xform zl -100}
 		{TexMod "flow1"}
 	}
 	{Entity "mound_steep1a" 0x1e2a
-		{Position -2914.57 1729.86}
+		{Position -2914.57 1729.86 -19.46}
 		{xform zl -80}
 		{TexMod "flow2"}
 	}
@@ -18501,7 +18470,7 @@
 		{xform zl 165.54}
 	}
 	{Entity "ground_clay5" 0x1e2d
-		{Position -2951.2 -1134.2 8.95}
+		{Position -2951.2 -1134.2 9.28}
 		{xform zl 55.93}
 	}
 	{Entity "town_border7d_kjust" 0x902
@@ -21523,7 +21492,7 @@
 		{xform zl -94.9}
 	}
 	{Entity "ground_clay5" 0x544
-		{Position -3145.48 -1061.31 -6.83}
+		{Position -3145.48 -1061.31 -4.43}
 		{xform zl -97.53}
 	}
 	{Entity "ground_clay5" 0x5e7
@@ -21535,7 +21504,7 @@
 		{UseDecal 0}
 	}
 	{Entity "tram_rail2" 0x5fa
-		{Position -3111.9 1432.29}
+		{Position -3111.9 1432.29 -1.76}
 		{UseDecal 0}
 	}
 	{Entity "tram_rail2" 0x5fb
@@ -21682,7 +21651,7 @@
 		{Color 0xfffff1cf}
 	}
 	{Entity "wild_border1" 0x8ad
-		{Position -3108.69 1326.02}
+		{Position -3108.69 1326.02 -0.59}
 		{UseDecal 0}
 	}
 	{Entity "wild_border1" 0x8ae
@@ -31696,13 +31665,13 @@
 		{Color 0xfffff1cf}
 	}
 	{Entity "town_border7b_kjust" 0x18f4
-		{Position -2694.95 1618.48}
+		{Position -2694.95 1618.48 -4.65}
 		{xform zl 180}
 		{UseDecal 0}
 		{Color 0xfffff1cf}
 	}
 	{Entity "town_border7b_kjust" 0x18f5
-		{Position -2700.65 1532.29}
+		{Position -2700.65 1532.29 -2.59}
 		{xform zl 180}
 		{UseDecal 0}
 		{Color 0xfffff1cf}
@@ -31714,13 +31683,13 @@
 		{Color 0xfffff1cf}
 	}
 	{Entity "town_border7b_kjust" 0x18f7
-		{Position -2716.17 1318.71}
+		{Position -2716.17 1318.71 -9.33}
 		{xform zl 180}
 		{UseDecal 0}
 		{Color 0xfffff1cf}
 	}
 	{Entity "town_border7b_kjust" 0x18f8
-		{Position -3033.08 1635.66}
+		{Position -3033.08 1635.66 -11.11}
 		{xform zl 180}
 		{UseDecal 0}
 		{Color 0xfffff1cf}
@@ -33416,7 +33385,6 @@
 	{Entity "b_str_house_c135n" 0x2244
 		{Position -3662.92 -603.85}
 		{xform zl -134.76}
-		{Constrain zero}
 	}
 	{Entity "b_str_house_c135n" 0x2245
 		{Position -3468.22 -471.7}
@@ -33553,7 +33521,6 @@
 	{Entity "town_border7bed1a" 0x2255
 		{Position -3689 -327.33}
 		{xform zl -179.06}
-		{Constrain zero}
 	}
 	{Entity "town_border7bed1a" 0x2256
 		{Position -3628.27 -326.44}
@@ -33586,7 +33553,6 @@
 	{Entity "border_reich2" 0x7064
 		{Position -3687.39 -521.5}
 		{xform zl 90.24}
-		{Constrain zero}
 		{DecalOrder 2}
 	}
 	{Entity "border_reich2" 0x7065
@@ -33623,7 +33589,6 @@
 	{Entity "a_hause_109c_1" 0x225e
 		{Position -3764.66 -304.14}
 		{xform zl 0.74}
-		{Constrain zero}
 	}
 	{Entity "a_hause_109c_1" 0x225f
 		{Position -3654.24 -302.73}
@@ -33644,7 +33609,6 @@
 	{Entity "hedge2a" 0x3820
 		{Position -3704.99 -327.34}
 		{xform zl 0.51 scale 1.317}
-		{Constrain zero}
 		{TexMod "1"}
 	}
 	{Entity "hedge2a" 0x3822
@@ -33656,7 +33620,6 @@
 	{Entity "hedge2a" 0x3823
 		{Position -3588.22 -325.91}
 		{xform zl 0.51 scale 1.317}
-		{Constrain zero}
 		{TexMod "1"}
 	}
 	{Entity "hedge2a" 0x3824
@@ -33795,12 +33758,10 @@
 	{Entity "sandbag3" 0x2268
 		{Position -3701.42 -675.96}
 		{xform zl 179.77}
-		{Constrain zero}
 	}
 	{Entity "sandbag3" 0x2269
 		{Position -3733.21 -675.57}
 		{xform zl 179.77}
-		{Constrain zero}
 	}
 	{Entity "cracked_mud" 0x427b
 		{Position -3344.31 -786.09}
@@ -33863,7 +33824,6 @@
 	{Entity "house_floorpav2" 0x2277
 		{Position -3724.5 -648.77}
 		{xform zl -1.17}
-		{Constrain zero}
 	}
 	{Entity "border_reich2" 0x705f
 		{Position -3827.42 -672.24}
@@ -33883,7 +33843,6 @@
 	{Entity "border_reich2" 0x7063
 		{Position -3763.77 -522.14}
 		{xform zl 90.24}
-		{Constrain zero}
 		{DecalOrder 2}
 	}
 	{Entity "border_reich2" 0x7067
@@ -33914,11 +33873,11 @@
 		{xform zl -107.94}
 	}
 	{Entity "sandbag" 0x2896
-		{Position -3914.37 -669.27 27}
+		{Position -3914.37 -669.27}
 		{xform zl -88.99}
 	}
 	{Entity "sandbag" 0x289a
-		{Position -4100.04 -616.84 26}
+		{Position -4100.04 -616.84}
 		{xform zl 44.82}
 	}
 	{Entity "barrel_woods6" 0x2279
@@ -33930,11 +33889,11 @@
 		{xform zl -15.95}
 	}
 	{Entity "sandbag" 0x7110
-		{Position -3790.62 -628.87 27}
+		{Position -3790.62 -628.87}
 		{xform zl 89.89}
 	}
 	{Entity "sandbag" 0x7111
-		{Position -3795.96 -548 27}
+		{Position -3795.96 -548}
 		{xform zl 89.89}
 	}
 	{Entity "pool_benz" 0x4c43
@@ -33945,7 +33904,6 @@
 	{Entity "coaster_ship_crate3" 0x2c6e
 		{Position -3790.55 -688.97}
 		{xform zl -5.5}
-		{Constrain zero}
 		{Color 0xffffe1d0}
 	}
 	{Entity "hedge2a" 0x227b
@@ -34242,7 +34200,6 @@
 	{Entity "town_border7bed1a" 0x229c
 		{Position -3752.45 -328.73}
 		{xform zl -179.06}
-		{Constrain zero}
 	}
 	{Entity "bsh135_c1_1" 0x229d
 		{Impregnability full}
@@ -51981,7 +51938,7 @@
 		{xform zl -175.4 y 20.63 zw -95.28}
 	}
 	{Entity "border_cobble_01a" 0x17d1
-		{Position -3080.75 1717.29}
+		{Position -3080.75 1717.29 -1.28}
 		{xform zl -175.4 y 20.63 zw 174.39}
 	}
 	{Entity "border_cobble_01a" 0x17d2

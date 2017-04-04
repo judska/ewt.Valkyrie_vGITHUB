@@ -29508,10 +29508,9 @@
 		{xform zl 2.09}
 	}
 	{Entity "flag_point_1" 0x2a7
-		{Position -2875.64 -2603}
+		{Position -2875.05 -2667}
 		{Skeleton
 			{MtlParams
-				{"parallax scale" "0.04"}
 				{"specular color" "e6e6e6ff"}
 			}
 		}
@@ -29534,7 +29533,6 @@
 		{Position -634.45 -1588.99}
 		{Skeleton
 			{MtlParams
-				{"parallax scale" "0.04"}
 				{"specular color" "e6e6e6ff"}
 			}
 		}
@@ -29554,10 +29552,9 @@
 		{MID 10007}
 	}
 	{Entity "flag_point_3" 0x4068
-		{Position -5173.73 -1698.93 169.52}
+		{Position -5167.46 -1664.39 168.89}
 		{Skeleton
 			{MtlParams
-				{"parallax scale" "0.04"}
 				{"specular color" "e6e6e6ff"}
 			}
 		}
@@ -29577,10 +29574,9 @@
 		{MID 10006}
 	}
 	{Entity "flag_point_4" 0x4069
-		{Position -545.82 -3699.9}
+		{Position -562.52 -3654.64}
 		{Skeleton
 			{MtlParams
-				{"parallax scale" "0.04"}
 				{"specular color" "e6e6e6ff"}
 			}
 		}
@@ -29600,10 +29596,9 @@
 		{MID 10009}
 	}
 	{Entity "flag_point_5" 0x406a
-		{Position -5091.52 -4014.39 46.92}
+		{Position -5102.8 -3857.94 46.92}
 		{Skeleton
 			{MtlParams
-				{"parallax scale" "0.04"}
 				{"specular color" "e6e6e6ff"}
 			}
 		}

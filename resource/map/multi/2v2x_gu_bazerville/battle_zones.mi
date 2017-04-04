@@ -1,6 +1,6 @@
 {mission
 	{Entity "flag_point_4" 0xc001
-		{Position 1062.36 -1154.39}
+		{Position 1170.45 -561.64}
 		{xform scale 0.75}
 		{Skeleton
 			{MtlParams
@@ -84,7 +84,7 @@
 		{MID 18}
 	}
 	{Entity "flag_point_5" 0xc002
-		{Position -917.55 1223.27}
+		{Position -1018.94 778.31}
 		{xform scale 0.75}
 		{Skeleton
 			{MtlParams
@@ -238,12 +238,12 @@
 	{Tags "keep_places_without_door" 0xf40}
 	{Tags "keep_places_without_door" 0xf7d}
 	{Tags "keep_places_without_door" 0xf80}
-	{Environment "single/1/7-hunting_night"}
+	{Environment "single/1/6-sevastopol"}
 	{Helpers
 		{reinforcements
 			{scoreTotal 0}
 			{scoreCurrent 0}
 		}
 	}
-	{Fog 1}
+	{Fog 0}
 }

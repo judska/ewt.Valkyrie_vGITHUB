@@ -114,7 +114,7 @@
 		{MID 16}
 	}
 	{Entity "flag_point_1" 0x8000
-		{Position 29.2 -79.23}
+		{Position 33.48 -31.73}
 		{Skeleton
 			{MtlParams
 				{"specular color" "e6e6e6ff"}
@@ -136,7 +136,7 @@
 		{MID 1}
 	}
 	{Entity "flag_point_2" 0x8001
-		{Position -3125.42 78.74}
+		{Position -3125.43 -40.47}
 		{Skeleton
 			{MtlParams
 				{"specular color" "e6e6e6ff"}
@@ -158,7 +158,7 @@
 		{MID 2}
 	}
 	{Entity "flag_point_3" 0x8002
-		{Position 3188.99 -58.55}
+		{Position 3207.03 -45.95}
 		{Skeleton
 			{MtlParams
 				{"specular color" "e6e6e6ff"}
@@ -180,7 +180,7 @@
 		{MID 3}
 	}
 	{Entity "flag_point_4" 0x8003
-		{Position 3233.75 -2247.81}
+		{Position 1408.08 -839.55}
 		{Skeleton
 			{MtlParams
 				{"specular color" "e6e6e6ff"}
@@ -202,7 +202,7 @@
 		{MID 4}
 	}
 	{Entity "flag_point_5" 0x8004
-		{Position -990.28 1871.27}
+		{Position 1412.83 766.24}
 		{Skeleton
 			{MtlParams
 				{"specular color" "e6e6e6ff"}
@@ -224,7 +224,7 @@
 		{MID 5}
 	}
 	{Entity "flag_point_6" 0x8005
-		{Position -3089 2067.59}
+		{Position -1325.3 756.6}
 		{Skeleton
 			{MtlParams
 				{"specular color" "e6e6e6ff"}
@@ -246,7 +246,7 @@
 		{MID 6}
 	}
 	{Entity "flag_point_7" 0x8006
-		{Position 1131.85 -2005.06}
+		{Position -1328.05 -773.88}
 		{Skeleton
 			{MtlParams
 				{"specular color" "e6e6e6ff"}
@@ -288,6 +288,7 @@
 	{Tags "keep_places_without_door" 0x137f}
 	{Tags "keep_places_without_door" 0x175b}
 	{Tags "keep_places_without_door" 0x4841}
+	{Tags "keep_places_without_door" 0x1e1a}
 	{Environment "single/2/1-crete"}
 	{Helpers
 		{reinforcements
@@ -295,5 +296,5 @@
 			{scoreCurrent 0}
 		}
 	}
-	{Fog 1}
+	{Fog 0}
 }
