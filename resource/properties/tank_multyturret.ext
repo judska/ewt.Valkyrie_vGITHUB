@@ -1,7 +1,6 @@
 ;SDL
 
 (include "tank.ext")
-(include "vehicle.ext")
 ("tracks")
 {sensor
 	{visor "main"
