@@ -938,7 +938,7 @@
 	{Entity "palm_bush2" 0x40b0
 		{Position -3950.43 -3.93}
 		{xform zl 38.96}
-		{TexMod "burned"}
+		{TexMod "bare"}
 		{Volume "crown"
 			{able {visible 0}}
 		}
@@ -957,7 +957,7 @@
 	{Entity "palm_bush2" 0x40b3
 		{Position -3952.25 -7.1}
 		{xform zl -53.55}
-		{TexMod "burned"}
+		{TexMod "bare"}
 		{Volume "crown"
 			{able {visible 0}}
 		}
@@ -4557,24 +4557,24 @@
 		{Color 0xffffe2ff}
 	}
 	{Entity "r_side_piece4" 0x2c4
-		{Position -1210.36 3864.64 -37.51}
+		{Position -1210.36 3864.64 -38.51}
 		{xform zl 147.24}
 	}
 	{Entity "r_side_piece7" 0x2d0
-		{Position -1203.06 3838.46 -36.46}
+		{Position -1203.06 3838.46 -37.46}
 	}
 	{Entity "stone3" 0x2d1
-		{Position -1155.55 3827.6 -52.17}
+		{Position -1155.55 3827.6 -53.6}
 		{TexMod "1"}
 	}
 	{Entity "stone_af1g" 0x2d2
-		{Position -1190.88 3800.24 -38.06}
+		{Position -1190.88 3800.24 -39.06}
 	}
 	{Entity "sand_dark" 0x2d3
 		{Position -1773.83 4750.36}
 	}
 	{Entity "sand_dark2big" 0x2d4
-		{Position -1123.59 3711.4 -38.34}
+		{Position -1123.59 3711.4 -39.34}
 		{Color 0xffffffa8}
 	}
 	{Entity "sand_light" 0x2d6
@@ -4586,7 +4586,7 @@
 		{Color 0xfffffff1}
 	}
 	{Entity "bush8a" 0x2f7
-		{Position -1201.35 3873.09 -39.13}
+		{Position -1201.35 3873.09 -40.13}
 		{xform zl 128.35 scale 0.543}
 		{Color 0xffd9adec}
 	}
@@ -8533,176 +8533,18 @@
 		{Position -2025 2833.86}
 		{xform zl -27.17}
 	}
-	{Entity "sand_dark" 0x600e
-		{Position -1318.97 3164.81}
-		{xform zl -142.06}
-	}
-	{Entity "bamboo" 0x600f
-		{Position -1386.6 3154.94}
-		{xform zl -65.13}
-		{TexMod "1"}
-	}
-	{Entity "stone3" 0x6010
-		{Position -1363.67 3190.26 -58.49}
-		{xform zl -142.06}
-		{TexMod "1"}
-	}
-	{Entity "new_bush1" 0x6011
-		{Position -1332.12 3246.58}
-		{xform zl -38.04 scale 1.194}
-		{TexMod "3"}
-	}
-	{Entity "bamboo" 0x6017
-		{Position -1284.58 3145.17}
-		{xform zl -65.13 scale 1.28}
-		{TexMod "1"}
-	}
-	{Entity "palm1_a" 0x6018
-		{Position -1336 3133.06}
-		{xform zl 113.47 scale 1.753}
-		{TexMod "autlate"}
-		{Volume "crown"
-			{able {visible 0}}
-		}
-	}
-	{Entity "stone_af1g" 0x6019
-		{Position -1343.66 3310.9 -52.05}
-		{xform zl -142.06}
-	}
-	{Entity "stone_af1g" 0x601a
-		{Position -1176.37 3130.62}
-		{xform zl 149.39}
-	}
-	{Entity "bamboo" 0x601b
-		{Position -1290.44 3279.51}
-		{xform zl -65.13}
-		{TexMod "1"}
-	}
-	{Entity "bamboo" 0x601c
-		{Position -1134.2 3088.39}
-		{xform zl -65.13}
-		{TexMod "1"}
-	}
-	{Entity "palm1_a" 0x601d
-		{Position -1463.25 3462.69}
-		{xform zl 94.04 scale 1.973}
-		{TexMod "autlate"}
-		{Volume "crown"
-			{able {visible 0}}
-		}
-	}
-	{Entity "sand_dark" 0x601e
-		{Position -1417.59 3384.5}
-		{xform zl -142.06}
-	}
-	{Entity "bamboo" 0x601f
-		{Position -1190.65 3210.87 -53}
-		{xform zl -121.69 scale 1.453}
-		{TexMod "1"}
-	}
-	{Entity "palm1_a" 0x6021
-		{Position -1415.83 3392.26 -63.07}
-		{xform zl 113.47 scale 1.396}
-		{TexMod "autlate"}
-		{Volume "crown"
-			{able {visible 0}}
-		}
-	}
 	{Entity "stone_af1g" 0x6022
 		{Position -1020.06 3109.92}
 		{xform zl 129.78 y 8.73 zw -166.18}
-	}
-	{Entity "palm_bush2" 0x6023
-		{Position -1557.68 3542.99}
-		{xform zl -123.21}
-		{TexMod "1"}
-	}
-	{Entity "palm_bush2" 0x6024
-		{Position -1519.77 3515.69}
-		{xform zl 106.93 scale 0.883}
-	}
-	{Entity "bamboo" 0x6025
-		{Position -1570.14 3494.6}
-		{xform zl -65.13 scale 1.093}
-		{TexMod "1"}
-	}
-	{Entity "new_bush1" 0x6026
-		{Position -1327.43 3485.26}
-		{xform zl 142.49 scale 0.847}
-		{TexMod "3"}
-	}
-	{Entity "bamboo" 0x6027
-		{Position -1361.87 3504.8}
-		{xform zl -65.13 scale 1.33}
-		{TexMod "1"}
-	}
-	{Entity "bamboo" 0x6028
-		{Position -1516.79 3579.83}
-		{xform zl 16.09 scale 1.28}
-		{TexMod "1"}
-	}
-	{Entity "bamboo" 0x6029
-		{Position -1104.12 3116.36}
-		{xform zl -121.69 scale 1.29}
-		{TexMod "1"}
-	}
-	{Entity "palm_bush2" 0x602a
-		{Position -1222.88 2800.49}
-		{xform zl 71.46}
-	}
-	{Entity "palm1" 0x602b
-		{Position -1175.41 2849.92}
-		{xform zl 105.77 scale 1.037}
-		{Volume "crown"
-			{able {visible 0}}
-		}
-	}
-	{Entity "palm1" 0x602c
-		{Position -1204.01 2848.8}
-		{xform zl -33.82 scale 0.734}
-		{Volume "crown"
-			{able {visible 0}}
-		}
 	}
 	{Entity "palm_bush2" 0x602d
 		{Position -1261.41 2806.14}
 		{xform zl -118.91 scale 0.89}
 	}
-	{Entity "palm_bush2" 0x602e
-		{Position -1209.41 2873.25}
-		{xform zl -128.07 scale 0.813}
-	}
-	{Entity "sand_dark" 0x3000
-		{Position -981.88 2742.18}
-		{xform zl 96.45}
-	}
-	{Entity "bamboo" 0x3001
-		{Position -954.97 2805.01}
-		{xform zl 173.38}
-		{TexMod "1"}
-	}
-	{Entity "stone3" 0x3002
-		{Position -922.19 2787.54 -49.15}
-		{xform zl -72.38}
-		{TexMod "1"}
-	}
 	{Entity "new_bush1" 0x3003
 		{Position -1179.94 2510.21}
 		{xform zl -159.53 scale 1.194}
 		{TexMod "3"}
-	}
-	{Entity "bamboo" 0x3004
-		{Position -1016.59 2723.12}
-		{xform zl 173.38 scale 1.28}
-		{TexMod "1"}
-	}
-	{Entity "palm1_a" 0x3005
-		{Position -1000.06 2773.29}
-		{xform zl -8.02 scale 1.753}
-		{TexMod "autlate"}
-		{Volume "crown"
-			{able {visible 0}}
-		}
 	}
 	{Entity "stone_af1g" 0x3006
 		{Position -1085.52 2638.44}
@@ -8727,10 +8569,6 @@
 		{Position -1135.42 2584.28}
 		{xform zl 116.82 scale 1.29}
 		{TexMod "1"}
-	}
-	{Entity "stone_af1g" 0x3012
-		{Position -891.24 2712.29}
-		{xform zl -88.47 y 9.09 zw 56.36}
 	}
 	{Entity "stone_af" 0x3013
 		{Position -1217.83 1500.14 0.03}
@@ -21451,19 +21289,10 @@
 			{able {visible 0}}
 		}
 	}
-	{Entity "rock02" 0x4624
-		{Position -3624.44 1981.39}
-		{xform zl 63.02 scale 1.243}
-		{TexMod "2"}
-	}
 	{Entity "bush8" 0x4625
 		{Position -3575.31 2093.49}
 		{xform zl 29.68 scale 0.586}
 		{TexMod "autlate"}
-	}
-	{Entity "rock02" 0x4626
-		{Position -3725.81 2061.78}
-		{xform zl -18.88 scale 1.034}
 	}
 	{Entity "rock05" 0x4627
 		{Position -3703.27 2287.96}
@@ -21505,14 +21334,6 @@
 		{xform zl -163.54}
 		{DecalOrder 5}
 	}
-	{Entity "new_bush1a" 0x462e
-		{Position -3647.67 2139.03}
-		{xform zl -42.49}
-		{TexMod "burned"}
-		{Volume "crown"
-			{able {visible 0}}
-		}
-	}
 	{Entity "rock02" 0x462f
 		{Position -3675.14 1668.42}
 		{xform zl 152.86 scale 1.243}
@@ -21534,16 +21355,6 @@
 	{Entity "stone_af1a" 0x4633
 		{Position -3556.6 2067.11}
 		{xform zl -97.18}
-	}
-	{Entity "stone_landslip" 0x4634
-		{Position -3786.68 2121.56 5.51}
-		{xform zl -127.51}
-		{TexMod "2"}
-	}
-	{Entity "stone_landslip" 0x4635
-		{Position -3808.77 1967.83 49.99}
-		{xform zl 60.67}
-		{TexMod "2"}
 	}
 	{Entity "stone_af1a" 0x4636
 		{Position -2376.59 2725.95 -21.21}
@@ -33094,6 +32905,14 @@
 	}
 	{Entity "burn_grass1" 0xd4e
 		{Position -3902.54 -80.08 97.49}
+	}
+	{Entity "burn_grass1" 0xd4f
+		{Position -3964.34 103.52}
+		{SpawnedInFog}
+	}
+	{Entity "burn_grass1" 0xd50
+		{Position -3959.89 45.46}
+		{SpawnedInFog}
 	}
 	{Link 0x4014 {0x405c "c1_502"}}
 	{Link 0x402c {0x405c "w2_502"}}
