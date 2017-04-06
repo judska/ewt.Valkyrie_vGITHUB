@@ -124,7 +124,7 @@
 
 (define "rifle"
     {tags   "rifle %side infantry man"}
-    {cp     2.0}
+    {cp     2.5}
     {score  10.00}
     {basic}
     {breed}
