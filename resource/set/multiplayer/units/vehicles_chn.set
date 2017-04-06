@@ -16,7 +16,7 @@
 ;같캛utton 2같�
 
 {"m17_stan"             ("vs" c(300) t(all cannon) 	        s(chn) n(2) g(c1) sc(90.00) b(v2) cw(2) cp(5)) {level 1} {cost 90} {fore 1.0}}
-{"zpu-4"                ("vs" c(0) t(all cannon)	        s(chn) n(2) g(c3) sc(170.00)  b(v2) cw(2) cp(5)) {level 1} {cost 170} {fore 1.0}}
+{"zpu-4"                ("vs" c(0) t(all cannon)	        s(chn) n(2) g(c3) sc(150.00)  b(v2) cw(2) cp(5)) {level 1} {cost 150} {fore 1.0}}
 {"sgrw42_chn"           ("vs" c(0) t(all cannon mediumcan)	s(chn) n(2) g(c4) sc(280.00) b(v2) cw(2) cp(5)) {level 1} {cost 280} {fore 1.0}}
  
 {"pak35_chn"            ("vs" c(0) t(all cannon)	        s(chn) n(2) g(c5) sc(100.00) b(v2) cw(2) cp(5)) {level 1} {cost 100} {fore 1.0}}
@@ -32,7 +32,7 @@
  	
 {"ba-6"             ("v" c(150) t(all light) 		s(chn) n1(3) n2(2) g(d6) sc(170.00) b(v3) cw(0) cp(5)) {level 1} {cost 170} {fore 0}}
 {"bt5_chn"          ("v" c(150) t(all light) 		s(chn) n1(2) n2(1) g(d5) sc(180.00) b(v3) cw(0) cp(5)) {level 1} {cost 180} {fore 0.4}}
-{"amr35-13mm_chn"   ("v" c(180) t(all light) 		s(chn) n1(1) n2(1) g(d4) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0.4}}
+{"amr35-13mm_chn"   ("v" c(180) t(all light) 		s(chn) n1(1) n2(1) g(d4) sc(190.00) b(v3) cw(0) cp(5)) {level 1} {cost 190} {fore 0.4}}
  
 {"sdkfz222a"        ("v" c(180) t(all light) 		s(chn) n1(1) n2(1) g(d4) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0}}      
 {"m5a1_chn"         ("v" c(150) t(all light) 		s(chn) n1(4) n2(1) g(d8) sc(280.00) b(v3) cw(0) cp(5)) {level 1} {cost 280} {fore 1.0}} 	  
@@ -46,6 +46,7 @@
 
 ;같캛utton 5같�
 
+{"t-26_td_custom"  ("v" c(0) t(all medium) 		     s(chn) n1(4) n2(1) g(f1) sc(225.00) b(v5) cw(0) cp(5)) {level 1} {cost 225} {fore 1.0}}
 {"m18_chn"         ("v" c(0) t(all medium) 		     s(chn) n1(4) n2(1) g(f1) sc(475.00) b(v5) cw(0) cp(10)) {level 1} {cost 475} {fore 1.0}} 	
 
 

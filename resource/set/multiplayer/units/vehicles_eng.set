@@ -33,13 +33,13 @@
 
 ;같캛utton 3같�
 
-{"humber"           ("v" c(150) t(all light) 		s(eng) n1(2) n2(1) g(d4) sc(230.00) b(v3) cw(0) cp(5)) {level 5} {cost 230} {fore 0}}
 {"mk7"              ("v" c(150) t(all light) 		s(eng) n1(3) n2(1) g(d1) sc(230.00) b(v3) cw(0) cp(5)) {level 1} {cost 230} {fore 0.6}}
+{"humber"           ("v" c(150) t(all light) 		s(eng) n1(2) n2(1) g(d4) sc(240.00) b(v3) cw(0) cp(5)) {level 5} {cost 240} {fore 0.2}}
 {"mk2daimler"       ("v" c(150) t(all light) 		s(eng) n1(2) n2(1) g(d2) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0.4}}
 
 {"crusaderi"        ("v" c(150) t(all light) 		s(eng) n1(3) n2(1) g(d4) sc(245.00) b(v3) cw(0) cp(5)) {level 1} {cost 245} {fore 1.0}}	
-{"crusaderaa2"      ("v" c(150) t(all light) 		s(eng) n1(2) n2(1) g(d4) sc(300.00) b(v3) cw(0) cp(5)) {level 5} {cost 300} {fore 0}}
-{"crusaderaa1"      ("v" c(150) t(all medium) 		s(eng) n1(3) n2(1) g(d4) sc(380.00) b(v3) cw(0) cp(15)) {level 10} {cost 380} {fore 0}}
+{"crusaderaa2"      ("v" c(180) t(all light) 		s(eng) n1(2) n2(1) g(d4) sc(300.00) b(v3) cw(0) cp(5)) {level 5} {cost 300} {fore 0}}
+{"crusaderaa1"      ("v" c(210) t(all medium) 		s(eng) n1(3) n2(1) g(d4) sc(380.00) b(v3) cw(0) cp(15)) {level 10} {cost 400} {fore 0}}
 
 
 ;같캛utton 4같�

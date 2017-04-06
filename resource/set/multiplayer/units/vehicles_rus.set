@@ -76,7 +76,7 @@
 
 {"hero4_rus"        ("v1" c(240) c1(gaz67)       t(all hero) s(rus) n1(sniper2:2) n2(tankman2:0) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero5_rus"        ("i3" c(240)			     t(all hero) s(rus) n1(elite4:4) n2(elite5:2) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
-{"hero6_rus"        ("i2" c(240) 		         t(all hero) s(rus) n1(squadleader:1) n2(rifle3:24) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"hero6_rus"        ("i2" c(240) 		         t(all hero) s(rus) n1(squadleader:1) n2(rifle3:19) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 
 {"hero7_rus"        ("2v" c(480) c1(t20) c2(bs3) t(all hero) s(rus) n1(vehicle_supporter:2) n2(vehicle_supporter:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero8_rus"        ("i2" c(480)		         t(all hero) s(rus) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
