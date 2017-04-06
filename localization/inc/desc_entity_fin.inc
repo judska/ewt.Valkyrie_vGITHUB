@@ -43,4 +43,4 @@
 		{"maxim_ind" "Maxim"} 
 		{"itk31" "76 ItK/31 BK"} 
 		{"t34_41_fin" "T-34 1941 mod"}
-		{"t34_41_fin" "T-34 1942 mod"}
+		{"t34_42_fin" "T-34 1942 mod"}

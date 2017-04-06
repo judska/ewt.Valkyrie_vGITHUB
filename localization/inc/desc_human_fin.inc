@@ -7,17 +7,17 @@
 				{"bazooker" "<c(c3baae)>AT infantry"}
 				{"bazooker2" "<c(c3baae)>AT support infantry"}
 				{"elite" "<c(c3baae)>kaukopartio jaeger"}
-                                {"elite_at" "<c(c3baae)>kaukopartio jaeger"}
+                {"elite_at" "<c(c3baae)>kaukopartio jaeger"}
 				{"elite_at2" "<c(c3baae)>toerni detatchment AT infantry"}
 				{"elite_sniper" "<c(c3baae)>toerni detatchment sniper"}
 				{"elite2" "<c(c3baae)>kaukopartio jaeger"}
-                                {"elite3" "<c(c3baae)>kaukopartio jaeger"}
+                {"elite3" "<c(c3baae)>kaukopartio jaeger"}
 				{"elite4" "<c(c3baae)>trench cleaner"}
-                                {"elite5" "<c(c3baae)>trench cleaner"}
+                {"elite5" "<c(c3baae)>trench cleaner"}
 				{"elite6" "<c(c3baae)>trench cleaner"}
-                                {"elite7" "<c(c3baae)>toerni detatchment jaeger"}
+                {"elite7" "<c(c3baae)>toerni detatchment jaeger"}
 				{"elite8" "<c(c3baae)>toerni detatchment jaeger"}
-                                {"elite9" "<c(c3baae)>toerni detatchment machine gunner"}
+                {"elite9" "<c(c3baae)>toerni detatchment machine gunner"}
 				{"flamer" "<c(c3baae)>flamethrower infantry"}
 				{"flamer2" "<c(c3baae)>flamethrower support infantry"}
 				{"home_guard" "<c(c3baae)>reservist"}
@@ -27,7 +27,7 @@
 				{"mgun2" "<c(c3baae)>polish volunteer"}
 				{"mgun3" "<c(c3baae)>swedish volunteer"}
 				{"oficer" "<c(c3baae)>officer"}		
-                                {"radioman" "<c(c3baae)>radio operator"}
+                {"radioman" "<c(c3baae)>radio operator"}
 				{"rifle" "<c(c3baae)>rifleman"}
 				{"rifle2" "<c(c3baae)>assault rifleman"}
 				{"rifle3" "<c(c3baae)>swedish voulenteer"}
@@ -37,8 +37,8 @@
 				{"smg3" "<c(c3baae)>demolition specialist"}
 				{"smg4" "<c(c3baae)>swedish voulenteer"}
 				{"smg5" "<c(c3baae)>swedish voulenteer"}
-                                {"sniper" "<c(c3baae)>sniper"}
-                                {"sniper2" "<c(c3baae)>white death"}
+                {"sniper" "<c(c3baae)>sniper"}
+                {"sniper2" "<c(c3baae)>white death"}
 				{"sturmovik" "<c(c3baae)>border jaeger"}
 				{"sturmovik2" "<c(c3baae)>border jaeger"}
 				{"sturmovik3" "<c(c3baae)>border jaeger"}
@@ -49,8 +49,8 @@
 				{"sturmovik6" "<c(c3baae)>border jaeger"}
 				{"sturmovik6b" "<c(c3baae)>border jaeger"}
 				{"sturmovik7" "<c(c3baae)>border jaeger"}
-                                {"sturmovik7b" "<c(c3baae)>border jaeger"}
-                                {"squadleader" "<c(c3baae)>squad leader"}
+                {"sturmovik7b" "<c(c3baae)>border jaeger"}
+                {"squadleader" "<c(c3baae)>squad leader"}
 				{"squadleader2" "<c(c3baae)>assault squad leader"}
 				{"tankman" "<c(c3baae)>tank crew"}
 				{"tankman2" "<c(c3baae)>tank commander"}

@@ -47,3 +47,4 @@
 		{"amr35-13mm_chn" "AMR35 ZT 1-13mm"}
 		{"sgrw42_chn" "M1 mortar"}
 		{"zpu-4" "ZPU-4"}
+		{"t-26_td_custom" "AT-1"}

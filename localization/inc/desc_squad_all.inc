@@ -41,17 +41,17 @@
 		{"bazookers(ita)" "AT infantry"}
 		{"bazookers(chn)" "AT infantry"}
 		{"bazookers(anz)" "AT infantry"}
-		{"defenders(eng)" "Defender infantry"}
-		{"defenders(ger)" "Defender infantry"}
-		{"defenders(jap)" "Defender infantry"}
-		{"defenders(rus)" "Defender infantry"}
-		{"defenders(usa)" "Defender infantry"}
-		{"defenders(hun)" "Defender infantry"}
-		{"defenders(fra)" "Defender infantry"}
-		{"defenders(fin)" "Defender infantry"}
-		{"defenders(ita)" "Defender infantry"}
-		{"defenders(chn)" "Defender infantry"}
-		{"defenders(anz)" "Defender infantry"}
+		{"defenders(eng)" "Defense infantry"}
+		{"defenders(ger)" "Defense infantry"}
+		{"defenders(jap)" "Defense infantry"}
+		{"defenders(rus)" "Defense infantry"}
+		{"defenders(usa)" "Defense infantry"}
+		{"defenders(hun)" "Defense infantry"}
+		{"defenders(fra)" "Defense infantry"}
+		{"defenders(fin)" "Defense infantry"}
+		{"defenders(ita)" "Defense infantry"}
+		{"defenders(chn)" "Defense infantry"}
+		{"defenders(anz)" "Defense infantry"}
 		{"elites(eng)" "Commandos"}
 		{"elites(ger)" "Paratroopers"}
 		{"elites(jap)" "Paratroopers"}
@@ -375,11 +375,11 @@
 
         {"hero1_hun" "Csaba 39M"}
 		{"hero2_hun" "Calarasi"}
-		{"hero3_hun" "PzKpfw IV Ausf.D"}
-		{"hero4_hun" "Szent Laszlo Infantry"}
-		{"hero5_hun" "Arrow Cross Fanatics"}
-		{"hero6_hun" "SdKfz 250/9"}
-		{"hero7_hun" "Hetzer!"}
+		{"hero3_hun" "Szent Laszlo Infantry"}
+		{"hero4_hun" "Arrow Cross Fanatics"}
+		{"hero5_hun" "SdKfz 250/9"}
+		{"hero6_hun" "Hetzer!"}
+		{"hero7_hun" "Turan 2"}
 		{"hero8_hun" "Rapid Corps"}
 		{"hero9_hun" "Radio Operator"}		
         {"hero10_hun" "15 cm sIG 33"}

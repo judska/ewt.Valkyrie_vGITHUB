@@ -21,6 +21,7 @@
 		{"amr35-13mm" "AMR35 ZT 1-13mm"}
 		{"panhard" "Panhard 178"}
 		{"r35" "Renault R-35"}
+		{"r35_anz" "Renault R-35"}
 		{"h39" "Hotchkiss H-39"}
 		{"d2" "Char D2"}
 		{"s35" "Somua S-35"}
