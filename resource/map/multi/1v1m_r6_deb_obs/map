@@ -168,7 +168,7 @@
 		{xform zl -90.46}
 	}
 	{Entity "railroad5" 0x5006
-		{Position 29.06 3423.63}
+		{Position 29.06 3423.63 69}
 		{xform zl -90.46}
 	}
 	{Entity "railroad5" 0x5012
@@ -234,15 +234,15 @@
 		{xform zl 73.97}
 	}
 	{Entity "railroad5" 0x80e
-		{Position 127.49 4057.96}
+		{Position 127.49 4057.96 70}
 		{xform zl -90.46}
 	}
 	{Entity "railroad5" 0x80f
-		{Position 129.59 4319.21}
+		{Position 129.59 4319.21 70}
 		{xform zl -90.46}
 	}
 	{Entity "railroad5" 0x810
-		{Position 131.69 4580.46}
+		{Position 131.69 4580.46 70}
 		{xform zl -90.46}
 	}
 	{Entity "railroad5" 0x811
@@ -346,7 +346,7 @@
 	}
 	{Entity "dirt_road1" 0x2e
 		{Position 1681.78 -98.08}
-		{xform zl -127.81 zw -136.83}
+		{xform zl 95.36}
 		{Constrain surface}
 		{TexMod "1"}
 	}
@@ -476,7 +476,7 @@
 	}
 	{Entity "dirt_road2" 0x4e
 		{Position 227.46 3299.64}
-		{xform zl 62.13 y 3.41 zw 83.53}
+		{xform zl 145.7}
 		{Constrain surface}
 		{TexMod "1"}
 	}
@@ -498,7 +498,7 @@
 	}
 	{Entity "dirt_road1" 0x52
 		{Position -1254.46 4631.71}
-		{xform zl -83.95 zw 24.26}
+		{xform zl -59.69}
 		{Constrain surface}
 		{TexMod "1"}
 	}
@@ -531,7 +531,7 @@
 		{TexMod "1"}
 	}
 	{Entity "dirt_road2" 0x59
-		{Position 1331.89 3881.43 105.76}
+		{Position 1331.89 3881.43 107.84}
 		{xform zl -161.98}
 		{TexMod "1"}
 	}
@@ -1052,7 +1052,7 @@
 	}
 	{Entity "stone_af1d" 0x409c
 		{Position -2480.87 2625.07}
-		{xform zl -66.13 zw 178.59}
+		{xform zl 112.46}
 		{Constrain surface}
 	}
 	{Entity "stone_af1f" 0x409e
@@ -1541,7 +1541,7 @@
 	}
 	{Entity "cane2" 0x75
 		{Position 582.8 2608.98}
-		{xform zl 99.8 zw 152.63 scale 0.847}
+		{xform zl -107.57 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x76
@@ -1555,7 +1555,7 @@
 	}
 	{Entity "cane2" 0x77
 		{Position 745.69 2544.54}
-		{xform zl 95.86 zw 34.94 scale 0.847}
+		{xform zl 130.8 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x78
@@ -2463,7 +2463,7 @@
 	}
 	{Entity "cane2" 0x187
 		{Position 1809.1 2314.75}
-		{xform zl -51.65 zw -86.61 scale 0.847}
+		{xform zl -138.26 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x188
@@ -2650,7 +2650,7 @@
 	}
 	{Entity "cane2" 0x1ab
 		{Position 578.04 2131.67}
-		{xform zl 124.39 zw 12.98 scale 0.847}
+		{xform zl 137.37 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x1ac
@@ -3939,7 +3939,7 @@
 	}
 	{Entity "ash_tree_bush2" 0x322
 		{Position -2235.51 1387.09}
-		{xform zl 50.99 zw 39.1 scale 0.813}
+		{xform zl 90.09 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x323
@@ -4727,7 +4727,7 @@
 	}
 	{Entity "cane2" 0x1017
 		{Position -2584.96 3612.38}
-		{xform zl 39.72 zw -104.55 scale 0.847}
+		{xform zl -64.83 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x1019
@@ -4747,7 +4747,7 @@
 	}
 	{Entity "cane2" 0x101c
 		{Position -2565.97 3586.21}
-		{xform zl -118.13 zw -108.25 scale 0.847}
+		{xform zl 133.62 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x101d
@@ -4946,7 +4946,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x1055
 		{Position -743.75 3036.02}
-		{xform zl -43.32 zw -160.66}
+		{xform zl 156.02}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x1056
@@ -5076,7 +5076,7 @@
 	}
 	{Entity "ash_tree_bush2" 0x1075
 		{Position -2538.95 3453.86}
-		{xform zl -142.03 zw 170.61}
+		{xform zl 28.58}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x1076
@@ -5648,7 +5648,7 @@
 		{xform zl -23.71 scale 0.913}
 	}
 	{Entity "crash_stone2" 0x10f7
-		{Position -2433.23 2662.6 -0.62}
+		{Position -2433.23 2662.6}
 		{DecalOrder 1}
 	}
 	{Entity "crash_stone2" 0x10f8
@@ -6310,7 +6310,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x43e
 		{Position -631.52 2629.63}
-		{xform zl -156.24 zw -106.54}
+		{xform zl 97.22}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x43f
@@ -6729,7 +6729,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x417a
 		{Position 745.75 2539.39}
-		{xform zl 134.31 zw 62.01}
+		{xform zl -163.68}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x417b
@@ -6830,12 +6830,12 @@
 	}
 	{Entity "ash_tree_bush1" 0x4190
 		{Position 1140.68 3678.62}
-		{xform zl 65.44 y 5.69 zw -84.93}
+		{xform zl 47.41 y 6.12 zw -66.73}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4191
 		{Position 1175.88 3707.33}
-		{xform zl 140.25 y 4.64 zw -35.74}
+		{xform zl 157.5 y 3.15 zw -53.1}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4192
@@ -6848,7 +6848,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x4194
 		{Position 956.43 3463.02}
-		{xform zl -103.95 y 5.16 zw -179.93}
+		{xform zl -160.3 y 3.1 zw -123.69}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4195
@@ -6939,7 +6939,7 @@
 		{xform zl 101.58}
 	}
 	{Entity "petals" 0x41a9
-		{Position 994.31 3389.41 76.91}
+		{Position 994.31 3389.41 76.36}
 		{xform zl 37.86}
 	}
 	{Entity "petals" 0x41aa
@@ -6947,12 +6947,12 @@
 		{xform zl 37.86}
 	}
 	{Entity "petals" 0x41ab
-		{Position 1021.54 3563.24 76.98}
+		{Position 1021.54 3563.24 77.98}
 		{xform zl 37.86}
 	}
 	{Entity "petals" 0x41ac
 		{Position 893.2 3384.82}
-		{xform zl -143.45 y 4.42 zw -178.72}
+		{xform zl -168.85 y 0.82 zw -153.26}
 		{Constrain surface}
 	}
 	{Entity "petals" 0x41ad
@@ -7017,7 +7017,7 @@
 	}
 	{Entity "new_birch" 0x41c1
 		{Position 1027.41 3587.55}
-		{xform zl -83.78 y 11.08 zw 140.62 scale 1.207}
+		{xform zl 139.04 y 6.12 zw -82.64 scale 1.207}
 		{Constrain surface}
 	}
 	{Entity "new_birch" 0x41c2
@@ -7041,62 +7041,62 @@
 	}
 	{Entity "cane2" 0x41c8
 		{Position 971.59 3574.8}
-		{xform zl -98.63 y 8.96 zw 135.6 scale 0.847}
+		{xform zl 82.64 y 8.05 zw -45.02 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41c9
-		{Position 943.63 3553.19 71}
-		{xform zl 24.5 y 8.92 zw 54.27 scale 0.847}
+		{Position 943.63 3553.19 81.73}
+		{xform zl 121.17 y 9.84 zw -42.76 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41ca
 		{Position 912.89 3535.41}
-		{xform zl -158.68 y 4.97 zw 179.63 scale 0.847}
+		{xform zl 71.33 y 5.59 zw -50.44 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41cb
 		{Position 890.68 3509.42}
-		{xform zl -56.05 y 3.82 zw 143.14 scale 0.847}
+		{xform zl 146.43 y 10.49 zw -59.29 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41cc
 		{Position 857.53 3478.44}
-		{xform zl -135.74 y 8.24 zw 156.23 scale 0.847}
+		{xform zl 120.67 y 6.99 zw -99.65 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41cd
 		{Position 841 3438.12}
-		{xform zl -37.24 y 8.05 zw 134.99 scale 0.847}
+		{xform zl -178.54 y 5.66 zw -83.92 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41ce
 		{Position 979.12 3606.28}
-		{xform zl -74.92 y 10.6 zw 150.92 scale 0.847}
+		{xform zl 132.93 y 6.8 zw -57.83 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41cf
 		{Position 835.29 3370.91}
-		{xform zl -167.24 y 6.89 zw -142.37 scale 0.847}
+		{xform zl -157.51 y 6.07 zw -151.88 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41d0
 		{Position 812.83 3343.63}
-		{xform zl -77.73 y 4.28 zw 169.16 scale 0.847}
+		{xform zl -88.52 y 5.71 zw 180 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41d1
 		{Position 786.8 3319.47}
-		{xform zl -133.73 y 10.81 zw 167.92 scale 0.847}
+		{xform zl -114.99 y 6.65 zw 149.03 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41d2
 		{Position 770.91 3289.2}
-		{xform zl -65.82 y 8.62 zw 165.36 scale 0.847}
+		{xform zl -78.96 y 6.1 zw 178.57 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41d3
 		{Position 745.47 3251.63}
-		{xform zl -130.95 y 11.03 zw 165.14 scale 0.847}
+		{xform zl -114.29 y 6.7 zw 148.38 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41d4
@@ -7106,7 +7106,7 @@
 	}
 	{Entity "cane2" 0x41d5
 		{Position 835.64 3403.28}
-		{xform zl -46.4 y 8.05 zw 135 scale 0.847}
+		{xform zl 177.98 y 5.71 zw -89.04 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x41d6
@@ -7385,7 +7385,7 @@
 	}
 	{Entity "cane2" 0x4240
 		{Position 2823.95 3454.2}
-		{xform zl -37.14 zw -8.15 scale 0.847}
+		{xform zl -45.29 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4241
@@ -7415,7 +7415,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x4260
 		{Position 2687.26 3604.18}
-		{xform zl 58.26 zw 0.08}
+		{xform zl 58.34}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4261
@@ -7555,7 +7555,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x4297
 		{Position 2130.7 3220.79}
-		{xform zl -27.52 zw 46.44}
+		{xform zl 18.92}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4298
@@ -7724,37 +7724,37 @@
 	}
 	{Entity "cane2" 0x42d1
 		{Position 1150.82 3741.36}
-		{xform zl 70.8 y 8.05 zw 135.03 scale 0.847}
+		{xform zl -108.62 y 8.05 zw -45.03 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x42d2
 		{Position 1182.5 3756.99}
-		{xform zl 111.38 y 7.93 zw 135.87 scale 0.847}
+		{xform zl -54.42 y 12.15 zw -59.15 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x42d3
 		{Position 1216.17 3768.33}
-		{xform zl -0.66 y 3.93 zw -169.84 scale 0.847}
+		{xform zl -131.23 y 11.94 zw -38.2 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x42d4
 		{Position 1243.08 3789.4}
-		{xform zl 5.14 y 3.69 zw -109.39 scale 0.847}
+		{xform zl -8.66 y 4.84 zw -95.56 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x42d5
 		{Position 1281.72 3813.19}
-		{xform zl -20.13 y 1.12 zw -150.47 scale 0.847}
+		{xform zl -52.94 y 2.1 zw -117.65 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x42d6
 		{Position 1337.71 3815.7}
-		{xform zl 163.77 y 8.96 zw -153.13 scale 0.847}
+		{xform zl 146.57 y 7.96 zw -135.71 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x42d7
 		{Position 1137.2 3711.98}
-		{xform zl 93.45 y 11.76 zw 151.3 scale 0.847}
+		{xform zl -32.76 y 7.11 zw -81.99 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x42d8
@@ -8462,7 +8462,7 @@
 	}
 	{Entity "ash_tree_bush2" 0x518
 		{Position -2704.63 2504.22}
-		{xform zl 15.26 zw -89.98}
+		{xform zl -74.72}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x519
@@ -10232,12 +10232,12 @@
 	}
 	{Entity "cane2" 0x6ca
 		{Position -118.39 3382.24}
-		{xform zl -75.69 y 7.31 zw 45.99 scale 0.847}
+		{xform zl -65.07 y 0.76 zw 35.28 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x6cb
 		{Position -149.18 3399.57}
-		{xform zl -30.19 y 3.71 zw 41.49 scale 0.847}
+		{xform zl -29.24 y 3.66 zw 40.53 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x6cc
@@ -10262,7 +10262,7 @@
 	}
 	{Entity "cane2" 0x6d0
 		{Position -86.45 3387.57}
-		{xform zl -107.84 y 4.84 zw 116.74 scale 0.847}
+		{xform zl -102.64 y 2.78 zw 111.54 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x435c
@@ -10297,7 +10297,7 @@
 	}
 	{Entity "cane2" 0x4362
 		{Position -520.03 3530.44}
-		{xform zl -175.83 y 5.71 zw -0.01 scale 0.847}
+		{xform zl -175.83 y 5.71 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x436a
@@ -11200,7 +11200,6 @@
 	}
 	{Entity "stone_af1d" 0x448e
 		{Position -2492.6 5238.08}
-		{xform zl 180 zw 180}
 		{Constrain surface}
 	}
 	{Entity "stone_af1e" 0x448f
@@ -11250,7 +11249,6 @@
 	}
 	{Entity "crash_stone2" 0x4498
 		{Position -2749.94 5252.94}
-		{xform zl -90.01 zw 90.01}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x4499
@@ -11268,7 +11266,7 @@
 	}
 	{Entity "crash_stone2" 0x449c
 		{Position -2381.06 5255.63}
-		{xform zl -82.52 zw 82.67}
+		{xform zl 0.15}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x449d
@@ -11292,7 +11290,7 @@
 	}
 	{Entity "crash_stone1" 0x44a0
 		{Position -2814.09 5248.85}
-		{xform zl 91.28 zw -90.01}
+		{xform zl 1.27}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
@@ -11846,7 +11844,7 @@
 		{xform zl 24.59}
 	}
 	{Entity "petals" 0x4557
-		{Position -2897.54 5051.49 215.99}
+		{Position -2897.54 5051.49}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x4558
@@ -12096,27 +12094,27 @@
 	}
 	{Entity "ground_clay5bx" 0x6d8
 		{Position 1465.18 5095.08}
-		{xform zl -118.25 y 15.86 zw -134.74}
+		{xform zl -117.93 y 15.65 zw -135.08}
 		{Constrain surface}
 	}
 	{Entity "ground_clay5x" 0x6d9
 		{Position 1451.15 4462.15}
-		{xform zl -123.47 y 20.42 zw -99.91}
+		{xform zl -113.23 y 15.9 zw -110.56}
 		{Constrain surface}
 	}
 	{Entity "ground_clay5x" 0x6da
 		{Position 1253.6 4599.5}
-		{xform zl -89.61 y 13.1 zw -120.7}
+		{xform zl -82.23 y 15.6 zw -128.41}
 		{Constrain surface}
 	}
 	{Entity "ground_clay5x" 0x6db
 		{Position 1064.69 4741.16}
-		{xform zl -86.73 y 13.47 zw -140.89}
+		{xform zl -104.72 y 10.56 zw -122.66}
 		{Constrain surface}
 	}
 	{Entity "ground_clay5x" 0x6dc
 		{Position 929.46 4934.74}
-		{xform zl -64.32 y 11.31 zw 180}
+		{xform zl -93.38 y 9.68 zw -150.5}
 		{Constrain surface}
 	}
 	{Entity "ground_clay5x" 0x6dd
@@ -12141,17 +12139,17 @@
 	}
 	{Entity "ground_clay5x" 0x6e4
 		{Position 432.41 4285.05}
-		{xform zl -106.22 y 12.23 zw -178.88}
+		{xform zl -81.92 y 12.61 zw 153.45}
 		{Constrain surface}
 	}
 	{Entity "ground_clay5x" 0x6e5
 		{Position 447.05 4522.35}
-		{xform zl -74.93 y 5.71 zw 180}
+		{xform zl -40.5 y 6.92 zw 145.48}
 		{Constrain surface}
 	}
 	{Entity "ground_clay5x" 0x6e6
 		{Position 448.38 4751.24}
-		{xform zl -99.28 y 5.71 zw 180}
+		{xform zl -156.86 y 3.69 zw -122.36}
 		{Constrain surface}
 	}
 	{Entity "ground_clay5x" 0x6e7
@@ -12171,12 +12169,12 @@
 	}
 	{Entity "stone_af1e" 0x6f0
 		{Position -95.74 4728.31}
-		{xform zl -9.92 y 15.25 zw 9.45}
+		{xform zl -6.12 y 15.77 zw 5.51}
 		{Constrain surface}
 	}
 	{Entity "stone_af1d" 0x6f4
 		{Position -90.2 4673.26}
-		{xform zl -5.88 y 14.45 zw 4.91}
+		{xform zl -5.56 y 14.44 zw 4.58}
 		{Constrain surface}
 	}
 	{Entity "stone_af1d" 0x6f5
@@ -12186,12 +12184,12 @@
 	}
 	{Entity "stone_af1d" 0x6f6
 		{Position -133.97 4396.7}
-		{xform zl -15.79 y 17.36 zw 16.3}
+		{xform zl -0.2 y 16.59}
 		{Constrain surface}
 	}
 	{Entity "stone_af1c" 0x6f8
 		{Position -70.85 4634.37}
-		{xform zl -16.08 y 17.09 zw 16.6}
+		{xform zl -27.64 y 19.22 zw 28.79}
 		{Constrain surface}
 	}
 	{Entity "stone_af1b" 0x6fc
@@ -12215,8 +12213,8 @@
 		{Constrain surface}
 	}
 	{Entity "stone_af1b" 0x700
-		{Position -78.02 4182.41}
-		{xform zl -0.89 y 13.23}
+		{Position -78.02 4182.41 87.67}
+		{xform zl -3.31 y 13.56 zw 2.49}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x701
@@ -12231,22 +12229,22 @@
 	}
 	{Entity "stone_af1g" 0x703
 		{Position -79.18 4756.62}
-		{xform zl -20.56 y 14.04 zw 21.5}
+		{xform zl 0.12 y 14.08 zw 0.24}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x705
 		{Position -83.78 4561.68}
-		{xform zl -12.39 y 16.94 zw 11.75}
+		{xform zl -8.22 y 16.39 zw 7.4}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x706
 		{Position -101.79 4580.12}
-		{xform zl -3.1 y 16.85 zw 2.29}
+		{xform zl -1.72 y 20.31 zw 0.84}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x707
 		{Position -154.2 4343.17}
-		{xform zl -0.09 y 16.52}
+		{xform zl 3.25 y 11.46 zw -3.47}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x708
@@ -12276,17 +12274,17 @@
 	}
 	{Entity "stone_af1g" 0x70d
 		{Position -83.01 4199.06}
-		{xform zl -2.21 y 16.59}
+		{xform zl -2.22 y 12.98}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x70e
 		{Position -77.47 4156.14}
-		{xform zl -1.61 y 15.13 zw 1.12}
+		{xform zl -14.7 y 20.28 zw 14.62}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x70f
 		{Position -137.54 4418.58}
-		{xform zl 13.57 y 15.86 zw -14.04}
+		{xform zl 0.04 y 16.7}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x710
@@ -12296,22 +12294,22 @@
 	}
 	{Entity "crash_stone2" 0x711
 		{Position -95.88 4789.03}
-		{xform zl -94.63 y 15.53 zw 9.54}
+		{xform zl -95.41 y 12.83 zw 10.34}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x712
 		{Position -77.32 4659.66}
-		{xform zl 1.43 y 18.43 zw -2.48}
+		{xform zl -0.75 y 18.09 zw -0.19}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x713
 		{Position -55.12 4721.14}
-		{xform zl 7.41 y 10.75 zw -7.55}
+		{xform zl 17.67 y 6.01 zw -17.93}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x714
 		{Position -74.47 4573.76}
-		{xform zl -0.55 y 5.74 zw -0.11}
+		{xform zl 4.24 y 5.76 zw -4.92}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x715
@@ -12331,12 +12329,12 @@
 	}
 	{Entity "crash_stone2" 0x718
 		{Position -152.8 4338.3}
-		{xform zl -0.04 y 16.19}
+		{xform zl 10.94 y 13.7 zw -11.43}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x719
 		{Position -185.69 4427.22}
-		{xform zl -21.48 y 12.61 zw 21.66}
+		{xform zl -15.59 y 17.1 zw 15.57}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x71a
@@ -12346,17 +12344,17 @@
 	}
 	{Entity "crash_stone2" 0x71b
 		{Position -75.6 4226.48}
-		{xform zl -1.09 y 11.31 zw 1.13}
+		{xform zl -6.8 y 19.05 zw 6.89}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x71c
 		{Position -76.44 4144.15}
-		{xform zl 0.32 y 15.68}
+		{xform zl 0.38 y 19.88}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x71d
 		{Position -65.65 4467.19}
-		{xform zl 6.2 y 12.05 zw -6.39}
+		{xform zl 1.82 y 11.38 zw -1.93}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x71e
@@ -12366,27 +12364,27 @@
 	}
 	{Entity "cane2" 0x71f
 		{Position -89.9 4608.25}
-		{xform zl 58.75 y 17.09 zw 0.01 scale 0.847}
+		{xform zl 53.87 y 16.76 zw 5.1 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x720
 		{Position -108.68 4578.33}
-		{xform zl 87.41 y 17.71 zw 11.81 scale 0.847}
+		{xform zl 98.01 y 19.09 zw 0.6 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x721
 		{Position -131.4 4551.03}
-		{xform zl 31.35 y 18.56 zw 10.97 scale 0.847}
+		{xform zl 24.25 y 17.55 zw 18.43 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x722
 		{Position -143.27 4518.97}
-		{xform zl 106.92 y 12 scale 0.847}
+		{xform zl 106.88 y 16.14 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x723
 		{Position -163.7 4478.45}
-		{xform zl 34.74 y 12.88 zw 7.36 scale 0.847}
+		{xform zl 39.62 y 16.62 zw 2.38 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x724
@@ -12396,22 +12394,22 @@
 	}
 	{Entity "cane2" 0x725
 		{Position -93.71 4640.41}
-		{xform zl 93.49 y 21.43 zw 3.01 scale 0.847}
+		{xform zl 92.4 y 16.35 zw 4.13 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x726
 		{Position -65.58 4142.85}
-		{xform zl -81.27 y 11.89 scale 0.847}
+		{xform zl -81.48 y 17.25 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x727
 		{Position -71.64 4177.65}
-		{xform zl -41.13 y 12.89 zw 0.03 scale 0.847}
+		{xform zl -41.31 y 18.89 zw 0.02 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x728
 		{Position -73.01 4213.15}
-		{xform zl -92.75 y 12.17 zw -4.03 scale 0.847}
+		{xform zl -88.76 y 19.52 zw -8.12 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x72a
@@ -12425,23 +12423,23 @@
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x72c
-		{Position -41.24 4121.49 74.77}
-		{xform zl -26.01 y 17.18 zw -17 scale 0.847}
+		{Position -41.24 4121.49 74.51}
+		{xform zl -43.1 y 13.18 zw -0.09 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x72d
 		{Position -102.55 4705.7}
-		{xform zl -115.54 y 14.61 zw 15.32 scale 0.847}
+		{xform zl -107.38 y 14.57 zw 6.88 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x72e
 		{Position -95.83 4740.37}
-		{xform zl -73.98 y 12.39 zw 13.23 scale 0.847}
+		{xform zl -67.17 y 16.11 zw 6.14 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x72f
 		{Position -84.47 4774.04}
-		{xform zl -117.99 y 11.36 scale 0.847}
+		{xform zl -121.84 y 5.81 zw 3.99 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x730
@@ -12466,27 +12464,27 @@
 	}
 	{Entity "cane2" 0x734
 		{Position -50.6 4561.76}
-		{xform zl 102.64 y 8.39 zw -15.69 scale 0.847}
+		{xform zl 88.41 y 11.03 zw -1.17 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x735
 		{Position -52.36 4526.48}
-		{xform zl 106.77 y 10.48 zw 20.96 scale 0.847}
+		{xform zl 116.04 y 9.13 zw 11.5 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x736
 		{Position -58.86 4491.56}
-		{xform zl 54.55 y 12.48 zw 16.75 scale 0.847}
+		{xform zl 57.25 y 14.41 zw 14.05 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x737
 		{Position -53.55 4457.78 79.05}
-		{xform zl 146.48 y 17.56 zw -11.44 scale 0.847}
+		{xform zl 144.24 y 17.04 zw -9.15 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x738
-		{Position -51.58 4412.45 79.43}
-		{xform zl 50.59 y 16.14 zw 20.54 scale 0.847}
+		{Position -51.58 4412.45 79.47}
+		{xform zl 58.53 y 16.28 zw 12.38 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x739
@@ -12496,7 +12494,7 @@
 	}
 	{Entity "cane2" 0x73a
 		{Position -69.64 4587.96}
-		{xform zl 96.05 y 14.31 zw 29.12 scale 0.847}
+		{xform zl 96 y 14.32 zw 29.18 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x746
@@ -12731,7 +12729,7 @@
 	}
 	{Entity "cane2" 0x783
 		{Position -754.77 4413.64}
-		{xform zl 88.99 y 5.71 zw 0.01 scale 0.847}
+		{xform zl 88.99 y 5.71 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x784
@@ -12790,18 +12788,18 @@
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x78f
-		{Position -42.33 4070.78 75.11}
-		{xform zl -177.56 y 24.09 zw 15.21}
+		{Position -42.33 4070.78 75.14}
+		{xform zl -163.79 y 22.07 zw 2.01}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x796
 		{Position -73.3 4162.62}
-		{xform zl -70.58 y 15.78 zw 5.49 scale 0.773}
+		{xform zl -69.7 y 20.64 zw 4.35 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x797
 		{Position -226.86 3413.67}
-		{xform zl -101.09 zw 0.03}
+		{xform zl -101.06}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x798
@@ -12811,12 +12809,12 @@
 	}
 	{Entity "ash_tree_bush1" 0x799
 		{Position -119.01 3363.54}
-		{xform zl 91.22 y 1 zw 13.85 scale 0.78}
+		{xform zl 105.07 scale 0.78}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x79a
 		{Position -81.29 3342.81}
-		{xform zl 169.73 y 1.17 zw 140.71 scale 0.813}
+		{xform zl -49.56 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x79b
@@ -12826,7 +12824,6 @@
 	}
 	{Entity "ash_bush4" 0x79c
 		{Position -118.99 3363.24}
-		{xform zl -15.24 y 0.91 zw 15.24}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x79d
@@ -13021,7 +13018,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x45c3
 		{Position -98.22 4789.96}
-		{xform zl -162.4 y 14.78 zw 10.09}
+		{xform zl -163.64 y 13.66 zw 11.38}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x45c5
@@ -13056,12 +13053,12 @@
 	}
 	{Entity "ash_tree_bush2" 0x45cb
 		{Position -122.8 3697.02}
-		{xform zl 139.74 y 11.87 zw -48.24}
+		{xform zl 130.18 y 11.15 zw -38.47}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x45cc
 		{Position -152.01 3846.2}
-		{xform zl 16.66 y 17.46 zw -17.48 scale 0.773}
+		{xform zl 16.36 y 17.43 zw -17.17 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x45cd
@@ -13071,7 +13068,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x45ce
 		{Position -73.08 3678}
-		{xform zl 116.8}
+		{xform zl -153.2 y 0.93 zw -90}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x45cf
@@ -13591,7 +13588,7 @@
 		{xform zl -6.2}
 	}
 	{Entity "petals" 0x4691
-		{Position -102.29 3686.9 71.08}
+		{Position -102.29 3686.9 72.08}
 		{xform zl 95.99}
 	}
 	{Entity "petals" 0x4692
@@ -13852,27 +13849,27 @@
 	}
 	{Entity "cane2" 0x46cf
 		{Position 143.56 3315.7}
-		{xform zl 83.76 y 8.06 zw 45.03 scale 0.847}
+		{xform zl 128.29 y 1.1 zw 0.54 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x46d0
 		{Position 165.56 3288.05}
-		{xform zl 124.18 y 8.05 zw 45 scale 0.847}
+		{xform zl 168.92 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x46d1
 		{Position 111.95 3322.77}
-		{xform zl 120 y 6.06 zw 46.57 scale 0.847}
+		{xform zl 166.43 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x46d2
 		{Position 90.56 3261.51}
-		{xform zl -74.2 y 3.46 zw -41.13 scale 0.847}
+		{xform zl -115.36 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x46d3
 		{Position 105.59 3293.49}
-		{xform zl -74.23 scale 0.847}
+		{xform zl -164.23 y 0.55 zw 90 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x46d4
@@ -13882,17 +13879,17 @@
 	}
 	{Entity "cane2" 0x46d5
 		{Position 244.03 3253.14}
-		{xform zl 83.93 y 6.88 zw 44.81 scale 0.847}
+		{xform zl 41.72 y 4.39 zw 87.11 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x46d6
 		{Position 266.03 3225.49}
-		{xform zl 168.85 y 5.55 zw 0.1 scale 0.847}
+		{xform zl 121.23 y 4.28 zw 47.95 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x46d7
 		{Position 212.42 3260.21}
-		{xform zl 111.52 y 6.94 zw 55.22 scale 0.847}
+		{xform zl 79.12 y 2.43 zw 87.59 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x46d8
@@ -14032,7 +14029,7 @@
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x46fe
-		{Position -37.69 1801.24 80.73}
+		{Position -37.69 1801.24}
 		{xform zl -173.79}
 		{DecalOrder 2}
 	}
@@ -14127,27 +14124,27 @@
 	}
 	{Entity "cane2" 0x4710
 		{Position 419.76 3320.66}
-		{xform zl -139.15 y 2.76 zw -90 scale 0.847}
+		{xform zl -111.42 y 12.26 zw -117.4 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4711
 		{Position 442.9 3293.97}
-		{xform zl 81.86 zw 90 scale 0.847}
+		{xform zl -50.09 y 1.29 zw -138.07 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4712
 		{Position 462.38 3264.26}
-		{xform zl -98.07 y 1.3 zw -147.73 scale 0.847}
+		{xform zl -155.74 y 5.02 zw -89.98 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4713
 		{Position 489.58 3243.55}
-		{xform zl -31.07 y 2.73 zw -148.7 scale 0.847}
+		{xform zl -70.33 y 4.9 zw -109.35 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4714
 		{Position 522.37 3212.19}
-		{xform zl -163.46 y 5.04 zw -82.31 scale 0.847}
+		{xform zl -155.76 y 3.85 zw -90.04 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4715
@@ -14157,87 +14154,87 @@
 	}
 	{Entity "cane2" 0x4716
 		{Position 387.9 3326.41}
-		{xform zl -100.78 y 5.18 zw -89.99 scale 0.847}
+		{xform zl -61.45 y 8.06 zw -129.48 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4717
 		{Position 111.11 3499.96}
-		{xform zl -100.01 scale 0.847}
+		{xform zl 30.66 y 3.89 zw -130.63 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4718
 		{Position 117.19 3534.76}
-		{xform zl -58.97 scale 0.847}
+		{xform zl 123.42 y 4.74 zw 178.38 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4719
 		{Position 127.92 3568.63}
-		{xform zl -116.78 scale 0.847}
+		{xform zl 19.55 y 1.94 zw -136.14 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x471a
 		{Position 126.8 3602.79}
-		{xform zl -50.48 scale 0.847}
+		{xform zl 74.78 y 3.93 zw -125.14 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x471b
 		{Position 130.41 3648.02}
-		{xform zl -116.78 scale 0.847}
+		{xform zl 86.94 y 6.92 zw 156.33 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x471c
 		{Position 161.44 3694.7}
-		{xform zl 64.98 scale 0.847}
+		{xform zl -117.84 y 9.08 zw -177.5 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x471d
 		{Position 126.79 3471.63}
-		{xform zl -20.66 y 6.76 zw -40.68 scale 0.847}
+		{xform zl 120.65 y 0.09 zw 177.84 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x471e
 		{Position 188.25 3463.18}
-		{xform zl -76.47 y 8.05 zw -135 scale 0.847}
+		{xform zl -78.87 y 7.76 zw -132.75 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x471f
 		{Position 218.46 3444.86}
-		{xform zl -39.59 y 7.55 zw -130.97 scale 0.847}
+		{xform zl -34.16 y 7.81 zw -136.79 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4720
 		{Position 246.09 3422.54}
-		{xform zl -93.07 y 8.05 zw -135 scale 0.847}
+		{xform zl -106.49 y 11.33 zw -121.58 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4721
 		{Position 278.32 3411.15}
-		{xform zl -21.82 y 4.95 zw -140.29 scale 0.847}
+		{xform zl -59.49 y 8.94 zw -102.21 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4722
 		{Position 319.14 3391.34}
-		{xform zl 131.88 scale 0.847}
+		{xform zl -109.54 y 12.6 zw -116.57 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4723
 		{Position 351.33 3345.45}
-		{xform zl 81.47 y 6.6 zw -127.77 scale 0.847}
+		{xform zl 62.98 y 12.41 zw -108.71 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4724
 		{Position 156.16 3458.89}
-		{xform zl -127.44 y 8 zw -45.3 scale 0.847}
+		{xform zl -34.81 y 6.1 zw -138.04 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4725
 		{Position 256.85 3931.01}
-		{xform zl -112.24 y 6.34 zw -169.55 scale 0.847}
+		{xform zl -106.4 y 21.33 zw -171.83 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4726
 		{Position 249.62 3896.43}
-		{xform zl -60.95 y 4.76 zw 180 scale 0.847}
+		{xform zl -74.34 y 19.88 zw -166.64 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4727
@@ -14246,22 +14243,22 @@
 	}
 	{Entity "cane2" 0x4728
 		{Position 237.77 3828.76}
-		{xform zl -88.24 y 4.78 zw -144.14 scale 0.847}
+		{xform zl -66.21 y 17.09 zw -167.4 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4729
 		{Position 232.67 3783.67}
-		{xform zl 58.8 zw 2.66 scale 0.847}
+		{xform zl -117.38 y 11.8 zw -179.99 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x472a
 		{Position 200.11 3738.05}
-		{xform zl -116.91 scale 0.847}
+		{xform zl 58.31 y 14.24 zw 180 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x472b
 		{Position 242.12 3959.85}
-		{xform zl -63.68 y 3.92 zw 180 scale 0.847}
+		{xform zl -72.32 y 21.67 zw 175.02 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x472c
@@ -14336,67 +14333,67 @@
 	}
 	{Entity "cane2" 0x473a
 		{Position 385.11 4176.72}
-		{xform zl 51.1 y 13.66 zw -168.85 scale 0.847}
+		{xform zl 87.45 y 8.19 zw 136.04 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x473b
 		{Position 402.24 4207.62}
-		{xform zl 101.7 y 11.31 zw 180 scale 0.847}
+		{xform zl 160.95 y 15.59 zw 143.84 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x473c
 		{Position 423.48 4236.1}
-		{xform zl 42.95 y 11.8 zw -178.28 scale 0.847}
+		{xform zl 67.77 y 12.19 zw 152.41 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x473d
 		{Position 433.6 4268.74}
-		{xform zl 83.99 y 12.61 zw -153.43 scale 0.847}
+		{xform zl 137.52 y 11.7 zw 151.14 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x473e
 		{Position 451.81 4310.31}
-		{xform zl 18.51 y 6.34 zw -154.15 scale 0.847}
+		{xform zl 79.39 y 9.61 zw 143.82 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x473f
 		{Position 496.42 4344.25}
-		{xform zl -140.92 y 5.75 zw -173.03 scale 0.847}
+		{xform zl -105.56 y 12.27 zw 151.14 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4740
 		{Position 390.65 4144.82}
-		{xform zl 74.47 y 12.45 zw -154.95 scale 0.847}
+		{xform zl 107.09 y 9.94 zw 147.73 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4741
 		{Position 474.74 4560.03}
-		{xform zl -16.35 y 1.48 zw 116.17 scale 0.847}
+		{xform zl -80.09 y 5.71 zw -179.98 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4742
 		{Position 480.89 4525.25}
-		{xform zl -100.65 y 6.07 zw -118.2 scale 0.847}
+		{xform zl -37.74 y 5.72 zw 178.74 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4743
 		{Position 482.33 4489.76}
-		{xform zl -111.02 y 1.86 zw -165.77 scale 0.847}
+		{xform zl -67.28 y 6.57 zw 150.28 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4744
 		{Position 495.03 4458.02}
-		{xform zl 41.32 y 0.84 zw 108.12 scale 0.847}
+		{xform zl -5.08 y 7.81 zw 154.29 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4745
 		{Position 507.05 4414.26}
-		{xform zl -139.66 y 7.34 zw -136.97 scale 0.847}
+		{xform zl -53.46 y 7.89 zw 136.26 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4746
 		{Position 493.77 4359.81}
-		{xform zl 55.54 y 6.56 zw -150.47 scale 0.847}
+		{xform zl 105.8 y 11.1 zw 158.83 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4747
@@ -14591,247 +14588,247 @@
 	}
 	{Entity "cane2" 0x4780
 		{Position 1486.78 4514.49}
-		{xform zl -143.06 y 8.77 zw -111.8 scale 0.847}
+		{xform zl -150.38 y 9.77 zw -104.39 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4781
 		{Position 1495.74 4480.31}
-		{xform zl -107.29 y 18.82 zw -106.31 scale 0.847}
+		{xform zl -122.15 y 14.03 zw -90.95 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4782
 		{Position 1500.05 4445.07}
-		{xform zl -168.23 y 17.39 zw -103.87 scale 0.847}
+		{xform zl -163.87 y 17.54 zw -108.45 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4783
 		{Position 1515.27 4414.45}
-		{xform zl -114.18 y 21.8 zw -90.12 scale 0.847}
+		{xform zl -108.04 y 19.05 zw -96.62 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4784
 		{Position 1530.79 4371.82}
-		{xform zl 179.46 y 19.98 zw -90.99 scale 0.847}
+		{xform zl -179.72 y 19.94 zw -91.86 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4785
 		{Position 1521.96 4316.47}
-		{xform zl -0.47 y 11.31 zw -90 scale 0.847}
+		{xform zl -0.47 y 11.78 zw -90 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4786
 		{Position 1460.76 4533.75}
-		{xform zl -126.34 y 11.31 zw -90.01 scale 0.847}
+		{xform zl -112.19 y 11.54 zw -104.48 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4787
 		{Position 1286.86 4640.08}
-		{xform zl -108.75 y 6.88 zw -97.96 scale 0.847}
+		{xform zl -110.08 y 8.53 zw -96.61 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4788
 		{Position 1318.45 4624.25}
-		{xform zl -46.02 y 8.37 zw -119.96 scale 0.847}
+		{xform zl -52.45 y 10.65 zw -113.46 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4789
 		{Position 1347.77 4604.24}
-		{xform zl -106.82 y 12.61 zw -116.56 scale 0.847}
+		{xform zl -91.86 y 8.56 zw -131.66 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x478a
 		{Position 1380.82 4595.47}
-		{xform zl -41.64 y 6.56 zw -115.77 scale 0.847}
+		{xform zl -47.02 y 11.85 zw -110.44 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x478b
 		{Position 1423.09 4578.99}
-		{xform zl -103.07 y 7.71 zw -120.31 scale 0.847}
+		{xform zl -102.87 y 8.91 zw -120.51 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x478c
 		{Position 1458.85 4535.83}
-		{xform zl 48.98 y 11.28 zw -89.99 scale 0.847}
+		{xform zl 64.42 y 10.67 zw -105.74 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x478d
 		{Position 1255.22 4633.24}
-		{xform zl -51.29 y 12.67 zw -117.15 scale 0.847}
+		{xform zl -51.1 y 12.67 zw -117.15 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x478e
 		{Position 1033.93 3883.65}
-		{xform zl -88.06 y 9.3 zw -63.47 scale 0.847}
+		{xform zl -107.14 y 15.56 zw -44.08 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x478f
 		{Position 1064.98 3900.52}
-		{xform zl -22.86 y 9.77 zw -90.17 scale 0.847}
+		{xform zl -57.12 y 10.38 zw -54.93 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4790
 		{Position 1098.17 3913.13}
-		{xform zl -104.44 y 12.9 zw -63.99 scale 0.847}
+		{xform zl -121.2 y 12.68 zw -46.93 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4791
 		{Position 1124.26 3935.23}
-		{xform zl -30.63 y 17.56 zw -71.46 scale 0.847}
+		{xform zl -38.3 y 12.53 zw -63.26 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4792
 		{Position 1161.94 3960.49}
-		{xform zl -78.66 y 14.02 zw -89.97 scale 0.847}
+		{xform zl -105.78 y 12.23 zw -62.48 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4793
 		{Position 1217.8 3965.15}
-		{xform zl 100.09 y 11.5 zw -86.93 scale 0.847}
+		{xform zl 44.93 y 11.66 zw -31.05 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4794
 		{Position 1021.45 3853.78}
-		{xform zl -38.67 y 26.94 zw -78.65 scale 0.847}
+		{xform zl -65.16 y 14.02 zw -50.17 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4795
 		{Position 832.13 3731.82}
-		{xform zl -78.97 y 16.21 zw -58.22 scale 0.847}
+		{xform zl -79.86 y 15.88 zw -54.15 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4796
 		{Position 857.92 3755.97}
-		{xform zl -35.46 y 17.08 zw -61.32 scale 0.847}
+		{xform zl -43.37 y 17.26 zw -59.32 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4797
 		{Position 886.86 3776.55}
-		{xform zl -98.25 y 16.24 zw -55.2 scale 0.847}
+		{xform zl -97.88 y 15.8 zw -45 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4798
 		{Position 906.53 3804.51}
-		{xform zl -29.66 y 17.28 zw -58.21 scale 0.847}
+		{xform zl -28.75 y 13.07 zw -45.09 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4799
 		{Position 936.62 3838.46}
-		{xform zl -93.03 y 14.86 zw -60.83 scale 0.847}
+		{xform zl -105.28 y 15.8 zw -45.01 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x479a
 		{Position 989.5 3857.06}
-		{xform zl 100.03 y 26.04 zw -73.25 scale 0.847}
+		{xform zl 75.16 y 15.74 zw -44.78 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x479b
 		{Position 827.59 3699.77}
-		{xform zl -39.02 y 13.74 zw -60.28 scale 0.847}
+		{xform zl -48.21 y 15.76 zw -63.65 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x479c
 		{Position 784.74 3643.89}
-		{xform zl 116.72 y 9.55 zw -77.47 scale 0.847}
+		{xform zl 83.15 y 15.88 zw -47.36 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x479d
 		{Position 757.62 3621.23}
-		{xform zl 161.03 y 9.14 zw -80.77 scale 0.847}
+		{xform zl 135.36 y 15.45 zw -68.77 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x479e
 		{Position 727.57 3602.32}
-		{xform zl 81.24 y 3.46 zw -58.35 scale 0.847}
+		{xform zl 88.71 y 14.55 zw -63.17 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x479f
 		{Position 706.35 3575.52}
-		{xform zl 179.27 y 5.71 zw -90 scale 0.847}
+		{xform zl 143.69 y 12.52 zw -64.51 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47a0
 		{Position 674.39 3543.32}
-		{xform zl 161.57 y 4.86 zw -138.66 scale 0.847}
+		{xform zl 85.99 y 12.61 zw -63.45 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47a1
-		{Position 620.54 3527.74}
-		{xform zl -65.27 y 1.3 zw -90 scale 0.847}
+		{Position 578.84 3540.07}
+		{xform zl -53.36 y 6.35 zw -124.91 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47a2
 		{Position 791.08 3675.63}
-		{xform zl 123.53 y 8.58 zw -45.43 scale 0.847}
+		{xform zl 135.42 y 15.02 zw -48.23 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47a3
 		{Position 535.21 4309.67}
-		{xform zl -74.48 y 5.5 zw -163.41 scale 0.847}
+		{xform zl -12.76 y 8.05 zw 135.03 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47a4
 		{Position 554.1 4279.81}
-		{xform zl -34.5 y 5.23 zw -162.39 scale 0.847}
+		{xform zl 65.79 y 5.76 zw 97.85 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47a5
 		{Position 568.89 4247.53}
-		{xform zl -124.25 y 5.01 zw -130.24 scale 0.847}
+		{xform zl -50.08 y 8.05 zw 135.04 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47a6
 		{Position 592.67 4222.97}
-		{xform zl -27.95 y 2.8 zw -160.32 scale 0.847}
+		{xform zl 65.64 y 7.02 zw 125.76 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47a7
 		{Position 620.38 4187.05}
-		{xform zl -77.29 y 1 zw -177.31 scale 0.847}
+		{xform zl -26.67 y 6.4 zw 117 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47a8
 		{Position 628.73 4131.62}
-		{xform zl -72.83 scale 0.847}
+		{xform zl 151.17 y 4.74 zw 136.08 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47a9
 		{Position 504.58 4320.14}
-		{xform zl -45.69 y 6.9 zw -153.85 scale 0.847}
+		{xform zl 29.31 y 9.07 zw 130.2 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47aa
 		{Position 827.85 4020.56}
-		{xform zl 14.08 y 5.19 zw -33.71 scale 0.847}
+		{xform zl -19.96 y 1.36 zw 0.01 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47ab
 		{Position 794.56 4032.38}
-		{xform zl 53.79 y 4.97 zw -32.3 scale 0.847}
+		{xform zl 75.99 y 0.89 zw -54.18 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47ac
 		{Position 762.99 4048.64}
-		{xform zl 50.72 y 5.26 zw -87.16 scale 0.847}
+		{xform zl -37.49 y 0.26 zw 0.95 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47ad
 		{Position 729.12 4053.27}
-		{xform zl 119.77 y 4.46 zw -90 scale 0.847}
+		{xform zl 29.71 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47ae
 		{Position 685.14 4064.41}
-		{xform zl 53.55 y 0.61 zw -90 scale 0.847}
+		{xform zl -36.2 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47af
 		{Position 644.33 4102.85}
-		{xform zl -96.4 y 1.05 zw -118.29 scale 0.847}
+		{xform zl 40.08 y 0.6 zw 104.95 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47b0
 		{Position 858.41 4031.24}
-		{xform zl 76.08 y 2.88 zw -57.34 scale 0.847}
+		{xform zl 25.44 y 5.58 zw -0.02 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47b1
@@ -14884,17 +14881,17 @@
 	}
 	{Entity "cane2" 0x47bb
 		{Position 1481.46 4037.9}
-		{xform zl 150.54 y 16.33 zw -93 scale 0.847}
+		{xform zl 150.79 y 15.04 zw -93.27 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47bc
 		{Position 1437.63 4026.22}
-		{xform zl 82.99 y 16.7 zw -89.99 scale 0.847}
+		{xform zl 92.19 y 15.22 zw -99.52 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47bd
 		{Position 1383.27 4039.94}
-		{xform zl -73.24 y 11.48 zw -112.56 scale 0.847}
+		{xform zl -85.58 y 8.09 zw -100.11 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47be
@@ -14904,47 +14901,47 @@
 	}
 	{Entity "cane2" 0x47bf
 		{Position 1039.98 4813.28}
-		{xform zl 78.99 y 8.54 zw -140.19 scale 0.847}
+		{xform zl 73.84 y 8.05 zw -134.99 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47c0
 		{Position 1022.94 4844.24}
-		{xform zl 149.99 y 7.4 zw -170.4 scale 0.847}
+		{xform zl 114.93 y 8.05 zw -134.97 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47c1
 		{Position 1010.14 4877.36}
-		{xform zl 72.3 y 8.96 zw -150.16 scale 0.847}
+		{xform zl 72.11 y 8.98 zw -149.96 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47c2
 		{Position 987.91 4903.33}
-		{xform zl 160.69 y 8.83 zw -172.55 scale 0.847}
+		{xform zl 155.03 y 8.99 zw -166.82 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47c3
 		{Position 962.45 4940.87}
-		{xform zl 101.7 y 7.42 zw 179.99 scale 0.847}
+		{xform zl 101.69 y 9.64 zw 179.99 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47c4
 		{Position 957.49 4996.72}
-		{xform zl -73.8 y 10.21 zw 177.22 scale 0.847}
+		{xform zl -74.73 y 6.43 zw 178.12 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47c5
 		{Position 1069.9 4800.96}
-		{xform zl 113.65 y 8.04 zw -136.68 scale 0.847}
+		{xform zl 111.95 y 8.05 zw -135 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47c6
 		{Position 945.74 5048.63}
-		{xform zl 94.55 y 11.31 zw 180 scale 0.847}
+		{xform zl 117.37 y 7.43 zw 157 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47c7
 		{Position 942.79 5083.85}
-		{xform zl 139.14 y 10.35 zw 176.08 scale 0.847}
+		{xform zl 159.17 y 9.43 zw 155.78 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47c8
@@ -14969,7 +14966,7 @@
 	}
 	{Entity "cane2" 0x47cc
 		{Position 968.05 5025.19}
-		{xform zl 132.57 y 9.88 zw 180 scale 0.847}
+		{xform zl 158.23 y 9.55 zw 154.05 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47cd
@@ -14989,12 +14986,12 @@
 	}
 	{Entity "cane2" 0x47d0
 		{Position 1473.66 5117.09}
-		{xform zl -83.7 y 15.9 zw -127.23 scale 0.847}
+		{xform zl -91.76 y 22.72 zw -118.54 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47d1
 		{Position 1485.55 5073.32}
-		{xform zl -161.12 y 13.13 zw -115.45 scale 0.847}
+		{xform zl -161.17 y 13.12 zw -115.4 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x47d2
@@ -15214,7 +15211,7 @@
 	}
 	{Entity "cane2" 0x480a
 		{Position 1896.65 5963.01}
-		{xform zl -76.1 zw -0.06 scale 0.847}
+		{xform zl -76.16 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x480c
@@ -15289,317 +15286,317 @@
 	}
 	{Entity "cane2" 0x481e
 		{Position 1504.44 4930.86}
-		{xform zl 32.76 y 6.97 zw -96.32 scale 0.847}
+		{xform zl 59.31 y 9 zw -123.16 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x481f
 		{Position 1485.78 4983.75}
-		{xform zl -124.83 y 12.61 zw -116.57 scale 0.847}
+		{xform zl -122.76 y 11.77 zw -118.69 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4821
 		{Position 1164.05 4530.59}
-		{xform zl -101.3 y 15.01 zw -111.89 scale 0.847}
+		{xform zl -89.45 y 10.16 zw -123.89 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4822
 		{Position 1193.57 4511.12}
-		{xform zl -65.12 y 17.55 zw -108.43 scale 0.847}
+		{xform zl -56.45 y 11.62 zw -117.43 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4823
 		{Position 1220.33 4487.82}
-		{xform zl -115.54 y 13.76 zw -114.11 scale 0.847}
+		{xform zl -119.52 y 10.64 zw -110.02 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4824
 		{Position 1252.1 4475.21}
-		{xform zl -48.87 y 18.41 zw -116.51 scale 0.847}
+		{xform zl -52.84 y 12.09 zw -112.58 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4825
 		{Position 1292.12 4453.88}
-		{xform zl -110.49 y 18.94 zw -119.02 scale 0.847}
+		{xform zl -129.51 y 11.47 zw -99.51 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4826
 		{Position 1322.57 4406.78}
-		{xform zl 59.15 y 17.37 zw -106.58 scale 0.847}
+		{xform zl 56.13 y 11.6 zw -103.32 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4827
 		{Position 1131.83 4527.53}
-		{xform zl -53.76 y 15.14 zw -122.37 scale 0.847}
+		{xform zl -54.64 y 8.06 zw -121.64 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4828
 		{Position 1064.44 4549.89}
-		{xform zl 76.59 y 12.61 zw -116.56 scale 0.847}
+		{xform zl 91.81 y 7.66 zw -131.86 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4829
 		{Position 1037.5 4572.79}
-		{xform zl 116.54 y 12.6 zw -116.57 scale 0.847}
+		{xform zl 134.73 y 8.05 zw -135.02 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x482a
 		{Position 1013.76 4599.16}
-		{xform zl 59.98 y 12.61 zw -116.56 scale 0.847}
+		{xform zl 65.14 y 9.16 zw -121.87 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x482b
 		{Position 983.75 4615.53}
-		{xform zl 126.86 y 12.82 zw -118.53 scale 0.847}
+		{xform zl 143.08 y 8.05 zw -135.01 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x482c
 		{Position 946.61 4641.55}
-		{xform zl 67.33 y 12.04 zw -124.15 scale 0.847}
+		{xform zl 78.12 y 8.05 zw -135.01 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x482d
 		{Position 922.09 4692}
-		{xform zl -99.09 y 12.6 zw -136.2 scale 0.847}
+		{xform zl -101 y 12.62 zw -134.25 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x482e
 		{Position 1096.8 4549.02}
-		{xform zl 110.13 y 14.35 zw -113 scale 0.847}
+		{xform zl 127.74 y 8.51 zw -130.93 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x482f
 		{Position 748.04 4861.14}
-		{xform zl -38.15 y 11.06 zw -175.95 scale 0.847}
+		{xform zl -34.18 y 11.21 zw -179.99 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4830
 		{Position 777.56 4841.67}
-		{xform zl -4.73 y 10.37 zw -168.02 scale 0.847}
+		{xform zl 10.1 y 7.43 zw 176.92 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4831
 		{Position 804.32 4818.37}
-		{xform zl -77.18 y 12.61 zw -153.43 scale 0.847}
+		{xform zl -78.7 y 12.05 zw -152.05 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4832
 		{Position 836.09 4805.76}
-		{xform zl 15.47 y 11.31 zw -179.19 scale 0.847}
+		{xform zl -10.15 y 12.26 zw -153.1 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4833
 		{Position 876.11 4784.43}
-		{xform zl -53.95 y 11.46 zw -177.06 scale 0.847}
+		{xform zl -77.7 y 12.29 zw -152.68 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4834
 		{Position 906.56 4737.33}
-		{xform zl 100.52 y 13.09 zw -149.35 scale 0.847}
+		{xform zl 85.68 y 10.41 zw -134.17 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x4835
 		{Position 715.82 4858.08}
-		{xform zl 1.15 y 11.34 zw -176.52 scale 0.847}
+		{xform zl -10.37 y 7.48 zw -164.8 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4836
 		{Position 792.76 4069.01}
-		{xform zl 169.62 y 3.7 zw -90}
+		{xform zl 79.59 y 1.55 zw -0.08}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4837
 		{Position 745.62 4078.12}
-		{xform zl -31.14 y 4.2 zw -90}
+		{xform zl -123.88 y 0.08 zw 3.38}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4838
 		{Position 684.24 4117.68}
-		{xform zl -74.16 scale 0.78}
+		{xform zl -166.97 y 4.46 zw 92.53 scale 0.78}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4839
 		{Position 646.25 4137.9}
-		{xform zl -86.28 y 5.07 zw -142.55 scale 0.813}
+		{xform zl -14.71 y 4.72 zw 146.06 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x483a
 		{Position 613.13 4196.49}
-		{xform zl 54.16 y 1.34 zw 180}
+		{xform zl 74.48 y 8.05 zw 134.99}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x483b
 		{Position 684.22 4117.98}
-		{xform zl -179.23}
+		{xform zl 88.32 y 4.29 zw 92.39}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x483c
 		{Position 780.5 4065.05}
-		{xform zl 176.36 y 5.47 zw -90 scale 0.76}
+		{xform zl 86.59 y 2.88 zw 0.02 scale 0.76}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x483d
 		{Position 864.36 4058.58}
-		{xform zl -105.37 y 3.45 zw -73.83 scale 0.773}
+		{xform zl 168.6 y 5.59 zw -0.02 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x483e
 		{Position 287.07 3879.63}
-		{xform zl -22.96 y 7.51 zw -158.95}
+		{xform zl -66.83 y 14.97 zw -146.55}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x483f
 		{Position 284.84 3831.68}
-		{xform zl 141.02 y 10.77 zw -164.29}
+		{xform zl 150.12 y 12.53 zw -167.41}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4840
 		{Position 254.55 3765.23}
-		{xform zl -26.13 zw 50.13 scale 0.78}
+		{xform zl -156.49 y 11.55 zw -179.33 scale 0.78}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4841
 		{Position 240.03 3724.72}
-		{xform zl -130.49 scale 0.813}
+		{xform zl 45.56 y 13.03 zw -177.21 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4842
 		{Position 186.83 3683.5}
-		{xform zl -27.55}
+		{xform zl 124.8 y 11.53 zw 179.99}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x4843
 		{Position 254.26 3765.17}
-		{xform zl 163.5 zw 115.74}
+		{xform zl 100.88 y 11.62 zw -179.16}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x4844
 		{Position 292.75 3868.07}
-		{xform zl -15.92 y 12.04 zw -159.69 scale 0.76}
+		{xform zl 20.76 y 15.95 zw -171.38 scale 0.76}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4845
 		{Position 287.05 3952}
-		{xform zl 82.28 y 12.58 zw -162.99 scale 0.773}
+		{xform zl 59.07 y 16.72 zw -177.73 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4846
 		{Position 216.78 3485.92}
-		{xform zl 38.61 y 3.03 zw -138.29}
+		{xform zl 37.68 y 8.74 zw -137.27}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4847
 		{Position 264.01 3477.32}
-		{xform zl 59.57}
+		{xform zl -152.28 y 12.22 zw -148.88}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4848
-		{Position 325.83 3438.45}
-		{xform zl -163.48 y 4.02 zw -90 scale 0.78}
+		{Position 270.91 3542.43}
+		{xform zl -126.72 y 10.42 zw -147.06 scale 0.78}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4849
-		{Position 364.05 3418.66}
-		{xform zl 41.87 y 1.83 zw -90 scale 0.813}
+		{Position 301.52 3512.17}
+		{xform zl 73.32 y 8.05 zw -135 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x484a
-		{Position 397.81 3360.44}
-		{xform zl 54.79}
+		{Position 316.45 3446.54}
+		{xform zl 171.59 y 8.05 zw -135}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x484b
-		{Position 325.85 3438.15}
-		{xform zl 91.41 y 4.19 zw -90}
+		{Position 270.84 3542.13}
+		{xform zl 141.06 y 10.39 zw -146.94}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x484c
 		{Position 229 3490.01}
-		{xform zl -92.99 scale 0.76}
+		{xform zl 53.99 y 11.1 zw -147.08 scale 0.76}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x484d
 		{Position 145.06 3495.54}
-		{xform zl 45.41 y 3.76 zw -43.94 scale 0.773}
+		{xform zl 160.6 y 8.81 zw -159.56 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x484e
 		{Position 773.36 3680.35}
-		{xform zl -118.31 y 8.6 zw -89.89}
+		{xform zl -140.49 y 8.75 zw -58.62}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x484f
 		{Position 750 3638.41}
-		{xform zl 18.97 y 8.05 zw -68.11}
+		{xform zl 12.26 y 16.08 zw -69.72}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4850
 		{Position 693.27 3592.42}
-		{xform zl 134.56 y 4.91 zw -136.99 scale 0.78}
+		{xform zl 58.41 y 14.71 zw -72.15 scale 0.78}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4851
-		{Position 662.22 3562.63}
-		{xform zl -25.1 y 2.19 zw -131.87 scale 0.813}
+		{Position 629.01 3560.99}
+		{xform zl -90.18 y 5.34 zw -90.03 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4852
-		{Position 596.23 3549.43}
-		{xform zl 50.13 y 3.85 zw -104.13}
+		{Position 562.08 3568.01}
+		{xform zl 81.15 y 3.84 zw -150.17}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x4853
 		{Position 692.99 3592.5}
-		{xform zl 27.62 y 4.85 zw -134.92}
+		{xform zl -35.13 y 14.57 zw -72.13}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x4854
 		{Position 773.3 3667.47}
-		{xform zl -126.59 y 8.4 zw -74.83 scale 0.76}
+		{xform zl -156.38 y 15.22 zw -49.08 scale 0.76}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4855
 		{Position 805.59 3745.14}
-		{xform zl -35.2 y 8.87 zw -72.57 scale 0.773}
+		{xform zl -45.07 y 12.63 zw -63.17 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4856
 		{Position 888.29 3817.9}
-		{xform zl 56.62 y 6.01 zw -90.03}
+		{xform zl -23 y 14.9 zw -41.3}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4857
 		{Position 915.46 3857.48}
-		{xform zl -144.5 y 5.71 zw -89.94}
+		{xform zl 129.72 y 15.06 zw -41.97}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4858
 		{Position 976.23 3897.98}
-		{xform zl -148.97 y 5.21 zw -38.56 scale 0.78}
+		{xform zl -130.53 y 12.44 zw -36.67 scale 0.78}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4859
 		{Position 1009.93 3924.74}
-		{xform zl 78.76 y 6.52 zw -60.99 scale 0.813}
+		{xform zl 75.21 y 14.45 zw -46.83 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x485a
 		{Position 1076.86 3931.73}
-		{xform zl -149.22 y 7.82 zw -90}
+		{xform zl 162.28 y 13.11 zw -41.19}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x485b
 		{Position 976.51 3897.87}
-		{xform zl 105.46 y 5.01 zw -38.08}
+		{xform zl 96.6 y 12.38 zw -36.36}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x485c
 		{Position 889.55 3830.72}
-		{xform zl 42.09 y 9.26 zw -68.85 scale 0.76}
+		{xform zl -11.42 y 12.47 zw -43.59 scale 0.76}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x485d
 		{Position 850.16 3756.4}
-		{xform zl 131.84 y 11.73 zw -65.03 scale 0.773}
+		{xform zl 115.27 y 14.79 zw -49.27 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x485e
@@ -15619,12 +15616,12 @@
 	}
 	{Entity "ash_tree_bush2" 0x4861
 		{Position 1533.36 4052.77}
-		{xform zl -88.93 y 9.28 zw -77.84 scale 0.813}
+		{xform zl -86.24 y 7.34 zw -80.55 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4862
 		{Position 1466.1 4050.76}
-		{xform zl 26.52 y 8.04 zw -89.99}
+		{xform zl 26.52 y 8.36 zw -89.99}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x4863
@@ -15644,7 +15641,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x4866
 		{Position 1453.37 4568.35}
-		{xform zl -13.31 y 8.87 zw -115.29}
+		{xform zl -5.76 y 8.72 zw -122.93}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4867
@@ -15654,37 +15651,37 @@
 	}
 	{Entity "ash_tree_bush1" 0x4868
 		{Position 1526.34 4474.43}
-		{xform zl 167.46 y 16.93 zw -89.99 scale 0.78}
+		{xform zl 176.22 y 14.59 zw -99.14 scale 0.78}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4869
 		{Position 1550.39 4438.75}
-		{xform zl 8.1 y 20.27 zw -83.67 scale 0.813}
+		{xform zl 14.06 y 16.69 zw -90 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x486a
 		{Position 1552.13 4371.48}
-		{xform zl 120.39 y 16.78 zw -95.71}
+		{xform zl 116.11 y 17.23 zw -91.23}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x486b
 		{Position 1526.21 4474.17}
-		{xform zl 63.8 y 16.99 zw -90}
+		{xform zl 72.18 y 14.49 zw -98.66}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x486c
 		{Position 1466.05 4566.09}
-		{xform zl -14.71 y 8.63 zw -107.07 scale 0.76}
+		{xform zl 11.39 y 8.07 zw -133.46 scale 0.76}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x486d
 		{Position 1395.03 4611.17}
-		{xform zl 58.63 y 3.27 zw -85.87 scale 0.773}
+		{xform zl 93.1 y 9.93 zw -120.64 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x486e
 		{Position 1317.7 4644.32}
-		{xform zl -159.1 y 8.54 zw -117.81}
+		{xform zl -165.33 y 10.18 zw -111.51}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x486f
@@ -15694,32 +15691,32 @@
 	}
 	{Entity "ash_tree_bush1" 0x4870
 		{Position 1206.71 4687.05}
-		{xform zl 64.18 y 8.05 zw -135 scale 0.78}
+		{xform zl 45.99 y 11.63 zw -116.5 scale 0.78}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4871
 		{Position 1167.68 4705.18}
-		{xform zl -86.17 y 11.27 zw -139.55 scale 0.813}
+		{xform zl -92.68 y 13.13 zw -132.9 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4872
 		{Position 1131.45 4761.88}
-		{xform zl 37.65 y 6.07 zw -160.24}
+		{xform zl 12.54 y 8.05 zw -135.01}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x4873
 		{Position 1206.68 4687.34}
-		{xform zl -41.44 y 8.04 zw -135}
+		{xform zl -59.37 y 11.48 zw -116.81}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x4874
 		{Position 1305.68 4639.71}
-		{xform zl -176.9 y 8.53 zw -93.58 scale 0.76}
+		{xform zl -149.74 y 9.96 zw -121.08 scale 0.76}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x4875
 		{Position 1389.77 4637.79}
-		{xform zl -86.12 y 5.71 zw -90 scale 0.773}
+		{xform zl -56.58 y 6.57 zw -119.7 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x4876
@@ -15959,42 +15956,42 @@
 	}
 	{Entity "ash_tree_bush1" 0x48b6
 		{Position 761.69 4821.42}
-		{xform zl 54.87 y 9.64 zw -160.32}
+		{xform zl 53.35 y 10.09 zw -158.76}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x48b7
 		{Position 807.67 4807.67}
-		{xform zl -132.46 y 11.38 zw -173.73}
+		{xform zl -149.53 y 11.01 zw -156.32}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x48b8
 		{Position 864.84 4762.23}
-		{xform zl -106.03 y 12.6 zw -153.44 scale 0.78}
+		{xform zl -106.74 y 12.29 zw -152.7 scale 0.78}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x48b9
 		{Position 900.64 4738.34}
-		{xform zl 87.12 y 11.69 zw -141.53 scale 0.813}
+		{xform zl 77.08 y 12.75 zw -131.21 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x48ba
 		{Position 927.78 4676.78}
-		{xform zl -177.64 y 12.77 zw -133.83}
+		{xform zl -179.06 y 8.43 zw -132.37}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x48bb
 		{Position 864.83 4761.94}
-		{xform zl 147.9 y 12.6 zw -153.44}
+		{xform zl 147.15 y 12.29 zw -152.68}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x48bc
 		{Position 774.27 4824.14}
-		{xform zl 64.54 y 8.29 zw -163.6 scale 0.76}
+		{xform zl 54.61 y 12.6 zw -153.43 scale 0.76}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x48bd
 		{Position 691.46 4838.88}
-		{xform zl 141.49 y 6.83 zw -146.62 scale 0.773}
+		{xform zl 174.67 y 5.71 zw 179.99 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x48be
@@ -16049,7 +16046,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x48c8
 		{Position 1959.52 5397.36}
-		{xform zl -38.74 zw 89.99 scale 0.78}
+		{xform zl 51.25 scale 0.78}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x48c9
@@ -16064,7 +16061,7 @@
 	}
 	{Entity "ash_bush4" 0x48cb
 		{Position 1959.28 5397.18}
-		{xform zl 36.19 zw -90}
+		{xform zl -53.81}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x48cc
@@ -16154,7 +16151,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x48e7
 		{Position 1509.92 4999.52}
-		{xform zl -57.23 y 11.53 zw -105.47}
+		{xform zl -54.94 y 8.45 zw -107.82}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x48e8
@@ -16164,7 +16161,7 @@
 	}
 	{Entity "ash_tree_bush2" 0x48e9
 		{Position 1474.51 5109.95}
-		{xform zl -151.61 y 13.71 zw -116.69 scale 0.813}
+		{xform zl -143.83 y 19.38 zw -124.64 scale 0.813}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x48ea
@@ -16179,19 +16176,19 @@
 	}
 	{Entity "ash_bush4" 0x48ec
 		{Position 1527.55 4966.7}
-		{xform zl 153.91 y 9.94 zw -109.04 scale 0.76}
+		{xform zl 152.56 y 8.02 zw -107.68 scale 0.76}
 		{Constrain surface}
 	}
 	{Entity "crash_stone1" 0x48ee
 		{Position 1411.01 5054.42}
-		{xform zl 100.39 y 13.83 zw -125.96}
+		{xform zl 106.56 y 14.4 zw -132.33}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x48ef
 		{Position 1360.04 5115.6}
-		{xform zl 61.34 y 14.61 zw -131.74}
+		{xform zl 50.75 y 18.82 zw -120.62}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
@@ -16268,63 +16265,63 @@
 	}
 	{Entity "crash_stone1" 0x4900
 		{Position 351.93 4204.02}
-		{xform zl 112.31 y 11.31 zw 180}
+		{xform zl 163.01 y 9.56 zw 143.56}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x4901
 		{Position 352.12 4246.72}
-		{xform zl 106.59 y 14.32 zw -174.42}
+		{xform zl 148.78 y 9.47 zw 143.15}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x4902
 		{Position 321.24 4398.39}
-		{xform zl 90.32 y 14.7 zw -157.59}
+		{xform zl 146.11 y 9.81 zw 145.55}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x4903
 		{Position 308.15 4496.08}
-		{xform zl 111.74 y 16.7 zw -179.73}
+		{xform zl 137.63 y 9.31 zw 153.9}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x4904
 		{Position 313.13 4583.33}
-		{xform zl 112.24 y 15.46 zw 180}
+		{xform zl 112.18 y 7.04 zw 180}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x4905
 		{Position 316.45 4641.74}
-		{xform zl 48.48 y 15.64 zw -174.83}
+		{xform zl 53.69 y 6.27 zw -179.99}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x4906
 		{Position 324.55 4714.33}
-		{xform zl 100.47 y 11.51 zw 180}
+		{xform zl 100.47 y 11.31 zw 180}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x4907
 		{Position 314.67 4830.16}
-		{xform zl 113.43 y 12.21 zw 166.77}
+		{xform zl 114.1 y 16.76 zw 166.01}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x4908
 		{Position 309.31 4940.23}
-		{xform zl 113.64 y 13.74 zw 166.29}
+		{xform zl 124.52 y 14.68 zw 155.08}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
@@ -16401,63 +16398,63 @@
 	}
 	{Entity "crash_stone1" 0x4917
 		{Position 1319.18 4411.29}
-		{xform zl 30.45 y 17.28 zw -108.75}
+		{xform zl 44.36 y 13.05 zw -122.89}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x4918
 		{Position 1257.19 4458.18}
-		{xform zl 99.6 y 13.41 zw -113.76}
+		{xform zl 88.69 y 8.29 zw -102.77}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x4919
 		{Position 1157.81 4519.68}
-		{xform zl 94.51 y 17.55 zw -108.43}
+		{xform zl 110.89 y 9.86 zw -125.13}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x491a
 		{Position 1060.52 4560.65}
-		{xform zl 102.65 y 12.64 zw -116.74}
+		{xform zl 94.41 y 9.08 zw -108.41}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x491b
 		{Position 999.76 4614.25}
-		{xform zl 83.27 y 14.24 zw -128.27}
+		{xform zl 90.06 y 8.06 zw -134.98}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x491c
 		{Position 925.28 4684.41}
-		{xform zl 106.57 y 12.7 zw -152.19}
+		{xform zl 88.86 y 11.27 zw -134.13}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x491d
 		{Position 856.01 4753.56}
-		{xform zl 106.04 y 8.69 zw -151.7}
+		{xform zl 94.05 y 7.87 zw -139.67}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x491e
 		{Position 791.46 4844.96}
-		{xform zl 131.13 y 10.59 zw -177.12}
+		{xform zl 132.69 y 11.31 zw -178.52}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "crash_stone1" 0x491f
 		{Position 763.04 4944.04}
-		{xform zl 106.66 y 9.96 zw 180}
+		{xform zl 130.48 y 8.88 zw 155.93}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
@@ -16558,27 +16555,27 @@
 	}
 	{Entity "crash_stone2" 0x4933
 		{Position 729.28 4918.35}
-		{xform zl 180 y 10.87 zw 180}
+		{xform zl 179.04 y 11.32 zw -179.02}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x4934
 		{Position 970.7 4608.17}
-		{xform zl 129.66 y 12.84 zw -130.37}
+		{xform zl 134.17 y 8.05 zw -134.97}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x4935
 		{Position 1040.15 4553.59}
-		{xform zl 115.63 y 12.61 zw -116.57}
+		{xform zl 133.78 y 8.06 zw -134.99}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x4936
 		{Position 829.56 4736.47}
-		{xform zl 152.95 y 12.6 zw -153.43}
+		{xform zl 172.21 y 8.49 zw -173}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x4937
 		{Position 1465.61 4980.31}
-		{xform zl 116.28 y 12.61 zw -116.58}
+		{xform zl 123.55 y 10.15 zw -123.99}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x4938
@@ -16588,22 +16585,22 @@
 	}
 	{Entity "crash_stone2" 0x4939
 		{Position 1400.61 4328.94}
-		{xform zl 114.3 y 12.47 zw -114.64}
+		{xform zl 114.49 y 12.44 zw -114.84}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x493a
 		{Position 324.1 4302.24}
-		{xform zl 171.31 y 15.48 zw -171.04}
+		{xform zl -150.51 y 8.39 zw 149.22}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x493b
 		{Position 284.33 4251.56}
-		{xform zl -164.31 y 12.34 zw 163.85}
+		{xform zl -170.05 y 10.97 zw 168.36}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x493c
 		{Position 265.62 4734.07}
-		{xform zl -176.65 y 16.72 zw 177.32}
+		{xform zl -177.34 y 11.32 zw 177.93}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x493d
@@ -16696,87 +16693,87 @@
 	}
 	{Entity "stone_af1f" 0x4950
 		{Position 1459.08 4938.11}
-		{xform zl 122.4 y 6.77 zw -122.58}
+		{xform zl 129.36 y 5.73 zw -129.58}
 		{Constrain surface}
 	}
 	{Entity "stone_af1f" 0x4951
 		{Position 1121.57 4767.4}
-		{xform zl 128.79 y 6.48 zw -170.26}
+		{xform zl 89.57 y 8.75 zw -130.48}
 		{Constrain surface}
 	}
 	{Entity "stone_af1f" 0x4952
 		{Position 858.63 4731.49}
-		{xform zl 152.87 y 12.6 zw -153.44}
+		{xform zl 141.54 y 12.09 zw -141.81}
 		{Constrain surface}
 	}
 	{Entity "stone_af1f" 0x4953
 		{Position 898.24 4662.37}
-		{xform zl -134.87 y 12.14 zw -139.59}
+		{xform zl -139.11 y 8.05 zw -135}
 		{Constrain surface}
 	}
 	{Entity "stone_af1f" 0x4954
 		{Position 1349.06 4382.18}
-		{xform zl -146.78 y 12.6 zw -116.56}
+		{xform zl -159.06 y 13.76 zw -104}
 		{Constrain surface}
 	}
 	{Entity "stone_af1f" 0x4955
 		{Position 1276.48 4438.36}
-		{xform zl 113.74 y 13.4 zw -114.24}
+		{xform zl 92.91 y 10.68 zw -93.04}
 		{Constrain surface}
 	}
 	{Entity "stone_af1f" 0x495a
 		{Position 479.17 4289.51}
-		{xform zl 179.51 y 5.71 zw 179.98}
+		{xform zl -148.49 y 10.83 zw 148.46}
 		{Constrain surface}
 	}
 	{Entity "stone_af1e" 0x495e
 		{Position 456.03 4223.83}
-		{xform zl 160.34 y 7.95 zw -160.57}
+		{xform zl -136.28 y 8.05 zw 135}
 		{Constrain surface}
 	}
 	{Entity "stone_af1e" 0x495f
 		{Position 388.73 4121.09}
-		{xform zl -164.82 y 11.73 zw 164.31}
+		{xform zl -112.11 y 9.43 zw 142.94}
 		{Constrain surface}
 	}
 	{Entity "stone_af1e" 0x4960
 		{Position 843.51 4675.5}
-		{xform zl 150.49 y 11.65 zw -151}
+		{xform zl 139.82 y 8.85 zw -140.16}
 		{Constrain surface}
 	}
 	{Entity "stone_af1e" 0x4961
 		{Position 812.33 4806.46}
-		{xform zl -102.94 y 11.32 zw -177.18}
+		{xform zl -127.99 y 11.99 zw -151.91}
 		{Constrain surface}
 	}
 	{Entity "stone_af1e" 0x4962
 		{Position 1170.63 4733.52}
-		{xform zl 157.05 y 3.06 zw -157.45}
+		{xform zl 134.56 y 8.05 zw -134.99}
 		{Constrain surface}
 	}
 	{Entity "stone_af1e" 0x4963
 		{Position 1306.61 4370.75}
-		{xform zl 95.07 y 8.6 zw -95.13}
+		{xform zl 122.58 y 10.11 zw -123.15}
 		{Constrain surface}
 	}
 	{Entity "stone_af1e" 0x4964
 		{Position 1206.05 4489.37}
-		{xform zl 150.17 y 13.99 zw -93.72}
+		{xform zl 176.45 y 9.97 zw -120.66}
 		{Constrain surface}
 	}
 	{Entity "stone_af1e" 0x4965
 		{Position 1146.48 4449.13}
-		{xform zl 97.95 y 8.46 zw -98.05}
+		{xform zl 95.62 y 5.74 zw -95.77}
 		{Constrain surface}
 	}
 	{Entity "stone_af1e" 0x4966
 		{Position 1381.99 5053.78}
-		{xform zl 132.77 y 14.37 zw -133.58}
+		{xform zl 128.97 y 12.67 zw -129.69}
 		{Constrain surface}
 	}
 	{Entity "stone_af1d" 0x4967
 		{Position 1386.11 5002.79}
-		{xform zl 134.3 y 7.99 zw -134.57}
+		{xform zl 137.83 y 7.54 zw -138.13}
 		{Constrain surface}
 	}
 	{Entity "stone_af1d" 0x4968
@@ -16796,12 +16793,12 @@
 	}
 	{Entity "stone_af1d" 0x496b
 		{Position 807.36 4849.48}
-		{xform zl 162.97 y 11.79 zw -163.31}
+		{xform zl 168.23 y 11.53 zw -168.66}
 		{Constrain surface}
 	}
 	{Entity "stone_af1d" 0x496c
 		{Position 340.22 4305.52}
-		{xform zl 158.35 y 15.01 zw -158.8}
+		{xform zl -153.21 y 11.25 zw 150.65}
 		{Constrain surface}
 	}
 	{Entity "stone_af1d" 0x496e
@@ -16816,27 +16813,27 @@
 	}
 	{Entity "stone_af1a" 0x4970
 		{Position 1228.48 4381.54}
-		{xform zl 45.1 y 6.6 zw -127.19}
+		{xform zl 8.08 y 5.71 zw -90.01}
 		{Constrain surface}
 	}
 	{Entity "stone_af1b" 0x4971
 		{Position 1194.61 4444.56}
-		{xform zl 34.25 y 12.22 zw -115.99}
+		{xform zl 28.56 y 9.5 zw -110.12}
 		{Constrain surface}
 	}
 	{Entity "stone_af1a" 0x4972
 		{Position 1164.56 4488.98}
-		{xform zl 86.54 y 16.81 zw -109.06}
+		{xform zl 101.59 y 9.28 zw -124.35}
 		{Constrain surface}
 	}
 	{Entity "stone_af1b" 0x4973
 		{Position 1093.06 4491.61}
-		{xform zl 76.9 y 11.77 zw -99.05}
+		{xform zl 72.06 y 6.62 zw -94.27}
 		{Constrain surface}
 	}
 	{Entity "stone_af1a" 0x4974
 		{Position 1361.96 4977.62}
-		{xform zl 59.75 y 3.74 zw -149.51}
+		{xform zl 32.17 y 4.72 zw -121.87}
 		{Constrain surface}
 	}
 	{Entity "stone_af1b" 0x4975
@@ -16846,12 +16843,12 @@
 	}
 	{Entity "stone_af1a" 0x4976
 		{Position 819.32 4767.14}
-		{xform zl 153.97 y 10.93 zw -154.46}
+		{xform zl 151.75 y 10.34 zw -152.18}
 		{Constrain surface}
 	}
 	{Entity "stone_af1b" 0x4977
 		{Position 752.22 4742.3}
-		{xform zl 162.25 y 8.28 zw -162.56}
+		{xform zl 161.06 y 6.76 zw -161.27}
 		{Constrain surface}
 	}
 	{Entity "stone_af1a" 0x4978
@@ -16885,47 +16882,47 @@
 		{Constrain surface}
 	}
 	{Entity "stone_af1a" 0x7bb
-		{Position 222.11 4722.52 75.23}
+		{Position 222.11 4722.52 79.36}
 		{xform zl 102.77}
 	}
 	{Entity "stone_af1b" 0x7bc
 		{Position 261.17 4662.57}
-		{xform zl -67.59 y 12.16 zw 169.57}
+		{xform zl -60.82 y 12.51 zw 162.7}
 		{Constrain surface}
 	}
 	{Entity "stone_af1a" 0x7bd
 		{Position 310.91 4832.71}
-		{xform zl -105.15 y 14.96 zw 164.73}
+		{xform zl -113.23 y 14.27 zw 173.05}
 		{Constrain surface}
 	}
 	{Entity "stone_af1b" 0x7be
 		{Position 297.72 4762.38}
-		{xform zl -119.86 y 15.74 zw 180}
+		{xform zl -101.65 y 12.17 zw 161.32}
 		{Constrain surface}
 	}
 	{Entity "stone_af1a" 0x7bf
 		{Position 368.9 4272.23}
-		{xform zl 171.39 y 11.78 zw -171.05}
+		{xform zl -151.19 y 10.95 zw 148.9}
 		{Constrain surface}
 	}
 	{Entity "stone_af1b" 0x7c0
 		{Position 301.8 4247.39}
-		{xform zl 154.45 y 9.14 zw -154.18}
+		{xform zl -160.89 y 14.27 zw 163.4}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x7c1
 		{Position 274.36 4935.13}
-		{xform zl -170.1 y 13.76 zw 170.38}
+		{xform zl -136.93 y 15.53 zw 135.99}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x7c2
 		{Position 247.91 4821.66}
-		{xform zl 175.35 y 10.85 zw -175.25}
+		{xform zl -176.31 y 10.84 zw 176.26}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x7c3
 		{Position 242.76 4773.91}
-		{xform zl -176.3 y 10.34 zw 176.21}
+		{xform zl -160.6 y 13.44 zw 160.26}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x7c4
@@ -16935,27 +16932,27 @@
 	}
 	{Entity "crash_stone2" 0x7c5
 		{Position 1384.55 4973.35}
-		{xform zl 134.79 y 8.05 zw -134.98}
+		{xform zl 132.86 y 7.79 zw -133.03}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x7c6
 		{Position 1533.83 4935.91}
-		{xform zl 105.69 y 9.74 zw -105.91}
+		{xform zl 110.91 y 8.33 zw -111.19}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x7c7
 		{Position 1105.83 4770.97}
-		{xform zl 134.72 y 8.05 zw -135}
+		{xform zl 122.71 y 10.45 zw -122.83}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x7c8
 		{Position 1181.75 4702.91}
-		{xform zl 121.49 y 11.63 zw -122.02}
+		{xform zl 123.84 y 13.64 zw -124.45}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x7c9
 		{Position 1247.12 4671.21}
-		{xform zl 134.31 y 8 zw -134.65}
+		{xform zl 134.66 y 8.05 zw -135}
 		{Constrain surface}
 	}
 	{Entity "new_birch" 0x7ca
@@ -16989,10 +16986,6 @@
 	{Entity "new_birch" 0x7d1
 		{Position 746.47 3843.85}
 		{xform zl 107.21}
-	}
-	{Entity "new_birch" 0x7d3
-		{Position 476.36 3764.38}
-		{xform zl 106.36}
 	}
 	{Entity "new_birch" 0x7d4
 		{Position 357.48 3955}
@@ -17107,71 +17100,71 @@
 		{xform zl -59.47 scale 1.25}
 	}
 	{Entity "petals" 0x7f4
-		{Position 481.6 3424.28 69.98}
-		{xform zl -31.99}
+		{Position 415.42 3482.59 100.79}
+		{xform zl -49.28}
 	}
 	{Entity "petals" 0x7f5
-		{Position 571.94 3384.92 69.42}
-		{xform zl -31.99}
+		{Position 489.98 3418.16 92.51}
+		{xform zl -49.28}
 	}
 	{Entity "petals" 0x7f6
-		{Position 654.17 3458.59 69.42}
+		{Position 654.17 3458.59 92.23}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x7f7
-		{Position 442.47 3517.62 69.98}
-		{xform zl -31.99}
+		{Position 405.81 3583.34 110.65}
+		{xform zl -49.28}
 	}
 	{Entity "petals" 0x7f8
-		{Position 370.84 3512.75 69.98}
-		{xform zl -31.99}
+		{Position 335.97 3599.99 103.25}
+		{xform zl -49.28}
 	}
 	{Entity "petals" 0x7f9
-		{Position 383.53 3717.8 77.71}
+		{Position 383.53 3717.8 118.93}
 		{xform zl -77.13}
 	}
 	{Entity "petals" 0x7fa
-		{Position 419.36 3626 71.97}
-		{xform zl -77.13}
+		{Position 415.96 3693.69 120.14}
+		{xform zl -94.42}
 	}
 	{Entity "petals" 0x7fb
-		{Position 529.58 3619.69 76.81}
-		{xform zl -77.13}
+		{Position 519.33 3654.9 121.42}
+		{xform zl -94.42}
 	}
 	{Entity "petals" 0x7fc
-		{Position 422.08 3811.38 92.47}
+		{Position 422.08 3811.38 133.23}
 		{xform zl -77.13}
 	}
 	{Entity "petals" 0x7fd
-		{Position 368.1 3858.71 91.33}
+		{Position 368.1 3858.71 131.96}
 		{xform zl -77.13}
 	}
 	{Entity "petals" 0x7fe
-		{Position 530.36 3913.15 114.24}
+		{Position 530.36 3913.15 159.79}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x7ff
-		{Position 620.7 3873.79 114.3}
+		{Position 620.7 3873.79 160.66}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x80d
-		{Position 702.93 3947.46 120.51}
+		{Position 702.93 3947.46 172.68}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x82d
-		{Position 491.23 4006.49 116.02}
+		{Position 491.23 4006.49 165.05}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x82e
-		{Position 419.6 4001.62 105.89}
+		{Position 419.6 4001.62 156.69}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x82f
-		{Position 1194.68 4155.29 129.19}
+		{Position 1194.68 4155.29}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x830
-		{Position 1285.02 4115.93 128.72}
+		{Position 1285.02 4115.93 128.51}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x831
@@ -17179,11 +17172,11 @@
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x832
-		{Position 1155.55 4248.63 132.8}
+		{Position 1155.55 4248.63 142.48}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x833
-		{Position 1083.92 4243.76 131.98}
+		{Position 1083.92 4243.76 147.42}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x834
@@ -17255,15 +17248,15 @@
 		{xform zl 82.15}
 	}
 	{Entity "petals" 0x848
-		{Position 643.62 4573.02 132.98}
+		{Position 643.62 4573.02 135.29}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x849
-		{Position 733.96 4533.66 134.53}
+		{Position 733.96 4533.66 141.77}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x84a
-		{Position 816.19 4607.33 144.24}
+		{Position 816.19 4607.33 147.37}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x84b
@@ -17271,47 +17264,47 @@
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x84c
-		{Position 532.86 4661.49 129.98}
+		{Position 532.86 4661.49 127.22}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x84d
-		{Position 757.59 4272.27 130.98}
+		{Position 757.59 4272.27 160.51}
 		{xform zl 53.52}
 	}
 	{Entity "petals" 0x84e
-		{Position 803.9 4359.25 131.97}
+		{Position 803.9 4359.25 153.09}
 		{xform zl 53.52}
 	}
 	{Entity "petals" 0x84f
-		{Position 736.88 4446.99 132.86}
+		{Position 736.88 4446.99 145.33}
 		{xform zl 53.52}
 	}
 	{Entity "petals" 0x850
-		{Position 661.47 4240.56 129.98}
+		{Position 661.47 4240.56 160.97}
 		{xform zl 53.52}
 	}
 	{Entity "petals" 0x851
-		{Position 660.73 4168.77 128.81}
+		{Position 660.73 4168.77 167.98}
 		{xform zl 53.52}
 	}
 	{Entity "petals" 0x852
-		{Position 899.19 4155.69 128.51}
+		{Position 899.19 4155.69 164.05}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x853
-		{Position 989.53 4116.33 125.97}
+		{Position 989.53 4116.33 155.06}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x854
-		{Position 1071.76 4190 129.94}
+		{Position 1071.76 4190 147.85}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x855
-		{Position 860.06 4249.03 130.98}
+		{Position 860.06 4249.03 161.12}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x856
-		{Position 788.43 4244.16 130.98}
+		{Position 788.43 4244.16 163.61}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x857
@@ -17335,11 +17328,11 @@
 		{xform zl 45.64}
 	}
 	{Entity "petals" 0x85c
-		{Position 1565.48 4608.82 214.4}
+		{Position 1565.48 4608.82 211.98}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x85d
-		{Position 1655.82 4569.46 209.82}
+		{Position 1655.82 4569.46 208.87}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x85e
@@ -17347,11 +17340,11 @@
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x85f
-		{Position 1526.35 4702.16 216.98}
+		{Position 1526.35 4702.16 216.08}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x860
-		{Position 1454.72 4697.29 216.98}
+		{Position 1454.72 4697.29 214.8}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x861
@@ -17367,7 +17360,7 @@
 		{xform zl 76.97}
 	}
 	{Entity "petals" 0x864
-		{Position 1663.95 4830.25 220.97}
+		{Position 1663.95 4830.25 220.96}
 		{xform zl 76.97}
 	}
 	{Entity "petals" 0x865
@@ -17435,7 +17428,7 @@
 		{xform zl -69}
 	}
 	{Entity "petals" 0x87b
-		{Position 1113.59 5005.01 210.97}
+		{Position 1113.59 5005.01 210.28}
 		{xform zl -69}
 	}
 	{Entity "petals" 0x87c
@@ -17451,23 +17444,23 @@
 		{xform zl -69}
 	}
 	{Entity "petals" 0x87f
-		{Position 1295.23 4794.54 216.98}
+		{Position 1295.23 4794.54 213.98}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x880
-		{Position 1385.57 4755.18 216.97}
+		{Position 1385.57 4755.18 215.21}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x881
-		{Position 1467.8 4828.85 218.94}
+		{Position 1467.8 4828.85 218.98}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x882
-		{Position 1256.1 4887.88 216.98}
+		{Position 1256.1 4887.88 215.54}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0x883
-		{Position 1184.47 4883.01 214.98}
+		{Position 1184.47 4883.01 212.53}
 		{xform zl -31.99}
 	}
 	{Entity "stone_af1f" 0x884
@@ -18041,7 +18034,7 @@
 	}
 	{Entity "cane2" 0x900
 		{Position 1990.63 4273.42}
-		{xform zl 154.01 zw -90.07 scale 0.847}
+		{xform zl 63.94 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x901
@@ -18711,7 +18704,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x9e4
 		{Position 2020.19 4281.54}
-		{xform zl -3.78 zw 175.81}
+		{xform zl 172.03}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x9e5
@@ -18911,12 +18904,12 @@
 	}
 	{Entity "ash_tree_bush1" 0xa0c
 		{Position 2502.22 5595.31}
-		{xform zl 168.87 zw 90}
+		{xform zl -101.13}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0xa0d
 		{Position 2549.23 5585.56}
-		{xform zl 147.88 zw -89.98}
+		{xform zl 147.9 zw -90}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0xa0e
@@ -20950,7 +20943,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x2921
 		{Position 2062.44 529.2}
-		{xform zl 84.15 zw 90.03}
+		{xform zl 174.18}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x2922
@@ -21106,7 +21099,7 @@
 	}
 	{Entity "ash_tree_bush2" 0x294c
 		{Position 1670.69 2238.3}
-		{xform zl -19.25 zw 90}
+		{xform zl 70.75}
 		{Constrain surface}
 	}
 	{Entity "ash_bush4" 0x294d
@@ -23107,7 +23100,7 @@
 	}
 	{Entity "cane2" 0x50b7
 		{Position 532.81 801.21}
-		{xform zl -171.87 zw 87.82 scale 0.847}
+		{xform zl -84.05 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x50b8
@@ -23342,7 +23335,7 @@
 	}
 	{Entity "cane2" 0x50e6
 		{Position 220.04 1333.14}
-		{xform zl 116.43 zw -21.94 scale 0.847}
+		{xform zl 94.49 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x50e7
@@ -24630,7 +24623,6 @@
 	}
 	{Entity "stone_af1g" 0x521a
 		{Position 2504.7 -534.74}
-		{xform zl -15.82 zw 15.82}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x521b
@@ -25325,7 +25317,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x52fe
 		{Position 2296.21 -159.48}
-		{xform zl 124.37 zw 20.92}
+		{xform zl 145.29}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x52ff
@@ -25505,7 +25497,7 @@
 	}
 	{Entity "ash_bush4" 0x533d
 		{Position 2716.37 -1198.15}
-		{xform zl 85.62 zw -179.98 scale 0.76}
+		{xform zl -94.36 scale 0.76}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0x533e
@@ -26689,7 +26681,7 @@
 	}
 	{Entity "cane2" 0xb96
 		{Position 257.23 -236.96}
-		{xform zl -55.43 zw -30.04 scale 0.847}
+		{xform zl -85.47 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0xb97
@@ -27125,7 +27117,7 @@
 	}
 	{Entity "cane2" 0xc0f
 		{Position 1561.94 -285.72}
-		{xform zl 33.63 zw 20.35 scale 0.847}
+		{xform zl 53.98 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0xc11
@@ -27334,7 +27326,7 @@
 	}
 	{Entity "cane2" 0xc52
 		{Position 1894.95 -1216.44}
-		{xform zl -83.43 zw 179.97 scale 0.847}
+		{xform zl 96.54 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0xc53
@@ -28224,7 +28216,7 @@
 	}
 	{Entity "ash_bush4" 0xd78
 		{Position 374.8 -459.71}
-		{xform zl -0.01 y 6.6 zw -142.37 scale 0.76}
+		{xform y 6.6 zw -142.37 scale 0.76}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush2" 0xd79
@@ -28569,7 +28561,7 @@
 	}
 	{Entity "ground_clay5x" 0x53d9
 		{Position -3039.97 -35.66}
-		{xform zl 87.79 zw -94.37}
+		{xform zl -6.58}
 		{Constrain surface}
 	}
 	{Entity "ground_clay5x" 0x53da
@@ -28744,7 +28736,7 @@
 	}
 	{Entity "cane2" 0x5400
 		{Position -2555.07 13.42}
-		{xform zl 126.87 zw -124.84 scale 0.847}
+		{xform zl 2.03 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x5401
@@ -30519,7 +30511,7 @@
 	}
 	{Entity "crash_stone1" 0x111c
 		{Position -1185.68 540.18}
-		{xform zl -176.56 zw -168.55}
+		{xform zl 14.89}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
@@ -30602,7 +30594,7 @@
 	}
 	{Entity "dirt_road8" 0x1128
 		{Position -655.58 286.29}
-		{xform zl -162.93 zw 169.99}
+		{xform zl 7.06}
 		{Constrain surface}
 		{TexMod "1"}
 	}
@@ -30614,7 +30606,7 @@
 	}
 	{Entity "dirt_road4" 0x112a
 		{Position -1002.06 355.39}
-		{xform zl -81.44 zw -65.41}
+		{xform zl -146.85}
 		{Constrain surface}
 		{TexMod "1"}
 	}
@@ -30925,7 +30917,7 @@
 	}
 	{Entity "cane2" 0x1173
 		{Position -58.77 1411.39}
-		{xform zl 120.52 zw 131.05 scale 0.847}
+		{xform zl -108.43 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x1174
@@ -31364,7 +31356,7 @@
 	}
 	{Entity "cane2" 0xdfb
 		{Position -547.57 851.53}
-		{xform zl 150.09 y 0.01 zw 43.12 scale 0.847}
+		{xform zl -166.79 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0xdfc
@@ -32490,7 +32482,7 @@
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0xf12
-		{Position -570.69 432.8 152.99}
+		{Position -570.69 432.8}
 		{xform zl -31.99}
 	}
 	{Entity "petals" 0xf13
@@ -32784,7 +32776,7 @@
 	}
 	{Entity "cane2" 0x3010
 		{Position -1963.04 -414.26}
-		{xform zl -161.74 zw -142.7 scale 0.847}
+		{xform zl 55.56 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x3011
@@ -33285,7 +33277,7 @@
 	}
 	{Entity "crash_stone2" 0x30ba
 		{Position -2098.08 -487.81}
-		{xform zl -63.22 zw 64.85}
+		{xform zl 1.63}
 		{Constrain surface}
 		{DecalOrder 1}
 	}
@@ -33413,7 +33405,7 @@
 	}
 	{Entity "ash_tree_bush2" 0x30fc
 		{Position -2510.29 -438.86}
-		{xform zl -133.87 zw 79.05 scale 0.773}
+		{xform zl -54.82 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x30fd
@@ -33497,7 +33489,7 @@
 	}
 	{Entity "ash_tree_bush2" 0x3112
 		{Position -1948.41 -429.35}
-		{xform zl -112.31 zw 26.38 scale 0.773}
+		{xform zl -85.93 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x3113
@@ -34172,7 +34164,7 @@
 	}
 	{Entity "cane2" 0x11b9
 		{Position -1511.99 -669.98}
-		{xform zl 127.79 zw -16.34 scale 0.847}
+		{xform zl 111.45 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x11ba
@@ -34456,7 +34448,7 @@
 	}
 	{Entity "cane2" 0x122a
 		{Position -348.54 -1192.4}
-		{xform zl 161.21 y 5.7 zw -0.01 scale 0.847}
+		{xform zl 161.21 y 5.7 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x122b
@@ -34737,7 +34729,7 @@
 	}
 	{Entity "ash_tree_bush2" 0x12d6
 		{Position -1745.24 -858.41}
-		{xform zl -179.96 zw 180 scale 0.773}
+		{xform zl 0.04 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x12d7
@@ -34917,7 +34909,7 @@
 	}
 	{Entity "ash_tree_bush1" 0x1320
 		{Position -540.13 -109.42 149}
-		{xform zl 74.82 zw 170.37}
+		{xform zl -114.81}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x1321
@@ -35346,7 +35338,7 @@
 	}
 	{Entity "ash_tree_bush2" 0x13c2
 		{Position -1814.89 -671.72}
-		{xform zl 95.66 zw -167.95 scale 0.773}
+		{xform zl -72.29 scale 0.773}
 		{Constrain surface}
 	}
 	{Entity "ash_tree_bush1" 0x13c3
@@ -37389,58 +37381,58 @@
 		{Constrain surface}
 	}
 	{Entity "stone_af1d" 0x6809
-		{Position -106.15 3899.8 83.1}
-		{xform zl -95.84 y 26.13 zw 16.74}
+		{Position -106.15 3899.8 82.1}
+		{xform zl -95.81 y 26.18 zw 16.71}
 		{Constrain surface}
 	}
 	{Entity "stone_af1b" 0x680a
 		{Position -27.11 3928.87}
-		{xform zl -11.73 y 12.38 zw 11.85}
+		{xform zl -16.36 y 14.16 zw 16.47}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x680b
 		{Position -118.58 3955.2}
-		{xform zl 12.89 y 12.73 zw -13.43}
+		{xform zl 11.24 y 13.76 zw -11.69}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x680c
 		{Position -67.31 3908.52}
-		{xform zl -2.01 y 11.32 zw 2.31}
+		{xform zl 14.66 y 5.09 zw -14.82}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x680d
 		{Position -100.73 3944.18}
-		{xform zl -0.16 y 13.95 zw -0.34}
+		{xform zl 12.88 y 15.92 zw -13.76}
 		{Constrain surface}
 	}
 	{Entity "stone_af1b" 0x680e
-		{Position -159.86 3903.44 106.13}
-		{xform zl -9.89 y 23.51 zw 10.69}
+		{Position -159.86 3903.44 105.11}
+		{xform zl -7.93 y 21.43 zw 8.39}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x680f
-		{Position -161.4 3859.91 105.45}
-		{xform zl -18.99 y 30.01 zw 21.93}
+		{Position -161.4 3859.91 103.5}
+		{xform zl -23.8 y 29.16 zw 27.01}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x6810
 		{Position -91.32 3835.37}
-		{xform zl -44.24 y 13.2 zw 44.74}
+		{xform zl -24.66 y 11.44 zw 24.9}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x6811
 		{Position -139.45 3898.21}
-		{xform zl -14.11 y 18.82 zw 14.52}
+		{xform zl -2.51 y 18.33 zw 2.3}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x6812
 		{Position -105.65 4153.69}
-		{xform zl 7.2 y 13.41 zw -7.78}
+		{xform zl 7.44 y 13.01 zw -8.01}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x6813
 		{Position -102.14 4083.11}
-		{xform zl -7.9 y 16.76 zw 8.1}
+		{xform zl 5.93 y 17.03 zw -6.32}
 		{Constrain surface}
 	}
 	{Entity "stone_af1g" 0x6814
@@ -37450,24 +37442,24 @@
 	}
 	{Entity "stone_af1g" 0x6815
 		{Position -94.62 4004.51}
-		{xform zl -6.31 y 5.15 zw 5.96}
+		{xform zl -6.29 y 5.17 zw 5.94}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x6816
 		{Position -70.25 4149.88}
-		{xform zl -174.13 y 13.64 zw 173.94}
+		{xform zl -153.48 y 9.37 zw 152.89}
 		{Constrain surface}
 		{DecalOrder 1}
 	}
 	{Entity "crash_stone2" 0x6817
 		{Position -116.92 3986.52}
-		{xform zl -17.45 y 21.69 zw 17.93}
+		{xform zl -14.48 y 21.7 zw 14.78}
 		{Constrain surface}
 		{DecalOrder 1}
 	}
 	{Entity "crash_stone2" 0x6818
-		{Position -140.58 3881.13 98.1}
-		{xform zl -2.3 y 24.45 zw 5.53}
+		{Position -140.58 3881.13 96.26}
+		{xform zl 4.22 y 27.29 zw -1.53}
 		{Constrain surface}
 		{DecalOrder 1}
 	}
@@ -37479,25 +37471,25 @@
 	}
 	{Entity "crash_stone2" 0x681a
 		{Position -76.2 4058.29}
-		{xform zl -173.25 y 12.51 zw 173.1}
+		{xform zl -168.57 y 16.29 zw 168.33}
 		{Constrain surface}
 		{DecalOrder 1}
 	}
 	{Entity "crash_stone1" 0x681b
 		{Position -121.43 4083.17}
-		{xform zl -85.55 y 15.44 zw -1.63}
+		{xform zl -70.84 y 16.1 zw -17}
 		{Constrain surface}
 		{TexMod "kjust"}
 		{DecalOrder 2}
 	}
 	{Entity "cane2" 0x681c
 		{Position -59.77 4098.4}
-		{xform zl -129.71 y 7.87 zw -155.58 scale 0.847}
+		{xform zl -102.2 y 13.13 zw 177.2 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "cane2" 0x681d
 		{Position -69.24 4064.36}
-		{xform zl -60.74 y 12.46 zw 174.31 scale 0.847}
+		{xform zl -62.37 y 13.35 zw 175.8 scale 0.847}
 		{Constrain surface}
 	}
 	{Entity "crash_stone2" 0x681f
@@ -38269,5 +38261,199 @@
 	{Entity "new_birch" 0x461d
 		{Position -354.99 4747.8 136.07}
 		{xform zl 21.96 scale 1.25}
+	}
+	{Entity "cane2" 0x8
+		{Position 369.85 3616.77}
+		{xform zl 110.76 y 17.67 zw -96.26 scale 0.847}
+		{Constrain surface}
+	}
+	{Entity "stone_af1f" 0xb
+		{Position 465.47 3554.34}
+		{xform zl -52.49 y 10.75 zw -114.44}
+		{Constrain surface}
+	}
+	{Entity "stone_af1f" 0x1c
+		{Position 416.82 3618.72}
+		{xform zl 35.27 y 22.16 zw -117.58}
+		{Constrain surface}
+	}
+	{Entity "stone_af1f" 0x1d
+		{Position 547.76 3565.71 115.38}
+		{xform zl -64.11 y 16.72 zw -102.27}
+		{Constrain surface}
+	}
+	{Entity "stone_af1e" 0x1e
+		{Position 487.57 3514.95}
+		{xform zl -87.25 y 17.61 zw -83.41}
+		{Constrain surface}
+	}
+	{Entity "stone_af1e" 0x24
+		{Position 348.8 3659.21}
+		{xform zl -40.71 y 18.19 zw -116.39}
+		{Constrain surface}
+	}
+	{Entity "stone_af1d" 0x27
+		{Position 387.29 3566.34}
+		{xform zl -40.04 y 11.4 zw -108.32}
+		{Constrain surface}
+	}
+	{Entity "stone_af1d" 0x28
+		{Position 621.4 3582.54 119}
+		{xform zl -119.2 y 13.7 zw -47.01}
+		{Constrain surface}
+	}
+	{Entity "stone_af1d" 0x29
+		{Position 523.15 3601.43 116.87}
+		{xform zl -50.92 y 16.2 zw -112.24}
+		{Constrain surface}
+	}
+	{Entity "stone_af1d" 0x31
+		{Position 540.04 3516.89}
+		{xform zl -67.16 y 20.24 zw -97.17}
+		{Constrain surface}
+	}
+	{Entity "stone_af1c" 0x34
+		{Position 444.6 3496}
+		{xform zl -53.79 y 12.67 zw -110.74}
+		{Constrain surface}
+	}
+	{Entity "stone_af1b" 0x35
+		{Position 408.49 3537.63}
+		{xform zl -57.86 y 14.21 zw -107.13}
+		{Constrain surface}
+	}
+	{Entity "stone_af1b" 0x3f
+		{Position 364.82 3609.58 104.29}
+		{xform zl -123.54 y 39.85 zw -45.66}
+		{Constrain surface}
+	}
+	{Entity "stone_af1b" 0x40
+		{Position 597.46 3559.5 116.93}
+		{xform zl -72.67 y 12.31 zw -90.32}
+		{Constrain surface}
+	}
+	{Entity "stone_af1g" 0x49
+		{Position 515.36 3508.57}
+		{xform zl -81.93 y 15.83 zw -81.19}
+		{Constrain surface}
+	}
+	{Entity "stone_af1g" 0x4b
+		{Position 428.53 3530.13}
+		{xform zl -70.65 y 15.99 zw -96.76}
+		{Constrain surface}
+	}
+	{Entity "stone_af1g" 0x56
+		{Position 400.09 3611.63}
+		{xform zl -49.63 y 15.41 zw -110.15}
+		{Constrain surface}
+	}
+	{Entity "stone_af1g" 0x5c
+		{Position 434 3619.15}
+		{xform zl -47.54 y 18.35 zw -112.31}
+		{Constrain surface}
+	}
+	{Entity "stone_af1g" 0x5d
+		{Position 491.18 3590.6 115.56}
+		{xform zl -51.08 y 16.48 zw -113.85}
+		{Constrain surface}
+	}
+	{Entity "stone_af1g" 0x62
+		{Position 587.31 3597.05 119.27}
+		{xform zl -66.46 y 25.95 zw -96.3}
+		{Constrain surface}
+	}
+	{Entity "stone_af1g" 0x69
+		{Position 544.13 3522.67}
+		{xform zl -48.47 y 14.41 zw -117.58}
+		{Constrain surface}
+	}
+	{Entity "stone_af1g" 0x6a
+		{Position 546.59 3637.41}
+		{xform zl -44.42 y 15.46 zw -118.84}
+		{Constrain surface}
+	}
+	{Entity "stone_af1g" 0x6c
+		{Position 523.74 3498.59}
+		{xform zl -70.79 y 12.09 zw -87.34}
+		{Constrain surface}
+	}
+	{Entity "stone_af1g" 0x6e
+		{Position 670.13 3557.24}
+		{xform zl -97.66 y 27.72 zw -50.89}
+		{Constrain surface}
+	}
+	{Entity "crash_stone2" 0x7f
+		{Position 352.12 3575.96}
+		{xform zl -33.01 y 22.54 zw -108.15}
+		{Constrain surface}
+	}
+	{Entity "crash_stone2" 0x8e
+		{Position 402.42 3586.13}
+		{xform zl -54.69 y 9.65 zw -104.89}
+		{Constrain surface}
+	}
+	{Entity "crash_stone2" 0x8f
+		{Position 424.54 3520.92}
+		{xform zl -70.47 y 11.72 zw -93.35}
+		{Constrain surface}
+	}
+	{Entity "crash_stone2" 0x91
+		{Position 514.18 3575.9 114.84}
+		{xform zl -71.25 y 19.43 zw -95.12}
+		{Constrain surface}
+	}
+	{Entity "crash_stone2" 0x95
+		{Position 467.71 3614.94}
+		{xform zl -67.56 y 19.53 zw -94.26}
+		{Constrain surface}
+	}
+	{Entity "crash_stone2" 0x96
+		{Position 559.82 3611.63 119.07}
+		{xform zl -61.72 y 15.05 zw -102.04}
+		{Constrain surface}
+	}
+	{Entity "crash_stone2" 0xa1
+		{Position 572.07 3537.51}
+		{xform zl -51.33 y 13.97 zw -110.77}
+		{Constrain surface}
+	}
+	{Entity "crash_stone2" 0xa7
+		{Position 503.99 3489.03}
+		{xform zl -80.97 y 15.39 zw -80.18}
+		{Constrain surface}
+	}
+	{Entity "ash_tree_bush1" 0xb4
+		{Position 439.99 3613.17}
+		{xform zl 23.68 y 20.8 zw -101.04 scale 0.78}
+		{Constrain surface}
+	}
+	{Entity "ash_tree_bush2" 0xc4
+		{Position 400.56 3630.41}
+		{xform zl -126.65 y 23.71 zw -109.89 scale 0.813}
+		{Constrain surface}
+	}
+	{Entity "ash_tree_bush2" 0xc5
+		{Position 363.05 3686.28}
+		{xform zl -20.03 y 19.96 zw -108.16}
+		{Constrain surface}
+	}
+	{Entity "ash_bush4" 0xf8
+		{Position 540.01 3568.08 115.64}
+		{xform zl -147.54 y 15.26 zw -123.32 scale 0.76}
+		{Constrain surface}
+	}
+	{Entity "ash_tree_bush2" 0xf9
+		{Position 624.13 3568.06}
+		{xform zl -123.45 y 19.55 zw -57.15 scale 0.773}
+		{Constrain surface}
+	}
+	{Entity "ash_tree_bush2" 0xfa
+		{Position 599.88 3513.28}
+		{xform zl 0.29 y 23.34 zw -75.75}
+		{Constrain surface}
+	}
+	{Entity "new_birch" 0xfc
+		{Position 450.37 3888.07}
+		{xform zl 167.28}
 	}
 }
