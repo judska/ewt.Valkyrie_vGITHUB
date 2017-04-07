@@ -2,16 +2,16 @@
 	{filling "bullet93"}
 	{fireSound "gun/85to100_cal/93mm_vickers"}	
 	{reloadSound "gun_r04"}
-	{rechargeTime 7}
-	("range_long")
+	{rechargeTime 5.83}
+	("range_maximum")
 	
 	("speed" s(793))
 	("caliber_large")
 	{projectileDamage 151}
-	("damage_140" a(151) b(143) c(134) d(125) e(115))   
+	("damage_150" a(151) b(143) c(134) d(125) e(115))   
 	{parameters "apcr"
-        ("damage_110" a(176) b(163) c(149) d(135) e(120))
+        ("damage_120" a(176) b(163) c(149) d(135) e(120))
 	}
 	
-	("accuracy_high")
+	("accuracy_high_1")
 }

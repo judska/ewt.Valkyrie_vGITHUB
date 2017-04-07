@@ -307,7 +307,7 @@
 
 	{bone "gun_rot"
 		{speed 0.007}
-		{limits -25 3}
+		{limits -8 8}
 	}
 }
 

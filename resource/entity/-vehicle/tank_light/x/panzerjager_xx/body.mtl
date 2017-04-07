@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "panzerjager_xx"}
+	{bump "$/model/panzerjager_i_nm"}
+	{specular "$/model/panzerjager_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

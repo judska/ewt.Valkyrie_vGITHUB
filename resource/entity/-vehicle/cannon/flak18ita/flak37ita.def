@@ -83,7 +83,7 @@
 	}
 	{Weaponry
 		{place "gun"
-			{weapon "88mm_flak37" filled}
+			{weapon "88mm_flak37_1" filled}
 			("abm_field_gun")
 		}
 	}  	

@@ -323,8 +323,8 @@
 
 		{"hero1_ger" "Veteran Sniper"}
 		{"hero2_ger1" "German Youth"}
-		{"hero3_ger" "Brandenburger"}
-		{"hero4_ger1" "Blitzkrieg!"}
+		{"hero3_ger" "Panzerjager"}
+		{"hero4_ger" "Brandenburger"}
 		{"hero5_ger" "Fallschirmjager"}
 		{"hero6_ger" "Nebelwerfer 41"}
 		{"hero7_ger" "Radio Operator"}
@@ -378,7 +378,7 @@
 		{"hero3_hun" "Szent Laszlo Infantry"}
 		{"hero4_hun" "Arrow Cross Fanatics"}
 		{"hero5_hun" "SdKfz 250/9"}
-		{"hero6_hun" "Hetzer!"}
+		{"hero6_hun" "Hetzer"}
 		{"hero7_hun" "Turan 2"}
 		{"hero8_hun" "Rapid Corps"}
 		{"hero9_hun" "Radio Operator"}		
@@ -410,7 +410,7 @@
         {"hero9_fin" "Modified KV-1"}
         {"hero10_fin" "Nebelwefer 42"}
         {"hero11_fin" "Captured SU-152"}
-        {"hero12_fin" "Thor's Hammer"}
+        {"hero12_fin" "Pin-prick artillery"}
 
         {"hero1_ita" "Polizia Militare"}
         {"hero2_ita" "Caccia Carri"}

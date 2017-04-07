@@ -1,0 +1,119 @@
+{entity
+	(include "/properties/tank.ext")
+	(include "/properties/selection/vehicle.inc" scale(1.2))
+
+	{collider "tank.light"}
+	{props "light" "-turret" "opened"  "vision_vehicle_medium" "muzzle_medium"}
+	{targetClass "light_tank" "ger_bullet"}
+	{targetSelector "tank_ger_bullet"}
+	{patherId "tank.light"}
+	{extension "crew.ext"}
+
+	{volume "body1"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body2"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body3"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body4"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body5"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body6"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body7"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body8"
+		{tags "body"}
+		{component "body"}
+	}
+	{volume "body9"
+		{tags "body"}
+		{component "body"}
+	}
+	("armor_light" turret(15) body(13 10 10 6))
+	("armor_engine"  t(5 10 10 6))
+
+	{extender "inventory"
+		{box
+			{item "bullet47 ap" 43}
+			{item "bullet47 fg" 18}
+            {item "bullet47 apcr" 5}			
+			{item "repair_kit" 1}
+		}
+	}
+	{Weaponry
+		{place "gun"
+                        		{Rotate}
+			{RestoreIKAfterAim}
+                        		{weapon "47mm_pak" filling "bullet47 ap" 1}
+                        		{charger "commander"}
+			("abm_low")
+		}
+	}
+
+	{sensor
+    		{visor "main"
+        		{vision "tank_main-l"}
+        		{bone "visor1"}
+    		}
+    		{Visor "driver"
+       		 	{vision "tank_driver"}
+        		{bone "visor1"}
+    		}
+	}
+
+	{mass 5900}
+	{Chassis
+		("tank_trace" fx("tracks_sm2") step(0.15) len(0.13))
+		{Locomotion ("locomotion")
+			(mod "mp" 
+				{maxspeed   30}
+				{maxSpeedAtMaxTurn 18}
+				{StartTime  12}
+				{TurnTime   7}
+				{TurnStart  0.9}			
+				{TurnRadius 6} 
+	    		{TurnStop   0.5}
+				{BrakeTime  1}
+				{StopTime   2}
+     			{Gears  0.1 0.25 0.625}
+				{RearGears  0.17}
+			)
+		}
+		(mod "mp"
+			{FuelBag
+				{volume 140 }	
+				{rate	50 }   
+				{remain 140 }
+				{fuel "fuel"}
+			}
+		    {speed
+        		{Normal  12}
+    		}
+		)
+	}
+
+	{Extension "panzerjager.mdl"}
+	
+	{bone "gun_rot"
+		{limits -17 20}
+	}
+	{bone "turret"
+		{limits -8 8}
+	}
+}

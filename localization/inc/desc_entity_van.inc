@@ -241,6 +241,7 @@
 		{"pak43" "PaK 43"}
 		{"pak47" "47mm Type 1"}
 		{"pak57" "57mm Type 2"}
+		{"panzerjager" "Panzerjager I"}
 		{"passengervan" "Passenger car"}
 		{"pdr25" "QF 25-pdr"}
 		{"pg1" "Motor boat"}
