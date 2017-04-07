@@ -220,6 +220,7 @@
 {"mp/fin/smg3" ("smg" side(fin))}
 {"mp/ita/smg3" ("smg" side(ita))}
 {"mp/chn/smg3" ("smg" side(chn))}
+{"mp/anz/smg3" ("smg" side(anz))}
 
 {"mp/eng/smg4" ("smg" side(eng))}
 {"mp/fin/smg4" ("smg" side(fin))}

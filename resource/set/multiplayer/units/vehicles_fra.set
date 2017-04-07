@@ -14,7 +14,7 @@
 ;°°°Button 2°°°
 
 {"hotchkiss_stan"           ("vs" c(300) t(all cannon)	s(fra) n(2) g(c1) sc(100.00) b(v2) cw(2) cp(5)) {level 1} {cost 100} {fore 0.5}}
-{"13mm_hotchkiss"           ("vs" c(300) t(all cannon)	s(fra) n(2) g(c1) sc(150.00) b(v2) cw(2) cp(5)) {level 1} {cost 150} {fore 0.5}}
+{"13mm_hotchkiss"           ("vs" c(300) t(all cannon)	s(fra) n(2) g(c1) sc(160.00) b(v2) cw(2) cp(5)) {level 1} {cost 160} {fore 0.5}}
 {"mle_27"		            ("vs" c(0) t(all cannon mediumcan) 	s(fra) n(2) g(c3) sc(270.00) b(v2) cw(2) cp(5)) {level 1} {cost 270} {fore 1.0}}
 
 {"25mm_hotchkiss_mle34"     ("vs" c(0) t(all cannon) 	s(fra) n(2) g(c4) sc(105.00)  b(v2) cw(2) cp(5)) {level 1} {cost 105} {fore 0.5}}

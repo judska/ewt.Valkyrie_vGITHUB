@@ -26,7 +26,8 @@
 		}
 		{"cannon" 1.0
 		}
-		
+		{"stealth"
+		}
 		{"pistol" lvl_2
 		}
 		{"smg" lvl_1
