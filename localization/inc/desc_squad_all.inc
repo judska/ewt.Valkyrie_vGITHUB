@@ -323,7 +323,7 @@
 
 		{"hero1_ger" "Veteran Sniper"}
 		{"hero2_ger1" "German Youth"}
-		{"hero3_ger" "Panzerjager"}
+		{"hero3_ger" "Panzerjager I"}
 		{"hero4_ger" "Brandenburger"}
 		{"hero5_ger" "Fallschirmjager"}
 		{"hero6_ger" "Nebelwerfer 41"}

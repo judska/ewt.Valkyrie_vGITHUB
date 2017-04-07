@@ -53,7 +53,7 @@
 
 ;°°°Button Hero°°°
 
-{"hero1_anz"        ("v1" c(120) c1(boyes_gun_carrier)          t(all hero) s(anz) n1(vehicle_supporter:4) n2(bazooker:1) n3(bazooker2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"hero1_anz"        ("v1" c(120) c1(boyes_gun_carrier)          t(all hero) s(anz) n1(sturmovik:4) n2(sturmovik5:1) n3(sturmovik5b:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero2_anz"        ("i2" c(120)					            t(all hero) s(anz) n1(elite7:1) n2(elite8:7) n3(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero3_anz"        ("v1" c(120) c1(qf13)                       t(all hero) s(anz) n1(vehicle_supporter:2) n2(bazooker:0) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
@@ -66,5 +66,6 @@
 {"hero9_anz"        ("i2" c(480)					            t(all hero) s(anz) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 
 {"hero10_anz"       ("v1" c(600) c1(staghound_e1)               t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
-{"hero11_anz"	    ("v1" c(720) c1(sexton)                     t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h6) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
-{"hero12_anz"       ("v1" c(720) c1(churchill_mk_v_cs)          t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h6) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
+{"hero11_anz"       ("v1" c(600) c1(churchill_mk_v_cs)          t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
+{"hero12_anz"	    ("v1" c(720) c1(sexton)                     t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h6) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
+
