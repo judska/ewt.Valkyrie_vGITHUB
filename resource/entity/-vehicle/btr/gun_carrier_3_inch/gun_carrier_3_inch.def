@@ -132,7 +132,7 @@
 
 	{extender "inventory"
 		{box
-			{item "ammo mortar150 fg" 50}
+			{item "ammo mortar120 fg" 50}
 			{item "ammo mgun" 1100}
 			{item "bren" filled {user "mgun"}}
 		}

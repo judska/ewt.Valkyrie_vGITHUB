@@ -1,6 +1,6 @@
 {weapon_bullet
 	{tag "mrl gun"}
-	{filling "ammo mortar150 fg" 1}
+	{filling "ammo mortar120 fg" 1}
 	{fillingVisible "rocket"}
 
 	{fireSound "reactive/Heavymortar1"}
@@ -14,8 +14,8 @@
 			2.5	2.5
 		}
 	}
-	{aimRange 110}
-	{maxRange 110}
+	{aimRange 120}
+	{maxRange 120}
 	{rechargeTime 8}
 	{gravity 6}
 	{ZeroingAccuracy 0.95 0.9 0.85}

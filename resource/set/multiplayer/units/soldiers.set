@@ -409,6 +409,16 @@
 {"mp/anz/at_miner" ("ap_miner" side(anz))}
 
 
+(define "elite_heavy"
+    {tags   "elite %side infantry man"}
+    {cp 6.0}
+    {score  26.00}
+    {basic}
+    {breed}
+    {cw 3.0}
+)
+{"mp/rus/elite3" ("elite_heavy" side(rus))}
+
 
 (define "elite"
     {tags   "elite %side infantry man"}
@@ -442,7 +452,6 @@
 {"mp/chn/elite2" ("elite" side(chn))}
 {"mp/anz/elite2" ("elite" side(anz))}
 
-{"mp/rus/elite3" ("elite" side(rus))}
 {"mp/ger/elite3" ("elite" side(ger))}
 {"mp/eng/elite3" ("elite" side(eng))}
 {"mp/usa/elite3" ("elite" side(usa))}
