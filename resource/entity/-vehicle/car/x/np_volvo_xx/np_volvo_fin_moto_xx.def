@@ -1,0 +1,23 @@
+{game_entity
+	{Extension "volvo_xx.mdl"}
+	{Volume "body"
+	}
+	{Volume "cabin"
+	}
+	{Volume "engine"
+	}
+	{Volume "part1"
+	}
+	{Volume "part2"
+	}
+	{Volume "part3"
+	}
+	{Volume "wheelleft1"
+	}
+	{Volume "wheelleft2"
+	}
+	{Volume "wheelright1"
+	}
+	{Volume "wheelright2"
+	}
+}
