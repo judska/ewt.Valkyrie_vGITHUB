@@ -46,13 +46,13 @@
 	}
 	{inventory
 		{item "mp40" filled}
+        {item "weapon panzershreck" filled}	
 		{item "ammo pistol" 500}
 		{item "bandage" 5}
 		{item "grenade m39" 2}
 		{item "smoke grenade" 2}
 		{item "dynamite" 1}
-		{item "panzerfaust weapon" filled}
-		{item "panzerfaust weapon" filled}
+		{item "ammo panzershreck" 5}
 		{in_hands 0}
 	}
 }

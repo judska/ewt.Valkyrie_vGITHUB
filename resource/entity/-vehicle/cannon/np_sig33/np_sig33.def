@@ -38,7 +38,7 @@
 	}
 	{Weaponry
 		{place "gun"
-			{weapon "150mm_sig33" filled}    
+			{weapon "150mm_sig33" filling "ammo bullet150 fg" 1}    
 			("abm_howitzer")
 		}
 	}

@@ -32,9 +32,9 @@
 
 	{extender "inventory"
 		{box
-                {item "ammo bullet152 fg" 40}
+		        {item "ammo bullet152 ap" 18}
+                {item "ammo bullet152 fg" 42}
                 {item "ammo bullet152 sm" 5}
-                {item "ammo bullet152 ap" 20}
 		}
 	}
 	{Weaponry

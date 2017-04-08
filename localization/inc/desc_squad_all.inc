@@ -349,7 +349,7 @@
 		
 		{"hero1_rus" "Spetsnaz"}
 		{"hero2_rus" "Shock Infantry"}
-		{"hero3_rus1" "Amphibious Assault!"}
+		{"hero3_rus1" "Black Coats"}
 		{"hero4_rus" "Guards Sniper"}
 		{"hero5_rus" "Guards Rifle"}
 		{"hero6_rus" "Charge!"}
@@ -407,8 +407,8 @@
         {"hero6_fin" "Prototype BT-42"}
         {"hero7_fin" "Toerni Detachement"}
         {"hero8_fin" "Radio Operator"}
-        {"hero9_fin" "Modified KV-1"}
-        {"hero10_fin" "Nebelwefer 42"}
+        {"hero9_fin" "Nebelwefer 42"}
+        {"hero10_fin" "Modified KV-1"}
         {"hero11_fin" "Captured SU-152"}
         {"hero12_fin" "Pin-prick artillery"}
 
@@ -416,7 +416,7 @@
         {"hero2_ita" "Caccia Carri"}
         {"hero3_ita" "Carro Armato L35/L.F."}
         {"hero4_ita" "45mm Brixia Modello 35"}
-        {"hero5_ita" "Eroi di Stalingrado"}
+        {"hero5_ita" "ARMIR"}
         {"hero6_ita" "Cannone Movente"}
         {"hero7_ita" "PzKpfw III Ausf.N"}
         {"hero8_ita" "Radio Operator"}
@@ -434,7 +434,7 @@
         {"hero7_chn" "Burma Road Soliders"}
         {"hero8_chn" "122mm A-19"}
         {"hero9_chn" "Radio Operator"}
-        {"hero10_chn" "China Uprising"}
+        {"hero10_chn" "United Chinese Front"}
         {"hero11_chn" "Foreign Aid"}
         {"hero12_chn" "WZ-111"}
 
@@ -447,9 +447,9 @@
         {"hero7_anz" "Staghound OF 6-pdr"}   
         {"hero8_anz" "4.2 inch Mortar carrier"}        
         {"hero9_anz" "Radio Operator"}         
-        {"hero10_anz" "Staghound Tulip"} 
-        {"hero11_anz" "Sexton TD"}
-        {"hero12_anz" "Churchill Mk. VCS"}
+        {"hero10_anz" "Staghound Tulip"}
+        {"hero11_anz" "Churchill Mk. VCS"}
+        {"hero12_anz" "Sexton TD"}
 
 
 

@@ -46,7 +46,6 @@
 
 ;°°°Button 5°°°
 
-{"t-26_td_custom"  ("v" c(0) t(all medium) 		     s(chn) n1(2) n2(1) g(f1) sc(225.00) b(v5) cw(0) cp(5)) {level 1} {cost 225} {fore 1.0}}
 {"m18_chn"         ("v" c(0) t(all medium) 		     s(chn) n1(4) n2(1) g(f1) sc(475.00) b(v5) cw(0) cp(10)) {level 1} {cost 475} {fore 1.0}} 	
 
 

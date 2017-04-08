@@ -38,5 +38,7 @@
 				{"marder1392" "Marder III Ausf. M"}
 		{"tas_44m" "Tas 44M"}
 		{"tas_44td" "Tas 44M TD"}
-				{"tas_44td2" "Tas 44M TD"}
-                {"solothurn_hun" "Solothurn S-18/1000"} 
+		{"tas_44td2" "Tas 44M TD"}
+        {"solothurn_hun" "Solothurn S-18/1000"}
+        {"np_sig33 " "15 cm sIG 33"}
+                

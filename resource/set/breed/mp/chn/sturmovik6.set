@@ -8,7 +8,7 @@
 		{head helmet1_cha}
 	}
 	{perks
-		{"health" "250%"
+		{"health" "350%"
 		}
 		{"health_regeneration" "100%"
 		}
@@ -26,17 +26,17 @@
 		}
 		{"cannon" 1.0
 		}
-		{"pistol" lvl_3
+		{"pistol" lvl_4
 		}
-		{"smg" lvl_3
+		{"smg" lvl_4
 		}
-		{"mgun" lvl_3
+		{"mgun" lvl_4
 		}
-		{"rifle" lvl_3
+		{"rifle" lvl_4
 		}
-		{"rocketlauncher" lvl_3
+		{"rocketlauncher" lvl_4
 		}
-		{"melee" lvl_3
+		{"melee" lvl_4
 		}
 	}
 	{veterancy
