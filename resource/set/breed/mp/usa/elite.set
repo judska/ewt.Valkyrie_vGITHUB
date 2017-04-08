@@ -52,7 +52,6 @@
 		{item "grenade m61" 4}
 		{item "grenade n73at" 2}
 		{item "smoke grenade" 2}
-                {item "entrenching_tool" 1}
-                {in_hands 0}
+        {in_hands 0}
 	}
 }

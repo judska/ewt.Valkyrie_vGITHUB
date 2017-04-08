@@ -50,8 +50,8 @@
 		{item "bandage" 3}
 		{item "grenade mk1" 2}
         {item "mask_ger_afr" 1}
-		{item "ammo super_bazooka" 5}
-		{item "weapon super_bazooka" filled}
+		{item "weapon piatrocket" filled}
+		{item "ammo piatrocket" 5}
 		{in_hands 0}
 	}
 }

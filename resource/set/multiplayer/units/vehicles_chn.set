@@ -4,7 +4,7 @@
 ;°°°Button 1°°°
 
 {"willysmb_chn"         ("vs" c(60) t(all)		s(chn) n(3) g(b1) sc(110.00) b(v1) cw(0) cp(0)) {level 1} {cost 110} {fore 1.0}}
-{"universal_carrier"    ("vs" c(300) t(all) 		s(chn) n(2) g(b3) sc(130.00) b(v1) cw(0) cp(0)) {level 1} {cost 130} {fore 0.5}}
+{"universal_carrier"    ("vs" c(300) t(all) 		s(chn) n(2) g(b3) sc(90.00) b(v1) cw(0) cp(0)) {level 1} {cost 90} {fore 0.5}}
 {"m3_chn"               ("vs" c(300) t(all) 		s(chn) n(2) g(b4) sc(150.00) b(v1) cw(0) cp(0)) {level 1} {cost 150} {fore 0.5}}
 
 {"chevrolet"   	        ("vs" c(60) t(all supply) 	s(chn) n(2) g(b5) sc(50.00) b(v1) cw(0) cp(0)) {level 1} {cost 50} {fore 1.0}}

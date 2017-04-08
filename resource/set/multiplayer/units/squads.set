@@ -209,7 +209,7 @@
 {"storm_mech_fin"      ("vb3" c(180) c1(bt5_fin) 	        t(all stormtroopers inf_only) s(fin) n1(4) n2(2) n3(2) 		g(squad_4) b(squad1)) {level 12} {cost 470} {fore 1.0}}
 {"storm_mech_ita"      ("vb3" c(180) c1(sdkfz251_1ita) 	t(all stormtroopers inf_only) s(ita) n1(6) n2(2) n3(2) 		g(squad_4) b(squad1)) {level 12} {cost 450} {fore 1.0}}
 {"storm_mech_chn"      ("vb3" c(180) c1(m3_chn) 	        t(all stormtroopers inf_only) s(chn) n1(6) n2(2) n3(2) 		g(squad_4) b(squad1)) {level 12} {cost 410} {fore 1.0}}
-{"storm_mech_anz"      ("vb4" c(180) c1(m30kangaroo) 		t(all stormtroopers inf_only) s(anz) n1(6) n2(2) n3(1) n4(1) 	g(squad_4) b(squad1)) {level 12} {cost 440} {fore 1.0}}
+{"storm_mech_anz"      ("vb4" c(180) c1(m30kangaroo) 		t(all stormtroopers inf_only) s(anz) n1(6) n2(2) n3(1) n4(1) 	g(squad_4) b(squad1)) {level 12} {cost 505} {fore 1.0}}
 
 ("squad_with1types" side(rus) name(ap_miners) c(30) g(squad_7) c1(ap_miner:4) b(squad1) t(all inf_only engineers mines) level(11) cost(125) f(1.0))
 ("squad_with1types" side(ger) name(ap_miners) c(30) g(squad_7) c1(ap_miner:4) b(squad1) t(all inf_only engineers mines) level(11) cost(125) f(1.0))

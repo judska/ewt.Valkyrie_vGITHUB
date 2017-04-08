@@ -52,6 +52,6 @@
 		{item "grenade m24" 4}
 		{item "grenade pwm1" 2}
 		{item "smoke grenade" 2}
-                {in_hands 0}
+        {in_hands 0}
 	}
 }

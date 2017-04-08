@@ -59,7 +59,6 @@
 		{item "grenade f1" 2}
 		{item "grenade n73at" 2}
 		{item "smoke grenade" 2}
-		{item "dynamite" 1}	
-                {in_hands 0}
+        {in_hands 0}
 	}
 }

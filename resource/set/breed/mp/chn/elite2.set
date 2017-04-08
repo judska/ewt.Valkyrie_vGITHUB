@@ -49,9 +49,8 @@
 		{item "ammo rifle" 150}
 		{item "bandage" 5}
 		{item "m24 grenade" 2}
-                {item "erguotou" 1}	
-		{item "smoke grenade" 2}
-		{item "dynamite" 1}		
+        {item "erguotou" 1}	
+		{item "smoke grenade" 2}	
                 {in_hands 0}
 	}
 }
