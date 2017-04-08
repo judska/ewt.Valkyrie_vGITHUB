@@ -316,7 +316,7 @@
 
 (define "mgun_light"
     {tags   "mgun_light %side infantry man"}
-    {cp     3.0}
+    {cp     4.0}
     {score  55.00}
     {basic}
     {breed}
@@ -562,6 +562,21 @@
 
 
 
+(define "sturmovik_heavy"
+    {tags   "sturmovik %side spec infantry man"}
+    {cp     6.0}
+    {score  40.00}
+    {basic}
+    {breed}
+    {cw 5.0}
+)
+{"mp/rus/sturmovik2" ("sturmovik_heavy" side(rus))}
+{"mp/ger/sturmovik2" ("sturmovik_heavy" side(ger))}
+{"mp/eng/sturmovik2" ("sturmovik_heavy" side(eng))}
+{"mp/rus/sturmovik5" ("sturmovik_heavy" side(rus))}
+{"mp/ger/sturmovik5" ("sturmovik_heavy" side(ger))}
+{"mp/eng/sturmovik5" ("sturmovik_heavy" side(eng))}
+{"mp/anz/sturmovik5" ("sturmovik_heavy" side(anz))}
 
 (define "sturmovik"
     {tags   "sturmovik %side spec infantry man"}
@@ -583,9 +598,6 @@
 {"mp/chn/sturmovik" ("sturmovik" side(chn))}
 {"mp/anz/sturmovik" ("sturmovik" side(anz))}
 
-{"mp/rus/sturmovik2" ("sturmovik" side(rus))}
-{"mp/ger/sturmovik2" ("sturmovik" side(ger))}
-{"mp/eng/sturmovik2" ("sturmovik" side(eng))}
 {"mp/usa/sturmovik2" ("sturmovik" side(usa))}
 {"mp/jap/sturmovik2" ("sturmovik" side(jap))}
 {"mp/hun/sturmovik2" ("sturmovik" side(hun))}
@@ -634,17 +646,11 @@
 {"mp/eng/sturmovik4c" ("sturmovik" side(eng))}
 {"mp/anz/sturmovik4c" ("sturmovik" side(anz))}
 
-{"mp/rus/sturmovik5" ("sturmovik" side(rus))}
-{"mp/ger/sturmovik5" ("sturmovik" side(ger))}
-{"mp/eng/sturmovik5" ("sturmovik" side(eng))}
 {"mp/usa/sturmovik5" ("sturmovik" side(usa))}
 {"mp/jap/sturmovik5" ("sturmovik" side(jap))}
 {"mp/hun/sturmovik5" ("sturmovik" side(hun))}
-{"mp/fra/sturmovik5" ("sturmovik" side(fra))}
 {"mp/fin/sturmovik5" ("sturmovik" side(fin))}
-{"mp/ita/sturmovik5" ("sturmovik" side(ita))}
 {"mp/chn/sturmovik5" ("sturmovik" side(chn))}
-{"mp/anz/sturmovik5" ("sturmovik" side(anz))}
 
 {"mp/rus/sturmovik5b" ("sturmovik" side(rus))}
 {"mp/ger/sturmovik5b" ("sturmovik" side(ger))}
