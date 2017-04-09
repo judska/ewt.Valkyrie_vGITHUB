@@ -1,6 +1,6 @@
 {from "pattern gun"			; 
 	{filling "bullet37 zenite" 5}
-	{fireSound "gun/schneider"}
+	{fireSound "gun/37mm_61-k"}
 	{RecoveryTime 0.6}
 	{RechargeTime 4}
 	{reloadSound "61k_reload"}

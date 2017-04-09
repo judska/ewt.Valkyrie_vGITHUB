@@ -157,7 +157,7 @@
 	("accuracy_curve_1" r1(1.50))
 )
 (define "accuracy_lighthowitzer2"
-	("accuracy_curve_1" r1(2.50))
+	("accuracy_curve_1" r1(3.00))
 )
 (define "accuracy_grazinghowitzer" 
 	("accuracy_curve_2" r1(1.00))

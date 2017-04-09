@@ -5,10 +5,10 @@
 	{props "heavy" "-turret" "vision_vehicle_high" "muzzle_large"}
 
 	{extender "enumerator"
-		{digit_folder "ger2"}
+		{digit_folder "ger"}
 	}
 
-	{volume "body3"
+	{volume "body1"
 		{tags "body"}
 		{component "body"}
 		{thickness 50}
@@ -52,6 +52,10 @@
 	("crew_4_human")
 
 	{boarder
+		{anm "driver"
+			{forward	{begin	"board_jtiger_driver"} {end "seat_gunner_stand"} {base "open_driver"}}
+			{reverse 	{end	"emit_tank_2_hold"}}
+		}
 		{anm "left"
 			{forward	{begin	"board_tank_right"} {end "seat_gunner_stand"}}
 			{reverse 	{end	"emit_tank_2_hold"}}
@@ -123,7 +127,7 @@
     		{TurnStop     1}
 			{BrakeTime  1.5}
 			{StopTime     3}
-			{Gears   0.1 0.25 0.625}
+			{Gears   0.2 0.5 1}
 			{RearGears 0.29}
 		}
 		{FuelBag
@@ -141,9 +145,11 @@
 	{Extension "jagdpanther.mdl"}
 	
 	{bone "gun_rot"
+		{limits 10}
 		{speed 0.003}
 	}
 	{bone "mgun"
+		{limits 15}
 		{speed2 80}
 	}
 }
