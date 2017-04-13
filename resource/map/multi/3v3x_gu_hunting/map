@@ -1972,160 +1972,6 @@
 			{able {visible 1}}
 		}
 	}
-	{Entity "fir" 0x8b7
-		{Position 962.69 -5653.67}
-		{xform zl -48.88}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8b9
-		{Position 837.1 -5748.61}
-		{xform zl 50.09}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8ba
-		{Position 814.91 -5840.24}
-		{xform zl 50.09}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8bb
-		{Position 878.06 -5707.52}
-		{xform zl -104.56}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8bd
-		{Position 728.84 -5657.3}
-		{xform zl -5.59}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8be
-		{Position 640.65 -5690.63}
-		{xform zl -5.59}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8bf
-		{Position 817.66 -5857.42}
-		{xform zl -27.45}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8c1
-		{Position 735.45 -5991.68}
-		{xform zl 71.52}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8c2
-		{Position 748.27 -6085.09}
-		{xform zl 71.52}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8c3
-		{Position 758.56 -5938.47}
-		{xform zl -83.13}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8c5
-		{Position 635.69 -5884.64}
-		{xform zl 15.84}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8c6
-		{Position 565.77 -5947.89}
-		{xform zl 15.84}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8c7
-		{Position 912.89 -5826.9}
-		{xform zl -54.47}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8c8
-		{Position 661.64 -5812.6}
-		{xform zl 20.8}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8c9
-		{Position 631.83 -5820.06}
-		{xform zl 20.8}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8ca
-		{Position 717.46 -5796.8}
-		{xform zl -133.85}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8cc
-		{Position 611.89 -5680}
-		{xform zl -34.89}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8cd
-		{Position 553.05 -5604.32}
-		{xform zl -34.89}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8ce
-		{Position 488.44 -5913.27}
-		{xform zl 42.23}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8cf
-		{Position 534.63 -5878.16}
-		{xform zl -112.42}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8d1
-		{Position 393.68 -5808.01}
-		{xform zl -13.45}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8d2
-		{Position 301.76 -5828.96 -14.01}
-		{xform zl -13.45}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
 	{Entity "fir" 0x8d4
 		{Position 779.22 -5429.48}
 		{xform zl -33.13}
@@ -2182,55 +2028,6 @@
 			{able {visible 1}}
 		}
 	}
-	{Entity "fir" 0x8df
-		{Position 212.09 -5814.39 -17.29}
-		{xform zl 39.23}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8e0
-		{Position 173.03 -5900.2 -23.46}
-		{xform zl 39.23}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8e1
-		{Position 214.41 -5667.78 -5.96}
-		{xform zl 44.19}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8e2
-		{Position 182.91 -5756.65 -6.9}
-		{xform zl 44.19}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8e3
-		{Position 259.37 -5631.13 -8.68}
-		{xform zl -110.47}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8e5
-		{Position 88.3 -5899.12 -10.74}
-		{xform zl 65.62}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8e6
-		{Position 116.76 -5848.56 -15.53}
-		{xform zl -89.03}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
 	{Entity "fir" 0x8e8
 		{Position -40.46 -5840.12 1.06}
 		{xform zl 9.93}
@@ -2248,13 +2045,6 @@
 	{Entity "fir" 0x8f0
 		{Position -93.65 -5716.99 10.36}
 		{xform zl 61.69}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x8f6
-		{Position -63.88 -5934.58 2.18}
-		{xform zl 53.24}
 		{Volume "crown"
 			{able {visible 1}}
 		}
@@ -4742,19 +4532,6 @@
 		{Position -5993.59 -396.33}
 		{xform zl -32.37}
 		{TexMod "2"}
-	}
-	{Entity "reed4" 0x125e
-		{Position -6115.4 -1865}
-		{xform zl 74.9}
-		{TexMod "2"}
-	}
-	{Entity "grass3" 0x145a
-		{Position -5971.92 -2441.27}
-		{xform zl -44.99}
-	}
-	{Entity "grass3" 0x145b
-		{Position -5971.69 -2389.47}
-		{xform zl 46.03}
 	}
 	{Entity "cane3" 0x145c
 		{Position -6193.97 -3092.45}
@@ -18390,10 +18167,6 @@
 		{xform zl -29.62}
 		{TexMod "new"}
 	}
-	{Entity "new_fir2" 0x68e0
-		{Position -4440.25 -4915.6}
-		{xform zl -47.62}
-	}
 	{Entity "pine" 0x68e1
 		{Position -4357.24 -4741.42}
 		{xform zl -47.62}
@@ -18402,10 +18175,6 @@
 	{Entity "new_fir2" 0x68e2
 		{Position -3965.98 -4523.2}
 		{xform zl -122.17 scale 1.23}
-	}
-	{Entity "new_fir2" 0x68e3
-		{Position -4418.41 -4803.07}
-		{xform zl 117.24 scale 1.23}
 	}
 	{Entity "new_fir2" 0x68e4
 		{Position -4346.64 -4963.01}
@@ -18443,10 +18212,6 @@
 	{Entity "new_fir2" 0x68f4
 		{Position -4690.58 -4640.9}
 		{xform zl -83.65 scale 1.23}
-	}
-	{Entity "new_fir2" 0x68f6
-		{Position -4541.08 -4734.01}
-		{xform zl 155.76 scale 1.23}
 	}
 	{Entity "pine" 0x68f7
 		{Position -4520 -5390.6}
@@ -18528,41 +18293,10 @@
 		{Position -5917.97 -4498.49}
 		{xform zl -127.38 scale 1.23}
 	}
-	{Entity "new_fir2" 0x6909
-		{Position -5766.16 -4552.58}
-		{xform zl -46.06 scale 1.23}
-	}
-	{Entity "fir_small" 0x690a
-		{Position -5736.91 -4525.91}
-		{xform zl 7.57}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir_small" 0x690b
-		{Position -5665 -4544.1}
-		{xform zl -128.72 scale 1.187}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "pine_smallest" 0x690c
-		{Position -5716.33 -4471.62}
-		{xform zl -10.26}
-		{TexMod "new"}
-	}
-	{Entity "new_fir2" 0x690d
-		{Position -5576.16 -4552.78}
-		{xform zl -28.26}
-	}
 	{Entity "pine" 0x690e
 		{Position -5630.51 -4652.18}
 		{xform zl -28.26}
 		{TexMod "new"}
-	}
-	{Entity "new_fir2" 0x690f
-		{Position -5422.89 -4523.73}
-		{xform zl -102.81 scale 1.23}
 	}
 	{Entity "new_fir2" 0x6914
 		{Position -5302.93 -4482.87}
@@ -18653,20 +18387,9 @@
 		{Position -5980.82 -4947.02}
 		{xform zl -55.83 scale 1.23}
 	}
-	{Entity "new_fir2" 0x6927
-		{Position -5881.47 -4820.12}
-		{xform zl 25.49 scale 1.23}
-	}
 	{Entity "fir_small" 0x6928
 		{Position -5897.51 -4783.94}
 		{xform zl 79.12}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir_small" 0x6929
-		{Position -5857.5 -4721.48}
-		{xform zl -57.17 scale 1.187}
 		{Volume "crown"
 			{able {visible 1}}
 		}
@@ -18676,35 +18399,9 @@
 		{xform zl 61.29}
 		{TexMod "new"}
 	}
-	{Entity "new_fir2" 0x692b
-		{Position -5821.15 -4639.95}
-		{xform zl 43.29}
-	}
-	{Entity "pine" 0x692c
-		{Position -5744.06 -4722.97}
-		{xform zl 43.29}
-		{TexMod "new"}
-	}
-	{Entity "new_fir2" 0x692d
-		{Position -5800.2 -4485.37}
-		{xform zl -31.26 scale 1.23}
-	}
-	{Entity "new_fir2" 0x692e
-		{Position -5544.46 -4396.88}
-		{xform zl -151.85 scale 1.23}
-	}
 	{Entity "new_fir2" 0x692f
 		{Position -5385.66 -4322.58}
 		{xform zl 94.59}
-	}
-	{Entity "new_fir2" 0x6930
-		{Position -5493.22 -4209.58}
-		{xform zl 20.04 scale 1.23}
-	}
-	{Entity "pine" 0x6931
-		{Position -5566.11 -4304.75}
-		{xform zl -27.32 scale 0.873}
-		{TexMod "new"}
 	}
 	{Entity "new_fir2" 0x6932
 		{Position -5438.12 -4042.29}
@@ -18846,10 +18543,6 @@
 		{xform zl 166.54}
 		{TexMod "new"}
 	}
-	{Entity "new_fir2" 0x6950
-		{Position -6286.94 -3924.91}
-		{xform zl 148.54}
-	}
 	{Entity "pine" 0x6951
 		{Position -6227.12 -3828.7}
 		{xform zl 148.54}
@@ -18895,10 +18588,6 @@
 	{Entity "new_fir2" 0x6959
 		{Position -6185.99 -3382.51}
 		{xform zl -31.31 scale 1.23}
-	}
-	{Entity "new_fir2" 0x695a
-		{Position -6373.33 -3433.56}
-		{xform zl 140.58 scale 1.23}
 	}
 	{Entity "pine" 0x695b
 		{Position -6254.33 -3447.97}
@@ -18955,10 +18644,6 @@
 		{Position -6067.01 -4004.74}
 		{xform zl 145.54 scale 1.23}
 	}
-	{Entity "new_fir2" 0x6966
-		{Position -6327.3 -4078.8}
-		{xform zl 24.95 scale 1.23}
-	}
 	{Entity "new_fir2" 0x6967
 		{Position -6490.01 -4144.11}
 		{xform zl -88.61}
@@ -18967,23 +18652,9 @@
 		{Position -6388.93 -4262.94}
 		{xform zl -163.16 scale 1.23}
 	}
-	{Entity "pine" 0x6969
-		{Position -6310.83 -4171.99}
-		{xform zl 149.48 scale 0.873}
-		{TexMod "new"}
-	}
 	{Entity "new_fir2" 0x696a
 		{Position -6453.29 -4426.89}
 		{xform zl 76.25 scale 1.23}
-	}
-	{Entity "pine" 0x696b
-		{Position -5837.11 -2818.31}
-		{xform zl 132.93 scale 0.873}
-		{TexMod "new"}
-	}
-	{Entity "new_fir2" 0x696c
-		{Position -5881.86 -2654.77}
-		{xform zl -179.71 scale 1.23}
 	}
 	{Entity "fir_small" 0x696e
 		{Position -5209.4 -2250.28}
@@ -19002,16 +18673,6 @@
 	{Entity "pine_smallest" 0x6970
 		{Position -5177.01 -2139.41}
 		{xform zl -62.59}
-		{TexMod "new"}
-	}
-	{Entity "pine" 0x6971
-		{Position -5827.83 -2976.23}
-		{xform zl -80.59}
-		{TexMod "new"}
-	}
-	{Entity "pine" 0x6972
-		{Position -6023.61 -3209.93}
-		{xform zl -48.45}
 		{TexMod "new"}
 	}
 	{Entity "new_fir2" 0x6977
@@ -19037,10 +18698,6 @@
 	{Entity "new_fir2" 0x6980
 		{Position -6597.19 -3571.52}
 		{xform zl 131.7 scale 1.23}
-	}
-	{Entity "new_fir2" 0x6981
-		{Position -6403.1 -3577.43}
-		{xform zl -56.41 scale 1.23}
 	}
 	{Entity "pine" 0x6982
 		{Position -6512.71 -3528.88}
@@ -19095,11 +18752,6 @@
 		{xform zl -47.51 scale 0.873}
 		{TexMod "bare"}
 	}
-	{Entity "new_fir2" 0x6991
-		{Position -6036.4 -2650.81}
-		{xform zl -120.74 scale 1.23}
-		{TexMod "bare"}
-	}
 	{Entity "pine_smallest" 0x6997
 		{Position -6973.17 -2678.31}
 		{xform zl 10.78}
@@ -19118,45 +18770,10 @@
 		{xform zl 42.92}
 		{TexMod "new"}
 	}
-	{Entity "new_fir2" 0x69a2
-		{Position -5463.32 -3198.42}
-		{xform zl 22.41 scale 1.23}
-	}
-	{Entity "fir_small" 0x69a3
-		{Position -5477.39 -3161.44}
-		{xform zl 76.04}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir_small" 0x69a4
-		{Position -5434.09 -3101.22}
-		{xform zl -60.25 scale 1.187}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "pine_smallest" 0x69a5
-		{Position -5520.34 -3122.36}
-		{xform zl 58.21}
-		{TexMod "new"}
-	}
 	{Entity "pine" 0x69a6
 		{Position -5320.89 -3108.79}
 		{xform zl 40.21}
 		{TexMod "new"}
-	}
-	{Entity "pine" 0x69ab
-		{Position -5530.79 -3029.39}
-		{xform zl -50.01 scale 0.873}
-		{TexMod "new"}
-	}
-	{Entity "fir_small" 0x69ae
-		{Position -5507.41 -2805.28}
-		{xform zl 132.3}
-		{Volume "crown"
-			{able {visible 1}}
-		}
 	}
 	{Entity "fir_small" 0x69af
 		{Position -5749.43 -2729.21}
@@ -19165,39 +18782,10 @@
 			{able {visible 1}}
 		}
 	}
-	{Entity "pine_smallest" 0x69b0
-		{Position -5563.76 -2819.29}
-		{xform zl 114.47}
-		{TexMod "new"}
-	}
-	{Entity "pine" 0x69b2
-		{Position -5822.91 -2728.59}
-		{xform zl 154.1}
-		{TexMod "new"}
-	}
 	{Entity "new_fir2" 0x69b4
 		{Position -6880.17 -3335.71}
 		{xform zl -98.67 scale 1.23}
 		{TexMod "bare"}
-	}
-	{Entity "reed4" 0x69bb
-		{Position -6100.99 -1977.42}
-		{xform zl -36.03}
-		{TexMod "2"}
-	}
-	{Entity "reed4" 0x69bc
-		{Position -6127.04 -2038.14}
-		{xform zl 147.33}
-		{TexMod "2"}
-	}
-	{Entity "reed4" 0x69bd
-		{Position -6102.67 -2020.58}
-		{xform zl 165.02}
-		{TexMod "2"}
-	}
-	{Entity "cane3" 0x69be
-		{Position -6092.53 -2109.02}
-		{xform zl 122.97}
 	}
 	{Entity "new_fir2" 0x213d
 		{Position -7195.38 -4660.74}
@@ -19303,11 +18891,6 @@
 	{Entity "pine" 0x215c
 		{Position -7041.54 -1664.38}
 		{xform zl -156.26 scale 0.863}
-		{TexMod "new"}
-	}
-	{Entity "pine" 0x215e
-		{Position -6426.41 -3331.86}
-		{xform zl -136.58 scale 0.736}
 		{TexMod "new"}
 	}
 	{Entity "pine" 0x215f
@@ -23890,30 +23473,9 @@
 		{xform zl -31.32 scale 0.987}
 		{Color 0xff96b789}
 	}
-	{Entity "fir" 0x2256
-		{Position -344.52 -6053.92 -14.01}
-		{xform zl -62.22}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
 	{Entity "fir" 0x2257
 		{Position -192.38 -5511.28 3.84}
 		{xform zl -30.98}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2258
-		{Position -392.67 -5976.88 -17.29}
-		{xform zl -9.54}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2259
-		{Position -482.95 -6004.06 -23.46}
-		{xform zl -9.54}
 		{Volume "crown"
 			{able {visible 1}}
 		}
@@ -23928,20 +23490,6 @@
 	{Entity "fir" 0x225b
 		{Position -313.29 -5665.36 -6.9}
 		{xform zl -4.58}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x225c
-		{Position -537.98 -5939.63 -10.74}
-		{xform zl 16.85}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x225d
-		{Position -481.2 -5927.71 -15.53}
-		{xform zl -137.8}
 		{Volume "crown"
 			{able {visible 1}}
 		}
@@ -23974,62 +23522,6 @@
 			{able {visible 1}}
 		}
 	}
-	{Entity "fir" 0x2262
-		{Position -146.92 -6045.02 -14.01}
-		{xform zl -42.15}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2263
-		{Position -891.93 -5924.11}
-		{xform zl -10.91}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2264
-		{Position -954.75 -6174.98}
-		{xform zl 10.53}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2265
-		{Position -1030.22 -6231.49}
-		{xform zl 10.53}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2266
-		{Position -882.32 -6047.49}
-		{xform zl 15.49}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2267
-		{Position -952.62 -6110.32}
-		{xform zl 15.49}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2268
-		{Position -1104.02 -6189.86}
-		{xform zl 36.92}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2269
-		{Position -1054.78 -6159.17}
-		{xform zl -117.73}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
 	{Entity "fir" 0x226a
 		{Position -966.97 -5800.99}
 		{xform zl -18.77}
@@ -24058,58 +23550,9 @@
 			{able {visible 1}}
 		}
 	}
-	{Entity "fir" 0x226e
-		{Position -372.45 -6192.91 -14.01}
-		{xform zl -13.45}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
 	{Entity "fir" 0x226f
 		{Position -433.16 -5872.86 3.84}
 		{xform zl 17.79}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2270
-		{Position -367.8 -6123.08 -17.29}
-		{xform zl 39.23}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2271
-		{Position -406.86 -6208.89 -23.46}
-		{xform zl 39.23}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2272
-		{Position -365.48 -5976.47 -5.96}
-		{xform zl 44.19}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2273
-		{Position -396.98 -6065.34 -6.9}
-		{xform zl 44.19}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2274
-		{Position -491.59 -6207.81 -10.74}
-		{xform zl 65.62}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir" 0x2275
-		{Position -463.13 -6157.24 -15.53}
-		{xform zl -89.03}
 		{Volume "crown"
 			{able {visible 1}}
 		}
@@ -24131,13 +23574,6 @@
 	{Entity "fir" 0x2278
 		{Position -643.77 -6243.26}
 		{xform zl 53.24}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir_small" 0x2279
-		{Position -844.82 -5929.14}
-		{xform zl -0.25 scale 1.187}
 		{Volume "crown"
 			{able {visible 1}}
 		}
@@ -31002,11 +30438,6 @@
 		{xform zl -129.88}
 		{TexMod "new"}
 	}
-	{Entity "pine_smallest" 0x22de
-		{Position -5391.54 -2816.99}
-		{xform zl -15.99 scale 1.257}
-		{TexMod "new"}
-	}
 	{Entity "pine_smallest" 0x22df
 		{Position -5457.33 -2721.48}
 		{xform zl -90.42}
@@ -31036,11 +30467,6 @@
 		{xform zl 113.22 scale 1.257}
 		{TexMod "new"}
 	}
-	{Entity "pine_smallest" 0x22e5
-		{Position -5582.24 -3091.35}
-		{xform zl 38.79}
-		{TexMod "new"}
-	}
 	{Entity "pine_smallest" 0x22e6
 		{Position -5721.43 -3048.89}
 		{xform zl 100.89}
@@ -31053,15 +30479,6 @@
 	{Entity "bush8" 0x343
 		{Position -5761.87 -2772.34}
 		{xform zl -134.86 scale 0.75}
-		{Color 0xff96b789}
-	}
-	{Entity "dried3" 0x344
-		{Position -5797.08 -2778.03}
-		{xform zl 128.66 scale 0.953}
-	}
-	{Entity "bush8" 0x345
-		{Position -5758.49 -2742.48}
-		{xform zl 148.12 scale 0.75}
 		{Color 0xff96b789}
 	}
 	{Entity "dried3" 0x346
@@ -31080,42 +30497,6 @@
 	{Entity "bush8" 0x349
 		{Position -5596.71 -2794.79}
 		{xform zl 77.36 scale 0.75}
-		{Color 0xff96b789}
-	}
-	{Entity "dried3" 0x34a
-		{Position -5983.56 -2725.74}
-		{xform zl -55.89 scale 0.953}
-	}
-	{Entity "bush8" 0x34b
-		{Position -5499.06 -2856.3}
-		{xform zl -74.42 scale 0.75}
-		{Color 0xff96b789}
-	}
-	{Entity "dried3" 0x34c
-		{Position -6068.97 -2795.39}
-		{xform zl -170.9 scale 0.953}
-	}
-	{Entity "bush8" 0x34f
-		{Position -5523.37 -2838.63}
-		{xform zl -151.44 scale 0.75}
-		{Color 0xff96b789}
-	}
-	{Entity "dried3" 0x350
-		{Position -6057 -2696.99}
-		{xform zl -116.33 scale 0.953}
-	}
-	{Entity "bush8" 0x351
-		{Position -5547.96 -2924.29}
-		{xform zl -134.86 scale 0.75}
-		{Color 0xff96b789}
-	}
-	{Entity "dried3" 0x352
-		{Position -5583.17 -2929.98}
-		{xform zl 128.66 scale 0.953}
-	}
-	{Entity "bush8" 0x353
-		{Position -5544.58 -2894.43}
-		{xform zl 148.12 scale 0.75}
 		{Color 0xff96b789}
 	}
 	{Entity "dried3" 0x354
@@ -34486,16 +33867,6 @@
 		{xform zl -92.72 scale 0.75}
 		{Color 0xff96b789}
 	}
-	{Entity "bush8" 0x424
-		{Position -5637.99 -4102.21}
-		{xform zl 175.77 scale 0.75}
-		{Color 0xff96b789}
-	}
-	{Entity "bush8" 0x425
-		{Position -5529.32 -4066.33}
-		{xform zl 115.54 scale 1.263}
-		{Color 0xff96b789}
-	}
 	{Entity "dried3" 0x426
 		{Position -5485.23 -3445.72}
 		{xform zl -116.33 scale 0.953}
@@ -36567,10 +35938,6 @@
 		{Position -5006.85 -1979.23}
 		{xform zl -142.78}
 	}
-	{Entity "cane3" 0x403b
-		{Position -5587.21 -1902.67}
-		{xform zl 50.58}
-	}
 	{Entity "cane3" 0x403c
 		{Position -5477.02 -1769.93}
 		{xform zl -102.18}
@@ -36808,11 +36175,6 @@
 		{Position -4937.28 -2095.22}
 		{xform zl 159.22}
 	}
-	{Entity "new_bush1a" 0x40e0
-		{Position -5608.68 -1995.84}
-		{xform zl 147.12}
-		{TexMod "1"}
-	}
 	{Entity "new_bush1a" 0x40e1
 		{Position -5554.64 -2030.2}
 		{xform zl 88.01 scale 1.09}
@@ -36835,10 +36197,6 @@
 	{Entity "cane3" 0x4102
 		{Position -5404.34 -2033.53}
 		{xform zl 166.78}
-	}
-	{Entity "cane3" 0x4103
-		{Position -5692.45 -1790.3}
-		{xform zl 66.69}
 	}
 	{Entity "grass3" 0x4105
 		{Position -5655.88 -1735.93}
@@ -37008,10 +36366,6 @@
 		{Position -5344.29 -1757.38}
 		{xform zl 179.41}
 	}
-	{Entity "cane3" 0x26e
-		{Position -5825.7 -1816.63}
-		{xform zl -139.62}
-	}
 	{Entity "cane3" 0x518
 		{Position -5855.22 -1690.59}
 		{xform zl 106.8}
@@ -37019,10 +36373,6 @@
 	{Entity "cane3" 0x519
 		{Position -5842.12 -1655.84}
 		{xform zl 106.8}
-	}
-	{Entity "grass3" 0x51a
-		{Position -5796.8 -1778.68}
-		{xform zl 61.96}
 	}
 	{Entity "cane3" 0x51b
 		{Position -5824.1 -1718.46}
@@ -37032,30 +36382,9 @@
 		{Position -5728.98 -2659.91}
 		{xform zl 130.74 scale 1.23}
 	}
-	{Entity "fir_small" 0x51d
-		{Position -5830.45 -2662.72}
-		{xform zl 48.08 scale 1.187}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "new_fir2" 0x51e
-		{Position -5918.67 -2649.09}
-		{xform zl 148.54}
-	}
-	{Entity "pine" 0x51f
-		{Position -5858.85 -2552.88}
-		{xform zl 148.54}
-		{TexMod "new"}
-	}
 	{Entity "new_fir2" 0x520
 		{Position -6073.32 -2669.53}
 		{xform zl 73.99 scale 1.23}
-	}
-	{Entity "pine" 0x521
-		{Position -5805.25 -2283.69}
-		{xform zl 163.83}
-		{TexMod "new"}
 	}
 	{Entity "new_fir2" 0x522
 		{Position -5281.93 -2181.86}
@@ -37083,19 +36412,6 @@
 	{Entity "pine" 0x526
 		{Position -5435.44 -2112.88}
 		{xform zl 163.83}
-		{TexMod "new"}
-	}
-	{Entity "new_fir2" 0x527
-		{Position -5817.72 -2106.69}
-		{xform zl -31.31 scale 1.23}
-	}
-	{Entity "new_fir2" 0x528
-		{Position -6005.06 -2157.74}
-		{xform zl 140.58 scale 1.23}
-	}
-	{Entity "pine" 0x529
-		{Position -5886.06 -2172.15}
-		{xform zl 93.22 scale 0.873}
 		{TexMod "new"}
 	}
 	{Entity "pine" 0x52a
@@ -37134,10 +36450,6 @@
 		{Position -5698.74 -2728.92}
 		{xform zl 145.54 scale 1.23}
 	}
-	{Entity "new_fir2" 0x533
-		{Position -5959.03 -2802.98}
-		{xform zl 24.95 scale 1.23}
-	}
 	{Entity "pine" 0x534
 		{Position -5468.84 -1542.49}
 		{xform zl 132.93 scale 0.873}
@@ -37152,30 +36464,10 @@
 		{xform zl -80.59}
 		{TexMod "new"}
 	}
-	{Entity "pine" 0x537
-		{Position -5655.34 -1934.11}
-		{xform zl -48.45}
-		{TexMod "new"}
-	}
 	{Entity "new_fir2" 0x538
 		{Position -5973.89 -1806.46}
 		{xform zl -48.45}
 		{TexMod "bare"}
-	}
-	{Entity "pine" 0x539
-		{Position -5820.21 -2003.81}
-		{xform zl -48.45}
-		{TexMod "new"}
-	}
-	{Entity "new_fir2" 0x53a
-		{Position -5820.02 -1832.1}
-		{xform zl -123 scale 1.23}
-		{TexMod "bare"}
-	}
-	{Entity "pine" 0x53b
-		{Position -6147.86 -2152.53}
-		{xform zl -33.16}
-		{TexMod "new"}
 	}
 	{Entity "new_fir2" 0x53c
 		{Position -6228.92 -2295.7}
@@ -37188,11 +36480,6 @@
 	{Entity "pine" 0x53e
 		{Position -6144.44 -2253.06}
 		{xform zl -103.77 scale 0.873}
-		{TexMod "new"}
-	}
-	{Entity "pine" 0x53f
-		{Position -5865.89 -2090.41}
-		{xform zl 23.1}
 		{TexMod "new"}
 	}
 	{Entity "new_fir2" 0x540
@@ -37243,18 +36530,6 @@
 		{Position -5454.64 -1452.77}
 		{xform zl 154.1}
 		{TexMod "new"}
-	}
-	{Entity "pine" 0x54b
-		{Position -6058.14 -2056.04}
-		{xform zl -136.58 scale 0.736}
-		{TexMod "new"}
-	}
-	{Entity "dried2" 0x54c
-		{Position -5982.2 -1814.22}
-		{TexMod "bare"}
-		{Volume "crown"
-			{able {visible 0}}
-		}
 	}
 	{Entity "dried2" 0x54d
 		{Position -5964.98 -1779.5}
@@ -37379,39 +36654,6 @@
 		{Position -5360.25 -2531.61}
 		{xform zl 61.26 scale 0.953}
 	}
-	{Entity "pine" 0x567
-		{Position -6085.93 -2005.21}
-		{xform zl 23.1}
-		{TexMod "bare"}
-	}
-	{Entity "new_fir2" 0x568
-		{Position -6152.15 -1740.69}
-		{xform zl -66.25 scale 1.23}
-		{TexMod "bare"}
-	}
-	{Entity "fir_small" 0x569
-		{Position -6115.49 -1725.76}
-		{xform zl -12.62}
-		{TexMod "bare"}
-	}
-	{Entity "fir_small" 0x56a
-		{Position -6054.28 -1767.65}
-		{xform zl -148.91 scale 1.187}
-		{TexMod "bare"}
-	}
-	{Entity "pine_smallest" 0x56b
-		{Position -6077.44 -1681.91}
-		{xform zl -30.45}
-		{TexMod "bare"}
-		{Volume "crown"
-			{able {visible 0}}
-		}
-	}
-	{Entity "new_fir2" 0x56c
-		{Position -6160.9 -1665.86}
-		{xform zl -51.45 scale 1.23}
-		{TexMod "bare"}
-	}
 	{Entity "dried2" 0x56d
 		{Position -5928.25 -1661.53}
 		{xform zl 21.95}
@@ -37419,26 +36661,6 @@
 		{Volume "crown"
 			{able {visible 0}}
 		}
-	}
-	{Entity "pine_smallest" 0x56e
-		{Position -6091.73 -1677.6}
-		{xform zl -15.16 scale 1.34}
-		{TexMod "bare"}
-		{Volume "crown"
-			{able {visible 0}}
-		}
-	}
-	{Entity "dried3" 0x56f
-		{Position -6103.67 -1689.23}
-		{xform zl -116.33 scale 1.293}
-	}
-	{Entity "dried3" 0x570
-		{Position -6045.5 -1730.92}
-		{xform zl -85.52 scale 1.293}
-	}
-	{Entity "dried3" 0x571
-		{Position -6174.77 -1912.81}
-		{xform zl -10.36 scale 0.953}
 	}
 	{Entity "pine" 0x572
 		{Position -6478.53 -1877.42}
@@ -37477,10 +36699,6 @@
 	{Entity "cane3" 0x57a
 		{Position -6305.09 -947.37}
 		{xform zl 106.8}
-	}
-	{Entity "new_fir2" 0x57b
-		{Position -6209.97 -1888.82}
-		{xform zl 130.74 scale 1.23}
 	}
 	{Entity "fir_small" 0x57c
 		{Position -6311.44 -1891.63}
@@ -37556,42 +36774,6 @@
 	{Entity "new_fir2" 0x58b
 		{Position -5973.6 -1506.99}
 		{xform zl 120.97 scale 1.23}
-	}
-	{Entity "new_fir2" 0x58c
-		{Position -6079.88 -1628.14}
-		{xform zl -157.71 scale 1.23}
-	}
-	{Entity "fir_small" 0x58d
-		{Position -6065.89 -1665.16}
-		{xform zl -104.08}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "fir_small" 0x58e
-		{Position -6109.33 -1725.29}
-		{xform zl 119.63 scale 1.187}
-		{Volume "crown"
-			{able {visible 1}}
-		}
-	}
-	{Entity "pine_smallest" 0x58f
-		{Position -6023.02 -1704.33}
-		{xform zl -121.91}
-		{TexMod "new"}
-	}
-	{Entity "new_fir2" 0x590
-		{Position -6150.18 -1804.66}
-		{xform zl -139.91}
-	}
-	{Entity "pine" 0x591
-		{Position -6222.51 -1717.46}
-		{xform zl -139.91}
-		{TexMod "new"}
-	}
-	{Entity "new_fir2" 0x592
-		{Position -6179.73 -1957.83}
-		{xform zl 145.54 scale 1.23}
 	}
 	{Entity "new_fir2" 0x593
 		{Position -6440.02 -2031.89}
@@ -37828,10 +37010,6 @@
 	{Entity "dried3" 0x5c6
 		{Position -5919.52 -1771.9}
 		{xform zl 2.11 scale 0.953}
-	}
-	{Entity "dried3" 0x5c7
-		{Position -5841.24 -1760.52}
-		{xform zl 61.26 scale 0.953}
 	}
 	{Entity "pine" 0x5c8
 		{Position -6566.92 -1234.12}
