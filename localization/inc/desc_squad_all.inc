@@ -373,7 +373,7 @@
 		{"hero11_usa" "M1 155mm Long Tom"}
 		{"hero12_usa" "Super Pershing"}
 
-        {"hero1_hun" "Csaba 39M"}
+        {"hero1_hun" "Csaba 40M"}
 		{"hero2_hun" "Calarasi"}
 		{"hero3_hun" "Szent Laszlo Infantry"}
 		{"hero4_hun" "Arrow Cross Fanatics"}
@@ -388,7 +388,7 @@
 
         {"hero1_fra" "Maginot Line Defenders"}
 		{"hero2_fra" "Mortier de 50mm"}
-		{"hero3_fra" "Vive la France"}
+		{"hero3_fra" "Vive la France!"}
 		{"hero4_fra" "Renault DCA 37mm Shneider"}
         {"hero5_fra" "Dywizja Grenadierow"}	
         {"hero6_fra" "Demi Brigade"}

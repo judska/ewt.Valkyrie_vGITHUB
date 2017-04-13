@@ -34,7 +34,7 @@
 ;°°°Button 3°°°
 
 {"mk7"              ("v" c(150) t(all light) 		s(eng) n1(3) n2(1) g(d1) sc(230.00) b(v3) cw(0) cp(5)) {level 1} {cost 230} {fore 0.6}}
-{"humber"           ("v" c(150) t(all light) 		s(eng) n1(2) n2(1) g(d4) sc(240.00) b(v3) cw(0) cp(5)) {level 5} {cost 240} {fore 0.2}}
+{"humber"           ("v" c(150) t(all light) 		s(eng) n1(2) n2(1) g(d4) sc(240.00) b(v3) cw(0) cp(5)) {level 5} {cost 240} {fore 1.0}}
 {"mk2daimler"       ("v" c(150) t(all light) 		s(eng) n1(2) n2(1) g(d2) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0.4}}
 
 {"crusaderi"        ("v" c(150) t(all light) 		s(eng) n1(3) n2(1) g(d4) sc(245.00) b(v3) cw(0) cp(5)) {level 1} {cost 245} {fore 1.0}}	

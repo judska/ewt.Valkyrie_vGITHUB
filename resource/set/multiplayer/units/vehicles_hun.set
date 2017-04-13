@@ -30,7 +30,7 @@
 ;같캛utton 3같�
 
 {"l335_hun"           ("v" c(150) t(all light)   s(hun) n1(1) n2(1) g(d1) sc(120.00)  b(v3) cw(0) cp(5)) {level 1} {cost 120} {fore 0.6}}
-{"csaba40m"           ("v" c(180) t(all light)   s(hun) n1(1) n2(1) g(d2) sc(150.00) b(v3) cw(0) cp(5)) {level 1} {cost 150} {fore 0}}
+{"csaba39m"           ("v" c(180) t(all light)   s(hun) n1(1) n2(1) g(d2) sc(200.00) b(v3) cw(0) cp(5)) {level 1} {cost 200} {fore 0}}
 {"toldi1"             ("v" c(210) t(all light)   s(hun) n1(2) n2(1) g(d4) sc(255.00) b(v3) cw(0) cp(5)) {level 1} {cost 255} {fore 0}}
 
 {"pzkpfw38t_hun"      ("v" c(150) t(all light)   s(hun) n1(2) n2(1) g(d6) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0}}
@@ -54,8 +54,8 @@
        			
 ;같캛utton Hero같�
 
-{"hero1_hun"         ("v1" c(120) c1(csaba39m)	        t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h1) b(hero))) {level 1} {cost 1.0} {fore -0.5}}
-{"hero2_hun"         ("i2" c(120)			            t(all hero) s(hun) n1(smg4:5) n2(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"hero1_hun"         ("v1" c(120) c1(csaba40m)	        t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h1) b(hero))) {level 1} {cost 1.0} {fore -0.5}}
+{"hero2_hun"         ("i2" c(120)			            t(all hero) s(hun) n1(smg4:3) n2(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero3_hun"         ("i3" c(240)			            t(all hero) s(hun) n1(elite4:4) n2(elite5:2) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 
 {"hero4_hun"         ("i2" c(240)  	                    t(all hero) s(hun) n1(rifle4:8) n2(rifle3:8) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}

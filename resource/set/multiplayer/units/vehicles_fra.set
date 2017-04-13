@@ -57,8 +57,8 @@
 ;°°°Button Hero°°°
 
 {"hero1_fra"       ("i2" c(120)                         t(all hero) s(fra) n1(ap_miner2:1) n2(mgun3:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
-{"hero2_fra"       ("v1" c(120) c1(2_inch_mortar_mk_ii) t(all hero) s(fra) n1(vehicle_supporter:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero3_fra"       ("i3" c(120)	                        t(all hero) s(fra) n1(scout:1) n2(home_guard3:2) n3(home_guard4:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"hero2_fra"       ("v1" c(120) c1(2_inch_mortar_mk_ii) t(all hero) s(fra) n1(vehicle_supporter:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
 {"hero4_fra"	   ("v1" c(120) c1(renault_aa)          t(all hero) s(fra) n1(vehicle_supporter:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero5_fra"       ("i3" c(240)	                        t(all hero) s(fra) n1(rifle3:7) n2(rifle4:2) n3(mgun2:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}

@@ -39,7 +39,7 @@
 
 {"chi-ha57"         ("v" c(150) t(all light) 		s(jap) n1(3) n2(1) g(d5) sc(200.00) b(v3) cw(0) cp(5)) {level 1} {cost 200} {fore 0}}
 {"chi-ha47"         ("v" c(150) t(all light) 		s(jap) n1(4) n2(1) g(d7) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0}}
-{"isuzutx40_aa"     ("vs" c(180) t(all light) 		s(jap) n(4) g(d8) sc(210.00) b(v3) cw(0) cp(5)) {level 10} {cost 210} {fore 0}}
+{"isuzutx40_aa"     ("vs" c(180) t(all light) 		s(jap) n(4) g(d8) sc(180.00) b(v3) cw(0) cp(5)) {level 10} {cost 180} {fore 0}}
 
 
 ;°°°Button 4°°°
