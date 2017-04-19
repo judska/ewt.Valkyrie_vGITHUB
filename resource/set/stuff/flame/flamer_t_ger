@@ -10,8 +10,8 @@
 	{foresight "Foresight1"}
 	{fireSound "flame/shot"}
 	{Automatic}
-	{aimRange 45}
-	{maxRange 45}
+	{aimRange 35}
+	{maxRange 35}
 	{recoveryTime 0.7}
     	{RelaxationTime 0.5}
 	{gravity 45}

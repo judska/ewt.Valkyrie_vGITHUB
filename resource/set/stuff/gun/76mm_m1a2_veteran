@@ -10,7 +10,7 @@
 	{projectileDamage 143}
 	("damage_130" a(143) b(120) c(96) d(77) e(62))
 	{parameters "apcr"
-        ("damage_100" a(168) b(140) c(111) d(87) e(67))
+        ("damage_100" a(179) b(151) c(129) d(96) e(83))
 	}
 	
 	("accuracy_medium")

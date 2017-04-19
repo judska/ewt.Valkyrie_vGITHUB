@@ -45,7 +45,7 @@
 		("veterancy_1")
 	}
 	{inventory
-		{item "m12_shotgun" filled}
+		{item "winchester_1897_ms" filled}
 		{item "ammo shotgun" 90}
 		{item "bandage" 5}
         {item "mask_ger_afr" 1}

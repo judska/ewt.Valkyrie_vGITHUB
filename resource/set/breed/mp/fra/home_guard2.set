@@ -46,10 +46,10 @@
 		("veterancy_1")
 	}
 	{inventory      
-		{item "mp40" filled}
-		{item "ammo pistol" 500}
+		{item "doublebarrel_shotgun" filled}
+		{item "ammo shotgun" 40}
 		{item "bandage" 3}
-                {item "grenade molotov_coctail" 2}		
+        {item "grenade molotov_coctail" 2}		
 		{in_hands 0}
 	}
 }

@@ -51,7 +51,6 @@
 		{item "grenade m39" 4}
 		{item "grenade pwm1" 2}
 		{item "smoke grenade" 2}
-		{item "panzerfaust weapon" filled}
 		{in_hands 0}
 	}
 }

@@ -6,5 +6,5 @@
 	
 	("recoveryTime" r(400))	
 	("range_zenite_long")
-	("accuracy_zenite_high")
+	("accuracy_zenite_low")
 }
