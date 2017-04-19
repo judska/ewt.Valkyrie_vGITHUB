@@ -33,7 +33,7 @@
 
 ;같캛utton 3같�
 
-{"mk7"              ("v" c(150) t(all light) 		s(eng) n1(3) n2(1) g(d1) sc(230.00) b(v3) cw(0) cp(5)) {level 1} {cost 230} {fore 0.6}}
+{"mk7"              ("v" c(150) t(all light) 		s(eng) n1(3) n2(1) g(d1) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0.6}}
 {"humber"           ("v" c(150) t(all light) 		s(eng) n1(2) n2(1) g(d4) sc(240.00) b(v3) cw(0) cp(5)) {level 5} {cost 240} {fore 1.0}}
 {"mk2daimler"       ("v" c(150) t(all light) 		s(eng) n1(2) n2(1) g(d2) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0.4}}
 
@@ -54,7 +54,7 @@
 
 {"cometa34"          ("v" c(0) t(all medium) 		s(eng) n1(3) n2(1) g(e6) sc(750.00) b(v4) cw(0) cp(15)) {level 1} {cost 750} {fore 1.0}}
 {"challenger_a30"    ("v" c(0) t(all medium) 	    s(eng) n1(3) n2(1) g(e6) sc(880.00) b(v4) cw(0) cp(15)) {level 1} {cost 880} {fore 1.0}}
-{"centurion"         ("v" c(0) t(all heavy) 		s(eng) n1(4) n2(1) g(e9) sc(1130.00) b(v4) cw(0) cp(30)) {level 15} {cost 1130} {fore 1.0}} 	
+{"centurion"         ("v" c(0) t(all heavy) 		s(eng) n1(4) n2(1) g(e9) sc(1160.00) b(v4) cw(0) cp(30)) {level 15} {cost 1160} {fore 1.0}} 	
 
 
 ;같캛utton 5같�

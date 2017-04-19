@@ -15,7 +15,7 @@
 
 {"hotchkiss_stan"           ("vs" c(300) t(all cannon)	s(fra) n(2) g(c1) sc(100.00) b(v2) cw(2) cp(5)) {level 1} {cost 100} {fore 0.5}}
 {"13mm_hotchkiss"           ("vs" c(300) t(all cannon)	s(fra) n(2) g(c1) sc(160.00) b(v2) cw(2) cp(5)) {level 1} {cost 160} {fore 0.5}}
-{"mle_27"		            ("vs" c(0) t(all cannon mediumcan) 	s(fra) n(2) g(c3) sc(270.00) b(v2) cw(2) cp(5)) {level 1} {cost 270} {fore 1.0}}
+{"mle_27"		            ("vs" c(0) t(all cannon mediumcan) 	s(fra) n(2) g(c3) sc(280.00) b(v2) cw(2) cp(5)) {level 1} {cost 280} {fore 1.0}}
 
 {"25mm_hotchkiss_mle34"     ("vs" c(0) t(all cannon) 	s(fra) n(2) g(c4) sc(105.00)  b(v2) cw(2) cp(5)) {level 1} {cost 105} {fore 0.5}}
 {"47mm_puteaux_mle37"       ("vs" c(0) t(all cannon) 	s(fra) n(2) g(c5) sc(140.00)  b(v2) cw(2) cp(10)) {level 1} {cost 140} {fore 1.0}}
@@ -45,7 +45,7 @@
 {"b1bis"                ("v" c(0) t(all heavy) 	    s(fra) n1(3) n2(1) g(e5) sc(390.00) b(v4) cw(0) cp(15)) {level 1} {cost 390} {fore 1.0}} 
 
 {"b1bis_3"              ("v" c(0) t(all heavy)    	s(fra) n1(3) n2(1) g(e6) sc(530.00) b(v4) cw(0) cp(15)) {level 1} {cost 530} {fore 1.0}} 
-{"arl44"                ("v" c(0) t(all sheavy) 	s(fra) n1(3) n2(1) g(e6) sc(1530.00) b(v4) cw(0) cp(30)) {level 1} {cost 1530} {fore 1.0}} 
+{"arl44"                ("v" c(0) t(all sheavy) 	s(fra) n1(3) n2(1) g(e6) sc(1550.00) b(v4) cw(0) cp(30)) {level 1} {cost 1530} {fore 1.0}} 
  
 
 ;°°°Button 5°°°
