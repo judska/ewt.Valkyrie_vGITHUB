@@ -1,9 +1,10 @@
 {material
 	{layer bump
-		{diffuse "/texture/land/rock/cliffy_1"}
-		{bump "/texture/land/rock/cliffy_1_nm"}
+		{diffuse "/texture/land/town/rounds_2_x"}
+		{bump "/texture/land/town/rounds_2_x_nm"}
 	}
 	{layer bump
-		{diffuse "/texture/land/_reighstag/crash_brick3"}
+		{diffuse "/texture/land/grass/gramma_8"}
+		{bump "/texture/land/grass/gramma_8_nm"}
 	}
 }
