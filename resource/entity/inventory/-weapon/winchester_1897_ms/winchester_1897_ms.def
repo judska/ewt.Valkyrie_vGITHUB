@@ -1,0 +1,8 @@
+;// US WW2 Weapon Pack by Fedor Chizh
+;// Author: Fedor Chizh
+{actor
+	(include "/properties/stuff_small.ext")
+	{Extension "winchester_1897_ms.mdl"}
+	{extender "stuff" {item "winchester_1897_ms"}}
+	{nogroupmesh 1}
+}

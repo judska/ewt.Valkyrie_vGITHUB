@@ -346,6 +346,25 @@
 	{gravity 1.5}
 )
 
+(define "range_medium_hvap"
+	{curve "gun_heavy"}
+	{spreading 1 
+		{SpreadPower	1}
+	}
+	{SpreadTolerance 0.4}
+	{range 120 130}
+	{bullet_view "howitzer_shell"}
+	{parameters "fg"
+		{range 100 110}
+	}	
+	{parameters "apcr"
+		{range 120 130}
+	}
+	{ZeroingAccuracy 0.8 0.6}
+    {RelaxationTime 0.4}
+	{gravity 1.5}
+)
+
 (define "range_long"
 	{curve "gun_heavy"}
 	{spreading 1

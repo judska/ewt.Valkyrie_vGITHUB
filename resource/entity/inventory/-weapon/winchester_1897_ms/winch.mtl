@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/entity/1st_winchester_model_1897"}
+	{specular "$/entity/1st_winchester_model_1897_sp"}
+	{bump "$/entity/1st_winchester_model_1897_bp"}
+	{color "229 229 229 50"}
+	{blend none}
+}
