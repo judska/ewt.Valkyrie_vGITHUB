@@ -23,7 +23,7 @@
 {"pak40"            ("vs" c(0) t(all cannon heavycan) 	s(ger) n(2) g(c6) sc(390.00) b(v2) cw(2) cp(15)) {level 1} {cost 390} {fore 1.0}}
 
 ("how" side(ger) name(how_aa) c(0) c1(steyr_rso) c2(flak37) 	    t(all cannon heavycan heavyaa) g(c7) b(v2) level(3) cost(650) f(1.0))
-("how" side(ger) name(how_b) c(0) c1(steyr_rso) c2(lefh18)  	t(all artillery) g(c8) b(v2) level(6) cost(650) f(1.0))
+("how" side(ger) name(how_b) c(0) c1(steyr_rso) c2(lefh18)  	t(all artillery) g(c8) b(v2) level(6) cost(610) f(1.0))
 ("how" side(ger) name(how_a) c(0) c1(steyr_rso) c2(sfh18) 	    t(all artillery heavyart) g(c9) b(v2) level(9) cost(800) f(1.0))
 
 {"wespe"            ("v" c(0) t(all artillery) 			        s(ger) n1(3) n2(1) g(c10) sc(660.00) b(v2) cw(0) cp(12)) {level 12} {cost 660} {fore 1.0}}
@@ -57,8 +57,8 @@
 
 ;°°°Button 5°°°
 
-{"np_sdkfz234_4"    ("v" c(0) t(all medium) 	s(ger) n1(2) n2(1) g(f2) sc(360.00) b(v5) cw(0) cp(10)) {level 1} {cost 360} {fore 1.0}}	
 {"marder_3h"        ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f1) sc(380.00) b(v5) cw(0) cp(10)) {level 1} {cost 380} {fore 1.0}} 
+{"np_sdkfz234_4"    ("v" c(0) t(all medium) 	s(ger) n1(2) n2(1) g(f2) sc(450.00) b(v5) cw(0) cp(10)) {level 1} {cost 450} {fore 1.0}}	
 {"stug3g"           ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f2) sc(610.00) b(v5) cw(0) cp(10)) {level 1} {cost 610} {fore 1.0}}
 
 {"stug4g"           ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f2) sc(650.00) b(v5) cw(0) cp(10)) {level 1} {cost 650} {fore 1.0}}
