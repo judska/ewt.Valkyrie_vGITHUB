@@ -48,9 +48,9 @@
 		{item "sg44" filled}      
 		{item "ammo pistol" 500}
 		{item "bandage" 5}
-		{item "grenade m24" 4}
-		{item "grenade pwm1" 2}
+		{item "grenade m24" 2}
+		{item "grenade pwm1" 1}
 		{item "smoke grenade" 2}
-                {in_hands 0}
+        {in_hands 0}
 	}
 }

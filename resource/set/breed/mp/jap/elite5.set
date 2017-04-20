@@ -1,11 +1,11 @@
 {breed
-	{skin "grc_rifleman"}
-	{portrait "grc_soldier2"}
-	{nationality grc}
-	{icon "rifleman"}
+	{skin "jap-paratrooper"}
+	{portrait "jap_elite1"}
+	{nationality jap}
+	{icon "elite2"}
 	{icon_priority 3}
 	{armors
-		{head "helmet1_grc"}
+		{head helmet_jap}
 	}
 	{perks
 		{"health" "250%"
@@ -18,7 +18,7 @@
 		}
 		{"vision" "mp_tier3"
 		}
-		{"speed" 0.9
+		{"speed" 1.0
 		}
 		{"tank"	0.9
 		}
@@ -44,14 +44,13 @@
 		(include "veterancy_generic.inc")
 		("veterancy_1")
 	}
-	{inventory
-		{item "lebel_m1886" filled}
-		{item "ammo rifle" 100}
+	{inventory                    
+		{item "type2smg" filled}
+		{item "ammo pistol" 500}
 		{item "bandage" 5}
-		{item "grenade mk1" 2}
-		{item "grenade n73at" 1}
-		{item "smoke grenade" 2}
-		{item "sandbag_kit" 1}
+		{item "grenade type97" 2}
+		{item "grenade type3at_a" 1}
+		{item "smoke grenade" 1}
 		{in_hands 0}
 	}
 }

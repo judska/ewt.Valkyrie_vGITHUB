@@ -22,12 +22,3 @@
 			}
 		)
 )
-
-(define "veterancy_5"
-		{"lvl_5" 0
-		}
-		(mod "mp"
-			{"lvl_5" 0
-			}
-		)
-)

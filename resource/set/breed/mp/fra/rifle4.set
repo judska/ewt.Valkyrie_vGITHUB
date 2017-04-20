@@ -1,8 +1,8 @@
 {breed
 	{skin "pol_black_br_mgun"}
-	{portrait "fra_soldier2"}
-      	{nationality fra}
-	{icon "rifle"}
+	{portrait "pol_elite1"}
+    {nationality pol}
+	{icon "elite1"}
 	{icon_priority 1}
 	{armors
 		{head "pol_helmet_m16"}

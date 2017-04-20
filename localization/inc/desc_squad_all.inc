@@ -197,15 +197,15 @@
 		{"smgs3(chn)" "Demolition specialists"}
 	    {"smgs3(anz)" "Demolition specialists"}
         {"elites2(eng)" "Veteran rifleman"}
-		{"elites2(ger)" "Veteran rifleman"}
-		{"elites2(jap)" "Veteran rifleman"}
+		{"elites2(ger)" "Veteran smg"}
+		{"elites2(jap)" "Veteran smg"}
 		{"elites2(rus)" "Veteran rifleman"}
 		{"elites2(usa)" "Veteran rifleman"}
 		{"elites2(hun)" "Veteran rifleman"}
 		{"elites2(fra)" "Veteran rifleman"}
 		{"elites2(fin)" "Veteran rifleman"}
-		{"elites2(ita)" "Veteran rifleman"}
-		{"elites2(chn)" "Veteran rifleman"}
+		{"elites2(ita)" "Veteran smg"}
+		{"elites2(chn)" "Veteran smg"}
 	    {"elites2(anz)" "Veteran rifleman"}
         {"snipers(eng)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
 		{"snipers(ger)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
@@ -311,7 +311,7 @@
 		{"hero1_eng" "<c(ee852f)><e(shadow)>Saboteur</e></c>"}
 		{"hero2_eng" "Black Watch"}
 		{"hero3_eng" "Royal Grenadiers"}
-		{"hero4_eng1" "Crusader Mk. ICS"}
+		{"hero4_eng1" "Sacred Band"}
 		{"hero5_eng" "Royal Commandos"}
 		{"hero6_eng" "Cromwell Mk. VI"}
 		{"hero7_eng" "Radio Operator"}

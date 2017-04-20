@@ -42,7 +42,7 @@
 	}
 	{veterancy
 		(include "veterancy_generic.inc")
-		("veterancy_5")
+		("veterancy_1")
 	}
 	{inventory
 		{item "weapon panzershreck" filled}

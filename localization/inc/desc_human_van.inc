@@ -126,9 +126,10 @@
                 {"elite7" "<c(c3baae)>volksgrenadier"}
                 {"elite8" "<c(c3baae)>volksgrenadier"}
                 {"elite9" "<c(c3baae)>volksgrenadier"}
-                {"elite10" "<c(c3baae)>das reich stormtrooper"}
-                {"elite11" "<c(c3baae)>das reich stormtrooper"}
-                {"elite12" "<c(c3baae)>das reich stormtrooper"}
+                {"sturmovik8" "<c(c3baae)>das reich stormtrooper"}
+                {"sturmovik9" "<c(c3baae)>das reich stormtrooper"}
+                {"sturmovik10" "<c(c3baae)>das reich stormtrooper"}
+                {"sturmovik11" "<c(c3baae)>das reich stormtrooper"}
 				{"flamer" "<c(c3baae)>flamethrower infantry"}
 				{"flamer2" "<c(c3baae)>flamethrower support infantry"}
 				{"home_guard" "<c(c3baae)>volkssturm"}
