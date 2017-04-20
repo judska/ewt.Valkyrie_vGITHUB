@@ -1,5 +1,5 @@
 {from "pattern gun"		; "m5"
-	{filling "bullet76"}
+	{filling "bullet76hvap"}
 	{fireSound "gun/50to76_cal/76mm_mk4"}
 	{reloadSound "gun_r05"}
 	{rechargeTime 4}

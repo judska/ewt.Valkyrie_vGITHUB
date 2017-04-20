@@ -1,11 +1,11 @@
 {breed
-	{skin "eng-engineer"}
-	{portrait "eng_elite2"}
-	{nationality eng}
-	{icon "elite5"}
+	{skin "grc_rifleman"}
+	{portrait "grc_soldier2"}
+	{nationality grc}
+	{icon "rifleman"}
 	{icon_priority 3}
 	{armors
-		{head fieldcap_eng}
+		{head "helmet1_grc"}
 	}
 	{perks
 		{"health" "250%"
@@ -18,7 +18,7 @@
 		}
 		{"vision" "mp_tier3"
 		}
-		{"speed" 1.0
+		{"speed" 0.9
 		}
 		{"tank"	0.9
 		}
@@ -45,13 +45,12 @@
 		("veterancy_1")
 	}
 	{inventory
-		{item "em3" filled}
+		{item "carcano_m91" filled}
 		{item "ammo rifle" 100}
 		{item "bandage" 5}
 		{item "grenade mk1" 2}
 		{item "grenade n73at" 1}
 		{item "smoke grenade" 2}
-		{item "mine antitank" 1}
 		{item "sandbag_kit" 1}
 		{in_hands 0}
 	}

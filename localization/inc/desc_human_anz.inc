@@ -9,9 +9,9 @@
 				{"elite" "<c(c3baae)>digger"}
 				{"elite2" "<c(c3baae)>digger"}
 				{"elite3" "<c(c3baae)>digger"}
-				{"elite4" "<c(c3baae)>anzac"}
-				{"elite5" "<c(c3baae)>anzac"}
-				{"elite6" "<c(c3baae)>anzac"}
+				{"elite4" "<c(c3baae)>tobruk rat"}
+				{"elite5" "<c(c3baae)>tobruk rat"}
+				{"elite6" "<c(c3baae)>tobruk rat"}
 				{"elite_at" "<c(c3baae)>digger"}
 				{"flamer" "<c(c3baae)>flamethrower infantry"}
 				{"flamer2" "<c(c3baae)>flamethrower support infantry"}

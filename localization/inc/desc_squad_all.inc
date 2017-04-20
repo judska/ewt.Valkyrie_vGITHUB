@@ -77,10 +77,10 @@
 		{"home_guards(eng)" "Militia"}
 		{"home_guards(ger)" "Volkssturm"}
 		{"home_guards(jap)" "Recruits"}
-		{"home_guards(rus)" "Partisan"}
+		{"home_guards(rus)" "<c(ee852f)><e(shadow)>Partisans</e></c>"}
 		{"home_guards(usa)" "Conscripts"}
 		{"home_guards(hun)" "Home Guards"}
-		{"home_guards(fra)" "Resistance"}
+		{"home_guards(fra)" "<c(ee852f)><e(shadow)>Resistance</e></c>"}
 		{"home_guards(fin)" "Reservists"}
 		{"home_guards(ita)" "Milizia"}
 		{"home_guards(chn)" "Peasants"}
@@ -207,28 +207,28 @@
 		{"elites2(ita)" "Veteran rifleman"}
 		{"elites2(chn)" "Veteran rifleman"}
 	    {"elites2(anz)" "Veteran rifleman"}
-        {"snipers(eng)" "Sniper"}
-		{"snipers(ger)" "Sniper"}
-		{"snipers(jap)" "Sniper"}
-		{"snipers(rus)" "Sniper"}
-		{"snipers(usa)" "Sniper"}
-		{"snipers(hun)" "Sniper"}
-		{"snipers(fra)" "Sniper"}
-		{"snipers(fin)" "Sniper"}
-		{"snipers(ita)" "Sniper"}
-		{"snipers(chn)" "Sniper"}
-		{"snipers(anz)" "Sniper"}
-		{"snipers_d(eng)" "Sniper"}
-		{"snipers_d(ger)" "Sniper"}
-		{"snipers_d(jap)" "Sniper"}
-		{"snipers_d(rus)" "Sniper"}
-		{"snipers_d(usa)" "Sniper"}
-		{"snipers_d(hun)" "Sniper"}
-		{"snipers_d(fra)" "Sniper"}
-		{"snipers_d(fin)" "Sniper"}
-		{"snipers_d(ita)" "Sniper"}
-		{"snipers_d(chn)" "Sniper"}
-		{"snipers_d(anz)" "Sniper"}
+        {"snipers(eng)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers(ger)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers(jap)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers(rus)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers(usa)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers(hun)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers(fra)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers(fin)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers(ita)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers(chn)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers(anz)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers_d(eng)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers_d(ger)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers_d(jap)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers_d(rus)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers_d(usa)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers_d(hun)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers_d(fra)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers_d(fin)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers_d(ita)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers_d(chn)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
+		{"snipers_d(anz)" "<c(ee852f)><e(shadow)>Sniper</e></c>"}
 		{"shotguns(usa)" "Shotgunners"}
 		{"stormtroopers(eng)" "SAS"}
 		{"stormtroopers1(eng)" "Elite marksmen"}
@@ -308,7 +308,7 @@
 		{"tankmans(chn)" "Tank crew"}
 		{"tankmans(anz)" "Tank crew"}
 
-		{"hero1_eng" "Saboteur"}
+		{"hero1_eng" "<c(ee852f)><e(shadow)>Saboteur</e></c>"}
 		{"hero2_eng" "Black Watch"}
 		{"hero3_eng" "Royal Grenadiers"}
 		{"hero4_eng1" "Crusader Mk. ICS"}
@@ -321,10 +321,10 @@
 		{"hero11_eng" "Churchill AVRE"}
 		{"hero12_eng" "Black Prince"}
 
-		{"hero1_ger" "Veteran Sniper"}
+		{"hero1_ger" "<c(ee852f)><e(shadow)>Veteran Sniper</e></c>"}
 		{"hero2_ger1" "German Youth"}
 		{"hero3_ger" "Panzerjager I"}
-		{"hero4_ger" "Brandenburger"}
+		{"hero4_ger" "<c(ee852f)><e(shadow)>Brandenburger</e></c>"}
 		{"hero5_ger" "Fallschirmjager"}
 		{"hero6_ger" "Nebelwerfer 41"}
 		{"hero7_ger" "Radio Operator"}
@@ -335,7 +335,7 @@
 		{"hero12_ger" "King Tiger"}
 
 		{"hero1_jap" "AT-Riflegrenade Squad"}
-		{"hero2_jap1" "Kamikaze!"}
+		{"hero2_jap1" "<c(ee852f)><e(shadow)>Kamikaze!</e></c>"}
 		{"hero3_jap1" "Gyokusai"}
 		{"hero4_jap" "Homeland Fury"}
 		{"hero5_jap1" "Na-To"}
@@ -347,10 +347,10 @@
 		{"hero11_jap" "200mm Rocket"}
 		{"hero12_jap" "Ho-Ri 1"}
 		
-		{"hero1_rus" "Spetsnaz"}
+		{"hero1_rus" "<c(ee852f)><e(shadow)>Spetsnaz</e></c>"}
 		{"hero2_rus" "Shock Infantry"}
 		{"hero3_rus1" "Black Coats"}
-		{"hero4_rus" "Guards Sniper"}
+		{"hero4_rus" "<c(ee852f)><e(shadow)>Guards Sniper</e></c>"}
 		{"hero5_rus" "Guards Rifle"}
 		{"hero6_rus" "Charge!"}
         {"hero7_rus" "BS-3"}
@@ -365,7 +365,7 @@
 		{"hero3_usa1" "Marauders"}
 		{"hero4_usa" "U.S. Marines"}
 		{"hero5_usa1" "Flyswatter"}
-		{"hero6_usa" "Devil's Brigade"}
+		{"hero6_usa" "<c(ee852f)><e(shadow)>Devil's Brigade</e></c>"}
 		{"hero7_usa" "M4A3R2 Croc"}
 		{"hero8_usa" "Radio Operator"}
 		{"hero9_usa" "M4A3(105)"}
@@ -376,7 +376,7 @@
         {"hero1_hun" "Csaba 40M"}
 		{"hero2_hun" "Calarasi"}
 		{"hero3_hun" "Szent Laszlo Infantry"}
-		{"hero4_hun" "Arrow Cross Fanatics"}
+		{"hero4_hun" "<c(ee852f)><e(shadow)>Arrow Cross Fanatics</e></c>"}
 		{"hero5_hun" "SdKfz 250/9"}
 		{"hero6_hun" "Hetzer"}
 		{"hero7_hun" "Turan 2"}
@@ -388,7 +388,7 @@
 
         {"hero1_fra" "Maginot Line Defenders"}
 		{"hero2_fra" "Mortier de 50mm"}
-		{"hero3_fra" "Vive la France!"}
+		{"hero3_fra" "<c(ee852f)><e(shadow)>Viva La France!</e></c>"}
 		{"hero4_fra" "Renault DCA 37mm Shneider"}
         {"hero5_fra" "Dywizja Grenadierow"}	
         {"hero6_fra" "Demi Brigade"}
@@ -403,7 +403,7 @@
         {"hero2_fin" "Indirect Maxim Support"}
         {"hero3_fin" "Trench Clearers"}
         {"hero4_fin" "76mm M1909"}
-        {"hero5_fin" "White Death"}
+        {"hero5_fin" "<c(ee852f)><e(shadow)>White Death</e></c>"}
         {"hero6_fin" "Prototype BT-42"}
         {"hero7_fin" "Toerni Detachement"}
         {"hero8_fin" "Radio Operator"}
@@ -416,7 +416,7 @@
         {"hero2_ita" "Caccia Carri"}
         {"hero3_ita" "Carro Armato L35/L.F."}
         {"hero4_ita" "45mm Brixia Modello 35"}
-        {"hero5_ita" "ARMIR"}
+        {"hero5_ita" "<c(ee852f)><e(shadow)>ARMIR</e></c>"}
         {"hero6_ita" "Cannone Movente"}
         {"hero7_ita" "PzKpfw III Ausf.N"}
         {"hero8_ita" "Radio Operator"}
@@ -429,7 +429,7 @@
         {"hero2_chn" "PzKpfw I Ausf.B"}
         {"hero3_chn" "Willys AT"}
         {"hero4_chn" "Guerilla Uprising"}
-        {"hero5_chn" "Korean Rebels"}
+        {"hero5_chn" "<c(ee852f)><e(shadow)>Korean Rebels</e></c>"}
         {"hero6_chn" "SU-12"}
         {"hero7_chn" "Burma Road Soliders"}
         {"hero8_chn" "122mm A-19"}
@@ -442,7 +442,7 @@
         {"hero2_anz" "Volunteer Rifles"}
         {"hero3_anz" "Jungle Gun!"}
         {"hero4_anz" "Desert Patrol"}
-        {"hero5_anz" "Desert Rats"}
+        {"hero5_anz" "Rats of Tobruk"}
         {"hero6_anz" "40mm M1 Bofors L/60"}     
         {"hero7_anz" "Staghound OF 6-pdr"}   
         {"hero8_anz" "4.2 inch Mortar carrier"}        

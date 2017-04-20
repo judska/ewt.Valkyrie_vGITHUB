@@ -66,9 +66,9 @@
 {"hero2_usa"       ("i2" c(120)			                        t(all hero) s(usa) n1(rifle:5) n2(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero3_usa1"      ("i3" c(120)			                        t(all hero) s(usa) n1(elite7:2) n2(elite8:1) n3(elite9:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
-{"hero4_usa"       ("i4" c(240)			                        t(all hero) s(usa) n1(elite4:5) n2(elite5:3) n3(elite6:1) n4(elite10:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero5_usa1"      ("v1" c(240)  c1(m15a1) 	                    t(all hero) s(usa) n1(tankman:3) n2(tankman2:1) g(h2) b(hero)) {level 2} {cost 2.0} {fore -0.5}}
 {"hero6_usa"       ("i2" c(240)					                t(all hero) s(usa) n1(scout:2) n2(scout2:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"hero4_usa"       ("v5" c(360)	 c1(lvt4)		                t(all hero) s(usa) n1(elite4:4) n2(elite5:3) n3(elite6:2) n4(elite11:2) n5(elite10:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
 
 {"hero7_usa"       ("v1" c(360)  c1(m4a3_zippo) 	            t(all hero) s(usa) n1(tankman:4) n2(tankman2:1) g(h3) b(hero)) {level 2} {cost 3.0} {fore -0.5}}
 {"hero8_usa"       ("i2" c(480)			                        t(all hero) s(usa) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 5} {cost 4.0} {fore -0.5}}

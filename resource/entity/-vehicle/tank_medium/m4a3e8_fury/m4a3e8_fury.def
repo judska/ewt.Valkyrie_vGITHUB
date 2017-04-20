@@ -79,9 +79,9 @@
 
 	{extender "inventory"
 		{box
-			{item "ammo bullet76 ap" 39}
-			{item "ammo bullet76 fg" 27}
-			{item "ammo bullet76 apcr" 10}
+			{item "ammo bullet76hvap ap" 39}
+			{item "ammo bullet76hvap fg" 27}
+			{item "ammo bullet76hvap apcr" 10}
 			{item "browning" filled {user "mgun"}}
 			{item "ammo hmgun" 500}
 			{item "ammo mgun" 2375}

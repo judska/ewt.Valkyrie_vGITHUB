@@ -1,0 +1,14 @@
+{from "pattern mgun"
+	{tag "mgun_light"}
+	{filling "ammo mgun" 20}
+	{entity "chauchat_mle_15_csrg"}
+	{fireSound	"mgun/fm_24_29_burst/"}
+	{reloadSound "bren_reload"}
+
+	{rechargeTime 4}
+	("recoveryTime" r(250))
+	{healthDamage 300}
+	("burst_short")
+	("speed" s(700))
+
+}

@@ -44,8 +44,8 @@
 		("veterancy_1")
 	}
 	{inventory
-		{item "pystykorva" filled}
-		{item "rifle ammo" 300}
+		{item "dp27" filled}
+		{item "ammo mgun" 900}
 		{item "bandage" 5}
 		{item "grenade m24" 4}
 		{item "grenade m24x5" 2}

@@ -59,8 +59,8 @@
 {"hero2_fin"            ("v1" c(120) c1(maxim_ind)  	 t(all hero) s(fin) n1(vehicle_supporter:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero3_fin"            ("i3" c(240)					 t(all hero) s(fin) n1(elite4:2) n2(elite5:6) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 
-{"hero4_fin"	  	    ("v1" c(240) c1(76mm_m1909_fin)  t(all hero) s(fin) n1(vehicle_supporter:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero5_fin"            ("i1" c(240)					 t(all hero) s(fin) n1(sniper2:1)  g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"hero4_fin"	  	    ("v1" c(360) c1(76mm_m1909_fin)  t(all hero) s(fin) n1(vehicle_supporter:2) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
 {"hero6_fin"            ("v1" c(480) c1(bt42) 	         t(all hero) s(fin) n1(tankman:3) n2(tankman2:1) g(h4) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
 
 {"hero7_fin"            ("i5" c(480) 					 t(all hero) s(fin) n1(elite7:5) n2(elite8:4) n3(elite9:2) n4(elite_at2:2) n5(elite_sniper:1) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
