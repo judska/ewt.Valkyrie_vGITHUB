@@ -177,9 +177,9 @@
 				{"elite" "<c(c3baae)>commando"}
 				{"elite2" "<c(c3baae)>commando"}
 				{"elite3" "<c(c3baae)>commando"}
-				{"elite4" "<c(c3baae)>anzac"}
-				{"elite5" "<c(c3baae)>anzac"}
-				{"elite6" "<c(c3baae)>anzac"}
+				{"elite4" "<c(c3baae)>sacred band infantry"}
+				{"elite5" "<c(c3baae)>sacred band infantry"}
+				{"elite6" "<c(c3baae)>sacred band infantry"}
 				{"elite_at" "<c(c3baae)>commando"}
 				{"flamer" "<c(c3baae)>flamethrower infantry"}
 				{"flamer2" "<c(c3baae)>flamethrower support infantry"}

@@ -197,7 +197,7 @@
 		{"smgs3(chn)" "Demolition specialists"}
 	    {"smgs3(anz)" "Demolition specialists"}
         {"elites2(eng)" "Veteran rifleman"}
-		{"elites2(ger)" "Veteran smg"}
+		{"elites2(ger)" "Veteran machine gunner"}
 		{"elites2(jap)" "Veteran smg"}
 		{"elites2(rus)" "Veteran rifleman"}
 		{"elites2(usa)" "Veteran rifleman"}
@@ -311,7 +311,7 @@
 		{"hero1_eng" "<c(ee852f)><e(shadow)>Saboteur</e></c>"}
 		{"hero2_eng" "Black Watch"}
 		{"hero3_eng" "Royal Grenadiers"}
-		{"hero4_eng1" "Sacred Band"}
+		{"hero4_eng" "Sacred Band"}
 		{"hero5_eng" "Royal Commandos"}
 		{"hero6_eng" "Cromwell Mk. VI"}
 		{"hero7_eng" "Radio Operator"}
@@ -364,7 +364,7 @@
 		{"hero2_usa" ".30 cal Browning A6"}
 		{"hero3_usa1" "Marauders"}
 		{"hero4_usa" "U.S. Marines"}
-		{"hero5_usa1" "Flyswatter"}
+		{"hero5_usa1" "M15 \"Special\""}
 		{"hero6_usa" "<c(ee852f)><e(shadow)>Devil's Brigade</e></c>"}
 		{"hero7_usa" "M4A3R2 Croc"}
 		{"hero8_usa" "Radio Operator"}
