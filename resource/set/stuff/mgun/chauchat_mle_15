@@ -2,7 +2,7 @@
 	{tag "mgun_light"}
 	{filling "ammo mgun" 20}
 	{entity "chauchat_mle_15_csrg"}
-	{fireSound	"mgun/fm_24_29_burst/"}
+	{fireSound	"mgun/chauchat/"}
 	{reloadSound "bren_reload"}
 
 	{rechargeTime 4}

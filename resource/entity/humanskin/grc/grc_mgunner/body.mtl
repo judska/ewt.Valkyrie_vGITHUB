@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/humanskin/grc/grc_kapral"}
+	;{specular "$/humanskin/grc/grc_kapral_spec"}
+	{color "230 230 230 25"}
+	{blend none}
+}

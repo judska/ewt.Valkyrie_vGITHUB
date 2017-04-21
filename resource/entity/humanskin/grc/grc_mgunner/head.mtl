@@ -1,0 +1,4 @@
+{material bump
+	{diffuse "$/humanskin/grc/grc_head_gunner"}
+	{blend none}
+}

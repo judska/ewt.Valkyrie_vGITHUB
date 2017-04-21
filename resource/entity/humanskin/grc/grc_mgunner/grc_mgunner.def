@@ -1,3 +1,4 @@
 {game_entity
-	{Extension "ita-inf-mgun.mdl"}
+	{Extension "grc-mgun.mdl"}
+	{tag "grc soldier"}
 }

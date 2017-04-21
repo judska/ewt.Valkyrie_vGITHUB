@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/humanskin/grc/grc_soldier"}
+	;{specular "$/humanskin/grc/grc_soldier_spec"}
+	{color "230 230 230 25"}
+	{blend none}
+}
