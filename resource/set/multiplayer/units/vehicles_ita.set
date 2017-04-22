@@ -1,6 +1,6 @@
 ;----- Italy -----
 
-;°°°Button 1°°°
+;Â°Â°Â°Button 1Â°Â°Â°
 
 {"as37"           ("vs" c(60) t(all)		s(ita) n(4) g(b1) sc(120.00) b(v1) cw(0) cp(0)) {level 1} {cost 120} {fore 1.0}}
 {"lince"          ("vs" c(60) t(all) 		s(ita) n(2) g(b2) sc(150.00) b(v1) cw(0) cp(0)) {level 1} {cost 150} {fore 1.0}}
@@ -11,7 +11,7 @@
 {"fiat35_eng"      ("vs" c(60) t(all supply) 	s(ita) n(2) g(b7) sc(125.00) b(v1) cw(0) cp(0)) {level 1} {cost 125} {fore 0.0}}
 
 
-;°°°Button 2°°°
+;Â°Â°Â°Button 2Â°Â°Â°
 
 {"breda_safat88_stan"        ("vs" c(300) t(all cannon) 	s(ita) n(2) g(c1) sc(95.00) b(v2) cw(2) cp(5)) {level 1} {cost 95} {fore 1.0}}
 {"20mmScotti"                ("vs" c(300) t(all cannon) 	s(ita) n(2) g(c2) sc(170.00) b(v2) cw(2) cp(5)) {level 1} {cost 170} {fore 0.5}}
@@ -26,36 +26,36 @@
 ("how" side(ita) name(how_a) c(0) c1(fiat35) c2(sfh18) 	        t(all artillery heavyart) g(c9) b(v2) level(9) cost(800) f(1.0))
 
 
-;°°°Button 3°°°
+;Â°Â°Â°Button 3Â°Â°Â°
 
 {"l335c"           ("v" c(180) t(all light) 		s(ita) n1(1) n2(1) g(d2) sc(170.00)  b(v3) cw(0) cp(5)) {level 1} {cost 170} {fore 0.6}}
-{"ab43"            ("v" c(150) t(all light)         s(ita) n1(2) n2(1) g(d1) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0.4}}
+{"ab43"            ("v" c(150) t(all light)         s(ita) n1(4) n2(1) g(d1) sc(220.00) b(v3) cw(0) cp(5)) {level 1} {cost 220} {fore 0.4}}
 {"l640"            ("v" c(210) t(all light) 		s(ita) n1(1) n2(1) g(d3) sc(250.00) b(v3) cw(0) cp(5)) {level 1} {cost 250} {fore 0}} 
 
-{"m1441"           ("v" c(150) t(all light)         s(ita) n1(1) n2(1) g(d4) sc(250.00)  b(v3) cw(0) cp(5)) {level 1} {cost 250} {fore 0.6}}
+{"m1441"           ("v" c(150) t(all light)         s(ita) n1(4) n2(1) g(d4) sc(250.00)  b(v3) cw(0) cp(5)) {level 1} {cost 250} {fore 0.6}}
 {"pz38tita"        ("v" c(150) t(all light) 	    s(ita) n1(3) n2(1) g(e1) sc(255.00) b(v3) cw(0) cp(5)) {level 1} {cost 255} {fore 1.0}}
 {"fiataa35"        ("v" c(180) t(all light)      	s(ita) n1(3) n2(1) g(d6) sc(180.00) b(v3) cw(0) cp(5)) {level 1} {cost 180} {fore 0}}
 
  
-;°°°Button 4°°°
+;Â°Â°Â°Button 4Â°Â°Â°
 
 {"p40"             ("v" c(0) t(all medium) 		    s(ita) n1(3) n2(1) g(e2) sc(430.00) b(v4) cw(0) cp(15)) {level 1} {cost 430} {fore 1.0}}
-{"pz4hita"         ("v" c(0) t(all medium) 		    s(ita) n1(3) n2(1) g(e2) sc(610.00) b(v4) cw(0) cp(15)) {level 1} {cost 610} {fore 1.0}}
+{"pz4hita"         ("v" c(0) t(all medium) 		    s(ita) n1(4) n2(1) g(e2) sc(610.00) b(v4) cw(0) cp(15)) {level 1} {cost 610} {fore 1.0}}
 {"kv1b"            ("v" c(0) t(all medium) 		    s(ita) n1(3) n2(1) g(e2) sc(925.00) b(v4) cw(0) cp(15)) {level 1} {cost 925} {fore 1.0}}   
 
 
-;°°°Button 5°°°
+;Â°Â°Â°Button 5Â°Â°Â°
 
-{"m7532"           ("v" c(0) t(all medium) 		    s(ita) n1(1) n2(1) g(f1) sc(280.00) b(v5) cw(0) cp(10)) {level 1} {cost 280} {fore 0}} 
+{"m7532"           ("v" c(0) t(all medium) 		    s(ita) n1(2) n2(1) g(f1) sc(280.00) b(v5) cw(0) cp(10)) {level 1} {cost 280} {fore 0}} 
 {"m7518"           ("v" c(0) t(all medium) 		    s(ita) n1(2) n2(1) g(f2) sc(320.00) b(v5) cw(0) cp(10)) {level 1} {cost 320} {fore 1.0}}
 {"m7534"           ("v" c(0) t(all medium) 	        s(ita) n1(2) n2(1) g(f3) sc(360.00) b(v5) cw(2) cp(10)) {level 1} {cost 360} {fore 1.0}} 	
 
-{"stug3gita"       ("v" c(0) t(all medium) 	        s(ita) n1(2) n2(1) g(f4) sc(610.00) b(v5) cw(0) cp(10)) {level 1} {cost 610} {fore 1.0}}
+{"stug3gita"       ("v" c(0) t(all medium) 	        s(ita) n1(3) n2(1) g(f4) sc(610.00) b(v5) cw(0) cp(10)) {level 1} {cost 610} {fore 1.0}}
 {"m7546"           ("v" c(0) t(all medium) 	        s(ita) n1(3) n2(1) g(f5) sc(700.00) b(v5) cw(0) cp(15)) {level 1} {cost 700} {fore 1.0}}   	
 {"m9053"           ("v" c(0) t(all heavy) 	        s(ita) n1(3) n2(1) g(f5) sc(730.00) b(v5) cw(0) cp(15)) {level 1} {cost 730} {fore 1.0}}  			
 
 
-;°°°Button Hero°°°
+;Â°Â°Â°Button HeroÂ°Â°Â°
 
 {"hero1_ita"         ("i2" c(120)				     t(all hero) s(ita) n1(smg4:4) n2(rifle3:6) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero2_ita"         ("i3" c(120)				     t(all hero) s(ita) n1(elite4:2) n2(elite5:1) n3(elite6:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
