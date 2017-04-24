@@ -1,6 +1,6 @@
 ;----- Finland -----
 
-;°°°Button 1°°°
+;Â°Â°Â°Button 1Â°Â°Â°
 
 {"r12_fin"               ("vs" c(60) t(all) 		   s(fin) n(2) g(b1) sc(65.00) b(v1) cw(0) cp(0)) {level 1} {cost 65} {fore 1.0}}
 {"t20_fin"               ("v" c(300) t(all light) 	   s(fin) n1(2) n2(0) g(b5) sc(80.00) b(v1) cw(0) cp(0)) {level 1} {cost 80} {fore 0.5}}
@@ -11,7 +11,7 @@
 {"np_volvo_eng"          ("vs" c(60) t(all supply) 	   s(fin) n(2) g(b4) sc(125.00) b(v1) cw(0) cp(0)) {level 1} {cost 125} {fore 0.0}}
 
 
-;°°°Button 2°°°
+;Â°Â°Â°Button 2Â°Â°Â°
 
 {"maxim_stan"                ("vs" c(300) t(all cannon) 		    s(fin) n(2) g(c1) sc(105.00) b(v2) cw(2) cp(5)) {level 1} {cost 105} {fore 1}}
 {"flak38_wheeled_fin"        ("vs" c(300) t(all cannon) 	        s(fin) n(2) g(c2) sc(170.00) b(v2) cw(2) cp(5)) {level 1} {cost 170} {fore 0.5}}
@@ -26,10 +26,10 @@
 ("how" side(fin) name(how_a) c(0) c1(np_volvo) c2(sfh18) 	        t(all artillery heavyart) g(c9) b(v2) level(9) cost(800) f(1.0))
 
  
-;°°°Button 3°°°
+;Â°Â°Â°Button 3Â°Â°Â°
 
-{"t-26_fin_1931"         ("v" c(150) t(all light) 		s(fin) n1(2) n2(1) g(d2) sc(110.00) b(v3) cw(0) cp(5)) {level 1} {cost 110} {fore 0.6}}
-{"ba10_fin"              ("v" c(150) t(all light) 		s(fin) n1(2) n2(1) g(d2) sc(160.00) b(v3) cw(0) cp(5)) {level 1} {cost 160} {fore 0.6}}
+{"t-26_fin_1931"         ("v" c(150) t(all light) 		s(fin) n1(3) n2(1) g(d2) sc(110.00) b(v3) cw(0) cp(5)) {level 1} {cost 110} {fore 0.6}}
+{"ba10_fin"              ("v" c(150) t(all light) 		s(fin) n1(3) n2(1) g(d2) sc(160.00) b(v3) cw(0) cp(5)) {level 1} {cost 160} {fore 0.6}}
 {"bt5_fin"               ("v" c(150) t(all light) 		s(fin) n1(2) n2(1) g(e1) sc(170.00) b(v3) cw(0) cp(5)) {level 1} {cost 170} {fore 0}}
 
 {"ot-130"                ("v" c(150) t(all light) 		s(fin) n1(2) n2(1) g(d3) sc(200.00) b(v3) cw(0) cp(5)) {level 1} {cost 200} {fore 1.0}}
@@ -37,7 +37,7 @@
 {"landsverk_anti_2"      ("v" c(210) t(all light) 		s(fin) n1(4) n2(1) g(d4) sc(375.00) b(v3) cw(0) cp(10)) {level 1} {cost 375} {fore 0}}
 
 
-;°°°Button 4°°°
+;Â°Â°Â°Button 4Â°Â°Â°
 
 {"t28_fin"               ("v" c(0) t(all medium) 		s(fin) n1(5) n2(1) g(e3) sc(340.00) b(v4) cw(0) cp(10)) {level 1} {cost 340} {fore 1.0}}
 {"t34_41_fin"            ("v" c(0) t(all medium) 		s(fin) n1(3) n2(1) g(e3) sc(370.00) b(v4) cw(0) cp(15)) {level 1} {cost 370} {fore 1.0}}
@@ -48,12 +48,12 @@
 {"t34_3_fin"             ("v" c(0) t(all medium) 		s(fin) n1(3) n2(1) g(e3) sc(720.00) b(v4) cw(0) cp(15)) {level 1} {cost 720} {fore 1.0}}
 
 
-;°°°Button 5°°°
+;Â°Â°Â°Button 5Â°Â°Â°
 
 {"stug3gfin"          	("v" c(0) t(all medium) 		s(fin) n1(3) n2(1) g(f1) sc(610.00) b(v5) cw(0) cp(10)) {level 1} {cost 610} {fore 1.0}}
 
 
-;°°°Button Hero°°°
+;Â°Â°Â°Button HeroÂ°Â°Â°
 
 {"hero1_fin"            ("i3" c(120)				     t(all hero) s(fin) n1(smg2:3) n2(rifle2:3) n3(mgun3:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero2_fin"            ("v1" c(120) c1(maxim_ind)  	 t(all hero) s(fin) n1(vehicle_supporter:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
