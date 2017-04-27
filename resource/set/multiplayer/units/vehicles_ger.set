@@ -80,8 +80,9 @@
 {"hero6_ger"        ("v1" c(480) c1(nebelwerfer41) 	               t(all hero) s(ger) n1(vehicle_supporter:2) g(h4) b(hero)) {level 5} {cost 4.0} {fore -0.5}}
 
 {"hero7_ger"        ("i2" c(480)				                   t(all hero) s(ger) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 2} {cost 4.0} {fore -0.5}}
-{"hero8_ger1"       ("24v" c(600) c1(sdkfz251_1_D_R) c2(sdkfz251_1_D_R)     t(all hero) s(ger) n1(sturmovik9:3) n2(sturmovik8:3) n3(sturmovik11:2) n4(sturmovik10:2) g(h5) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
-{"hero9_ger"	    ("v1" c(600) c1(stuh42) 		               t(all hero) s(ger) n1(tankman:4) n2(tankman2:1) g(h5) b(hero)) {level 10} {cost 5.0} {fore -0.5}}
+{"hero8_ger"	    ("v1" c(600) c1(stuh42) 		               t(all hero) s(ger) n1(tankman:4) n2(tankman2:1) g(h5) b(hero)) {level 10} {cost 5.0} {fore -0.5}}
+{"hero9_ger1"       ("24v" c(720) c1(sdkfz251_1_D_R) c2(sdkfz251_1_D_R)     t(all hero) s(ger) n1(sturmovik9:3) n2(sturmovik8:3) n3(sturmovik11:2) n4(sturmovik10:2) g(h6) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
+
 
 {"hero10_ger"	    ("v1" c(720) c1(pak43)	                       t(all hero) s(ger) n1(vehicle_supporter:2) g(h6) b(hero)) {level 15} {cost 6.0} {fore -0.5}}
 {"hero11_ger"       ("v1" c(840) c1(veteran_tiger) 	               t(all hero) s(ger) n1(tankman:4) n2(tankman2:1) g(h7) b(hero)) {level 20} {cost 7.0} {fore -0.5}}  
