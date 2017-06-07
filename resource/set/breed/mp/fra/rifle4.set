@@ -1,11 +1,11 @@
 {breed
-	{skin "pol-ulan-rfl"}
+	{skin "pol_black_br"}
 	{portrait "pol_elite1"}
     {nationality pol}
 	{icon "elite1"}
 	{icon_priority 1}
 	{armors
-		{head "helmet_pol_wz31"}
+		{head "pol_helmet_wz31"}
 	}
 	{perks
 		{"health" "350%"

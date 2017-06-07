@@ -4,6 +4,7 @@
 		{xform zl -172.48 scale 0.75}
 		{Skeleton
 			{MtlParams
+				{"parallax scale" "0.04"}
 				{"specular color" "e6e6e6ff"}
 			}
 		}
@@ -28,6 +29,7 @@
 		{xform zl -174.89 scale 0.75}
 		{Skeleton
 			{MtlParams
+				{"parallax scale" "0.04"}
 				{"specular color" "e6e6e6ff"}
 			}
 		}
@@ -52,6 +54,7 @@
 		{xform zl -172.48 scale 0.75}
 		{Skeleton
 			{MtlParams
+				{"parallax scale" "0.04"}
 				{"specular color" "e6e6e6ff"}
 			}
 		}
@@ -76,6 +79,7 @@
 		{xform zl -172.48 scale 0.75}
 		{Skeleton
 			{MtlParams
+				{"parallax scale" "0.04"}
 				{"specular color" "e6e6e6ff"}
 			}
 		}
@@ -100,6 +104,7 @@
 		{xform zl -172.48 scale 0.75}
 		{Skeleton
 			{MtlParams
+				{"parallax scale" "0.04"}
 				{"specular color" "e6e6e6ff"}
 			}
 		}
@@ -120,7 +125,7 @@
 		{MID 2}
 	}
 	{Entity "map_point" 0x802d
-		{Position -1006.88 -3053.76}
+		{Position -1679.74 -2933.62}
 		{xform zl 42.5}
 		{Extender "map_point"
 			{name a1}
@@ -139,7 +144,7 @@
 		{MID 5}
 	}
 	{Entity "map_point" 0x801c
-		{Position -2881.09 -836.52}
+		{Position -2956.42 -1217.78}
 		{xform zl 26.09}
 		{Extender "map_point"
 			{name a2}
@@ -158,7 +163,7 @@
 		{MID 6}
 	}
 	{Entity "map_point" 0x8014
-		{Position 1421.64 3127.9}
+		{Position 1923.89 3142.01}
 		{xform zl -128.17}
 		{Extender "map_point"
 			{name b1}
@@ -177,7 +182,7 @@
 		{MID 7}
 	}
 	{Entity "map_point" 0x802c
-		{Position 3021.76 1240.06}
+		{Position 3345.6 1497.15}
 		{xform zl -144.77}
 		{Extender "map_point"
 			{name b2}
@@ -235,5 +240,5 @@
 			{scoreCurrent 0}
 		}
 	}
-	{Fog 0}
+	{Fog 1}
 }

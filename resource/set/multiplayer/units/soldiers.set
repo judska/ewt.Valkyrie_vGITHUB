@@ -792,6 +792,8 @@
 {"mp/ger/sniper2" ("sniper" side(ger))}
 {"mp/fin/sniper2" ("sniper" side(fin))}
 
+{"mp/fin/elite_sniper" ("sniper" side(fin))}
+
 
 
 (define "scout"

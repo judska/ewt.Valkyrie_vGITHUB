@@ -225,6 +225,14 @@
 		{xform zl -140.65}
 		{TexMod "new"}
 	}
+	{Entity "fir_small" 0x5809
+		{Position -677.98 771.77 -17.98}
+		{xform zl -116.29}
+		{TexMod "new"}
+		{Volume "crown"
+			{able {visible 1}}
+		}
+	}
 	{Entity "pine" 0x580a
 		{Position -817.12 605.34 -14.06}
 		{xform zl 130.92 scale 1.097}
@@ -620,6 +628,19 @@
 		{Position -1226.21 1509.66}
 		{xform zl -90.18}
 	}
+	{Entity "stone_gr1" 0x3007
+		{Position -958.83 1644.21 -51.5}
+		{xform zl 89.86 y 12.66 zw -89.86 scale 1.12}
+	}
+	{Entity "stone_gr2" 0x3008
+		{Position -793.96 1666.93 -54.5}
+	}
+	{Entity "stone_gr3" 0x3009
+		{Position -790.88 1684.09 -54.14}
+	}
+	{Entity "stone_gr4" 0x300a
+		{Position -797.51 1674.12 -54.5}
+	}
 	{Entity "stone_gr3" 0x300c
 		{Position -810.04 1269.78 -58.5}
 		{xform zl 74.84 scale 1.223}
@@ -662,6 +683,10 @@
 	{Entity "alder_little1" 0x7009
 		{Position -717.48 1073.66}
 		{xform zl -100.2 scale 0.63}
+	}
+	{Entity "alder_little" 0x700a
+		{Position -977.46 1636.15 -45.98}
+		{xform scale 0.767}
 	}
 	{Entity "alder_little" 0x700b
 		{Position -910.21 1780.83 -33.94}
@@ -1039,9 +1064,20 @@
 	{Entity "trace_stone4" 0x59
 		{Position -721.96 1111.01}
 	}
+	{Entity "trace_stone4" 0x5a
+		{Position -788.45 1677.66}
+	}
 	{Entity "trace_stone4" 0x5b
 		{Position -950.97 1536.02}
 		{xform zl -59.96}
+	}
+	{Entity "trace_algae4" 0x5c
+		{Position -787.28 1654.55}
+		{xform zl 103.4}
+	}
+	{Entity "trace_algae4" 0x5d
+		{Position -798.49 1705.21}
+		{xform zl 100.37}
 	}
 	{Entity "trace_algae4" 0x5e
 		{Position -951.09 1584.02}
@@ -1453,6 +1489,10 @@
 	{Entity "alder_little1" 0x5049
 		{Position -567.28 1292.82}
 		{xform zl 43.57 scale 0.453}
+	}
+	{Entity "alder_little1" 0x504a
+		{Position -799.29 1663.04}
+		{xform zl 43.57 scale 0.527}
 	}
 	{Entity "stone_gr2" 0x504b
 		{Position -542.8 1661.64 -56.38}
@@ -2230,6 +2270,14 @@
 		{xform zl 138.33 scale 1.043}
 		{TexMod "new"}
 	}
+	{Entity "fir_small" 0x2033
+		{Position 573.97 843.95 0.8}
+		{xform zl 138.33 scale 0.91}
+		{TexMod "new"}
+		{Volume "crown"
+			{able {visible 1}}
+		}
+	}
 	{Entity "new_fir2" 0x2035
 		{Position 888.45 920.24}
 		{xform zl 93.01 scale 1.043}
@@ -2781,6 +2829,14 @@
 		{Position -3.6 1904 -43.61}
 		{xform zl 122.38 scale 1.137}
 	}
+	{Entity "stone_gr3" 0x7031
+		{Position -19.74 1897.41 -43.9}
+		{xform zl 122.38 scale 1.137}
+	}
+	{Entity "stone_gr4" 0x7032
+		{Position -7.77 1897.15 -42.72}
+		{xform zl 122.38 scale 1.137}
+	}
 	{Entity "stone_gr2" 0x7033
 		{Position 20.85 1924.25 -46.27}
 		{xform zl -158.16}
@@ -2805,13 +2861,41 @@
 		{Position -15.72 1951.12 -50.57}
 		{xform zl -51.29 scale 1.377}
 	}
+	{Entity "stone_gr2" 0x7039
+		{Position -67.91 1869.48 -42.28}
+		{xform zl 36.12 scale 1.357}
+	}
+	{Entity "stone_gr3" 0x703a
+		{Position -75.54 1885.16 -45.03}
+		{xform zl 36.12 scale 1.357}
+	}
 	{Entity "stone_gr4" 0x703b
 		{Position -75.02 1873.2 -42.92}
 		{xform zl 36.12 scale 1.357}
 	}
+	{Entity "stone_gr2" 0x703c
+		{Position -46.11 1846.41 -35.54}
+		{xform zl 115.58 scale 1.22}
+	}
+	{Entity "stone_gr3" 0x703d
+		{Position -62.92 1841.77 -35.23}
+		{xform zl 115.58 scale 1.22}
+	}
 	{Entity "stone_gr4" 0x703e
 		{Position -51.07 1840.1 -34.39}
 		{xform zl 115.58 scale 1.22}
+	}
+	{Entity "stone_gr2" 0x703f
+		{Position -29.16 1887.57 -42.88}
+		{xform zl -137.55 scale 1.597}
+	}
+	{Entity "stone_gr3" 0x7040
+		{Position -19.85 1872.83 -39.01}
+		{xform zl -137.55 scale 1.597}
+	}
+	{Entity "stone_gr4" 0x7041
+		{Position -21.69 1884.65 -41.54}
+		{xform zl -137.55 scale 1.597}
 	}
 	{Entity "stone_gr2" 0x7042
 		{Position 274.67 1953.05 -48.76}
@@ -2873,6 +2957,11 @@
 	{Entity "new_fir2" 0x704e
 		{Position 1285.51 1022.94}
 		{xform zl 138.33 scale 1.043}
+		{TexMod "new"}
+	}
+	{Entity "new_fir2" 0x704f
+		{Position 1251.71 1059.54}
+		{xform zl 25.54 scale 1.043}
 		{TexMod "new"}
 	}
 	{Entity "fir_small" 0x7050
@@ -3195,6 +3284,10 @@
 	{Entity "alder_little" 0x819
 		{Position 783.15 2601.76 -24.78}
 		{xform zl -79.45 scale 0.913}
+	}
+	{Entity "alder_little" 0x81a
+		{Position -61.26 1910.22 -39.12}
+		{xform zl -79.45}
 	}
 	{Entity "alder_little" 0x81b
 		{Position -92.85 1855.21 -32.25}
@@ -3797,6 +3890,18 @@
 		{Position 753.59 1731.96 -31.25}
 		{xform zl -11.19}
 	}
+	{Entity "eg_omaha2" 0x4058
+		{Position 1196.87 1352.23 -41.87}
+		{xform zl -17.89}
+	}
+	{Entity "dot_element_omaha01" 0x103e
+		{Position 7.64 1240.7}
+		{xform zl 33.56}
+	}
+	{Entity "dot_element_omaha01" 0x1043
+		{Position -170.52 939.07}
+		{xform zl -50.16}
+	}
 	{Entity "new_fir2" 0x1044
 		{Position 1146.32 652.89}
 		{xform zl 15.13 scale 1.043}
@@ -3890,6 +3995,14 @@
 	{Entity "alder_little" 0x106c
 		{Position 382.31 1135.51 -17.26}
 		{xform zl -79.46}
+	}
+	{Entity "eg_omaha2" 0x1070
+		{Position 1429.39 832.94 -28.02}
+		{xform zl 29.25}
+	}
+	{Entity "eg_omaha2" 0x1072
+		{Position 1182.68 1108.53 -19.9}
+		{xform zl 15.88}
 	}
 	{Entity "clay_11" 0x1073
 		{Position 1683.72 157.58}
@@ -4824,9 +4937,17 @@
 		{Position -218.59 955.46 -34.05}
 		{xform zl -53.01}
 	}
+	{Entity "stone_gr3" 0x409a
+		{Position -192.2 908.54 -36.5}
+		{xform zl -42.31}
+	}
 	{Entity "stone_gr2" 0x409b
 		{Position -217.4 837.69 -38.5}
 		{xform zl -20.83}
+	}
+	{Entity "stone_gr3" 0x409c
+		{Position -208.41 852.63 -38.31}
+		{xform zl -98.61}
 	}
 	{Entity "stone_gr4" 0x409d
 		{Position -218.15 845.68 -38.51}
@@ -4864,6 +4985,30 @@
 		{Position 776.58 1088.57 -21.97}
 		{xform zl 83.1 scale 0.673}
 	}
+	{Entity "stone_gr3" 0x40b4
+		{Position 1543.2 1338.33 -57.77}
+		{xform zl 107.83 scale 1.223}
+	}
+	{Entity "stone_gr3" 0x40b5
+		{Position 1538.4 1325.54 -57.4}
+		{xform zl 32.99}
+	}
+	{Entity "alder_little" 0x40b7
+		{Position 1511.71 1314.98 -47.1}
+		{xform zl -36.82 scale 0.767}
+	}
+	{Entity "alder_little" 0x40b8
+		{Position 1553.95 1310.27 -49.33}
+		{xform zl 32.99 scale 0.767}
+	}
+	{Entity "trace_stone4" 0x40b9
+		{Position 1509.8 1384.39}
+		{xform zl 32.99}
+	}
+	{Entity "trace_stone4" 0x40ba
+		{Position 1530.75 1287.29}
+		{xform zl -76.49}
+	}
 	{Entity "trace_stone4" 0x40bc
 		{Position 1280.04 1484.92}
 		{xform zl -26.97}
@@ -4880,6 +5025,18 @@
 		{Position 1253.81 1525.12}
 		{xform zl 141.39}
 	}
+	{Entity "trace_algae4" 0x40c0
+		{Position 1506.87 1357.06}
+		{xform zl 109.37}
+	}
+	{Entity "stone_gr2" 0x40c1
+		{Position 1393.82 1682.94 -59.83}
+		{xform zl 80.73}
+	}
+	{Entity "stone_gr2" 0x40c2
+		{Position 1392.38 1682.46 -59.69}
+		{xform zl -3.61 scale 0.793}
+	}
 	{Entity "stone_gr2" 0x40c4
 		{Position 1476.89 1128.53 -60.43}
 		{xform zl -170 scale 0.873}
@@ -4895,6 +5052,10 @@
 	{Entity "trace_algae1" 0x40c7
 		{Position 1787.42 1143.31 -46.37}
 		{xform zl 4.59}
+	}
+	{Entity "alder_little1" 0x40c9
+		{Position 1654.95 1423.66}
+		{xform zl 4.59 scale 0.71}
 	}
 	{Entity "stone_gr2" 0x40ca
 		{Position 1844.12 1055.77 -45.27}
@@ -4944,8 +5105,40 @@
 		{Position 1239.64 1827.44}
 		{xform zl -21.34 scale 0.513}
 	}
+	{Entity "trace_algae1" 0x40dd
+		{Position 1731.29 832.32 -49.83}
+	}
+	{Entity "alder_little1" 0x40df
+		{Position 1631.63 887.67}
+		{xform scale 0.71}
+	}
+	{Entity "stone_gr2" 0x40e0
+		{Position 1753.96 780.13 -54.15}
+	}
+	{Entity "stone_gr3" 0x40e1
+		{Position 1757.04 797.29 -53.84}
+	}
+	{Entity "stone_gr4" 0x40e2
+		{Position 1750.41 787.32 -54.51}
+	}
+	{Entity "stone_gr2" 0x40e3
+		{Position 1724.95 791.18 -59.6}
+		{xform zl 80.95}
+	}
+	{Entity "stone_gr3" 0x40e4
+		{Position 1708.49 796.92 -62.57}
+		{xform zl 80.95}
+	}
+	{Entity "stone_gr4" 0x40e5
+		{Position 1717.29 788.8 -61.01}
+		{xform zl 80.95}
+	}
 	{Entity "trace_algae1" 0x40e6
 		{Position 1696.99 964.27 -45.98}
+	}
+	{Entity "alder_little1" 0x40e7
+		{Position 1740.86 807.83}
+		{xform scale 0.513}
 	}
 	{Entity "stone_gr2" 0x40e8
 		{Position 1442.9 2566.25 -37.08}
@@ -6266,6 +6459,18 @@
 		{Position 51.09 1575.15 -11.09}
 		{xform zl 139.99 scale 0.66}
 	}
+	{Entity "cane3" 0x237
+		{Position -204.73 907.71 -27.71}
+		{xform zl -134.57 scale 0.66}
+	}
+	{Entity "cane3" 0x238
+		{Position -204.88 877.32 -29.09}
+		{xform zl -173.84 scale 0.66}
+	}
+	{Entity "cane3" 0x239
+		{Position -221.92 863.47 -29.02}
+		{xform zl -134.57 scale 0.66}
+	}
 	{Entity "cane3" 0x23a
 		{Position -239.3 839.81 -30.09}
 		{xform zl -105.07 scale 0.66}
@@ -6277,6 +6482,14 @@
 	{Entity "cane3" 0x23c
 		{Position -216.8 814.54 -30.98}
 		{xform zl 160.8 scale 0.66}
+	}
+	{Entity "cane3" 0x23d
+		{Position -242.12 878.23 -28.89}
+		{xform zl -134.57 scale 0.66}
+	}
+	{Entity "cane3" 0x23e
+		{Position -251.19 906.06 -27.29}
+		{xform zl -86.83 scale 0.66}
 	}
 	{Entity "cane3" 0x23f
 		{Position -512.19 747.97 -21.64}
@@ -7749,6 +7962,10 @@
 		{Position -527.46 1028.07 -21.05}
 		{xform zl -144.57}
 	}
+	{Entity "stone_gr2" 0x331
+		{Position 1195.26 1329.91 -47.38}
+		{xform zl -53.01}
+	}
 	{Entity "stone_gr3" 0x332
 		{Position 1221.65 1282.99 -45.87}
 		{xform zl -42.31}
@@ -7785,6 +8002,10 @@
 		{Position 1237.25 1157.66 -33.87}
 		{xform zl 30.81 scale 0.793}
 	}
+	{Entity "alder_little" 0x33b
+		{Position 1178.74 1320.83 -35.83}
+		{xform zl 46.54 scale 0.673}
+	}
 	{Entity "cane3" 0x33c
 		{Position 1154.55 1230.61 -25.51}
 		{xform zl -179.75 scale 0.66}
@@ -7818,6 +8039,14 @@
 		{Volume "crown"
 			{able {visible 1}}
 		}
+	}
+	{Entity "eg_omaha2" 0x344
+		{Position 1648.4 847.79 -52.05}
+		{xform zl -49.76}
+	}
+	{Entity "eg_omaha2" 0x345
+		{Position 1387.3 714.15 -20.15}
+		{xform zl 29.25}
 	}
 	{Entity "alder_little1" 0x346
 		{Position 1497.03 1863.34}
@@ -7982,6 +8211,10 @@
 	{Entity "clay_11" 0x36e
 		{Position 2046.82 -1083.21}
 		{xform zl 101.23}
+	}
+	{Entity "clay_11" 0x36f
+		{Position 2088.02 -1363.9}
+		{xform zl 97.28}
 	}
 	{Entity "clay_11" 0x370
 		{Position 1784.3 -1254.49}
@@ -8353,8 +8586,36 @@
 		{xform zl -63.79 scale 1.043}
 		{TexMod "new"}
 	}
+	{Entity "stone_gr2" 0x20a6
+		{Position -607.84 791.69 -27.5}
+		{xform zl 66.32 scale 1.017}
+	}
+	{Entity "stone_gr3" 0x20a7
+		{Position -622.33 801.41 -27.25}
+		{xform zl 66.32 scale 1.017}
+	}
+	{Entity "stone_gr4" 0x20a8
+		{Position -615.85 791.34 -26.92}
+		{xform zl 66.32 scale 1.017}
+	}
+	{Entity "stone_gr2" 0x20a9
+		{Position -577.4 782.72 -28.5}
+		{xform zl 145.78 scale 0.88}
+	}
+	{Entity "stone_gr3" 0x20aa
+		{Position -589.59 770.26 -27.5}
+		{xform zl 145.78 scale 0.88}
+	}
+	{Entity "stone_gr4" 0x20ab
+		{Position -578.5 774.78 -27.99}
+		{xform zl 145.78 scale 0.88}
+	}
 	{Entity "stone_gr2" 0x20ac
 		{Position -583.45 826.82 -29.36}
+		{xform zl -107.35 scale 1.257}
+	}
+	{Entity "stone_gr3" 0x20ad
+		{Position -567.99 818.76 -29.62}
 		{xform zl -107.35 scale 1.257}
 	}
 	{Entity "stone_gr4" 0x20ae
@@ -8364,6 +8625,10 @@
 	{Entity "alder_little" 0x20af
 		{Position -538.72 814.05 -22.39}
 		{xform zl 25.85 scale 0.98}
+	}
+	{Entity "cane3" 0x20b0
+		{Position -590.4 755.17 -19.09}
+		{xform zl -114.18 scale 0.66}
 	}
 	{Entity "cane3" 0x20b1
 		{Position -572.93 782.26 -20.09}
@@ -8880,6 +9145,10 @@
 		{Position 862.31 1495.33 -27.68}
 		{xform zl -42.31}
 	}
+	{Entity "dot_trench" 0x3da
+		{Position 1134.52 1153.58 -21.13}
+		{xform zl 120.06}
+	}
 	{Entity "fir_small" 0x3db
 		{Position 1125.48 1212.44 -22.58}
 		{xform zl 138.33 scale 1.08}
@@ -9160,6 +9429,10 @@
 		{Position 396.32 1242.58 -22.88}
 		{xform zl -174.9 scale 0.66}
 	}
+	{Entity "cane3" 0x6082
+		{Position -169.87 938.65 -28.06}
+		{xform zl -164.53 scale 0.66}
+	}
 	{Entity "cane3" 0x6083
 		{Position -51.26 957.05 -18.93}
 		{xform zl -55.12 scale 0.66}
@@ -9399,6 +9672,11 @@
 		{Volume "crown"
 			{able {visible 1}}
 		}
+	}
+	{Entity "pine" 0x60b2
+		{Position -1450.55 -1183.26 -40.08}
+		{xform zl -5.67 scale 1.113}
+		{TexMod "new"}
 	}
 	{Entity "pine" 0x60b3
 		{Position -1096.37 -1381.37 -27.98}
@@ -10705,6 +10983,16 @@
 		{xform zl -25.29 scale 1.043}
 		{TexMod "new"}
 	}
+	{Entity "pine" 0x628f
+		{Position -2085.87 -1791.47 27.02}
+		{xform zl -138.08 scale 1.113}
+		{TexMod "new"}
+	}
+	{Entity "new_fir2" 0x6290
+		{Position -2152.14 -1804.51}
+		{xform zl -138.08 scale 1.043}
+		{TexMod "new"}
+	}
 	{Entity "fir_small" 0x6291
 		{Position -2179.01 -1802.35 41.59}
 		{xform zl -25.29 scale 0.91}
@@ -11434,6 +11722,18 @@
 		{Position 1848.5 -1443.22 -56.58}
 		{xform zl 89.86 y 12.66 zw -100.48 scale 1.12}
 	}
+	{Entity "stone_gr2" 0x6305
+		{Position 2082.71 -1343.08 -43.85}
+		{xform zl 17.83}
+	}
+	{Entity "stone_gr3" 0x6306
+		{Position 2080.39 -1325.8 -42.52}
+		{xform zl 17.83}
+	}
+	{Entity "stone_gr4" 0x6307
+		{Position 2077.13 -1337.33 -43.68}
+		{xform zl 17.83}
+	}
 	{Entity "stone_gr3" 0x6308
 		{Position 2094.75 -1700.44 -51.5}
 		{xform zl 92.67 scale 1.223}
@@ -11478,6 +11778,10 @@
 		{Position 1847.95 -1480.65}
 		{xform zl -70.58}
 	}
+	{Entity "trace_algae4" 0x6314
+		{Position 2092.86 -1352.82}
+		{xform zl 121.23}
+	}
 	{Entity "trace_algae4" 0x6315
 		{Position 2034.46 -1412.92}
 		{xform zl 118.2}
@@ -11493,6 +11797,10 @@
 	{Entity "trace_algae4" 0x6318
 		{Position 2091.75 -1674.9}
 		{xform zl 94.21}
+	}
+	{Entity "alder_little1" 0x631b
+		{Position 2078.83 -1348.42}
+		{xform zl 61.4 scale 0.527}
 	}
 	{Entity "stone_gr3" 0x631c
 		{Position 1820.14 -2066.46 -58.42}
@@ -11582,9 +11890,25 @@
 		{Position 2261.27 -1973.2 -29.35}
 		{xform zl -85.51 scale 0.63}
 	}
+	{Entity "stone_gr1" 0x2090
+		{Position -1557.24 -1359.26 -56.27}
+		{xform zl 89.86 y 12.66 zw -163.76 scale 1.12}
+	}
+	{Entity "alder_little" 0x2092
+		{Position -1570.14 -1343.6}
+		{xform zl -73.9 scale 0.767}
+	}
+	{Entity "trace_stone4" 0x2097
+		{Position -1590.92 -1375.61}
+		{xform zl -133.86}
+	}
 	{Entity "trace_algae4" 0x2098
 		{Position -1515.53 -1506.17}
 		{xform zl 26.47}
+	}
+	{Entity "trace_algae4" 0x20bf
+		{Position -1538.36 -1327.12}
+		{xform zl 34.5}
 	}
 	{Entity "trace_stone4" 0x20c3
 		{Position -1544.32 -1238.71}
@@ -11597,6 +11921,14 @@
 	{Entity "stone_gr2" 0x20c5
 		{Position -1682.21 -1164.49 -39.23}
 		{xform zl -144.03 scale 0.793}
+	}
+	{Entity "stone_gr1" 0x20c6
+		{Position -1734.03 -2024.83 -58.5}
+		{xform zl 89.86 y 12.66 zw 172.02 scale 1.12}
+	}
+	{Entity "alder_little" 0x20c7
+		{Position -1739.37 -2005.25 -52.98}
+		{xform zl -98.12 scale 0.767}
 	}
 	{Entity "trace_stone4" 0x20c8
 		{Position -1681.51 -1815.71}
@@ -11613,6 +11945,14 @@
 	{Entity "trace_stone4" 0x20ce
 		{Position -1618.72 -1548.37}
 		{xform zl 171.63}
+	}
+	{Entity "stone_gr2" 0x20d1
+		{Position -1755.47 -1061.63 -33.42}
+		{xform zl -109.82 scale 1.3}
+	}
+	{Entity "stone_gr2" 0x20d2
+		{Position -1753.97 -1061.43 -33.39}
+		{xform zl 165.84 scale 1.093}
 	}
 	{Entity "stone_gr1" 0x20d5
 		{Position -1472.71 -1546.72 -50.78}
@@ -11790,9 +12130,57 @@
 		{Position -682.53 -1811.73}
 		{xform zl -4.34 scale 0.527}
 	}
+	{Entity "stone_gr2" 0x210a
+		{Position -1814.22 -1566.53 -47.36}
+		{xform zl 34}
+	}
+	{Entity "stone_gr3" 0x210b
+		{Position -1821.26 -1550.58 -45.43}
+		{xform zl 34}
+	}
+	{Entity "stone_gr4" 0x210c
+		{Position -1821.18 -1562.56 -46.64}
+		{xform zl 34}
+	}
+	{Entity "alder_little" 0x210d
+		{Position -1917.18 -1741.14 -28.09}
+		{xform zl 34 scale 0.767}
+	}
+	{Entity "trace_stone4" 0x210e
+		{Position -1815.65 -1554.56}
+		{xform zl 34}
+	}
+	{Entity "trace_stone4" 0x210f
+		{Position -1869.86 -1661.67}
+		{xform zl -25.96}
+	}
+	{Entity "trace_algae4" 0x2110
+		{Position -1801.75 -1573.06}
+		{xform zl 137.4}
+	}
 	{Entity "trace_algae4" 0x2111
 		{Position -1839.38 -1537.33}
 		{xform zl 134.37}
+	}
+	{Entity "trace_algae4" 0x2112
+		{Position -1896.8 -1621.94}
+		{xform zl 142.4}
+	}
+	{Entity "stone_gr2" 0x2113
+		{Position -1914.18 -1738.08 -36.83}
+		{xform zl 81.74}
+	}
+	{Entity "stone_gr2" 0x2114
+		{Position -1915.62 -1738.58 -36.74}
+		{xform zl -2.6 scale 0.793}
+	}
+	{Entity "alder_little1" 0x2115
+		{Position -1816.46 -1572.74}
+		{xform zl 77.57 scale 0.527}
+	}
+	{Entity "stone_gr1" 0x2116
+		{Position 2249.74 -2298.87 -48.57}
+		{xform zl 89.86 y 12.66 zw -29.18 scale 1.12}
 	}
 	{Entity "stone_gr2" 0x2117
 		{Position 2390.24 -2160.87 -25.68}
@@ -11806,9 +12194,17 @@
 		{Position 2382.23 -2160.45 -27.16}
 		{xform zl 60.68}
 	}
+	{Entity "alder_little" 0x211a
+		{Position 2247.65 -2319.06 -43.26}
+		{xform zl 60.68 scale 0.767}
+	}
 	{Entity "trace_stone4" 0x211b
 		{Position 2383.58 -2150.81}
 		{xform zl 60.68}
+	}
+	{Entity "trace_stone4" 0x211c
+		{Position 2285.03 -2311.4}
+		{xform zl 0.72}
 	}
 	{Entity "trace_algae4" 0x211d
 		{Position 2404.3 -2161.11}
@@ -11817,6 +12213,10 @@
 	{Entity "trace_algae4" 0x211e
 		{Position 2354.64 -2146.08}
 		{xform zl 161.05}
+	}
+	{Entity "trace_algae4" 0x211f
+		{Position 2243.12 -2288}
+		{xform zl 169.08}
 	}
 	{Entity "stone_gr2" 0x2120
 		{Position 2377.95 -2359.04 -39.01}
@@ -11901,6 +12301,10 @@
 	{Entity "trace_algae4" 0x2139
 		{Position 2161.18 -1772.31}
 		{xform zl 25.13}
+	}
+	{Entity "alder_little1" 0x213c
+		{Position 2166.61 -2153.76}
+		{xform zl -39.7 scale 0.527}
 	}
 	{Entity "stone_gr3" 0x213d
 		{Position 2200.77 -1489.07 -32.33}
@@ -12046,6 +12450,66 @@
 		{Position -1569.3 -701.05}
 		{xform zl 85.57 scale 0.527}
 	}
+	{Entity "stone_gr1" 0x2171
+		{Position -1304.33 -914.46 -40.5}
+		{xform zl 89.86 y 12.66 zw -147.92 scale 1.12}
+	}
+	{Entity "alder_little" 0x2172
+		{Position -1321.03 -902.92 -35.13}
+		{xform zl -58.06 scale 0.767}
+	}
+	{Entity "trace_algae4" 0x2173
+		{Position -1291.61 -913.88}
+		{xform zl 50.34}
+	}
+	{Entity "stone_gr2" 0x2174
+		{Position -1419.26 -850.17 -51.51}
+		{xform zl -47.91}
+	}
+	{Entity "stone_gr3" 0x2175
+		{Position -1404.47 -840.95 -50.93}
+		{xform zl -47.91}
+	}
+	{Entity "stone_gr4" 0x2176
+		{Position -1416.31 -842.72 -51.96}
+		{xform zl -47.91}
+	}
+	{Entity "trace_stone4" 0x2177
+		{Position -1407.61 -847.07}
+		{xform zl -47.91}
+	}
+	{Entity "trace_algae4" 0x2178
+		{Position -1393.89 -821.15}
+		{xform zl 52.46}
+	}
+	{Entity "alder_little1" 0x2179
+		{Position -1425.72 -848.82}
+		{xform zl -4.34 scale 0.527}
+	}
+	{Entity "stone_gr2" 0x217a
+		{Position -1555.47 -829.08 -47.86}
+		{xform zl -34.58}
+	}
+	{Entity "stone_gr3" 0x217b
+		{Position -1543.19 -816.7 -48.49}
+		{xform zl -34.58}
+	}
+	{Entity "stone_gr4" 0x217c
+		{Position -1554.32 -821.14 -47.17}
+		{xform zl -34.58}
+	}
+	{Entity "trace_stone4" 0x217d
+		{Position -1544.84 -823.38}
+		{xform zl -34.58}
+	}
+	{Entity "trace_algae4" 0x217e
+		{Position -1556.99 -843.06}
+		{xform zl 68.82}
+	}
+	{Entity "alder_little1" 0x217f
+		{Position -1562.06 -829.25}
+		{xform zl 8.99 scale 0.527}
+	}
 	{Entity "trace_waves1a" 0x2180
 		{Position 2205.8 -1692.45}
 		{xform zl 98.58}
@@ -12093,6 +12557,10 @@
 	{Entity "trace_waves1a" 0x218b
 		{Position -1770.32 -1427.21}
 		{xform zl -114.17}
+	}
+	{Entity "trace_waves1a" 0x218c
+		{Position -1857.62 -1550.69}
+		{xform zl -118.71}
 	}
 	{Entity "trace_waves1a" 0x218d
 		{Position -1384.05 -950.47}
@@ -12194,6 +12662,10 @@
 		{Position -1530.43 -1839.92 -30.19}
 		{xform zl 155.01 scale 0.66}
 	}
+	{Entity "trace_waves1a" 0x21a6
+		{Position -1899.36 -1733.33}
+		{xform zl -103.24}
+	}
 	{Entity "trace_waves1a" 0x21a7
 		{Position -1564.65 -1817.51}
 		{xform zl 83.85}
@@ -12262,13 +12734,109 @@
 		{Position -1196.38 -252.18 -38.59}
 		{xform zl 98.9}
 	}
+	{Entity "stone_gr3" 0x3ee
+		{Position -1344.08 33.69 -44.14}
+		{xform zl 72.02 scale 0.803}
+	}
+	{Entity "stone_gr2" 0x3ef
+		{Position -1378.35 -34.23 -37.91}
+		{xform zl -28.9}
+	}
+	{Entity "stone_gr3" 0x3f4
+		{Position -1367.35 -20.69 -41.16}
+		{xform zl -28.9}
+	}
+	{Entity "stone_gr4" 0x3f5
+		{Position -1377.98 -26.23 -37.7}
+		{xform zl -28.9}
+	}
+	{Entity "stone_gr3" 0x406
+		{Position -1367.87 -78.68 -44}
+		{xform zl 19.01}
+	}
+	{Entity "stone_gr3" 0x407
+		{Position -1344.67 -71.69 -50.07}
+		{xform zl 23.14}
+	}
+	{Entity "stone_gr4" 0x408
+		{Position -1346.83 -83.46 -50.16}
+		{xform zl 23.14}
+	}
+	{Entity "alder_little" 0x409
+		{Position -1334.44 -36.07 -44.16}
+		{xform zl 144.9 scale 0.867}
+	}
+	{Entity "cane3" 0x40a
+		{Position -1324.77 -81.21 -47.6}
+		{xform zl -111.23 scale 0.66}
+	}
 	{Entity "stone_gr3" 0x40b
 		{Position -1178 593.86 -42.62}
 		{xform zl 52.42 scale 0.803}
 	}
+	{Entity "stone_gr2" 0x40c
+		{Position -1233.06 541.37 -34.31}
+		{xform zl -48.5}
+	}
 	{Entity "stone_gr3" 0x40d
 		{Position -1250.62 400.08 -42.31}
 		{xform zl -48.5}
+	}
+	{Entity "stone_gr4" 0x40e
+		{Position -1230.03 548.78 -34.48}
+		{xform zl -48.5}
+	}
+	{Entity "stone_gr3" 0x40f
+		{Position -1238.1 495.98 -37.38}
+		{xform zl -0.59}
+	}
+	{Entity "stone_gr3" 0x410
+		{Position -1213.91 494.78 -42.64}
+		{xform zl 3.54}
+	}
+	{Entity "stone_gr4" 0x411
+		{Position -1219.89 484.42 -42.46}
+		{xform zl 3.54}
+	}
+	{Entity "alder_little" 0x412
+		{Position -1192.32 524.91 -35.57}
+		{xform zl 125.3 scale 0.867}
+	}
+	{Entity "cane3" 0x413
+		{Position -1198.35 479.14 -37.44}
+		{xform zl -130.83 scale 0.66}
+	}
+	{Entity "stone_gr2" 0x414
+		{Position -1057.27 436.21 -48.71}
+		{xform zl -38.84}
+	}
+	{Entity "stone_gr3" 0x415
+		{Position -1044.1 447.64 -47.12}
+		{xform zl -38.84}
+	}
+	{Entity "stone_gr4" 0x416
+		{Position -1055.52 444.03 -48.63}
+		{xform zl -38.84}
+	}
+	{Entity "stone_gr2" 0x417
+		{Position -1076.46 382.97 -46.27}
+		{xform zl 9.07}
+	}
+	{Entity "stone_gr3" 0x418
+		{Position -1076.12 400.41 -47.16}
+		{xform zl 9.07}
+	}
+	{Entity "stone_gr4" 0x419
+		{Position -1081.1 389.52 -46.63}
+		{xform zl 9.07}
+	}
+	{Entity "cane3" 0x41a
+		{Position -1055.28 407.23 -38.53}
+		{xform zl -173.41 scale 0.66}
+	}
+	{Entity "cane3" 0x41b
+		{Position -1054.59 388.49 -37.09}
+		{xform zl 157.33 scale 0.66}
 	}
 	{Entity "stone_gr2" 0x41c
 		{Position -1317.47 -640.29 -49.61}
@@ -12330,6 +12898,39 @@
 	{Entity "cane3" 0x42b
 		{Position -1303.62 2984.73 -39.07}
 		{xform zl -163.83 scale 0.66}
+	}
+	{Entity "stone_gr2" 0x42c
+		{Position -1494.79 -1146.57 -51.17}
+	}
+	{Entity "stone_gr3" 0x42d
+		{Position -1491.71 -1129.41 -51.5}
+	}
+	{Entity "stone_gr4" 0x42e
+		{Position -1498.34 -1139.38 -51.5}
+	}
+	{Entity "stone_gr2" 0x42f
+		{Position -1476.35 -1200.07 -49.5}
+		{xform zl 47.91}
+	}
+	{Entity "stone_gr3" 0x430
+		{Position -1487.02 -1186.28 -50.33}
+		{xform zl 47.91}
+	}
+	{Entity "stone_gr4" 0x431
+		{Position -1484.07 -1197.88 -49.95}
+		{xform zl 47.91}
+	}
+	{Entity "cane3" 0x432
+		{Position -1475.07 -1167.9 -41.64}
+		{xform zl -134.57 scale 0.66}
+	}
+	{Entity "cane3" 0x433
+		{Position -1462.78 -1182.06 -40.42}
+		{xform zl -163.83 scale 0.66}
+	}
+	{Entity "alder_little" 0x434
+		{Position -1509.17 -1147.61 -43.94}
+		{xform zl -58.06 scale 0.767}
 	}
 	{Entity "new_fir2" 0x435
 		{Position 598.64 696.67}
@@ -12951,6 +13552,10 @@
 		{Position -1908.29 -2769.81 -46.95}
 		{xform zl -34.58}
 	}
+	{Entity "stone_gr1" 0x534
+		{Position 1809.25 -1150.52 -37.01}
+		{xform zl 89.86 y 12.66 zw -17.6 scale 1.12}
+	}
 	{Entity "stone_gr3" 0x535
 		{Position 1792.32 -1031.9 -46.63}
 		{xform zl -38.05 scale 1.113}
@@ -12962,6 +13567,22 @@
 	{Entity "alder_little1" 0x537
 		{Position 1772.73 -1043.29}
 		{xform zl 5.52 scale 0.64}
+	}
+	{Entity "alder_little" 0x538
+		{Position 1811.25 -1170.71 -32.1}
+		{xform zl 72.26 scale 0.767}
+	}
+	{Entity "trace_stone4" 0x539
+		{Position 1846.33 -1155.7}
+		{xform zl 12.3}
+	}
+	{Entity "stone_gr3" 0x53b
+		{Position 2020.15 -975.41 -40.53}
+		{xform zl 108.3 scale 0.933}
+	}
+	{Entity "stone_gr3" 0x53c
+		{Position 1994.61 -995.29 -45.67}
+		{xform zl -52.94 scale 0.816}
 	}
 	{Entity "stone_gr2" 0x4125
 		{Position 1749.14 -707.94 -45.24}
@@ -16650,6 +17271,46 @@
 		{Position -1616.4 1461.06 -32.09}
 		{xform zl 75.57 scale 0.66}
 	}
+	{Entity "stone_gr2" 0x50b6
+		{Position 583.71 821.54 -8.5}
+		{xform zl -60.88}
+	}
+	{Entity "stone_gr3" 0x50b7
+		{Position 600.19 827.2 -8.49}
+		{xform zl -60.88}
+	}
+	{Entity "stone_gr4" 0x50b8
+		{Position 588.25 828.14 -8.49}
+		{xform zl -60.88}
+	}
+	{Entity "stone_gr2" 0x50b9
+		{Position 545.93 779.4 -8.49}
+		{xform zl -12.97}
+	}
+	{Entity "stone_gr3" 0x50ba
+		{Position 552.8 795.44 -8.49}
+		{xform zl -12.97}
+	}
+	{Entity "stone_gr4" 0x50bb
+		{Position 544.09 787.21 -8.5}
+		{xform zl -12.97}
+	}
+	{Entity "cane3" 0x50bc
+		{Position 574.66 793.93 -0.09}
+		{xform zl 164.55 scale 0.66}
+	}
+	{Entity "cane3" 0x50bd
+		{Position 568.27 776.31 -0.09}
+		{xform zl 135.29 scale 0.66}
+	}
+	{Entity "stone_gr3" 0x50be
+		{Position 533.05 800.53 -8.5}
+		{xform zl -117.56}
+	}
+	{Entity "cane3" 0x50bf
+		{Position 558.72 820.53 -0.09}
+		{xform zl 55.85 scale 0.66}
+	}
 	{Entity "stone_gr2" 0x50c3
 		{Position 2670.82 -57.74 -13.64}
 		{xform zl -77.62}
@@ -16870,6 +17531,22 @@
 		{Position -2054.17 -692.4 -26.51}
 		{xform zl 11.98 scale 0.66}
 	}
+	{Entity "cane3" 0x41c4
+		{Position -1784.91 -1055.3 -25.09}
+		{xform zl 75.57 scale 0.66}
+	}
+	{Entity "cane3" 0x41c5
+		{Position -1772.58 -1082.52 -25.09}
+		{xform zl 0.43 scale 0.66}
+	}
+	{Entity "cane3" 0x41c6
+		{Position -1752.31 -1066.02 -24.62}
+		{xform zl 75.57 scale 0.66}
+	}
+	{Entity "cane3" 0x41c7
+		{Position -1766.88 -1044.12 -25.09}
+		{xform zl 75.57 scale 0.66}
+	}
 	{Entity "cane3" 0x41c8
 		{Position -1695.32 -1170.96 -29.52}
 		{xform zl 97.28 scale 0.66}
@@ -16998,9 +17675,25 @@
 		{Position 466.67 -677.14}
 		{xform zl 44.61 scale 0.963}
 	}
+	{Entity "stone_gr3" 0x70c7
+		{Position 1981.96 -918.28 -44.91}
+		{xform zl -142.75 scale 1.156}
+	}
+	{Entity "stone_gr3" 0x70c8
+		{Position 1995.62 -918.55 -40.25}
+		{xform zl 142.41 scale 0.933}
+	}
+	{Entity "stone_gr3" 0x70c9
+		{Position 1985.63 -949.33 -45.48}
+		{xform zl -18.83 scale 0.816}
+	}
 	{Entity "stone_gr3" 0x70ca
 		{Position 1963.75 -803.46 -42.18}
 		{xform zl -92.48 scale 1.113}
+	}
+	{Entity "alder_little" 0x70cb
+		{Position 2005.63 -946.59 -32.99}
+		{xform zl 72.26 scale 0.767}
 	}
 	{Entity "new_bush1" 0x70cc
 		{Position 2253.79 -922.61}
@@ -17447,6 +18140,10 @@
 	{Entity "linen1" 0x616
 		{Position 1188.34 -241.21}
 	}
+	{Entity "new_boat3" 0x617
+		{Position 1759.53 735.92 -47.03}
+		{xform zl -160.88}
+	}
 	{Entity "new_coil" 0x618
 		{Position 1175.67 547.53}
 	}
@@ -17705,6 +18402,18 @@
 	{Entity "cane3" 0x651
 		{Position 519.95 780.27 -0.09}
 		{xform zl 120.04 scale 0.66}
+	}
+	{Entity "cane3" 0x652
+		{Position 550.82 761.82 -0.09}
+		{xform zl 85.31 scale 0.66}
+	}
+	{Entity "cane3" 0x653
+		{Position 595.06 836.29 -0.1}
+		{xform zl 55.85 scale 0.66}
+	}
+	{Entity "cane3" 0x654
+		{Position 614.05 809.9 -0.09}
+		{xform zl 55.85 scale 0.66}
 	}
 	{Entity "cane3" 0x655
 		{Position 608.52 773.39 -0.09}
@@ -21583,6 +22292,10 @@
 		{xform zl -132.82}
 		{DecalOrder 1}
 	}
+	{Entity "leaves2a" 0x6de
+		{Position -1766.29 -1059.31}
+		{DecalOrder 1}
+	}
 	{Entity "leaves2a" 0x6df
 		{Position -1630.93 -700.03}
 		{DecalOrder 1}
@@ -22395,6 +23108,9 @@
 	{Entity "crash_stone1" 0x780c
 		{Position -945.37 1440.54 -46.52}
 	}
+	{Entity "crash_wood4a" 0x780d
+		{Position -1018.09 480.9 -37.82}
+	}
 	{Entity "crash_wood3" 0x780e
 		{Position -649.99 812.56}
 	}
@@ -22611,6 +23327,10 @@
 		{Position -1641.55 -482.8 -0.08}
 		{xform zl 13.97 scale 0.66}
 	}
+	{Entity "crash_stone1" 0x7841
+		{Position -977.49 1658.56 -45.3}
+		{xform zl -97.51}
+	}
 	{Entity "crash_stone1" 0x7842
 		{Position -833.03 1075.96 -46.81}
 		{xform zl -97.51}
@@ -22642,6 +23362,10 @@
 		{Position -330.14 1210.59 -17.04}
 		{xform zl -97.51}
 	}
+	{Entity "crash_stone1" 0x3808
+		{Position -216.33 881.62 -28.38}
+		{xform zl -97.51}
+	}
 	{Entity "crash_stone1" 0x3809
 		{Position -359.16 1382.64 -21.07}
 		{xform zl -97.51}
@@ -22666,6 +23390,10 @@
 		{Position 1080.05 1196.4 -19.1}
 		{xform zl -97.51}
 	}
+	{Entity "crash_stone1" 0x380f
+		{Position 1422.64 802.66 -28.27}
+		{xform zl -97.51}
+	}
 	{Entity "crash_stone1" 0x3810
 		{Position 1375.72 715.63 -20.65}
 		{xform zl 137.36}
@@ -22674,8 +23402,16 @@
 		{Position 1711.82 990.89 -46.23}
 		{xform zl -97.51}
 	}
+	{Entity "crash_stone1" 0x3812
+		{Position 1564.53 1389.85 -51.51}
+		{xform zl -44.21}
+	}
 	{Entity "crash_stone1" 0x3813
 		{Position 1471.89 1577.87 -49.1}
+		{xform zl -44.21}
+	}
+	{Entity "crash_stone1" 0x3815
+		{Position 1784.1 818.96 -49.37}
 		{xform zl -44.21}
 	}
 	{Entity "crash_stone1" 0x3816
@@ -22732,6 +23468,10 @@
 	}
 	{Entity "crash_stone1" 0x1801
 		{Position -955.59 779.42 -44.71}
+		{xform zl -44.21}
+	}
+	{Entity "crash_stone1" 0x1802
+		{Position -1298.72 -910.88 -35.09}
 		{xform zl -44.21}
 	}
 	{Entity "crash_stone1" 0x1803
@@ -22858,6 +23598,10 @@
 		{Position 1483.36 1606.45 -48.94}
 		{xform zl -84.57}
 	}
+	{Entity "crash_stone1a" 0x1823
+		{Position 1417.52 1691.04 -52.24}
+		{xform zl -38.99}
+	}
 	{Entity "crash_stone1a" 0x1824
 		{Position 1277.65 1490.86 -49.94}
 		{xform zl -84.57}
@@ -22930,9 +23674,17 @@
 		{Position 2559.08 -751.12 -4.26}
 		{xform zl 166.99 scale 0.66}
 	}
+	{Entity "crash_stone1a" 0x1836
+		{Position -229.73 910.71 -26.94}
+		{xform zl -84.57}
+	}
 	{Entity "crash_stone1a" 0x1837
 		{Position -188.99 831.86 -29.94}
 		{xform zl 132.16}
+	}
+	{Entity "crash_stone1a" 0x1838
+		{Position 556.45 791.32 0.06}
+		{xform zl -84.57}
 	}
 	{Entity "crash_stone1a" 0x1839
 		{Position 825.57 1384.34 -15.45}
@@ -23319,6 +24071,10 @@
 		{Position 1514.19 1140.45 -50.36}
 		{xform zl 34.87}
 	}
+	{Entity "crash_stone1" 0x41f1
+		{Position 1550.77 1301.17 -49.13}
+		{xform zl -97.51}
+	}
 	{Entity "crash_stone1" 0x41f2
 		{Position 1289.77 1527.07 -49.17}
 		{xform zl -97.51}
@@ -23431,6 +24187,15 @@
 		{Volume "crown"
 			{able {visible 1}}
 		}
+	}
+	{Entity "trace_algae1" 0x40d0
+		{Position 1664.44 1366.21 -47.76}
+		{xform zl 4.59}
+	}
+	{Entity "crash_stone1" 0x3814
+		{Position 1672.91 1366.37 -47.27}
+		{xform zl -44.21}
+		{DecalOrder 1}
 	}
 	{Entity "crack_stone2" 0x4e7
 		{Position -432.28 343.21}
@@ -24023,6 +24788,22 @@
 		{Position 60.35 1221.13}
 		{xform zl 0.75}
 	}
+	{Entity "dot_element_omaha01" 0x4ee
+		{Position -155.28 1121.16}
+		{xform zl 33.56}
+	}
+	{Entity "dot_element_omaha01" 0x4ef
+		{Position 655.61 1145.43}
+		{xform zl 14.96 y 4.13 zw 51.49}
+	}
+	{Entity "dot_element_omaha01" 0x549
+		{Position 748.02 1201.52}
+		{xform zl 33.56}
+	}
+	{Entity "dot_element_omaha01" 0x54b
+		{Position 803.52 1111.27}
+		{xform zl 33.56}
+	}
 	{Entity "wires1" 0x40a7
 		{Position 409.21 1250.31}
 		{xform zl -176.78}
@@ -24059,6 +24840,15 @@
 	{Entity "house_floorpav2" 0x540
 		{Position 544.57 -748.5 -0.02}
 	}
+	{Entity "water_river2" 0x541
+		{Position -1733.75 -1993.75}
+		{xform zl -5.33}
+		{Skeleton
+			{MtlParams
+				{"water_details/coastal_softness" "3"}
+			}
+		}
+	}
 	{Entity "water_river2" 0x542
 		{Position -1789.04 -2554.99}
 		{xform zl -0.22}
@@ -24094,6 +24884,17 @@
 				{"water_details/coastal_softness" "3"}
 			}
 		}
+	}
+	{Entity "eg_omaha2" 0x107b
+		{Position 109.43 2234.32 -47.04}
+		{xform zl -44.37}
+	}
+	{Entity "trace_algae1" 0x40fe
+		{Position 103 2267.85 -46.98}
+	}
+	{Entity "eg_omaha2" 0x4050
+		{Position -154.57 1913.92 -45.9}
+		{xform zl -142.45}
 	}
 	{Entity "cane3" 0x11ae
 		{Position -42.27 689.3 4.66}
@@ -24614,94 +25415,6 @@
 		{Position 345.68 632.77}
 		{xform zl -102.71}
 		{TexMod "fish"}
-	}
-	{Entity "new_fir2" 0x704f
-		{Position 1251.71 1059.54}
-		{xform zl 25.54 scale 1.043}
-		{TexMod "new"}
-	}
-	{Entity "dot_trench" 0x3da
-		{Position 1134.52 1153.58 -21.13}
-		{xform zl 120.06}
-	}
-	{Entity "pine" 0x628f
-		{Position -2085.87 -1791.47 27.02}
-		{xform zl -138.08 scale 1.113}
-		{TexMod "new"}
-	}
-	{Entity "new_fir2" 0x6290
-		{Position -2152.14 -1804.51}
-		{xform zl -138.08 scale 1.043}
-		{TexMod "new"}
-	}
-	{Entity "stone_gr1" 0x20c6
-		{Position -1734.03 -2024.83 -58.5}
-		{xform zl 89.86 y 12.66 zw 172.02 scale 1.12}
-	}
-	{Entity "alder_little" 0x20c7
-		{Position -1739.37 -2005.25 -52.98}
-		{xform zl -98.12 scale 0.767}
-	}
-	{Entity "stone_gr2" 0x210a
-		{Position -1814.22 -1566.53 -47.36}
-		{xform zl 34}
-	}
-	{Entity "stone_gr3" 0x210b
-		{Position -1821.26 -1550.58 -45.43}
-		{xform zl 34}
-	}
-	{Entity "stone_gr4" 0x210c
-		{Position -1821.18 -1562.56 -46.64}
-		{xform zl 34}
-	}
-	{Entity "alder_little" 0x210d
-		{Position -1917.18 -1741.14 -28.09}
-		{xform zl 34 scale 0.767}
-	}
-	{Entity "trace_stone4" 0x210e
-		{Position -1815.65 -1554.56}
-		{xform zl 34}
-	}
-	{Entity "trace_stone4" 0x210f
-		{Position -1869.86 -1661.67}
-		{xform zl -25.96}
-	}
-	{Entity "trace_algae4" 0x2110
-		{Position -1801.75 -1573.06}
-		{xform zl 137.4}
-	}
-	{Entity "trace_algae4" 0x2112
-		{Position -1896.8 -1621.94}
-		{xform zl 142.4}
-	}
-	{Entity "stone_gr2" 0x2113
-		{Position -1914.18 -1738.08 -36.83}
-		{xform zl 81.74}
-	}
-	{Entity "stone_gr2" 0x2114
-		{Position -1915.62 -1738.58 -36.74}
-		{xform zl -2.6 scale 0.793}
-	}
-	{Entity "alder_little1" 0x2115
-		{Position -1816.46 -1572.74}
-		{xform zl 77.57 scale 0.527}
-	}
-	{Entity "trace_waves1a" 0x218c
-		{Position -1857.62 -1550.69}
-		{xform zl -118.71}
-	}
-	{Entity "trace_waves1a" 0x21a6
-		{Position -1899.36 -1733.33}
-		{xform zl -103.24}
-	}
-	{Entity "water_river2" 0x541
-		{Position -1733.75 -1993.75}
-		{xform zl -5.33}
-		{Skeleton
-			{MtlParams
-				{"water_details/coastal_softness" "3"}
-			}
-		}
 	}
 	{Link 0x2801 {0x2800 "5"}}
 	{Link 0x2802 {0x2800 "6"}}

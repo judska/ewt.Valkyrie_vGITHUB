@@ -4,7 +4,4 @@
 	{fireSound	"smg/danuvia_43m_burst/"}
 	{reloadSound "mp40_reload"}
 	("recoveryTime" r(750))
-
-	{aimRange 60}	; == maxRange
-	{maxRange 70}
 }

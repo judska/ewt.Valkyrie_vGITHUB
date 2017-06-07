@@ -1,7 +1,0 @@
-{actor
-	(include "/properties/stuff_small.ext")
-	{Extension "pol_knapsack.mdl"}
-	{extender "stuff"
-		{item "pol_knapsack"}
-	}
-}

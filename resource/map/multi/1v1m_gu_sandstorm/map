@@ -5,8 +5,8 @@
 	{Clips
 		{"[auto]"
 			{world -6960.73 -5809.53 3570.52 6780.47}
-			{camera -5994.92 -4302.31 2855.5 5186.18}
-			{pather -5872.55 -4078.11 2784.42 4746.54}
+			{camera -5994.92 -5133.82 2855.5 6089.73}
+			{pather -5872.55 -5222.62 2784.42 6178.88}
 			{distance 200 800}
 			{viewAngle 20 50}
 			{water -88}
@@ -32908,15 +32908,11 @@
 	}
 	{Entity "burn_grass1" 0xd4f
 		{Position -3964.34 103.52}
+		{SpawnedInFog}
 	}
 	{Entity "burn_grass1" 0xd50
 		{Position -3959.89 45.46}
-	}
-	{Entity "burn_grass1" 0xd51
-		{Position -3964.34 103.52}
-	}
-	{Entity "burn_grass1" 0xd52
-		{Position -3959.89 45.46}
+		{SpawnedInFog}
 	}
 	{Link 0x4014 {0x405c "c1_502"}}
 	{Link 0x402c {0x405c "w2_502"}}

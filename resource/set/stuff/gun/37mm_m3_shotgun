@@ -1,0 +1,33 @@
+{from "pattern gun"
+	{filling "ammo shotgun_cannister"}
+
+	{cursor "carbine_on"}
+	{cursorReloading "carbine_reload"}
+	{burst
+		{short 1}
+		{Long 20}
+	}
+	{special
+		{throw_off_always}
+	}
+	{reloadSound "shotgun"}
+	{fireSound "rifle/shotgun"}
+	
+	{range 90 100}
+	{spreading 0.1}
+
+    {RelaxationTime 0.1}
+	{fireSound "gun/37mm_m6"}
+	{reloadSound "gun_r02"}
+	{rechargeTime 2.5}
+	("speed" s(500))
+
+	{ProjectileDamage 40}
+	{ProjectileDamageClip 40}
+	{projectileDamageTable {15 20} {100 5}}
+	{healthDamage 1000}
+	{HealthDamageClip 1000}
+	{calibre 37.00}
+	("accuracy_lighthowitzer")
+}
+

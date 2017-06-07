@@ -3981,6 +3981,10 @@
 		{Position -2684.82 -748.76}
 		{xform zl -74.39}
 	}
+	{Entity "gate_depot" 0x625
+		{Position -3241.07 -1646.36}
+		{xform zl 106.91}
+	}
 	{Entity "fir_small" 0x626
 		{Position -377.78 -6854.42}
 		{xform zl 111.42}
@@ -28639,6 +28643,10 @@
 		{Position 2781.68 -2646.88}
 		{xform zl 93.6 scale 1.41}
 	}
+	{Entity "gate_depot" 0x7014
+		{Position -3479.13 -210.85}
+		{xform zl 101.15}
+	}
 	{Entity "t_brick_x1a" 0x7049
 		{Position -3524.74 -261.12}
 		{xform zl 17.77}
@@ -29365,6 +29373,31 @@
 	{Entity "crate7" 0x844
 		{Position -4347.76 -1542.53}
 		{xform zl 165.57}
+	}
+	{Entity "zis5" 0x845
+		{Position -4438.13 -1546.54}
+		{xform zl -63.59 y 0.55 zw 159.96}
+		{Constrain zero}
+		{Extender "enumerator"
+			{number 568}
+		}
+		{Extender "supply_zone"
+			{current 0}
+		}
+		{Extender "detail"
+			{random 0}
+		}
+		{Player 0}
+		{MID 10021}
+		{Able "-select" "-minimap"}
+		{Chassis
+			{FuelBag
+				{Remain 0}
+			}
+		}
+		{Component "wheelleft1"
+			{State broken}
+		}
 	}
 	{Entity "viaduct" 0x846
 		{Position -4440.12 -1525.56 1}

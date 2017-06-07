@@ -816,7 +816,7 @@
 		{SpreadYadjust	0.5}
 		
 	}
-	("accuracy_howitzer_2")
+	("accuracy_howitzer")
 	("caliber_howitzer")
 	{curve "cumulative"}
 	{aimtype adaptive}
@@ -867,7 +867,7 @@
 		{SpreadPower	1}
 		{SpreadYadjust	0.5}
 	}
-	("accuracy_howitzer_1")
+	("accuracy_howitzer")
 	("caliber_howitzer")
 
 	{burst {min 6} {noaiming}}

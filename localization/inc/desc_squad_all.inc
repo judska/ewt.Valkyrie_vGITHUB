@@ -311,7 +311,7 @@
 		{"hero1_eng" "<c(ee852f)><e(shadow)>Saboteur</e></c>"}
 		{"hero2_eng" "Black Watch"}
 		{"hero3_eng" "Royal Grenadiers"}
-		{"hero4_eng" "Sacred Band"}
+		{"herogrc_eng" "Sacred Band"}
 		{"hero5_eng" "Royal Commandos"}
 		{"hero6_eng" "Cromwell Mk. VI"}
 		{"hero7_eng" "Radio Operator"}
@@ -328,8 +328,8 @@
 		{"hero5_ger" "Fallschirmjager"}
 		{"hero6_ger" "Nebelwerfer 41"}
 		{"hero7_ger" "Radio Operator"}
-		{"hero8_ger1" "Das Reich!"}
-		{"hero9_ger" "StuH 42"}
+		{"hero8_ger1" "StuH 42"}
+		{"hero9_ger1" "Das Reich!"}
 		{"hero10_ger" "PaK 43"}
 		{"hero11_ger" "Veteran Tiger"}
 		{"hero12_ger" "King Tiger"}

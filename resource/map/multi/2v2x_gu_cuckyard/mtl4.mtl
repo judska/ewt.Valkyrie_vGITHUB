@@ -1,10 +1,10 @@
 {material
 	{layer bump
-		{diffuse "/texture/land/fields/stubble_field3a"}
-		{bump "/texture/land/fields/stubble_field3a_nm"}
+		{diffuse "/texture/land/town/qgarden_2"}
+		{bump "/texture/land/town/qgarden_2_nm"}
 	}
 	{layer bump
-		{diffuse "/texture/land/grass/gramma_8"}
-		{bump "/texture/land/grass/gramma_8_nm"}
+		{diffuse "/texture/land/town/asfalt_road_q3_x2"}
+		{bump "/texture/land/town/asfalt_road_q3_x2_nm"}
 	}
 }

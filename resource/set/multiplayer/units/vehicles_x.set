@@ -41,8 +41,9 @@
 {"m26e4"      			("extra" t() sc(1350.00) cw(0) cp(40))} ;9
 
 {"csaba39m"	             ("extra" t() sc(150.00) cw(0) cp(5))}	;1
+{"sdkfz250_9_hun"	     ("extra" t() sc(300.00) cw(0) cp(10))}	;1
 {"turan2"                ("extra" t() sc(370.00) cw(0) cp(15))}	;3
-{"hetzer"        	     ("extra" t() sc(370.00) cw(0) cp(15))}	;3
+{"hetzer_hun"        	 ("extra" t() sc(370.00) cw(0) cp(15))}	;3
 {"np_sig33"        	     ("extra" t() sc(440.00) cw(0) cp(15))}	;4
 {"sturmpz1"        		 ("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"brummbar"        	     ("extra" t() sc(1200.00) cw(0) cp(35))};8

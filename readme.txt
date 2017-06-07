@@ -1,1 +1,2 @@
-just a readme.txt to make this mod look more official. it really isn't.
+# ewt-valkyrie_github
+The latest Valkyrie version- place in the Assault Squad 2 mods folder.

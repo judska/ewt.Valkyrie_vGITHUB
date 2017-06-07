@@ -1,0 +1,55 @@
+{breed
+	{skin "8lu_rifle3"}
+	{portrait "chn_elite1"}
+	{icon "elite_smg"}
+	{icon_priority 0}
+	{nationality chn}
+	{armors
+		{head cha_cap29}
+	}
+	{perks
+		{"health" "250%"
+		}
+		{"health_regeneration" "100%"
+		}
+		{"stamina" "150%"
+		}
+		{"stamina_regeneration" "100%"
+		}
+		{"vision" "mp_soldier"
+		}
+		{"speed" 1.0
+		}
+		{"tank"	0.9
+		}
+		{"vehicle" 1.0
+		}
+		{"cannon" 1.0
+		}
+		{"pistol" lvl_3
+		}
+		{"smg" lvl_3
+		}
+		{"mgun" lvl_3
+		}
+		{"rifle" lvl_3
+		}
+		{"rocketlauncher" lvl_3
+		}
+		{"melee" lvl_3
+		}
+	}
+	{veterancy
+		(include "veterancy_generic.inc")
+		("veterancy_1")
+	}
+	{inventory
+		{item "mp18" filled}
+		{item "ammo pistol" 500}
+		{item "bandage" 5}
+		{item "m24 grenade" 4}
+                {item "erguotou" 2}		
+                {item "smoke grenade" 2}
+                {in_hands 0}
+	}
+}

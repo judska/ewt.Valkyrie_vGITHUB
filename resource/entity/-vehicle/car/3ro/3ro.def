@@ -6,36 +6,37 @@
 	{able "emit_on_attack"}
 	("armor_medium" args 1.0)
 
-	("crew_2_human")
-	("board_animation"
-		place(driver)
-		board_begin(board_big-midcar)
-		board_end(seat_driver_car)
-		base(doorright)
-	)
-	("board_animation"
-		place(commander)
-		board_begin(board_big-midcar_driver)
-		board_end(seat_passenger)
-		base(doorleft)
-	)
-	{placer	
-		{place "gunner" {visor "main"} {useVision 0}}
-		{place "commander" {visor "main"} {useVision 0}}
-	}
+	
 	{boarder
-		{anm "charger"
-			{forward	{begin	"board_body"}{end "cannon_m8_gunlayer" 10}}
-			{reverse 	{end	"emit_body"}}
+		{anm "driver"
+			{forward	{begin	"board_SdKfz251-1"} {end "seat_driver_car"}}
+			{reverse 	{end	"emit_body" 1}}
 		}
 		{anm "gunner"
-			{forward	{begin	"board_body"}{end "pose_61K_gunlayer_left" 10} {base "doorback"}}
-			{reverse 	{end	"emit_body"} {base "doorback" -1}}
+			{forward	{begin	"board_SdKfz251-1"} {end "pose_flak41_gunlayer" 10}}
+			{reverse 	{end	"emit_body" 1}}
+		}
+		{anm "charger"
+			{forward	{begin	"board_SdKfz251-1"} {end "pose_pdr25_gunlayer" 10}}
+			{reverse 	{end	"emit_body" 1}}
 		}
 	}
-
-	("crew_human" place(gunner)		bone(gunner)	door(emit4) animation(charger))
-	("crew_human" place(charger)		bone(charger)	door(emit3) animation(charger))
+	(define "crew_human"
+		{placer
+			{place "%place" {group "%group"} {linkbone "%bone"} {turnoff {sensor} {shadow}}}
+		}
+		{boarder
+			{door "%door"}
+			{link "%door" "%place" {anm "%animation"} {forward putoff} {reverse puton}}
+		}
+	)
+	{placer
+		{place "driver" {visor "driver"}}
+		{place "gunner" {visor "main"}}
+	}
+	("crew_human" place(driver)	door(emit1) bone(driver) animation(driver)		group(crew))
+	("crew_human" place(gunner)	door(emit2) bone(gunner) animation(gunner)		group(crew))	
+	("crew_human" place(charger)	door(emit1) bone(charger) animation(charger)		group(crew))
 	
 	{sensor
 		{visor "main"
@@ -49,7 +50,7 @@
 	}
 	
 	;{extender "enumerator"}
-    ("wheel" args "wheelright1")
+                	("wheel" args "wheelright1")
 	("wheel" args "wheelleft1")
 	("wheel" args "wheelright2")
 	("wheel" args "wheelleft2")
@@ -58,17 +59,15 @@
 
 	{extender "inventory"
 		{box
-			{size 8 10}
-			{item "bullet90 ap" 20}
-			{item "bullet90 fg" 10}
+			{item "bullet90 ap" 27}
+			{item "bullet90 fg" 12}
 			{item "bullet90 apcr" 5}
-			{item "sandbag_kit2" 2}
 		}
 	}
 	{Weaponry
 		{place "gun"
 			{RestoreIKAfterAim}
-			{weapon "90mm_m90" filling "bullet90 ap" 1}
+			{weapon "90mm_m90_1" filling "bullet90 ap" 1}
 			("abm_low")
 		}
 	}  

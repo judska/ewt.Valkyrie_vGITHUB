@@ -4,7 +4,7 @@
 	{reloadSound "gun_r04"}
 	("range_heavy_howitzer_152_fin")
 	{recoveryTime 3.0}
-	{rechargeTime 60}
-	{ZeroingAccuracy 0.80 0.70 0.60 0.50 0.40 0.30 0.20}
+	{rechargeTime 90}
+	{ZeroingAccuracy 0.90 0.85 0.50 0.45 0.40 0.35}
 	("damage_250" a(242) b(219) c(184) d(157) e(119))
 }
