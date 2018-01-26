@@ -363,7 +363,7 @@
 		{"hero1_usa" "M8 Howitzer"}
 		{"hero2_usa" ".30 cal Browning A6"}
 		{"hero3_usa1" "Marauders"}
-		{"hero4_usa" "U.S. Marines"}
+		{"hero4_usa" "Marine Assault"}
 		{"hero5_usa1" "M15 \"Special\""}
 		{"hero6_usa" "<c(ee852f)><e(shadow)>Devil's Brigade</e></c>"}
 		{"hero7_usa" "M4A3R2 Croc"}

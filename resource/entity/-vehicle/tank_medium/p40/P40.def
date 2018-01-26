@@ -89,7 +89,7 @@
 	}
 	{Extension "p40.mdl"}
 	{bone "gun_rot"
-		{speed 0.002}
+		{speed 0.007}
 	}
 	{bone "turret"
 		{speed 0.0055}

@@ -135,6 +135,8 @@
 			{BrakeTime	1.5}	
 			{StopTime	3}
 			{TurnRadius	7}
+			{RearGears  0.1 0.5 0.8 1.0}
+
 		}
 		{FuelBag
 			{volume 360 }	

@@ -13,5 +13,5 @@
         ("damage_90" a(100) b(83) c(64) d(48) e(30))
 	}
 
-	("accuracy_low")
+	("accuracy_medium")
 }
