@@ -1383,6 +1383,16 @@
 	}
 	("burn_by_engine" args 0.3)
 }
+{"amx-13-90 tank"
+	{on "add_movement_sound" overload
+		{link_sound "move"				"vehicle/tracks/m4a2"  		}
+		{link_sound "engine"			"vehicle/engine/frenchie"		}
+		{link_sound "engine_end"		"vehicle/engine/frenchie_end"	}
+		{link_sound "exhaust"			"vehicle/engine/frenchie_up" 	}
+		{link_sound "rotate_turret" 	"vehicle/turret/medium2"	}
+	}
+	("burn_by_engine" args 0.3)
+}
 {"s35 tank"
 	{on "add_movement_sound" overload
 		{link_sound "move"				"vehicle/tracks/r35"  		}
@@ -1394,6 +1404,16 @@
 	("burn_by_engine" args 0.3)
 }
 {"m4a3m tank"
+	{on "add_movement_sound" overload
+		{link_sound "move"				"vehicle/tracks/m4a2"  }
+		{link_sound "engine"			"vehicle/engine/m4a2"		}
+		{link_sound "engine_end"		"vehicle/engine/m4a2_end"	}
+		{link_sound "exhaust"			"vehicle/engine/m4a2_up"	}
+		{link_sound "rotate_turret" 	"vehicle/turret/heavy"	}
+	}
+	("burn_by_engine" args 0.3)
+}
+{"m3grant_anz tank"
 	{on "add_movement_sound" overload
 		{link_sound "move"				"vehicle/tracks/m4a2"  }
 		{link_sound "engine"			"vehicle/engine/m4a2"		}
@@ -2151,6 +2171,10 @@
 	("sdkfz234_sound")
 	("burn_by_engine" args 0.3)
 }
+{"np_sdkfz234_4 tank"
+	("sdkfz234_sound")
+	("burn_by_engine" args 0.3)
+}
 {"ba11 tank"
 	("sdkfz234_sound")
 	("burn_by_engine" args 0.3)
@@ -2215,6 +2239,16 @@
 		{link_sound "engine_end"		"vehicle/engine/fury_end"}
 		{link_sound "rotate_turret" 	"vehicle/turret/light"		 }
 		{link_sound "exhaust"			"vehicle/engine/ferdi_engine_up" }
+	}
+	("burn_by_engine" args 0.3)
+}
+{"sdkfz251_1_D_R tank"
+	{on "add_movement_sound" overload
+		{link_sound "move"				"vehicle/tracks/sdkfz251"	}
+		{link_sound "engine"			"vehicle/engine/sdkfz251"	}
+		{link_sound "engine_end"		"vehicle/engine/sdkfz251_end"}
+		{link_sound "rotate_turret" 	"vehicle/turret/light1"		}
+		{link_sound "exhaust"			"vehicle/engine/sdkfz251_up"	}
 	}
 	("burn_by_engine" args 0.3)
 }
@@ -2534,6 +2568,26 @@
 	("burn_by_engine" args 0.3)
 }
 {"m5a1 tank"
+	{on "add_movement_sound" overload
+		{link_sound "move"				"vehicle/tracks/m3stuart"	}
+		{link_sound "engine"			"vehicle/engine/m3stuart"		}
+		{link_sound "engine_end"		"vehicle/engine/tankengine_end"	}
+		{link_sound "rotate_turret" 	"vehicle/turret/light"	}
+		{link_sound "exhaust"			"vehicle/engine/tankengine_up"	}
+	}
+	("burn_by_engine" args 0.3)
+}
+{"m2a4"
+	{on "add_movement_sound" overload
+		{link_sound "move"				"vehicle/tracks/m3stuart"	}
+		{link_sound "engine"			"vehicle/engine/m3stuart"		}
+		{link_sound "engine_end"		"vehicle/engine/tankengine_end"	}
+		{link_sound "rotate_turret" 	"vehicle/turret/light"	}
+		{link_sound "exhaust"			"vehicle/engine/tankengine_up"	}
+	}
+	("burn_by_engine" args 0.3)
+}
+{"m5a1_chn"
 	{on "add_movement_sound" overload
 		{link_sound "move"				"vehicle/tracks/m3stuart"	}
 		{link_sound "engine"			"vehicle/engine/m3stuart"		}
