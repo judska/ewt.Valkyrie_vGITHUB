@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/pz6bh/pz6bh_turret02_xx"}
+	{bump "$/model/pz6bh/pz6bh_turret02_nm"}
+	{specular "$/model/pz6bh/pz6bh_turret02_gmm"}
+	{color "229 229 229 25"}
+	{blend none}
+}

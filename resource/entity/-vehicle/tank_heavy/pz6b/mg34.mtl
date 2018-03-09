@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/pz6b/pz6b_mg34"}
+	{bump "$/model/pz6b/pz6b_mg34__nm"}
+	{specular "$/model/pz6b/pz6b_mg34_gmm"}
+	{color "229 229 229 94"}
+	{blend test}
+}

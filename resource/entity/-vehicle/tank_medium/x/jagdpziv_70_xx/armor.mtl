@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "$/model/jagdpziv_70/jagdpziv_70_armor_am"}
+	{bump "$/model/jagdpziv_70/jagdpziv_70_armor_anm"}
+	{blend none}
+}

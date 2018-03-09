@@ -332,7 +332,7 @@
 		{"hero9_ger1" "Das Reich!"}
 		{"hero10_ger" "PaK 43"}
 		{"hero11_ger" "Veteran Tiger"}
-		{"hero12_ger" "Sturmtiger"}
+		{"hero12_ger" "PzKpfw VI (H) Sla.16"}
 
 		{"hero1_jap" "AT-Riflegrenade Squad"}
 		{"hero2_jap1" "<c(ee852f)><e(shadow)>Kamikaze!</e></c>"}
@@ -383,7 +383,7 @@
 		{"hero8_hun" "Rapid Corps"}
 		{"hero9_hun" "Radio Operator"}		
         {"hero10_hun" "15 cm sIG 33"}
-        {"hero11_hun" "PzKpfw VI Kingtiger"}
+        {"hero11_hun" "PzKpfw VI (P) Kingtiger"}
 		{"hero12_hun" "Brummbar"}
 
         {"hero1_fra" "Maginot Line Defenders"}
@@ -421,7 +421,7 @@
         {"hero7_ita" "PzKpfw III Ausf.N"}
         {"hero8_ita" "Radio Operator"}
         {"hero9_ita" "Semovente M43 da 105/25"}
-        {"hero10_ita" "Rommel's Afrika Korps"}
+        {"hero10_ita" "Afrika Korps"}
         {"hero11_ita" "Obice da 210/35"}
         {"hero12_ita" "Elefantita"}
        

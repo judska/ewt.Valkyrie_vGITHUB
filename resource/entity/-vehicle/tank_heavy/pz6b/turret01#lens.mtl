@@ -1,0 +1,5 @@
+{material envmap
+	{diffuse "$/model/pz6b/pz6b_turret01_am"}
+	{mask "$/model/pz6b/pz6b_turret01_gmm"}
+	{blend none}
+}

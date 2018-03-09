@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/jagdpziv_70/jagdpziv_70_track_am"}
+	{bump "$/model/jagdpziv_70/jagdpziv_70_track_anm"}
+	{specular "$/model/jagdpziv_70/jagdpziv_70_track_gmm"}
+	{color "229 229 229 94"}
+	{blend test}
+}

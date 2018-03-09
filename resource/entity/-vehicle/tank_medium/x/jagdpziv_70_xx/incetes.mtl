@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/model/jagdpziv_70/jagdpziv_70_incetes"}
+	{blend none}
+}

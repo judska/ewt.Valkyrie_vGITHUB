@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/jagdpziv_70/jagdpziv_70_hull_am"}
+	{bump "$/model/jagdpziv_70/jagdpziv_70_hull_anm"}
+	{specular "$/model/jagdpziv_70/jagdpziv_70_hull_gmm"}
+	{color "229 229 229 94"}
+	{blend none}
+}
