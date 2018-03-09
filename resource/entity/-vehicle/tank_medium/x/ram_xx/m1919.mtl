@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/ram/xx/xxmg_browning_1919a4_c"}
+	{bump "$/model/ram/mg_browning_1919a4_n"}
+	{specular "$/model/ram/mg_browning_1919a4_ao"}
+	{color "230 230 230 25"}
+	{blend test}
+}

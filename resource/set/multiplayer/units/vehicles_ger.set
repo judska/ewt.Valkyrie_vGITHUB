@@ -45,8 +45,8 @@
 ;°°°Button 4°°°
 
 {"pz3"              ("v" c(0) t(all medium)     s(ger) n1(3) n2(1) g(e2) sc(320.00) b(v4) cw(0) cp(15)) {level 1} {cost 320} {fore 1.0}}
-{"pz3n"             ("v" c(0) t(all medium)     s(ger) n1(3) n2(1) g(e3) sc(360.00) b(v4) cw(0) cp(15)) {level 4} {cost 360} {fore 1.0}}
-{"pz3_m"            ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(e3) sc(420.00) b(v4) cw(0) cp(15)) {level 4} {cost 420} {fore 1.0}}
+{"pz3n"             ("v" c(0) t(all medium)     s(ger) n1(3) n2(1) g(e3) sc(400.00) b(v4) cw(0) cp(15)) {level 4} {cost 400} {fore 1.0}}
+{"pz3_m"            ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(e3) sc(410.00) b(v4) cw(0) cp(15)) {level 4} {cost 410} {fore 1.0}}
 
 {"pz4g"             ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(e4) sc(420.00) b(v4) cw(0) cp(15)) {level 1} {cost 420} {fore 1.0}}
 {"pz4h"             ("v" c(0) t(all medium) 	s(ger) n1(4) n2(1) g(e5) sc(610.00) b(v4) cw(0) cp(15)) {level 1} {cost 610} {fore 1.0}}		
@@ -60,12 +60,13 @@
 
 {"marder_3h"        ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f1) sc(380.00) b(v5) cw(0) cp(10)) {level 1} {cost 380} {fore 1.0}} 
 {"np_sdkfz234_4"    ("v" c(0) t(all medium) 	s(ger) n1(2) n2(1) g(f2) sc(450.00) b(v5) cw(0) cp(10)) {level 1} {cost 450} {fore 1.0}}	
-{"stug3g"           ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f2) sc(610.00) b(v5) cw(0) cp(10)) {level 1} {cost 610} {fore 1.0}}
+{"stug3g"           ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f2) sc(550.00) b(v5) cw(0) cp(10)) {level 1} {cost 550} {fore 1.0}}
 
+{"stug4g"           ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f2) sc(570.00) b(v5) cw(0) cp(10)) {level 1} {cost 570} {fore 1.0}}
 {"jagdpanzer_iv"    ("v" c(0) t(all heavy)		s(ger) n1(3) n2(1) g(f3) sc(905.00) b(v5) cw(0) cp(10)) {level 1} {cost 905} {fore 1.0}} 				
 {"nashorn"          ("v" c(0) t(all heavy) 	    s(ger) n1(3) n2(1) g(f4) sc(950.00) b(v5) cw(0) cp(10)) {level 1} {cost 950} {fore 1.0}}  			
-{"jagdpanther"      ("v" c(0) t(all heavy) 		s(ger) n1(3) n2(1) g(f5) sc(1550.00) b(v5) cw(0) cp(20)) {level 1} {cost 1550} {fore 1.0}} 	
 
+{"jagdpanther"      ("v" c(0) t(all heavy) 		s(ger) n1(3) n2(1) g(f5) sc(1550.00) b(v5) cw(0) cp(20)) {level 1} {cost 1550} {fore 1.0}} 	
 {"jagdtiger"        ("v" c(0) t(all sheavy) 	s(ger) n1(3) n2(1) g(f7) sc(1900.00) b(v5) cw(0) cp(25)) {level 1} {cost 1900} {fore 1.0}} 	
 
 
@@ -83,7 +84,6 @@
 {"hero8_ger1"	    ("v1" c(600) c1(stuh42) 		               t(all hero) s(ger) n1(tankman:4) n2(tankman2:1) g(h5) b(hero)) {level 10} {cost 5.0} {fore -0.5}}
 {"hero9_ger1"       ("24v" c(600) c1(sdkfz251_1_D_R) c2(sdkfz251_1_D_R)     t(all hero) s(ger) n1(sturmovik9:3) n2(sturmovik8:3) n3(sturmovik11:2) n4(sturmovik10:2) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 
-
 {"hero10_ger"	    ("v1" c(720) c1(pak43)	                       t(all hero) s(ger) n1(vehicle_supporter:2) g(h6) b(hero)) {level 15} {cost 6.0} {fore -0.5}}
 {"hero11_ger"       ("v1" c(840) c1(veteran_tiger) 	               t(all hero) s(ger) n1(tankman:4) n2(tankman2:1) g(h7) b(hero)) {level 20} {cost 7.0} {fore -0.5}}  
-{"hero12_ger"       ("v1" c(1200) c1(pz6bh) 		               t(all hero) s(ger) n1(tankman:4) n2(tankman2:1) g(h10) b(hero)) {level 10} {cost 10.0} {fore -0.5}}
+{"hero12_ger"       ("v1" c(1080) c1(sturmtiger) 		           t(all hero) s(ger) n1(tankman:4) n2(tankman2:1) g(h9) b(hero)) {level 10} {cost 9.0} {fore -0.5}}

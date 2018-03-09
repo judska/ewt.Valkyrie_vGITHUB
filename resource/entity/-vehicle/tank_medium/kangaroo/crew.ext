@@ -1,0 +1,68 @@
+;SDL
+
+(include "/properties/car_crew.ext")
+
+{boarder
+	{anm "passengers"
+		{forward	{begin	"board_SdKfz251-1"} {end "seat_passenger"}}
+		{reverse 	{end	"emit_body"}}
+	}
+	{anm "driver"
+		{forward	{begin	"board_SdKfz251-1"} {end "seat_driver_car"}}
+		{reverse 	{end	"emit_body" 1}}
+	}
+	{anm "gunner"
+		{forward	{begin	"board_SdKfz251-1"} {end "seat_gunner_stand"}}
+		{reverse 	{end	"emit_body" 1}}
+	}
+}
+
+
+{placer
+	{place "driver" {visor "driver"}}
+	{place "gunner" {visor "main"}}
+	{place "gunner2" {visor "main"}}
+	{place "gunner3" {visor "main"}}
+	{place "gunner4" {visor "main"}}
+	{place "gunner5" {visor "main"}}
+	{place "gunner6" {visor "main"}}
+	{place "gunner7" {visor "main"}}
+}
+
+("board_animation" place(driver)	  board_begin(board_SdKfz251-1) board_end(seat_driver_car))
+("board_animation" place(gunner2)	  board_begin(board_SdKfz251-1) board_end(seat_gunner_stand))
+("board_animation" place(gunner3)	  board_begin(board_SdKfz251-1) board_end(seat_gunner_stand))
+
+(define "crew_human2"
+	{placer
+		{place "%place" {group "%group"} {linkbone "%bone"} {turnoff {sensor} {shadow}}}
+	}
+	{boarder
+		{door "%door"}
+		{link "%door" "%place" {anm "%animation"} {forward putoff} {reverse puton}}
+	}
+)
+
+(define "crew_human"
+     {placer
+            {place "%place"
+                {attach squat_lie}   {group "%group"}              {LinkBone "%bone"}
+                {openForCrush}
+             }
+     }
+     {boarder
+         {door "%door"}
+         {link "%door" "%place" {anm "%animation"} }
+     }
+)
+
+
+("crew_human2" place(driver)	door(emit2) bone(driver) animation(driver) group(crew))
+("crew_human2" place(driver2)	door(emit1) bone(driver2) animation(passengers) group(crew))
+("crew_human" place(gunner)	door(emit3) bone(seat01) animation(passengers) group(crew))
+("crew_human2" place(gunner2)	door(emit1) bone(gunner2) animation(driver) group(crew))
+("crew_human" place(gunner3)	door(emit3) bone(seat02) animation(passengers) group(crew))
+("crew_human" place(gunner4)	door(emit3) bone(seat03) animation(passengers) group(crew))
+("crew_human" place(gunner5)	door(emit4) bone(seat04) animation(passengers) group(crew))
+("crew_human" place(gunner6)	door(emit5) bone(seat05) animation(passengers) group(crew))
+("crew_human" place(gunner7)	door(emit6) bone(seat06) animation(passengers) group(crew))

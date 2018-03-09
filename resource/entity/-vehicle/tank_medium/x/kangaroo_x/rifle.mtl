@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/model/ram/rifled_barrel_a_c"}
+	{bump "$/model/ram/rifled_barrel_a_n"}
+	{color "230 230 230 25"}
+	{blend test}
+}

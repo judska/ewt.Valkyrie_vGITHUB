@@ -1,12 +1,12 @@
-{from "pattern maxim"
+{from "pattern maxim_indirect"
 	{filling "ammo mgun" 150}
 	{entity "maxim_inv"}
 	{fireSound	"mgun/maxim_burst/"}
 	
 	("recoveryTime" r(600))
-	{gravity 50}
+	{gravity 40}
 	{range 130 130}
 	("burst_long")
 	("speed" s(500))
-	{healthDamage     250}	
+	{healthDamage     175}	
 }

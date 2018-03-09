@@ -172,7 +172,7 @@
 		{"m3_usa" "M3A1"}
 		{"m3_eng" "M5A1"}
 		{"m30_1938" "M-30"}
-		{"m30kangaroo" "M30 Kangaroo"}
+		{"m30kangaroo" "Priest Kangaroo"}
 		{"m36" "M36 Slugger"}
 		{"m37" "M-37"}
         {"m3cannon" "M3 AT gun"}

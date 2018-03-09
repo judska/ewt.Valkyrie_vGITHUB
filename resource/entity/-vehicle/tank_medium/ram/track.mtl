@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/ram/us_m2_medium_track_c"}
+	{bump "$/model/ram/us_m2_medium_track_n"}
+	{specular "$/model/ram/us_m2_medium_track_ao"}
+	{color "230 230 230 25"}
+	{blend test}
+}

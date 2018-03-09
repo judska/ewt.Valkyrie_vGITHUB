@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/ram/mg_browning_m1919a4_mount_c"}
+	{bump "$/model/ram/mg_browning_m1919a4_mount_n"}
+	{specular "$/model/ram/mg_browning_m1919a4_mount_ao"}
+	{color "230 230 230 25"}
+	{blend test}
+}

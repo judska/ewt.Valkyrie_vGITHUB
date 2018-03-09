@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/ram/cruiser_ram_2_turret_c"}
+	{bump "$/model/ram/cruiser_ram_2_turret_n"}
+	{specular "$/model/ram/cruiser_ram_2_turret_ao"}
+	{color "230 230 230 25"}
+	{blend test}
+}

@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/ram/xx/xxnet_d_c"}
+	{bump "$/model/ram/net_d_n"}
+	{specular "$/model/ram/net_d_ao"}
+	{color "230 230 230 25"}
+	{blend test}
+}

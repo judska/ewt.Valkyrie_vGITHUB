@@ -18,4 +18,6 @@
 		{"how_a(anz)" "BL 6\\26 cwt"}
 		{"how_aa(anz)" "3.7-Inch QF AA"}
 		{"how_b(anz)" "QF 25-pdr"}
+          {"kangaroo" "Ram Kangaroo"}
+          {"ram" "Ram Mk.II"}
 	   	;----- ANZ

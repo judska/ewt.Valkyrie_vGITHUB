@@ -16,9 +16,9 @@
 		{component "body"}
 	}
 
-	("armor_medium" turret(50 30 30 10) body(50 30 50 22))
+	("armor_medium" turret(70 30 30 10) body(70 30 50 22))
 	("armor_engine"  t(30 30 50 20))
-	("armor_mantlet" t(50))
+	("armor_mantlet" t(70))
 	("shield" args 10)
 	
 	{extender "shield"

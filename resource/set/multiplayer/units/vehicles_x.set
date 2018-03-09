@@ -16,7 +16,7 @@
 {"pak43"        		("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"np_sdkfz251_1w"       ("extra" t() sc(900.00) cw(0) cp(5))}	;5
 {"veteran_tiger"        ("extra" t() sc(1400.00) cw(0) cp(30))}	;7
-{"pz6bh"                ("extra" t() sc(2100.00) cw(0) cp(40))}	;10
+{"sturmtiger"           ("extra" t() sc(1400.00) cw(0) cp(35))}	;9
 
 {"ke-nu"                ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"type_97_150mm"        ("extra" t() sc(450.00) cw(0) cp(10))}	;3
@@ -47,12 +47,13 @@
 {"np_sig33"        	     ("extra" t() sc(440.00) cw(0) cp(15))}	;4
 {"sturmpz1"        		 ("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"brummbar"        	     ("extra" t() sc(1200.00) cw(0) cp(35))};8
+{"pz6bh"                ("extra" t() sc(2100.00) cw(0) cp(40))}	;10
 
 {"2_inch_mortar_mk_ii"	 ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"renault_aa"	         ("extra" t() sc(250.00) cw(0) cp(10))}	;2
 {"b1bis_2"        		 ("extra" t() sc(600.00) cw(0) cp(15))}	;4
 {"amx-13-90"             ("extra" t() sc(800.00) cw(0) cp(15))} ;5
-{"155gpf2"                ("extra" t() sc(500.00) cw(0) cp(15))} ;6
+{"155gpf2"               ("extra" t() sc(500.00) cw(0) cp(15))} ;6
 {"amx50-100"        	 ("extra" t() sc(1500.00) cw(0) cp(35))} ;8
 
 {"maxim_ind"        	 ("extra" t() sc(75.00) cw(0) cp(2.5))}	;1

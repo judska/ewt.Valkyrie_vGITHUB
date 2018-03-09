@@ -1,0 +1,3154 @@
+-= Animation: repair, Node Basis =-
+	Frame 460 {
+		Visibility 1
+		Position	0	0	0
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	0	0	0
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node Basis =-
+	Frame 300 {
+		Visibility 1
+		Position	0	0	0
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	0	0	0
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node wheelsL =-
+	Frame 460 {
+		Visibility 1
+		Position	29.5721	20.9803	9.6659
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 490 {
+		Visibility 1
+		Position	29.5721	20.9803	9.6659
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node wheelsL =-
+	Frame 300 {
+		Visibility 1
+		Position	29.5721	20.9803	9.6659
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 350 {
+		Visibility 1
+		Position	29.5721	20.9803	9.6659
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node WheelL7 =-
+	Frame 460 {
+		Visibility 1
+		Position	-66.1237	3.25598	-0.230389
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-66.1237	3.25598	-0.230389
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelL7 =-
+	Frame 300 {
+		Visibility 1
+		Position	-66.1237	3.25598	-0.230389
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-66.1237	3.25598	-0.230389
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelL6 =-
+	Frame 460 {
+		Visibility 1
+		Position	-49.3442	3.25598	-0.230337
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-49.3442	3.25598	-0.230337
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelL6 =-
+	Frame 300 {
+		Visibility 1
+		Position	-49.3442	3.25598	-0.230337
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-49.3442	3.25598	-0.230337
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelL5 =-
+	Frame 460 {
+		Visibility 1
+		Position	-36.7996	3.25512	-0.230389
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-36.7996	3.25512	-0.230389
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelL5 =-
+	Frame 300 {
+		Visibility 1
+		Position	-36.7996	3.25512	-0.230389
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-36.7996	3.25512	-0.230389
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelL4 =-
+	Frame 460 {
+		Visibility 1
+		Position	-20.0188	3.25598	-0.230389
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-20.0188	3.25598	-0.230389
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelL4 =-
+	Frame 300 {
+		Visibility 1
+		Position	-20.0188	3.25598	-0.230389
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-20.0188	3.25598	-0.230389
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelL3 =-
+	Frame 460 {
+		Visibility 1
+		Position	-8.41831	3.25685	-0.230337
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-8.41831	3.25685	-0.230337
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelL3 =-
+	Frame 300 {
+		Visibility 1
+		Position	-8.41831	3.25685	-0.230337
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-8.41831	3.25685	-0.230337
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelL2 =-
+	Frame 460 {
+		Visibility 1
+		Position	8.36182	3.25685	-0.230337
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	8.36182	3.25685	-0.230337
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelL2 =-
+	Frame 300 {
+		Visibility 1
+		Position	8.36182	3.25685	-0.230337
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	8.36182	3.25685	-0.230337
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node TrackL =-
+	Frame 460 {
+		Visibility 1
+		Position	-31.1061	-1.49942	-0.291729
+		Orientation	-0.707107 0 0 0.707107
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-31.1061	-1.49942	-0.291729
+		Orientation	-0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node TrackL =-
+	Frame 300 {
+		Visibility 1
+		Position	-31.1061	-1.49942	-0.291729
+		Orientation	-0.707107 0 0 0.707107
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-31.1061	-1.49942	-0.291729
+		Orientation	-0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node FXtraceL2 =-
+	Frame 460 {
+		Visibility 1
+		Position	-73.539	5.03559	-0.121738
+		Orientation	-0.0922959 0.701057 -0.701057 -0.092296
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-73.539	5.03559	-0.121738
+		Orientation	-0.0922959 0.701057 -0.701057 -0.092296
+	}
+-= Animation: repair, Node FXtraceL2 =-
+	Frame 300 {
+		Visibility 1
+		Position	-73.539	5.03559	-0.121738
+		Orientation	-0.0922959 0.701057 -0.701057 -0.092296
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-73.539	5.03559	-0.121738
+		Orientation	-0.0922959 0.701057 -0.701057 -0.092296
+	}
+-= Animation: repair, Node FXtraceL1 =-
+	Frame 460 {
+		Visibility 1
+		Position	-7.70223	5.30949	0.897741
+		Orientation	0 0.707107 -0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-7.70223	5.30949	0.897741
+		Orientation	0 0.707107 -0.707107 0
+	}
+-= Animation: repair, Node FXtraceL1 =-
+	Frame 300 {
+		Visibility 1
+		Position	-7.70223	5.30949	0.897741
+		Orientation	0 0.707107 -0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-7.70223	5.30949	0.897741
+		Orientation	0 0.707107 -0.707107 0
+	}
+-= Animation: repair, Node wheelsR =-
+	Frame 460 {
+		Visibility 1
+		Position	29.5721	-20.6159	9.6659
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 490 {
+		Visibility 1
+		Position	29.5721	-20.6159	9.6659
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node wheelsR =-
+	Frame 300 {
+		Visibility 1
+		Position	29.5721	-20.6159	9.6659
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 350 {
+		Visibility 1
+		Position	29.5721	-20.6159	9.6659
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node WheelR7 =-
+	Frame 460 {
+		Visibility 1
+		Position	-66.1237	3.25539	0.230286
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-66.1237	3.25539	0.230286
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelR7 =-
+	Frame 300 {
+		Visibility 1
+		Position	-66.1237	3.25539	0.230286
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-66.1237	3.25539	0.230286
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelR6 =-
+	Frame 460 {
+		Visibility 1
+		Position	-49.3442	3.25539	0.230391
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-49.3442	3.25539	0.230391
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelR6 =-
+	Frame 300 {
+		Visibility 1
+		Position	-49.3442	3.25539	0.230391
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-49.3442	3.25539	0.230391
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelR5 =-
+	Frame 460 {
+		Visibility 1
+		Position	-36.7996	3.25458	0.230286
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-36.7996	3.25458	0.230286
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelR5 =-
+	Frame 300 {
+		Visibility 1
+		Position	-36.7996	3.25458	0.230286
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-36.7996	3.25458	0.230286
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelR4 =-
+	Frame 460 {
+		Visibility 1
+		Position	-20.0188	3.25539	0.230337
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-20.0188	3.25539	0.230337
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelR4 =-
+	Frame 300 {
+		Visibility 1
+		Position	-20.0188	3.25539	0.230337
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-20.0188	3.25539	0.230337
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelR3 =-
+	Frame 460 {
+		Visibility 1
+		Position	-8.41842	3.25625	0.230391
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-8.41842	3.25625	0.230391
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelR3 =-
+	Frame 300 {
+		Visibility 1
+		Position	-8.41842	3.25625	0.230391
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-8.41842	3.25625	0.230391
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelR2 =-
+	Frame 460 {
+		Visibility 1
+		Position	8.36182	3.2562	0.230339
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	8.36182	3.2562	0.230339
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node WheelR2 =-
+	Frame 300 {
+		Visibility 1
+		Position	8.36182	3.2562	0.230339
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	8.36182	3.2562	0.230339
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node TrackR =-
+	Frame 460 {
+		Visibility 1
+		Position	-31.1061	-1.49974	0.183403
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-31.1061	-1.49974	0.183403
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node TrackR =-
+	Frame 300 {
+		Visibility 1
+		Position	-31.1061	-1.49974	0.183403
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-31.1061	-1.49974	0.183403
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node FXtraceR2 =-
+	Frame 460 {
+		Visibility 1
+		Position	-73.539	5.03559	0.568577
+		Orientation	-0.0922957 0.701057 0.701057 0.0922961
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-73.539	5.03559	0.568577
+		Orientation	-0.0922957 0.701057 0.701057 0.0922961
+	}
+-= Animation: repair, Node FXtraceR2 =-
+	Frame 300 {
+		Visibility 1
+		Position	-73.539	5.03559	0.568577
+		Orientation	-0.0922957 0.701057 0.701057 0.0922961
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-73.539	5.03559	0.568577
+		Orientation	-0.0922957 0.701057 0.701057 0.0922961
+	}
+-= Animation: repair, Node FXtraceR1 =-
+	Frame 460 {
+		Visibility 1
+		Position	-7.70223	5.30949	0.0449123
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-7.70223	5.30949	0.0449123
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node FXtraceR1 =-
+	Frame 300 {
+		Visibility 1
+		Position	-7.70223	5.30949	0.0449123
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-7.70223	5.30949	0.0449123
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: start, Node body =-
+	Frame 0 {
+		Visibility 1
+		Position	-1.75077	0	23.6031
+		Orientation	0 0 0 1
+	}
+	Frame 1 {
+		Orientation	0 0.00105742 0 0.999999
+	}
+	Frame 2 {
+		Orientation	0 0.00384517 0 0.999993
+	}
+	Frame 3 {
+		Orientation	0 0.00778641 0 0.99997
+	}
+	Frame 4 {
+		Orientation	0 0.0123043 0 0.999924
+	}
+	Frame 5 {
+		Orientation	0 0.0168219 0 0.999858
+	}
+	Frame 6 {
+		Orientation	0 0.0207625 0 0.999784
+	}
+	Frame 7 {
+		Orientation	0 0.0235495 0 0.999723
+	}
+	Frame 8 {
+		Orientation	0 0.0246067 0 0.999697
+	}
+	Frame 9 {
+		Orientation	0 0.0239424 0 0.999713
+	}
+	Frame 10 {
+		Orientation	0 0.0221057 0 0.999756
+	}
+	Frame 11 {
+		Orientation	0 0.019331 0 0.999813
+	}
+	Frame 12 {
+		Orientation	0 0.0158527 0 0.999874
+	}
+	Frame 13 {
+		Orientation	0 0.0119052 0 0.999929
+	}
+	Frame 14 {
+		Orientation	0 0.007723 0 0.99997
+	}
+	Frame 15 {
+		Orientation	0 0.00354065 0 0.999994
+	}
+	Frame 16 {
+		Orientation	0 -0.000407244 0 1
+	}
+	Frame 17 {
+		Orientation	0 -0.00388607 0 0.999992
+	}
+	Frame 18 {
+		Orientation	0 -0.00666129 0 0.999978
+	}
+	Frame 19 {
+		Orientation	0 -0.00849838 0 0.999964
+	}
+	Frame 20 {
+		Orientation	0 -0.00916285 0 0.999958
+	}
+	Frame 21 {
+		Orientation	0 -0.00846649 0 0.999964
+	}
+	Frame 22 {
+		Orientation	0 -0.00657635 0 0.999978
+	}
+	Frame 23 {
+		Orientation	0 -0.00379085 0 0.999993
+	}
+	Frame 24 {
+		Orientation	0 -0.000408407 0 1
+	}
+	Frame 25 {
+		Orientation	0 0.00327249 0 0.999995
+	}
+	Frame 26 {
+		Orientation	0 0.00695334 0 0.999976
+	}
+	Frame 27 {
+		Orientation	0 0.0103357 0 0.999947
+	}
+	Frame 28 {
+		Orientation	0 0.013121 0 0.999914
+	}
+	Frame 29 {
+		Orientation	0 0.015011 0 0.999887
+	}
+	Frame 30 {
+		Orientation	0 0.0157073 0 0.999877
+	}
+	Frame 31 {
+		Orientation	0 0.0156797 0 0.999877
+	}
+	Frame 32 {
+		Orientation	0 0.015592 0 0.999878
+	}
+	Frame 33 {
+		Orientation	0 0.0154371 0 0.999881
+	}
+	Frame 34 {
+		Orientation	0 0.015208 0 0.999884
+	}
+	Frame 35 {
+		Orientation	0 0.0148976 0 0.999889
+	}
+	Frame 36 {
+		Orientation	0 0.0144987 0 0.999895
+	}
+	Frame 37 {
+		Orientation	0 0.0140043 0 0.999902
+	}
+	Frame 38 {
+		Orientation	0 0.0134072 0 0.99991
+	}
+	Frame 39 {
+		Orientation	0 0.0127004 0 0.999919
+	}
+	Frame 40 {
+		Orientation	0 0.0118767 0 0.999929
+	}
+	Frame 41 {
+		Orientation	0 0.0108733 0 0.999941
+	}
+	Frame 42 {
+		Orientation	0 0.00965967 0 0.999953
+	}
+	Frame 43 {
+		Orientation	0 0.00827721 0 0.999966
+	}
+	Frame 44 {
+		Orientation	0 0.00676733 0 0.999977
+	}
+	Frame 45 {
+		Orientation	0 0.00517145 0 0.999987
+	}
+	Frame 46 {
+		Orientation	0 0.00353099 0 0.999994
+	}
+	Frame 47 {
+		Orientation	0 0.00188736 0 0.999998
+	}
+	Frame 48 {
+		Orientation	0 0.000281988 0 1
+	}
+	Frame 49 {
+		Orientation	0 -0.00124371 0 0.999999
+	}
+	Frame 50 {
+		Orientation	0 -0.00264831 0 0.999996
+	}
+	Frame 51 {
+		Orientation	0 -0.0038904 0 0.999992
+	}
+	Frame 52 {
+		Orientation	0 -0.00492855 0 0.999988
+	}
+	Frame 53 {
+		Orientation	0 -0.00572137 0 0.999984
+	}
+	Frame 54 {
+		Orientation	0 -0.00622743 0 0.999981
+	}
+	Frame 55 {
+		Orientation	0 -0.00640532 0 0.999979
+	}
+	Frame 56 {
+		Orientation	0 -0.00622197 0 0.999981
+	}
+	Frame 57 {
+		Orientation	0 -0.00569721 0 0.999984
+	}
+	Frame 58 {
+		Orientation	0 -0.00486898 0 0.999988
+	}
+	Frame 59 {
+		Orientation	0 -0.00377521 0 0.999993
+	}
+	Frame 60 {
+		Orientation	0 -0.00245382 0 0.999997
+	}
+	Frame 61 {
+		Orientation	0 -0.000942758 0 1
+	}
+	Frame 62 {
+		Orientation	0 0.000720048 0 1
+	}
+	Frame 63 {
+		Orientation	0 0.00249666 0 0.999997
+	}
+	Frame 64 {
+		Orientation	0 0.00434912 0 0.999991
+	}
+	Frame 65 {
+		Orientation	0 0.00623951 0 0.999981
+	}
+	Frame 66 {
+		Visibility 1
+		Position	-1.75077	0	23.6031
+		Orientation	0 0.00812988 0 0.999967
+	}
+-= Animation: stop, Node body =-
+	Frame 66 {
+		Visibility 1
+		Position	-1.75077	0	23.6031
+		Orientation	0 0.00812988 0 0.999967
+	}
+	Frame 67 {
+		Orientation	0 0.00998228 0 0.99995
+	}
+	Frame 68 {
+		Orientation	0 0.0117588 0 0.999931
+	}
+	Frame 69 {
+		Orientation	0 0.0134215 0 0.99991
+	}
+	Frame 70 {
+		Orientation	0 0.0149324 0 0.999889
+	}
+	Frame 71 {
+		Orientation	0 0.0162536 0 0.999868
+	}
+	Frame 72 {
+		Orientation	0 0.0173472 0 0.99985
+	}
+	Frame 73 {
+		Orientation	0 0.0181754 0 0.999835
+	}
+	Frame 74 {
+		Orientation	0 0.0187 0 0.999825
+	}
+	Frame 75 {
+		Orientation	0 0.0188833 0 0.999822
+	}
+	Frame 76 {
+		Orientation	0 0.0181871 0 0.999835
+	}
+	Frame 77 {
+		Orientation	0 0.0163516 0 0.999866
+	}
+	Frame 78 {
+		Orientation	0 0.0137565 0 0.999905
+	}
+	Frame 79 {
+		Orientation	0 0.0107816 0 0.999942
+	}
+	Frame 80 {
+		Orientation	0 0.00780649 0 0.99997
+	}
+	Frame 81 {
+		Orientation	0 0.00521115 0 0.999986
+	}
+	Frame 82 {
+		Orientation	0 0.0033754 0 0.999994
+	}
+	Frame 83 {
+		Orientation	0 0.00267908 0 0.999996
+	}
+	Frame 84 {
+		Orientation	0 0.00308212 0 0.999995
+	}
+	Frame 85 {
+		Orientation	0 0.00414768 0 0.999991
+	}
+	Frame 86 {
+		Orientation	0 0.00566043 0 0.999984
+	}
+	Frame 87 {
+		Orientation	0 0.00740503 0 0.999973
+	}
+	Frame 88 {
+		Orientation	0 0.00916616 0 0.999958
+	}
+	Frame 89 {
+		Orientation	0 0.0107285 0 0.999942
+	}
+	Frame 90 {
+		Orientation	0 0.0118767 0 0.999929
+	}
+	Frame 91 {
+		Orientation	0 0.0127513 0 0.999919
+	}
+	Frame 92 {
+		Orientation	0 0.0136265 0 0.999907
+	}
+	Frame 93 {
+		Orientation	0 0.0144877 0 0.999895
+	}
+	Frame 94 {
+		Orientation	0 0.0153203 0 0.999883
+	}
+	Frame 95 {
+		Orientation	0 0.0161096 0 0.99987
+	}
+	Frame 96 {
+		Orientation	0 0.0168412 0 0.999858
+	}
+	Frame 97 {
+		Orientation	0 0.0175003 0 0.999847
+	}
+	Frame 98 {
+		Orientation	0 0.0180723 0 0.999837
+	}
+	Frame 99 {
+		Orientation	0 0.0185426 0 0.999828
+	}
+	Frame 100 {
+		Orientation	0 0.0188967 0 0.999821
+	}
+	Frame 101 {
+		Orientation	0 0.0191198 0 0.999817
+	}
+	Frame 102 {
+		Orientation	0 0.0191974 0 0.999816
+	}
+	Frame 103 {
+		Orientation	0 0.0184409 0 0.99983
+	}
+	Frame 104 {
+		Orientation	0 0.0164463 0 0.999865
+	}
+	Frame 105 {
+		Orientation	0 0.0136262 0 0.999907
+	}
+	Frame 106 {
+		Orientation	0 0.0103933 0 0.999946
+	}
+	Frame 107 {
+		Orientation	0 0.00716022 0 0.999974
+	}
+	Frame 108 {
+		Orientation	0 0.00433986 0 0.999991
+	}
+	Frame 109 {
+		Orientation	0 0.00234495 0 0.999997
+	}
+	Frame 110 {
+		Orientation	0 0.00158825 0 0.999999
+	}
+	Frame 111 {
+		Orientation	0 0.00298774 0 0.999996
+	}
+	Frame 112 {
+		Orientation	0 0.00648644 0 0.999979
+	}
+	Frame 113 {
+		Orientation	0 0.0110346 0 0.999939
+	}
+	Frame 114 {
+		Orientation	0 0.0155826 0 0.999879
+	}
+	Frame 115 {
+		Orientation	0 0.0190808 0 0.999818
+	}
+	Frame 116 {
+		Orientation	0 0.02048 0 0.99979
+	}
+	Frame 117 {
+		Orientation	0 0.0182745 0 0.999833
+	}
+	Frame 118 {
+		Orientation	0 0.0141784 0 0.9999
+	}
+	Frame 119 {
+		Orientation	0 0.0119727 0 0.999928
+	}
+	Frame 120 {
+		Orientation	0 0.0123035 0 0.999924
+	}
+	Frame 121 {
+		Orientation	0 0.0132108 0 0.999913
+	}
+	Frame 122 {
+		Orientation	0 0.0145662 0 0.999894
+	}
+	Frame 123 {
+		Orientation	0 0.0162418 0 0.999868
+	}
+	Frame 124 {
+		Orientation	0 0.0181095 0 0.999836
+	}
+	Frame 125 {
+		Orientation	0 0.0200411 0 0.999799
+	}
+	Frame 126 {
+		Orientation	0 0.0219086 0 0.99976
+	}
+	Frame 127 {
+		Orientation	0 0.023584 0 0.999722
+	}
+	Frame 128 {
+		Orientation	0 0.0249392 0 0.999689
+	}
+	Frame 129 {
+		Orientation	0 0.0258462 0 0.999666
+	}
+	Frame 130 {
+		Orientation	0 0.0261769 0 0.999657
+	}
+	Frame 131 {
+		Orientation	0 0.0260776 0 0.99966
+	}
+	Frame 132 {
+		Orientation	0 0.0257764 0 0.999668
+	}
+	Frame 133 {
+		Orientation	0 0.0252685 0 0.999681
+	}
+	Frame 134 {
+		Orientation	0 0.0245492 0 0.999699
+	}
+	Frame 135 {
+		Orientation	0 0.0236136 0 0.999721
+	}
+	Frame 136 {
+		Orientation	0 0.0224569 0 0.999748
+	}
+	Frame 137 {
+		Orientation	0 0.0210745 0 0.999778
+	}
+	Frame 138 {
+		Orientation	0 0.0194614 0 0.999811
+	}
+	Frame 139 {
+		Orientation	0 0.0176128 0 0.999845
+	}
+	Frame 140 {
+		Orientation	0 0.0155241 0 0.99988
+	}
+	Frame 141 {
+		Orientation	0 0.0117689 0 0.999931
+	}
+	Frame 142 {
+		Orientation	0 0.00601081 0 0.999982
+	}
+	Frame 143 {
+		Orientation	0 -0.000120355 0 1
+	}
+	Frame 144 {
+		Orientation	0 -0.00499439 0 0.999988
+	}
+	Frame 145 {
+		Orientation	0 -0.00698126 0 0.999976
+	}
+	Frame 146 {
+		Orientation	0 -0.00644138 0 0.999979
+	}
+	Frame 147 {
+		Orientation	0 -0.00508238 0 0.999987
+	}
+	Frame 148 {
+		Orientation	0 -0.00329518 0 0.999995
+	}
+	Frame 149 {
+		Orientation	0 -0.00147073 0 0.999999
+	}
+	Frame 150 {
+		Visibility 1
+		Position	-1.75077	0	23.6031
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node body =-
+	Frame 460 {
+		Visibility 1
+		Position	-1.75077	0	23.6031
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-1.75077	0	23.6031
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node body =-
+	Frame 300 {
+		Visibility 1
+		Position	-1.75077	0	23.6031
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-1.75077	0	23.6031
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node lamp2 =-
+	Frame 460 {
+		Visibility 1
+		Position	50.0329	-9.75416	-1.23673
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	50.0329	-9.75416	-1.23673
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node lamp2 =-
+	Frame 300 {
+		Visibility 1
+		Position	50.0329	-9.75416	-1.23673
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	50.0329	-9.75416	-1.23673
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node lamp3 =-
+	Frame 460 {
+		Visibility 1
+		Position	49.925	10.0439	-1.0335
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	49.925	10.0439	-1.0335
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node lamp3 =-
+	Frame 300 {
+		Visibility 1
+		Position	49.925	10.0439	-1.0335
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	49.925	10.0439	-1.0335
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node lamp1 =-
+	Frame 460 {
+		Visibility 1
+		Position	42.076	-13.859	2.39497
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	42.076	-13.859	2.39497
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node lamp1 =-
+	Frame 300 {
+		Visibility 1
+		Position	42.076	-13.859	2.39497
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	42.076	-13.859	2.39497
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail1 =-
+	Frame 460 {
+		Visibility 1
+		Position	33.1585	-7.88323	-1.01367
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 490 {
+		Visibility 1
+		Position	33.1585	-7.88323	-1.01367
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node detail1 =-
+	Frame 300 {
+		Visibility 1
+		Position	33.1585	-7.88323	-1.01367
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 350 {
+		Visibility 1
+		Position	33.1585	-7.88323	-1.01367
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node detail9 =-
+	Frame 460 {
+		Visibility 1
+		Position	-37.437	-21.639	12.5998
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-37.437	-21.639	12.5998
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node detail9 =-
+	Frame 300 {
+		Visibility 1
+		Position	-37.437	-21.639	12.5998
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-37.437	-21.639	12.5998
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node plate2 =-
+	Frame 460 {
+		Visibility 1
+		Position	-37.3756	-21.1059	10.8744
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-37.3756	-21.1059	10.8744
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node plate2 =-
+	Frame 300 {
+		Visibility 1
+		Position	-37.3756	-21.1059	10.8744
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-37.3756	-21.1059	10.8744
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node plate1 =-
+	Frame 460 {
+		Visibility 1
+		Position	-37.3756	21.8552	12.5998
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-37.3756	21.8552	12.5998
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node plate1 =-
+	Frame 300 {
+		Visibility 1
+		Position	-37.3756	21.8552	12.5998
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-37.3756	21.8552	12.5998
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: open, Node door_front =-
+	Frame 200 {
+		Visibility 1
+		Position	29.7997	-10.3529	13.4402
+		Orientation	0 0 0 1
+	}
+	Frame 201 {
+		Orientation	0 0.0189413 0 0.999821
+	}
+	Frame 202 {
+		Orientation	0 0.0702996 0 0.997526
+	}
+	Frame 203 {
+		Orientation	0 0.145608 0 0.989342
+	}
+	Frame 204 {
+		Orientation	0 0.235889 0 0.97178
+	}
+	Frame 205 {
+		Orientation	0 0.331845 0 0.943334
+	}
+	Frame 206 {
+		Orientation	0 0.424476 0 0.905439
+	}
+	Frame 207 {
+		Orientation	0 0.505869 0 0.86261
+	}
+	Frame 208 {
+		Orientation	0 0.569715 0 0.821842
+	}
+	Frame 209 {
+		Orientation	0 0.611199 0 0.791477
+	}
+	Frame 210 {
+		Visibility 1
+		Position	29.7997	-10.3529	13.4402
+		Orientation	0 0.626081 0 0.779758
+	}
+-= Animation: repair, Node door_front =-
+	Frame 460 {
+		Visibility 1
+		Position	29.7997	-10.3529	13.4402
+		Orientation	0 0.626081 0 0.779758
+	}
+	Frame 490 {
+		Visibility 1
+		Position	29.7997	-10.3529	13.4402
+		Orientation	0 0.626081 0 0.779758
+	}
+-= Animation: repair, Node door_front =-
+	Frame 300 {
+		Visibility 1
+		Position	29.7997	-10.3529	13.4402
+		Orientation	0 0.626081 0 0.779758
+	}
+	Frame 350 {
+		Visibility 1
+		Position	29.7997	-10.3529	13.4402
+		Orientation	0 0.626081 0 0.779758
+	}
+-= Animation: open, Node Hatch2 =-
+	Frame 200 {
+		Visibility 1
+		Position	-6.01942	-27.6764	5.87629
+		Orientation	0 0 0 1
+	}
+	Frame 201 {
+		Orientation	0 0 0.0338943 0.999425
+	}
+	Frame 202 {
+		Orientation	0 0 0.125585 0.992083
+	}
+	Frame 203 {
+		Orientation	0 0 0.258549 0.965998
+	}
+	Frame 204 {
+		Orientation	0 0 0.413397 0.910551
+	}
+	Frame 205 {
+		Orientation	0 0 0.569067 0.822291
+	}
+	Frame 206 {
+		Orientation	0 0 0.706515 0.707698
+	}
+	Frame 207 {
+		Orientation	0 0 0.812963 0.582315
+	}
+	Frame 208 {
+		Orientation	0 0 0.884222 0.467066
+	}
+	Frame 209 {
+		Orientation	0 0 0.923399 0.383841
+	}
+	Frame 210 {
+		Visibility 1
+		Position	-6.01942	-27.6764	5.87629
+		Orientation	0 0 0.935879 0.352323
+	}
+-= Animation: repair, Node Hatch2 =-
+	Frame 460 {
+		Visibility 1
+		Position	-6.01942	-27.6764	5.87629
+		Orientation	0 0 0.935879 0.352323
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-6.01942	-27.6764	5.87629
+		Orientation	0 0 0.935879 0.352323
+	}
+-= Animation: repair, Node Hatch2 =-
+	Frame 300 {
+		Visibility 1
+		Position	-6.01942	-27.6764	5.87629
+		Orientation	0 0 0.935879 0.352323
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-6.01942	-27.6764	5.87629
+		Orientation	0 0 0.935879 0.352323
+	}
+-= Animation: open, Node Hatch3 =-
+	Frame 200 {
+		Visibility 1
+		Position	9.08764	27.7436	5.87111
+		Orientation	0 0 0 1
+	}
+	Frame 201 {
+		Orientation	0 0 0.0129664 0.999916
+	}
+	Frame 202 {
+		Orientation	0 0 0.0481436 0.99884
+	}
+	Frame 203 {
+		Orientation	0 0 0.0998625 0.995001
+	}
+	Frame 204 {
+		Orientation	0 0 0.16229 0.986743
+	}
+	Frame 205 {
+		Orientation	0 0 0.229486 0.973312
+	}
+	Frame 206 {
+		Orientation	0 0 0.295604 0.955311
+	}
+	Frame 207 {
+		Orientation	0 0 0.355145 0.934811
+	}
+	Frame 208 {
+		Orientation	0 0 0.403132 0.915142
+	}
+	Frame 209 {
+		Orientation	0 0 0.435085 0.90039
+	}
+	Frame 210 {
+		Visibility 1
+		Position	9.08764	27.7436	5.87111
+		Orientation	0 0 0.446723 0.894672
+	}
+-= Animation: repair, Node Hatch3 =-
+	Frame 460 {
+		Visibility 1
+		Position	9.08764	27.7436	5.87111
+		Orientation	0 0 0.446723 0.894672
+	}
+	Frame 490 {
+		Visibility 1
+		Position	9.08764	27.7436	5.87111
+		Orientation	0 0 0.446723 0.894672
+	}
+-= Animation: repair, Node Hatch3 =-
+	Frame 300 {
+		Visibility 1
+		Position	9.08764	27.7436	5.87111
+		Orientation	0 0 0.446723 0.894672
+	}
+	Frame 350 {
+		Visibility 1
+		Position	9.08764	27.7436	5.87111
+		Orientation	0 0 0.446723 0.894672
+	}
+-= Animation: repair, Node handle2 =-
+	Frame 460 {
+		Visibility 1
+		Position	15.5341	-25.4754	6.423
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	15.5341	-25.4754	6.423
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node handle2 =-
+	Frame 300 {
+		Visibility 1
+		Position	15.5341	-25.4754	6.423
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	15.5341	-25.4754	6.423
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node handle =-
+	Frame 460 {
+		Visibility 1
+		Position	1.53353	25.4332	12.1624
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	1.53353	25.4332	12.1624
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node handle =-
+	Frame 300 {
+		Visibility 1
+		Position	1.53353	25.4332	12.1624
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	1.53353	25.4332	12.1624
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node Jar =-
+	Frame 460 {
+		Visibility 1
+		Position	-11.3004	-23.5261	12.6919
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-11.3004	-23.5261	12.6919
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node Jar =-
+	Frame 300 {
+		Visibility 1
+		Position	-11.3004	-23.5261	12.6919
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-11.3004	-23.5261	12.6919
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node Station =-
+	Frame 460 {
+		Visibility 1
+		Position	-2.19321	0.00796509	-2.52467
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-2.19321	0.00796509	-2.52467
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Station =-
+	Frame 300 {
+		Visibility 1
+		Position	-2.19321	0.00796509	-2.52467
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-2.19321	0.00796509	-2.52467
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Oilvalve1 =-
+	Frame 460 {
+		Visibility 1
+		Position	-17.3237	22.0226	12.6515
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-17.3237	22.0226	12.6515
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node Oilvalve1 =-
+	Frame 300 {
+		Visibility 1
+		Position	-17.3237	22.0226	12.6515
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-17.3237	22.0226	12.6515
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node tap =-
+	Frame 460 {
+		Visibility 1
+		Position	-17.4281	-21.6347	12.5308
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-17.4281	-21.6347	12.5308
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node tap =-
+	Frame 300 {
+		Visibility 1
+		Position	-17.4281	-21.6347	12.5308
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-17.4281	-21.6347	12.5308
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node Oilvalve2 =-
+	Frame 460 {
+		Visibility 1
+		Position	-22.7896	17.9077	13.5858
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-22.7896	17.9077	13.5858
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node Oilvalve2 =-
+	Frame 300 {
+		Visibility 1
+		Position	-22.7896	17.9077	13.5858
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-22.7896	17.9077	13.5858
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node Oilvalve3 =-
+	Frame 460 {
+		Visibility 1
+		Position	-22.7896	-17.8386	13.5792
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-22.7896	-17.8386	13.5792
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node Oilvalve3 =-
+	Frame 300 {
+		Visibility 1
+		Position	-22.7896	-17.8386	13.5792
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-22.7896	-17.8386	13.5792
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node VVSS =-
+	Frame 460 {
+		Visibility 1
+		Position	31.3763	18.943	-10.9334
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	31.3763	18.943	-10.9334
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node VVSS =-
+	Frame 300 {
+		Visibility 1
+		Position	31.3763	18.943	-10.9334
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	31.3763	18.943	-10.9334
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node WheelL1 =-
+	Frame 460 {
+		Visibility 1
+		Position	49.2612	20.7472	-8.58355
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	49.2612	20.7472	-8.58355
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelL1 =-
+	Frame 300 {
+		Visibility 1
+		Position	49.2612	20.7472	-8.58355
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	49.2612	20.7472	-8.58355
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelL8 =-
+	Frame 460 {
+		Visibility 1
+		Position	-49.3046	21.0493	-9.30281
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-49.3046	21.0493	-9.30281
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelL8 =-
+	Frame 300 {
+		Visibility 1
+		Position	-49.3046	21.0493	-9.30281
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-49.3046	21.0493	-9.30281
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelR8 =-
+	Frame 460 {
+		Visibility 1
+		Position	-49.3046	-21.0418	-9.30282
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-49.3046	-21.0418	-9.30282
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelR8 =-
+	Frame 300 {
+		Visibility 1
+		Position	-49.3046	-21.0418	-9.30282
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-49.3046	-21.0418	-9.30282
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelR1 =-
+	Frame 460 {
+		Visibility 1
+		Position	49.2612	-20.8487	-8.58346
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	49.2612	-20.8487	-8.58346
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelR1 =-
+	Frame 300 {
+		Visibility 1
+		Position	49.2612	-20.8487	-8.58346
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	49.2612	-20.8487	-8.58346
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelL11 =-
+	Frame 460 {
+		Visibility 1
+		Position	-26.3403	20.978	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-26.3403	20.978	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelL11 =-
+	Frame 300 {
+		Visibility 1
+		Position	-26.3403	20.978	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-26.3403	20.978	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelL10 =-
+	Frame 460 {
+		Visibility 1
+		Position	2.99033	20.9782	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	2.99033	20.9782	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelL10 =-
+	Frame 300 {
+		Visibility 1
+		Position	2.99033	20.9782	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	2.99033	20.9782	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelL9 =-
+	Frame 460 {
+		Visibility 1
+		Position	31.3763	20.978	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	31.3763	20.978	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelL9 =-
+	Frame 300 {
+		Visibility 1
+		Position	31.3763	20.978	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	31.3763	20.978	-5.53387
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelR9 =-
+	Frame 460 {
+		Visibility 1
+		Position	31.3763	-20.6535	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	31.3763	-20.6535	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelR9 =-
+	Frame 300 {
+		Visibility 1
+		Position	31.3763	-20.6535	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	31.3763	-20.6535	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelR10 =-
+	Frame 460 {
+		Visibility 1
+		Position	2.99033	-20.6536	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	2.99033	-20.6536	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelR10 =-
+	Frame 300 {
+		Visibility 1
+		Position	2.99033	-20.6536	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	2.99033	-20.6536	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelR11 =-
+	Frame 460 {
+		Visibility 1
+		Position	-26.3403	-20.6535	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-26.3403	-20.6535	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node WheelR11 =-
+	Frame 300 {
+		Visibility 1
+		Position	-26.3403	-20.6535	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-26.3403	-20.6535	-5.53367
+		Orientation	0 0.707107 0.707107 0
+	}
+-= Animation: repair, Node FXfire1 =-
+	Frame 460 {
+		Visibility 1
+		Position	-36.6317	-1.12949	11.2367
+		Orientation	0.00611929 0.70708 -0.00611916 0.70708
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-36.6317	-1.12949	11.2367
+		Orientation	0.00611929 0.70708 -0.00611916 0.70708
+	}
+-= Animation: repair, Node FXfire1 =-
+	Frame 300 {
+		Visibility 1
+		Position	-36.6317	-1.12949	11.2367
+		Orientation	0.00611929 0.70708 -0.00611916 0.70708
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-36.6317	-1.12949	11.2367
+		Orientation	0.00611929 0.70708 -0.00611916 0.70708
+	}
+-= Animation: repair, Node FXsmoke2 =-
+	Frame 460 {
+		Visibility 1
+		Position	-55.5575	-3.67929	3.37192
+		Orientation	0.363068 0.0200348 0.931363 -0.018528
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-55.5575	-3.67929	3.37192
+		Orientation	0.363068 0.0200348 0.931363 -0.018528
+	}
+-= Animation: repair, Node FXsmoke2 =-
+	Frame 300 {
+		Visibility 1
+		Position	-55.5575	-3.67929	3.37192
+		Orientation	0.363068 0.0200348 0.931363 -0.018528
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-55.5575	-3.67929	3.37192
+		Orientation	0.363068 0.0200348 0.931363 -0.018528
+	}
+-= Animation: repair, Node Visor2 =-
+	Frame 460 {
+		Visibility 1
+		Position	33.4053	-10.8873	11.0686
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	33.4053	-10.8873	11.0686
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Visor2 =-
+	Frame 300 {
+		Visibility 1
+		Position	33.4053	-10.8873	11.0686
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	33.4053	-10.8873	11.0686
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node FXsmoke1 =-
+	Frame 460 {
+		Visibility 1
+		Position	-55.5575	3.43587	3.37192
+		Orientation	0.363068 0.0200348 0.931363 -0.018528
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-55.5575	3.43587	3.37192
+		Orientation	0.363068 0.0200348 0.931363 -0.018528
+	}
+-= Animation: repair, Node FXsmoke1 =-
+	Frame 300 {
+		Visibility 1
+		Position	-55.5575	3.43587	3.37192
+		Orientation	0.363068 0.0200348 0.931363 -0.018528
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-55.5575	3.43587	3.37192
+		Orientation	0.363068 0.0200348 0.931363 -0.018528
+	}
+-= Animation: repair, Node headlightL =-
+	Frame 460 {
+		Visibility 1
+		Position	52.4226	9.91568	-0.362282
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	52.4226	9.91568	-0.362282
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node headlightL =-
+	Frame 300 {
+		Visibility 1
+		Position	52.4226	9.91568	-0.362282
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	52.4226	9.91568	-0.362282
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node headlightR =-
+	Frame 460 {
+		Visibility 1
+		Position	52.4226	-9.50586	-0.362286
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	52.4226	-9.50586	-0.362286
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node headlightR =-
+	Frame 300 {
+		Visibility 1
+		Position	52.4226	-9.50586	-0.362286
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	52.4226	-9.50586	-0.362286
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node turret2 =-
+	Frame 460 {
+		Visibility 1
+		Position	25.243	8.77185	11.8496
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	25.243	8.77185	11.8496
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node turret2 =-
+	Frame 300 {
+		Visibility 1
+		Position	25.243	8.77185	11.8496
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	25.243	8.77185	11.8496
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node Hatch =-
+	Frame 460 {
+		Visibility 1
+		Position	3.57349	-0.00108433	2.5694
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	3.57349	-0.00108433	2.5694
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node Hatch =-
+	Frame 300 {
+		Visibility 1
+		Position	3.57349	-0.00108433	2.5694
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	3.57349	-0.00108433	2.5694
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node turret_2_vol =-
+	Frame 460 {
+		Visibility 0
+		Position	-0.0112762	0.0150757	-0.337063
+		Orientation	1 0 0 0
+	}
+	Frame 490 {
+		Visibility 0
+		Position	-0.0112762	0.0150757	-0.337063
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node turret_2_vol =-
+	Frame 300 {
+		Visibility 0
+		Position	-0.0112762	0.0150757	-0.337063
+		Orientation	1 0 0 0
+	}
+	Frame 350 {
+		Visibility 0
+		Position	-0.0112762	0.0150757	-0.337063
+		Orientation	1 0 0 0
+	}
+-= Animation: repair, Node mgun_rot =-
+	Frame 460 {
+		Visibility 1
+		Position	4.09412	0.109623	-1.21979
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 490 {
+		Visibility 1
+		Position	4.09412	0.109623	-1.21979
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node mgun_rot =-
+	Frame 300 {
+		Visibility 1
+		Position	4.09412	0.109623	-1.21979
+		Orientation	0.707107 0 0 0.707107
+	}
+	Frame 350 {
+		Visibility 1
+		Position	4.09412	0.109623	-1.21979
+		Orientation	0.707107 0 0 0.707107
+	}
+-= Animation: repair, Node mgun =-
+	Frame 460 {
+		Visibility 1
+		Position	0.572681	0.299469	-2.49678
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	0.572681	0.299469	-2.49678
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node mgun =-
+	Frame 300 {
+		Visibility 1
+		Position	0.572681	0.299469	-2.49678
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	0.572681	0.299469	-2.49678
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Foresight4 =-
+	Frame 460 {
+		Visibility 1
+		Position	11.6383	0.00510406	-2.14002
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	11.6383	0.00510406	-2.14002
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Foresight4 =-
+	Frame 300 {
+		Visibility 1
+		Position	11.6383	0.00510406	-2.14002
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	11.6383	0.00510406	-2.14002
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Seat01 =-
+	Frame 460 {
+		Visibility 1
+		Position	7.04979	-6.71193	-1.37768
+		Orientation	0 0 0.216573 0.976266
+	}
+	Frame 490 {
+		Visibility 1
+		Position	7.04979	-6.71193	-1.37768
+		Orientation	0 0 0.216573 0.976266
+	}
+-= Animation: repair, Node Seat01 =-
+	Frame 300 {
+		Visibility 1
+		Position	7.04979	-6.71193	-1.37768
+		Orientation	0 0 0.216573 0.976266
+	}
+	Frame 350 {
+		Visibility 1
+		Position	7.04979	-6.71193	-1.37768
+		Orientation	0 0 0.216573 0.976266
+	}
+-= Animation: repair, Node shieldL1 =-
+	Frame 460 {
+		Visibility 1
+		Position	35.1158	21.6795	0.64274
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	35.1158	21.6795	0.64274
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node shieldL1 =-
+	Frame 300 {
+		Visibility 1
+		Position	35.1158	21.6795	0.64274
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	35.1158	21.6795	0.64274
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node shieldR1 =-
+	Frame 460 {
+		Visibility 1
+		Position	35.1158	-21.6178	0.642729
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	35.1158	-21.6178	0.642729
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node shieldR1 =-
+	Frame 300 {
+		Visibility 1
+		Position	35.1158	-21.6178	0.642729
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	35.1158	-21.6178	0.642729
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Engine =-
+	Frame 460 {
+		Visibility 1
+		Position	-35.3524	0.0695534	-2.46457
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-35.3524	0.0695534	-2.46457
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Engine =-
+	Frame 300 {
+		Visibility 1
+		Position	-35.3524	0.0695534	-2.46457
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-35.3524	0.0695534	-2.46457
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node motor =-
+	Frame 460 {
+		Visibility 1
+		Position	-12.5196	-15.7687	12.9956
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-12.5196	-15.7687	12.9956
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node motor =-
+	Frame 300 {
+		Visibility 1
+		Position	-12.5196	-15.7687	12.9956
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-12.5196	-15.7687	12.9956
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail7 =-
+	Frame 460 {
+		Visibility 1
+		Position	3.55879	21.1338	1.72246
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	3.55879	21.1338	1.72246
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail7 =-
+	Frame 300 {
+		Visibility 1
+		Position	3.55879	21.1338	1.72246
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	3.55879	21.1338	1.72246
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail6 =-
+	Frame 460 {
+		Visibility 1
+		Position	5.54924	10.3843	1.89883
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	5.54924	10.3843	1.89883
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail6 =-
+	Frame 300 {
+		Visibility 1
+		Position	5.54924	10.3843	1.89883
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	5.54924	10.3843	1.89883
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail8 =-
+	Frame 460 {
+		Visibility 1
+		Position	1.59486	15.838	0.936386
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	1.59486	15.838	0.936386
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail8 =-
+	Frame 300 {
+		Visibility 1
+		Position	1.59486	15.838	0.936386
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	1.59486	15.838	0.936386
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail4 =-
+	Frame 460 {
+		Visibility 1
+		Position	8.97251	12.739	2.58494
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	8.97251	12.739	2.58494
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail4 =-
+	Frame 300 {
+		Visibility 1
+		Position	8.97251	12.739	2.58494
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	8.97251	12.739	2.58494
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail5 =-
+	Frame 460 {
+		Visibility 1
+		Position	7.56049	18.6426	2.39741
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	7.56049	18.6426	2.39741
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail5 =-
+	Frame 300 {
+		Visibility 1
+		Position	7.56049	18.6426	2.39741
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	7.56049	18.6426	2.39741
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node EBox =-
+	Frame 460 {
+		Visibility 1
+		Position	14.9691	-0.0109863	16.2284
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	14.9691	-0.0109863	16.2284
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node EBox =-
+	Frame 300 {
+		Visibility 1
+		Position	14.9691	-0.0109863	16.2284
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	14.9691	-0.0109863	16.2284
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail2 =-
+	Frame 460 {
+		Visibility 1
+		Position	-10.7242	-4.22203	-0.755318
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-10.7242	-4.22203	-0.755318
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail2 =-
+	Frame 300 {
+		Visibility 1
+		Position	-10.7242	-4.22203	-0.755318
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-10.7242	-4.22203	-0.755318
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail3 =-
+	Frame 460 {
+		Visibility 1
+		Position	-10.4579	5.24213	-0.603722
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-10.4579	5.24213	-0.603722
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node detail3 =-
+	Frame 300 {
+		Visibility 1
+		Position	-10.4579	5.24213	-0.603722
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-10.4579	5.24213	-0.603722
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node grid =-
+	Frame 460 {
+		Visibility 1
+		Position	-3.09534	-0.000434875	-0.375298
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-3.09534	-0.000434875	-0.375298
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node grid =-
+	Frame 300 {
+		Visibility 1
+		Position	-3.09534	-0.000434875	-0.375298
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-3.09534	-0.000434875	-0.375298
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Hatch5 =-
+	Frame 460 {
+		Visibility 1
+		Position	-11.1511	-7.84363	-2.38258
+		Orientation	0 0.0709895 0 0.997477
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-11.1511	-7.84363	-2.38258
+		Orientation	0 0.0709895 0 0.997477
+	}
+-= Animation: repair, Node Hatch5 =-
+	Frame 300 {
+		Visibility 1
+		Position	-11.1511	-7.84363	-2.38258
+		Orientation	0 0.0709895 0 0.997477
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-11.1511	-7.84363	-2.38258
+		Orientation	0 0.0709895 0 0.997477
+	}
+-= Animation: repair, Node Hatch4 =-
+	Frame 460 {
+		Visibility 1
+		Position	-11.1748	7.81053	-2.22561
+		Orientation	0 0.0709902 0 0.997477
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-11.1748	7.81053	-2.22561
+		Orientation	0 0.0709902 0 0.997477
+	}
+-= Animation: repair, Node Hatch4 =-
+	Frame 300 {
+		Visibility 1
+		Position	-11.1748	7.81053	-2.22561
+		Orientation	0 0.0709902 0 0.997477
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-11.1748	7.81053	-2.22561
+		Orientation	0 0.0709902 0 0.997477
+	}
+-= Animation: repair, Node cloth =-
+	Frame 460 {
+		Visibility 1
+		Position	9.53961	19.9212	1.94566
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	9.53961	19.9212	1.94566
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node cloth =-
+	Frame 300 {
+		Visibility 1
+		Position	9.53961	19.9212	1.94566
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	9.53961	19.9212	1.94566
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Seat06 =-
+	Frame 460 {
+		Visibility 1
+		Position	-1.40246	-12.0465	-1.37768
+		Orientation	0 0 0.707107 0.707107
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-1.40246	-12.0465	-1.37768
+		Orientation	0 0 0.707107 0.707107
+	}
+-= Animation: repair, Node Seat06 =-
+	Frame 300 {
+		Visibility 1
+		Position	-1.40246	-12.0465	-1.37768
+		Orientation	0 0 0.707107 0.707107
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-1.40246	-12.0465	-1.37768
+		Orientation	0 0 0.707107 0.707107
+	}
+-= Animation: repair, Node Seat02 =-
+	Frame 460 {
+		Visibility 1
+		Position	7.10936	3.95914	-1.37768
+		Orientation	0 0 -0.213443 0.976956
+	}
+	Frame 490 {
+		Visibility 1
+		Position	7.10936	3.95914	-1.37768
+		Orientation	0 0 -0.213443 0.976956
+	}
+-= Animation: repair, Node Seat02 =-
+	Frame 300 {
+		Visibility 1
+		Position	7.10936	3.95914	-1.37768
+		Orientation	0 0 -0.213443 0.976956
+	}
+	Frame 350 {
+		Visibility 1
+		Position	7.10936	3.95914	-1.37768
+		Orientation	0 0 -0.213443 0.976956
+	}
+-= Animation: repair, Node Seat03 =-
+	Frame 460 {
+		Visibility 1
+		Position	-2.27613	9.70753	-1.37768
+		Orientation	0 0 -0.716471 0.697617
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-2.27613	9.70753	-1.37768
+		Orientation	0 0 -0.716471 0.697617
+	}
+-= Animation: repair, Node Seat03 =-
+	Frame 300 {
+		Visibility 1
+		Position	-2.27613	9.70753	-1.37768
+		Orientation	0 0 -0.716471 0.697617
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-2.27613	9.70753	-1.37768
+		Orientation	0 0 -0.716471 0.697617
+	}
+-= Animation: repair, Node Seat05 =-
+	Frame 460 {
+		Visibility 1
+		Position	-10.5478	-7.21346	-1.37768
+		Orientation	0 0 0.964777 0.26307
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-10.5478	-7.21346	-1.37768
+		Orientation	0 0 0.964777 0.26307
+	}
+-= Animation: repair, Node Seat05 =-
+	Frame 300 {
+		Visibility 1
+		Position	-10.5478	-7.21346	-1.37768
+		Orientation	0 0 0.964777 0.26307
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-10.5478	-7.21346	-1.37768
+		Orientation	0 0 0.964777 0.26307
+	}
+-= Animation: repair, Node Seat04 =-
+	Frame 460 {
+		Visibility 1
+		Position	-11.287	3.21965	-1.37768
+		Orientation	0 0 0.974524 -0.224284
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-11.287	3.21965	-1.37768
+		Orientation	0 0 0.974524 -0.224284
+	}
+-= Animation: repair, Node Seat04 =-
+	Frame 300 {
+		Visibility 1
+		Position	-11.287	3.21965	-1.37768
+		Orientation	0 0 0.974524 -0.224284
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-11.287	3.21965	-1.37768
+		Orientation	0 0 0.974524 -0.224284
+	}
+-= Animation: repair, Node Magazine1 =-
+	Frame 460 {
+		Visibility 1
+		Position	-9.88123	-23.4055	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-9.88123	-23.4055	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine1 =-
+	Frame 300 {
+		Visibility 1
+		Position	-9.88123	-23.4055	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-9.88123	-23.4055	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine2 =-
+	Frame 460 {
+		Visibility 1
+		Position	-7.94489	-23.0667	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-7.94489	-23.0667	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine2 =-
+	Frame 300 {
+		Visibility 1
+		Position	-7.94489	-23.0667	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-7.94489	-23.0667	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine3 =-
+	Frame 460 {
+		Visibility 1
+		Position	-6.05558	-23.1486	1.9719
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-6.05558	-23.1486	1.9719
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Magazine3 =-
+	Frame 300 {
+		Visibility 1
+		Position	-6.05558	-23.1486	1.9719
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-6.05558	-23.1486	1.9719
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node ammo3 =-
+	Frame 460 {
+		Visibility 1
+		Position	-0.0123806	-1.26382	2.55119
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-0.0123806	-1.26382	2.55119
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node ammo3 =-
+	Frame 300 {
+		Visibility 1
+		Position	-0.0123806	-1.26382	2.55119
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-0.0123806	-1.26382	2.55119
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Magazine4 =-
+	Frame 460 {
+		Visibility 1
+		Position	-4.16245	-23.1487	1.9719
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-4.16245	-23.1487	1.9719
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Magazine4 =-
+	Frame 300 {
+		Visibility 1
+		Position	-4.16245	-23.1487	1.9719
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-4.16245	-23.1487	1.9719
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node ammo4 =-
+	Frame 460 {
+		Visibility 1
+		Position	-0.0123806	-1.26382	2.55119
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-0.0123806	-1.26382	2.55119
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node ammo4 =-
+	Frame 300 {
+		Visibility 1
+		Position	-0.0123806	-1.26382	2.55119
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-0.0123806	-1.26382	2.55119
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Magazine5 =-
+	Frame 460 {
+		Visibility 1
+		Position	8.96091	-23.1461	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	8.96091	-23.1461	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine5 =-
+	Frame 300 {
+		Visibility 1
+		Position	8.96091	-23.1461	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	8.96091	-23.1461	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine6 =-
+	Frame 460 {
+		Visibility 1
+		Position	10.8973	-22.3869	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	10.8973	-22.3869	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine6 =-
+	Frame 300 {
+		Visibility 1
+		Position	10.8973	-22.3869	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	10.8973	-22.3869	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine7 =-
+	Frame 460 {
+		Visibility 1
+		Position	12.8914	-21.6422	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	12.8914	-21.6422	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine7 =-
+	Frame 300 {
+		Visibility 1
+		Position	12.8914	-21.6422	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	12.8914	-21.6422	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine8 =-
+	Frame 460 {
+		Visibility 1
+		Position	14.8278	-20.633	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	14.8278	-20.633	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine8 =-
+	Frame 300 {
+		Visibility 1
+		Position	14.8278	-20.633	1.86753
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	14.8278	-20.633	1.86753
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Magazine10 =-
+	Frame 460 {
+		Visibility 1
+		Position	18.8429	-20.4453	1.55631
+		Orientation	0 0 0.597763 0.801673
+	}
+	Frame 490 {
+		Visibility 1
+		Position	18.8429	-20.4453	1.55631
+		Orientation	0 0 0.597763 0.801673
+	}
+-= Animation: repair, Node Magazine10 =-
+	Frame 300 {
+		Visibility 1
+		Position	18.8429	-20.4453	1.55631
+		Orientation	0 0 0.597763 0.801673
+	}
+	Frame 350 {
+		Visibility 1
+		Position	18.8429	-20.4453	1.55631
+		Orientation	0 0 0.597763 0.801673
+	}
+-= Animation: repair, Node Magazine9 =-
+	Frame 460 {
+		Visibility 1
+		Position	18.8429	-17.943	1.55632
+		Orientation	0 0 0.597763 0.801673
+	}
+	Frame 490 {
+		Visibility 1
+		Position	18.8429	-17.943	1.55632
+		Orientation	0 0 0.597763 0.801673
+	}
+-= Animation: repair, Node Magazine9 =-
+	Frame 300 {
+		Visibility 1
+		Position	18.8429	-17.943	1.55632
+		Orientation	0 0 0.597763 0.801673
+	}
+	Frame 350 {
+		Visibility 1
+		Position	18.8429	-17.943	1.55632
+		Orientation	0 0 0.597763 0.801673
+	}
+-= Animation: repair, Node Magazine12 =-
+	Frame 460 {
+		Visibility 1
+		Position	10.4129	-17.943	1.86754
+		Orientation	0 0 0.597763 0.801673
+	}
+	Frame 490 {
+		Visibility 1
+		Position	10.4129	-17.943	1.86754
+		Orientation	0 0 0.597763 0.801673
+	}
+-= Animation: repair, Node Magazine12 =-
+	Frame 300 {
+		Visibility 1
+		Position	10.4129	-17.943	1.86754
+		Orientation	0 0 0.597763 0.801673
+	}
+	Frame 350 {
+		Visibility 1
+		Position	10.4129	-17.943	1.86754
+		Orientation	0 0 0.597763 0.801673
+	}
+-= Animation: repair, Node Magazine11 =-
+	Frame 460 {
+		Visibility 1
+		Position	21.8102	-19.0578	2.00621
+		Orientation	0.707107 0 0.707107 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	21.8102	-19.0578	2.00621
+		Orientation	0.707107 0 0.707107 0
+	}
+-= Animation: repair, Node Magazine11 =-
+	Frame 300 {
+		Visibility 1
+		Position	21.8102	-19.0578	2.00621
+		Orientation	0.707107 0 0.707107 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	21.8102	-19.0578	2.00621
+		Orientation	0.707107 0 0.707107 0
+	}
+-= Animation: repair, Node m19gun1 =-
+	Frame 460 {
+		Visibility 1
+		Position	-15.7455	15.9181	3.87831
+		Orientation	0.56946 -0.417906 0.544421 0.452411
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-15.7455	15.9181	3.87831
+		Orientation	0.56946 -0.417906 0.544421 0.452411
+	}
+-= Animation: repair, Node m19gun1 =-
+	Frame 300 {
+		Visibility 1
+		Position	-15.7455	15.9181	3.87831
+		Orientation	0.56946 -0.417906 0.544421 0.452411
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-15.7455	15.9181	3.87831
+		Orientation	0.56946 -0.417906 0.544421 0.452411
+	}
+-= Animation: repair, Node m19gun2 =-
+	Frame 460 {
+		Visibility 1
+		Position	-17.6635	15.122	4.2613
+		Orientation	0.207249 -0.112936 0.673424 0.700567
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-17.6635	15.122	4.2613
+		Orientation	0.207249 -0.112936 0.673424 0.700567
+	}
+-= Animation: repair, Node m19gun2 =-
+	Frame 300 {
+		Visibility 1
+		Position	-17.6635	15.122	4.2613
+		Orientation	0.207249 -0.112936 0.673424 0.700567
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-17.6635	15.122	4.2613
+		Orientation	0.207249 -0.112936 0.673424 0.700567
+	}
+-= Animation: repair, Node driver2 =-
+	Frame 460 {
+		Visibility 1
+		Position	20.7862	10.0192	-12.4436
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	20.7862	10.0192	-12.4436
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node driver2 =-
+	Frame 300 {
+		Visibility 1
+		Position	20.7862	10.0192	-12.4436
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	20.7862	10.0192	-12.4436
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node driver =-
+	Frame 460 {
+		Visibility 1
+		Position	17.8946	-9.46615	-12.4436
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	17.8946	-9.46615	-12.4436
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node driver =-
+	Frame 300 {
+		Visibility 1
+		Position	17.8946	-9.46615	-12.4436
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	17.8946	-9.46615	-12.4436
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node plate3 =-
+	Frame 460 {
+		Visibility 1
+		Position	-2.02675	-20.1584	1.16728
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-2.02675	-20.1584	1.16728
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node plate3 =-
+	Frame 300 {
+		Visibility 1
+		Position	-2.02675	-20.1584	1.16728
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-2.02675	-20.1584	1.16728
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node plate4 =-
+	Frame 460 {
+		Visibility 1
+		Position	-2.02675	-15.0875	-3.2668
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-2.02675	-15.0875	-3.2668
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node plate4 =-
+	Frame 300 {
+		Visibility 1
+		Position	-2.02675	-15.0875	-3.2668
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-2.02675	-15.0875	-3.2668
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node plate5 =-
+	Frame 460 {
+		Visibility 1
+		Position	-2.02675	14.9136	-3.26679
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-2.02675	14.9136	-3.26679
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node plate5 =-
+	Frame 300 {
+		Visibility 1
+		Position	-2.02675	14.9136	-3.26679
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-2.02675	14.9136	-3.26679
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node baffleT1 =-
+	Frame 460 {
+		Visibility 1
+		Position	38.5252	2.58398	6.50898
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	38.5252	2.58398	6.50898
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node baffleT1 =-
+	Frame 300 {
+		Visibility 1
+		Position	38.5252	2.58398	6.50898
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	38.5252	2.58398	6.50898
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node baffleT2 =-
+	Frame 460 {
+		Visibility 1
+		Position	46.0342	2.22009	3.75739
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	46.0342	2.22009	3.75739
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node baffleT2 =-
+	Frame 300 {
+		Visibility 1
+		Position	46.0342	2.22009	3.75739
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	46.0342	2.22009	3.75739
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node baffleT3 =-
+	Frame 460 {
+		Visibility 1
+		Position	-27.8949	28.5751	4.62135
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-27.8949	28.5751	4.62135
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node baffleT3 =-
+	Frame 300 {
+		Visibility 1
+		Position	-27.8949	28.5751	4.62135
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-27.8949	28.5751	4.62135
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node baffleT4 =-
+	Frame 460 {
+		Visibility 1
+		Position	-27.8949	-28.5886	4.62134
+		Orientation	0 0 0 1
+	}
+	Frame 490 {
+		Visibility 1
+		Position	-27.8949	-28.5886	4.62134
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node baffleT4 =-
+	Frame 300 {
+		Visibility 1
+		Position	-27.8949	-28.5886	4.62134
+		Orientation	0 0 0 1
+	}
+	Frame 350 {
+		Visibility 1
+		Position	-27.8949	-28.5886	4.62134
+		Orientation	0 0 0 1
+	}
+-= Animation: repair, Node Emit0 =-
+	Frame 460 {
+		Visibility 1
+		Position	59.3402	5.23059	0
+		Orientation	0 0 1 0
+	}
+	Frame 490 {
+		Visibility 1
+		Position	59.3402	5.23059	0
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node Emit0 =-
+	Frame 300 {
+		Visibility 1
+		Position	59.3402	5.23059	0
+		Orientation	0 0 1 0
+	}
+	Frame 350 {
+		Visibility 1
+		Position	59.3402	5.23059	0
+		Orientation	0 0 1 0
+	}
+-= Animation: repair, Node emit2 =-
+	Frame 460 {
+		Visibility 0
+		Position	14.5561	-44.0861	0
+		Orientation	0 0 -0.707107 0.707107
+	}
+	Frame 490 {
+		Visibility 0
+		Position	14.5561	-44.0861	0
+		Orientation	0 0 -0.707107 0.707107
+	}
+-= Animation: repair, Node emit2 =-
+	Frame 300 {
+		Visibility 0
+		Position	14.5561	-44.0861	0
+		Orientation	0 0 -0.707107 0.707107
+	}
+	Frame 350 {
+		Visibility 0
+		Position	14.5561	-44.0861	0
+		Orientation	0 0 -0.707107 0.707107
+	}
+-= Animation: repair, Node emit1 =-
+	Frame 460 {
+		Visibility 0
+		Position	11.5184	43.4731	-0.0209962
+		Orientation	0 0 0.707107 0.707107
+	}
+	Frame 490 {
+		Visibility 0
+		Position	11.5184	43.4731	-0.0209962
+		Orientation	0 0 0.707107 0.707107
+	}
+-= Animation: repair, Node emit1 =-
+	Frame 300 {
+		Visibility 0
+		Position	11.5184	43.4731	-0.0209962
+		Orientation	0 0 0.707107 0.707107
+	}
+	Frame 350 {
+		Visibility 0
+		Position	11.5184	43.4731	-0.0209962
+		Orientation	0 0 0.707107 0.707107
+	}
+-= Animation: repair, Node emit6 =-
+	Frame 460 {
+		Visibility 0
+		Position	-5.96297	-44.2817	0
+		Orientation	0 0 -0.707107 0.707107
+	}
+	Frame 490 {
+		Visibility 0
+		Position	-5.96297	-44.2817	0
+		Orientation	0 0 -0.707107 0.707107
+	}
+-= Animation: repair, Node emit6 =-
+	Frame 300 {
+		Visibility 0
+		Position	-5.96297	-44.2817	0
+		Orientation	0 0 -0.707107 0.707107
+	}
+	Frame 350 {
+		Visibility 0
+		Position	-5.96297	-44.2817	0
+		Orientation	0 0 -0.707107 0.707107
+	}
+-= Animation: repair, Node emit4 =-
+	Frame 460 {
+		Visibility 0
+		Position	-23.5994	43.2775	0
+		Orientation	0 0 0.707107 0.707107
+	}
+	Frame 490 {
+		Visibility 0
+		Position	-23.5994	43.2775	0
+		Orientation	0 0 0.707107 0.707107
+	}
+-= Animation: repair, Node emit4 =-
+	Frame 300 {
+		Visibility 0
+		Position	-23.5994	43.2775	0
+		Orientation	0 0 0.707107 0.707107
+	}
+	Frame 350 {
+		Visibility 0
+		Position	-23.5994	43.2775	0
+		Orientation	0 0 0.707107 0.707107
+	}
+-= Animation: repair, Node emit3 =-
+	Frame 460 {
+		Visibility 0
+		Position	-6.70654	43.2775	0.284057
+		Orientation	0 0 0.707107 0.707107
+	}
+	Frame 490 {
+		Visibility 0
+		Position	-6.70654	43.2775	0.284057
+		Orientation	0 0 0.707107 0.707107
+	}
+-= Animation: repair, Node emit3 =-
+	Frame 300 {
+		Visibility 0
+		Position	-6.70654	43.2775	0.284057
+		Orientation	0 0 0.707107 0.707107
+	}
+	Frame 350 {
+		Visibility 0
+		Position	-6.70654	43.2775	0.284057
+		Orientation	0 0 0.707107 0.707107
+	}
+-= Animation: repair, Node emit5 =-
+	Frame 460 {
+		Visibility 0
+		Position	-22.5246	-44.2817	0
+		Orientation	0 0 -0.707107 0.707107
+	}
+	Frame 490 {
+		Visibility 0
+		Position	-22.5246	-44.2817	0
+		Orientation	0 0 -0.707107 0.707107
+	}
+-= Animation: repair, Node emit5 =-
+	Frame 300 {
+		Visibility 0
+		Position	-22.5246	-44.2817	0
+		Orientation	0 0 -0.707107 0.707107
+	}
+	Frame 350 {
+		Visibility 0
+		Position	-22.5246	-44.2817	0
+		Orientation	0 0 -0.707107 0.707107
+	}

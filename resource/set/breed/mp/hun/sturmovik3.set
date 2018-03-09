@@ -54,6 +54,7 @@
         {item "smoke grenade" 2}
 		{item "panzerfaust weapon" filled}
 		{item "panzerfaust weapon" filled}
+		{item "panzerfaust weapon" filled}
 		{in_hands 0}
 	}
 }
