@@ -80,7 +80,6 @@
 			{item "ammo bullet88 apcr" 5}
 			{item "mg42" filled {user "mgun"}}
 			{item "ammo mgun" 650}
-			{item "Grenade_A" 30}
 		}
 	}
 	{Weaponry
@@ -112,11 +111,6 @@
 			{foresight "foresight5"}
 			("abm_mgun")
 			{basic}
-		}
-		{place "gun2"
-			{type "mgun_aa"}
-			{weapon "weapon GSlauncher_x1" filling "Grenade_A" 1}
-			{foresight "foresight2"}
 		}
 	}
 
