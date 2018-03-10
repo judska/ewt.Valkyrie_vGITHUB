@@ -99,9 +99,9 @@
 	{mass 7800}
 	
 	{bone "turret"
-		{speed 0.003}
+		{speed 0.007}
 	}
 	{bone "gun_rot"
-		{speed 0.003}
+		{speed 0.0010}
 	}
 }
