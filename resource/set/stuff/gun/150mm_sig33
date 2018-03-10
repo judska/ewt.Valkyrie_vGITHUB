@@ -11,7 +11,7 @@
 	{parameters "fg"	
 		{range 140 150}
 	}
-	("accuracy_lighthowitzer2")
+	("accuracy_lighthowitzer")
 	{bullet_view "shell_fg_150"
 	}
 	{gravity 9}
