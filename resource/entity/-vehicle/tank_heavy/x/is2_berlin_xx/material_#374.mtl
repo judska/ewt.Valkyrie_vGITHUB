@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/model/is2_berlin/is2_berlin_inside"}
+	{blend none}
+}

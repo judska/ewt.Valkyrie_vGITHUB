@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/is2_berlin/is2_berlin_body_xx"}
+	{bump "$/model/is2_berlin/is2_berlin_body_nm"}
+	{specular "$/model/is2_berlin/is2_berlin_body_gmm"}
+	{color "229 229 229 25"}
+	{blend test}
+}

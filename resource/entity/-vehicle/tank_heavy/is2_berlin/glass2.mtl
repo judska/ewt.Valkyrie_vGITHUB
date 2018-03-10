@@ -1,0 +1,6 @@
+{material envmap
+	{diffuse "$/model/is2_berlin/is2_berlin_gun_AM"}
+	{mask "$/model/is2_berlin/is2_berlin_gun_GMM"}
+	{envmap "$/environment/envmap_gold01"}
+	{blend none}
+}
