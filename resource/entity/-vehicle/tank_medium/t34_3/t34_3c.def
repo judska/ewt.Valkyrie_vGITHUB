@@ -107,8 +107,8 @@
 		{Locomotion ("locomotion")
 			{MaxSpeed	31}
 			{maxSpeedAtMaxTurn 13}
-			{StartTime 24}
-			{TurnTime 16}
+			{StartTime	 12}
+			{TurnTime	8.5}
 			{TurnStart  1.5} 
     		{BrakeTime  1.5}
      		{StopTime   2.5} 
@@ -135,7 +135,4 @@
 	{bone "turret"
 		{speed 0.01}
 	}
-	("turret_speed_medium")
-	("turret_speed_heavy")
-	("rus_2_sight")
 }

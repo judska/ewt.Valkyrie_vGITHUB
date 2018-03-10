@@ -332,7 +332,7 @@
 		{"hero9_ger1" "Das Reich!"}
 		{"hero10_ger" "PaK 43"}
 		{"hero11_ger" "Veteran Tiger"}
-		{"hero12_ger" "PzKpfw VI (H) Sla.16"}
+		{"hero12_ger" "Sturmtiger"}
 
 		{"hero1_jap" "AT-Riflegrenade Squad"}
 		{"hero2_jap1" "<c(ee852f)><e(shadow)>Kamikaze!</e></c>"}

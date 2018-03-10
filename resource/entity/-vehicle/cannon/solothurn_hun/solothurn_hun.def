@@ -45,7 +45,7 @@
 	(include "/properties/selection/cannon.inc"  scale(0.7))
 	
 	{bone "basis"
-	      {limits}
+	      {limits -75 75}
 	}
 	
 	{extender "cannon"

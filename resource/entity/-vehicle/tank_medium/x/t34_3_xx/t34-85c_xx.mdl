@@ -8,7 +8,6 @@
 			0	-1	0
 			0	0	1
 		}
-		{Extension "/properties/damage_components.ext"}
 		{bone "body"
 			{parameters "ID=body;"}
 			{Position 0	0	20.5126}

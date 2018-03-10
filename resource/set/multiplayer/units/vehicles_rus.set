@@ -83,5 +83,5 @@
 {"hero9_rus"        ("v1" c(600) c1(kv2) 	     t(all hero) s(rus) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 
 {"hero10_rus"       ("v1" c(600) c1(bm_8_24)	 t(all hero) s(rus) n1(tankman:1) n2(tankman2:1) g(h5) b(hero)) {level 15} {cost 5.0} {fore -0.5}}
-{"hero11_rus"       ("v2" c(600) c1(t34_1)       t(all hero) s(rus) n1(tankman:4) n2(smg6:4) g(h6) b(hero)) {level 20} {cost 5.0} {fore -0.5}}
+{"hero11_rus"       ("v2" c(1080) c1(is2_berlin) t(all hero) s(rus) n1(tankman:4) n2(smg6:4) g(h9) b(hero)) {level 20} {cost 9.0} {fore -0.5}}
 {"hero12_rus"  	    ("v1" c(1080) c1(203b4)      t(all hero) s(rus) n1(vehicle_supporter:2) n2(tankman2:0) g(h9) b(hero)) {level 1} {cost 9.0} {fore -0.5}}

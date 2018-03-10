@@ -28,7 +28,7 @@
 	
 	{Extension "browning_stan.mdl"}
 	{bone "turret" 
-		{limits -90 90}
+		{limits -75 75}
 	}
 
 	{Volume "body"

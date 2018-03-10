@@ -1,6 +1,7 @@
-                {"155gpf" "155 GPF mle.1917"}
+        {"155gpf" "155 GPF mle.1917"}
 		{"203b4" "203mm B-4M"}
 		{"20mm_u_boat" "AA gun"}
+		{"50_browning_m2hb" ".50cal M2HB"}
 		{"88mm_u_boat" "FlaK 41"}
 		{"achilles" "Achilles 1C"}
 		{"air-bag" "Boat"}
