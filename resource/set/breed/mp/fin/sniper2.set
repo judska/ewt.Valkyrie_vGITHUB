@@ -9,7 +9,7 @@
 		{head helmet_ger_m40_grass}
 	}
 	{perks
-		{"health" "350%"
+		{"health" "500%"
 		}
 		{"health_regeneration" "100%"
 		}
