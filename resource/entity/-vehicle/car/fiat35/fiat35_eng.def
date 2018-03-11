@@ -96,6 +96,7 @@
 			{item "dynamite" 5 {cell 2 8}}
 			{item "repair_kit" {cell 4 8}}
 		  	{item "mine_detector"}
+                        {item "barrel" 2 filling "fuel" 500 {cell 0 7}}
 		}
   	}
 	
