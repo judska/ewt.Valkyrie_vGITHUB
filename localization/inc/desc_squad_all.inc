@@ -323,7 +323,7 @@
 
 		{"hero1_ger" "<c(ee852f)><e(shadow)>Veteran Sniper</e></c>"}
 		{"hero2_ger1" "German Youth"}
-		{"hero3_ger" "Panzerjager 1"}
+		{"hero3_ger1" "Blitzkrieg!"}
 		{"hero4_ger" "<c(ee852f)><e(shadow)>Brandenburger</e></c>"}
 		{"hero5_ger1" "<c(ee852f)><e(shadow)>Otto Skorzeny</e></c>"}
                 {"hero5_ger" "Fallschirmjager"}
