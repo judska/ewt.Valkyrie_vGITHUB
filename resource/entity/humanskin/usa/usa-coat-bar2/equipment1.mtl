@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "usmc equipment"}
+	{blend none}
+}

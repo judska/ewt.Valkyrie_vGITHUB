@@ -157,6 +157,7 @@
 {"mp/eng/rifle3" ("rifle" side(eng))}
 {"mp/fin/rifle3" ("rifle" side(fin))}
 {"mp/ita/rifle3" ("rifle" side(ita))}
+{"mp/ger/rifle3" ("rifle" side(ger))}
 
 {"mp/ita/rifle4" ("rifle" side(ita))}
 
@@ -223,6 +224,7 @@
 {"mp/anz/smg3" ("smg" side(anz))}
 
 {"mp/eng/smg4" ("smg" side(eng))}
+{"mp/ger/smg4" ("smg" side(ger))}
 {"mp/fin/smg4" ("smg" side(fin))}
 {"mp/ita/smg4" ("smg" side(ita))}
 {"mp/chn/smg4" ("smg" side(chn))}
@@ -729,6 +731,8 @@
 {"mp/ger/sturmovik10" ("sturmovik_lowcp" side(ger))}
 
 {"mp/ger/sturmovik11" ("sturmovik_lowcp" side(ger))}
+
+{"mp/ger/sturmovik12" ("sturmovik_lowcp" side(ger))}
 
 
 
