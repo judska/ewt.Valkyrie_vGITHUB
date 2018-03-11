@@ -8,7 +8,7 @@
 		{head cap_ger_off_ss}
 	}
 	{perks
-		{"health" "450%"
+		{"health" "500%"
 		}
 		{"health_regeneration" "100%"
 		}
