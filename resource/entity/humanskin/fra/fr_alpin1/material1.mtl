@@ -1,4 +1,0 @@
-{material simple
-	{diffuse "rom_shooter"}
-	{blend none}
-}

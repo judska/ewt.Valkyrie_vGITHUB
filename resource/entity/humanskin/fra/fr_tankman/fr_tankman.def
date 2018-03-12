@@ -1,5 +1,0 @@
-{Game_Entity
-	{Extension "eng_crew_hp.mdl"}
-	{tag "eng tankman"}
-	{RimLight}
-}

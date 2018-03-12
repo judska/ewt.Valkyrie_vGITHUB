@@ -1,5 +1,0 @@
-{game_entity
-	{Extension "rus_flamer.mdl"}
-	{tag "rus soldier"}
-	{RimLight}
-}

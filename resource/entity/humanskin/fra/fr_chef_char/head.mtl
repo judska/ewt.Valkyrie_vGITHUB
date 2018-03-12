@@ -1,5 +1,0 @@
-{material bump
-	{diffuse "$/humanskin/rus_head_pilot"}
-	{bump "$/humanskin/rus_head_pilot_nm"}
-	{blend none}
-}
