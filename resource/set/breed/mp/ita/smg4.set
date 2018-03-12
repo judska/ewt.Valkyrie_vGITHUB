@@ -5,7 +5,7 @@
 	{icon_priority 0}
 	{nationality ita}
 	{armors
-		{head cap_ita_alpini}
+		{head cap_ita_carabinieri}
 	}
 	{perks
 		{"health" "150%"

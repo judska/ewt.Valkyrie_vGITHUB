@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "carabinieri hat"}
+	{blend none}
+}

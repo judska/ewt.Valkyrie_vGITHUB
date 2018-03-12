@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "$/humanskin/italian/coat mvsn"}
+	{blend none}
+}

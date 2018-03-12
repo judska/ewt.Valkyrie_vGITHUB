@@ -1,0 +1,52 @@
+;Exported by: Kalinski
+;Date:        Thu Oct 12 19:28:03 2017
+;File:        C:\Users\Kalinski\Desktop\modshit\ita\carabinieri hat exp.max
+{Skeleton
+	{bone "cap_ita_carabinieri"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "cap_ita_carabinieri.ply"}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "cap_ita_carabinieri"}
+	{Position 0	6.15179	0}
+}
+{Volume "select"
+	{Box 5.59662 5.08766 5.14459}
+	{Bone "cap_ita_carabinieri"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		0.37543	0.260123	3.58528
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 8.27949	-5.82856	4.26858}
+			{lookat -1.45841	0.201744	4.20627}
+			{fov 45}
+			{horizon -0.239031}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.393186	0.289536	-0.107581}
+			}
+			{"1"
+				{type point}
+				{position 1.3762	-2.3209	3.85514}
+			}
+			{"2"
+				{type point}
+				{position 2.83572	-1.25747	3.08308}
+			}
+		}
+	}
+}

@@ -5,7 +5,7 @@
 	{icon_priority 5}
 	{nationality ita}
 	{armors
-		{head ita_fieldcap_sscam}
+		{head cap_ita_bustina}
 	}
 	{tags "sniper"}
 	{perks
