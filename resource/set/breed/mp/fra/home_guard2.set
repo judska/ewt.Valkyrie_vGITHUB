@@ -1,11 +1,11 @@
 {breed
-	{skin "fr_civil"}
+	{skin "fra-partisan2"}
 	{portrait "fra_soldier1"}
 	{nationality fra}
 	{icon "home_guard"}
 	{icon_priority 0}
 	{armors
-		{head hat1}
+		
 	}
 	{perks
 		{"health" "100%"

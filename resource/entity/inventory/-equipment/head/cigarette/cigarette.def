@@ -1,0 +1,8 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{props "mask"} 
+	{extender "stuff"
+		{item "cigarette"}
+	}
+	{Extension "cigarette.mdl"}
+}

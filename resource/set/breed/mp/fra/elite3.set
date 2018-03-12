@@ -1,11 +1,11 @@
 {breed
-	{skin "fr_legionnaire2"}
+	{skin "fra-chasseur-rfl"}
      	{portrait "fra_elite3"}
 	{nationality fr}
 	{icon "fra_elite3"}
 	{icon_priority 4}
 	{armors
-		{head helmet2_fr}
+		{head cap_fra_kepi_legion}
 	}
 	{perks
 		{"health" "250%"

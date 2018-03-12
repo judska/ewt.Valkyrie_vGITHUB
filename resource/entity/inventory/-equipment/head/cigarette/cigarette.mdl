@@ -1,0 +1,52 @@
+;Exported by: Kalinski
+;Date:        Mon May 29 21:55:41 2017
+;File:        C:\Users\Kalinski\Desktop\cigarette\cigarette fin.max
+{Skeleton
+	{bone "cigarette"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "cigarette.ply"}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "cigarette"}
+	{Position 0.703094	0.124126	3.3988}
+}
+{Volume "select"
+	{Box 3.58184 3.66311 2.16073}
+	{Bone "cigarette"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		3.03819	-0.186323	0.957943
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 4.29237	-1.2067	0.854564}
+			{lookat 3.06387	0.373275	0.792247}
+			{fov 45}
+			{horizon -0.239848}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.349378	0.323303	-0.153005}
+			}
+			{"1"
+				{type point}
+				{position 4.33826	0.280031	0.79915}
+			}
+			{"2"
+				{type point}
+				{position 2.46659	-1.01903	1.09558}
+			}
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "sunglasses"}
+	{specular "sunglasses sp"}
+	{color "229 229 229 152"}
+	{blend test}
+}

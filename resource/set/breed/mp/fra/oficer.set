@@ -1,11 +1,11 @@
 {breed
-	{skin "fr_oficer"}
+	{skin "fra-hussar-officer"}
 	{portrait "fra_oficer"}
      	{nationality fra}
 	{icon "oficer"}
 	{icon_priority 6}
 	{armors
-		{head cap_fra}
+		{head cap_fra_kepi_officer_legion}
 	}
 	{perks
 		{"health" "250%"

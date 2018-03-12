@@ -1,11 +1,11 @@
 {breed
-	{skin "fr_resist_2"}
+	{skin "fra-motorcyclist"}
 	{portrait "fra_soldier4"}
 	{icon "sniper"}
 	{icon_priority 1}
 	{nationality fr}
 	{armors
-		{head "hat1"}
+		{head "cap_fra_sidecap"}
 	}
 	{tags "sniper"}
 	{perks

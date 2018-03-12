@@ -1,11 +1,11 @@
 {breed
-	{skin "usa-marine-sgt"}
+	{skin "usa-marine2-bar"}
 	{portrait "usa_elite2"}
 	{nationality usa}
 	{icon "elite4"}
 	{icon_priority 3}
 	{armors
-		{head helmet_marine_usa}
+		{head helmet_usa_marine_2}
 	}
 	{perks
 		{"health" "250%"

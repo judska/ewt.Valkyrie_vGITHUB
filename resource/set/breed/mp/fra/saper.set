@@ -1,11 +1,11 @@
 {breed
-	{skin "fr_saper"}
+	{skin "fra-inf-rfl"}
 	{portrait "fra_soldier2"}
       	{nationality fra}
 	{icon "saper"}
 	{icon_priority 3}
 	{armors
-		{head "helmet1_fr"}
+		{head "helmet_fra_m26"}
 	}
 	{perks
 		{"health" "250%"

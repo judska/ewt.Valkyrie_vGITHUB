@@ -1,11 +1,11 @@
 {breed
-	{skin "eng_sniper"}
+	{skin "eng-scout-sgt"}
 	{portrait "eng_soldier5"}
 	{nationality eng}
 	{icon "scout"}
 	{icon_priority 5}
 	{armors
-		{head beret_eng}
+		{head cap_fra_beret_commando}
 	}
 	{perks
 		{"health" "500%"

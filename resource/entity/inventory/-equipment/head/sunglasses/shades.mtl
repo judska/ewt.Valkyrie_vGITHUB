@@ -1,0 +1,6 @@
+{material envmap
+ {diffuse "sunglasses"}
+ {mask "shades"}
+ {envmap "$/environment/envmap_town_day02"}
+ {blend blend}
+}

@@ -1,0 +1,11 @@
+{item
+	{desc "Cigarette"}
+	{tag "itemin1hand keepEntity mask"}
+	{entity "cigarette"}
+	{inventory
+		{size 1 1}
+		{link_bone "head"}
+		{fsm "stuff"}
+	}
+               {mass 0.001}
+}

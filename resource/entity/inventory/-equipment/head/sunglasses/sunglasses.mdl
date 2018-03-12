@@ -1,0 +1,52 @@
+;Exported by: Kalinski
+;Date:        Sat Feb 17 01:43:59 2018
+;File:        C:\Users\Kalinski\Desktop\rus reduxo\sunglasses exp.max
+{Skeleton
+	{bone "sunglasses"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "sunglasses.ply"}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "sunglasses"}
+	{Position 0.703094	0.124126	3.3988}
+}
+{Volume "select"
+	{Box 4.3094 3.86662 2.00639}
+	{Bone "sunglasses"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		0.919993	0.260123	2.16988
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 5.28865	-1.91625	2.52215}
+			{lookat 0.928945	-0.127644	2.45983}
+			{fov 45}
+			{horizon -0.239031}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.494931	-0.0315308	-0.0636343}
+			}
+			{"1"
+				{type point}
+				{position 3.24597	0.0842484	2.39406}
+			}
+			{"2"
+				{type point}
+				{position 2.83351	-1.84656	2.25178}
+			}
+		}
+	}
+}

@@ -1,0 +1,58 @@
+;Exported by: Kalinski
+;Date:        Wed Nov 09 03:04:28 2016
+;File:        C:\Users\Kalinski\Desktop\German scientist 2\glas.max
+{Skeleton
+	{bone "glasses"
+		{Matrix34
+			1	0	0
+			0	-1	0
+			0	0	1
+                        0	0	0.2
+		}
+		{VolumeView "glasses.ply"}
+	}
+}
+{Volume "body"
+	{Box 3.65291 3.3655 1.02851}
+	{Bone "glasses"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		1.05468	0.09811	2.05323
+	}
+}
+{Volume "select"
+	{Box 5.59662 5.08766 5.14459}
+	{Bone "glasses"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		1.05468	0.260123	2.34829
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 6.9744	-3.06781	2.29969}
+			{lookat 1.29437	0.377072	1.8731}
+			{fov 45}
+			{horizon -0.239031}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.452231	0.210145	-0.0364193}
+			}
+			{"1"
+				{type point}
+				{position 1.64287	-1.6034	2.53304}
+			}
+			{"2"
+				{type point}
+				{position 2.55445	-0.350393	2.73205}
+			}
+		}
+	}
+}

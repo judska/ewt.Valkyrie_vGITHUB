@@ -1,0 +1,52 @@
+;Exported by: Kalinski
+;Date:        Fri Nov 11 07:26:40 2016
+;File:        C:\Users\Kalinski\Desktop\auschwitz\cap_fin.max
+{Skeleton
+	{bone "cap_prisoner"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "cap_prisoner.ply"}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "cap_prisoner"}
+	{Position 0	6.15179	0}
+}
+{Volume "select"
+	{Box 5.59662 5.08766 2.41796}
+	{Bone "cap_prisoner"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		0.618785	0.260123	3.72906
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 6.0753	-5.1422	3.67233}
+			{lookat 0.786602	-0.160866	3.58015}
+			{fov 45}
+			{horizon -0.239031}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.337911	0.323351	-0.176807}
+			}
+			{"1"
+				{type point}
+				{position 0.00770935	-2.16419	3.24513}
+			}
+			{"2"
+				{type point}
+				{position 2.78598	0.665152	3.47408}
+			}
+		}
+	}
+}

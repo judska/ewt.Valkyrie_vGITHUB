@@ -1,11 +1,11 @@
 {breed
-	{skin "fr_alpin2"}
+	{skin "fra-en-commando"}
 	{portrait "fra_elite4"}
       	{nationality fra}
 	{icon "fra_elite4"}
 	{icon_priority 0}
 	{armors
-		{head tarte}
+		{head cap_fra_beret_commando}
 	}
 	{perks
 		{"health" "350%"

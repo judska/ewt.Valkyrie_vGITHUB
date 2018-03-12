@@ -1,11 +1,11 @@
 {breed
-	{skin "fra_art"}
+	{skin "fra-inf-rfl"}
 	{portrait "fra_soldier2"}
 	{nationality fra}
 	{icon "smg"}
 	{icon_priority 1}
 	{armors
-		{head "tankhelmet_fr"}
+		{head "helmet_fra_m26"}
 	}
 	{perks
 		{"health" "150%"

@@ -1,11 +1,11 @@
 {breed
-	{skin "fr_medic"}
+	{skin "fra-inf-rfl"}
 	{portrait "fra_medic"}
       	{nationality fra}
 	{icon "medics"}
 	{icon_priority 5}
 	{armors
-		{head "helmet3_fr"}
+		{head "helmet_fra_m26"}
 	}
 	{perks
 		{"health" "150%"

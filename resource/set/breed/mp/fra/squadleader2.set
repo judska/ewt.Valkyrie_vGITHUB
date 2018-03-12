@@ -1,11 +1,11 @@
 {breed
-	{skin "fr_leader"}
+	{skin "fra-inf-officer"}
 	{portrait "fra_squadleader"}
       	{nationality fra}
 	{icon "squadleader"}
 	{icon_priority 2}
 	{armors
-		{head "cap_fra1"}
+		{head "cap_fra_kepi_officer_hussars"}
 	}
 	{perks
 		{"health" "200%"

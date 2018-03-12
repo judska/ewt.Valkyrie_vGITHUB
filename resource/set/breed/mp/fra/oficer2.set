@@ -1,11 +1,11 @@
 {breed
-	{skin "fr_com"}
+	{skin "fra-inf-officer"}
 	{portrait "fra_oficer"}
      	{nationality fra}
 	{icon "oficer"}
 	{icon_priority 6}
 	{armors
-		{head "cap_fr"}
+		{head "cap_fra_kepi_officer_legion"}
 	}
 	{perks
 		{"health" "100%"

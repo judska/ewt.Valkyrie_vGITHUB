@@ -1,11 +1,11 @@
 {breed
-	{skin "pol_black_br_mgun"}
+	{skin "pol-inf-lmg"}
 	{portrait "pol_elite1"}
       	{nationality pol}
 	{icon "elite1"}
 	{icon_priority 1}
 	{armors
-		{head "pol_helmet_wz31"}
+		{head "helmet_pol_wz16"}
 	}
 	{perks
 		{"health" "350%"
