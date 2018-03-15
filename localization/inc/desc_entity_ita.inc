@@ -70,6 +70,8 @@
 		{"kv1b" "PzKpfw KV-1B 756(r)"}
 		{"3ro" "Lancia 3 Ro Cannone da 90/53"}
 		{"m7546" "Semovente da 75/46"}
+                {"autocannone10017" "Autocannone 100/17"}
+                {"c50cma" "Ceirano 7.5"}
 		
 
 

@@ -419,7 +419,9 @@
         {"hero4_ita" "45mm Brixia Modello 35"}
         {"hero5_ita" "<c(ee852f)><e(shadow)>ARMIR</e></c>"}
         {"hero6_ita" "PzKpfw KV-1B 756(r)"}
+        {"hero6_ita1" "Ceirano 7.5"}
         {"hero7_ita" "PzKpfw III Ausf.N"}
+        {"hero7_ita1" "Autocannone"}
         {"hero8_ita" "Radio Operator"}
         {"hero9_ita" "Semovente M43 da 105/25"}
         {"hero10_ita" "Afrika Korps"}
