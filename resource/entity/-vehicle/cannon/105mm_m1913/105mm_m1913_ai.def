@@ -1,6 +1,6 @@
 {game_entity
 	(include "/properties/cannon.ext")
-	{props "vehicle" "cannon" "wheeled" "round_sandbag2" "vision_cannon_high" "muzzle_large"}
+	{props "vehicle" "cannon" "wheeled" "round_sandbag2" "vision_cannon_high" "muzzle_large" "howitzer"}
 	
 	("armor_medium" args 1.1)
 
@@ -49,15 +49,16 @@
 
 	{extender "inventory"
 		{box
-			{item "bullet105 fg" 30}
+			{item "bullet105_fra fg" 30}
+			{item "sandbag_kit2"}
 		}
 	}
 	{Weaponry
 		{place "gun"
-			{weapon "105mm_l13s" filling "bullet105 fg" 8}
+			{weapon "105mm_l13s" filling "bullet105_fra fg" 1}
 			{Rotate}
 			("abm_howitzer")
-			
+			{StationaryFiring}
 		}
 	}
 	{mass 1100}
