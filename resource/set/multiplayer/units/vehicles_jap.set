@@ -28,7 +28,7 @@
 
 {"ho-ni2"           ("v" c(0) t(all artillery) 			s(jap) n1(2) n2(1) g(10) sc(550.00) b(v2) cw(0) cp(14)) {level 12} {cost 550} {fore 1.0}}
 {"ho-ro"            ("v" c(0) t(all artillery heavyart) s(jap) n1(2) n2(1) g(11) sc(750.00) b(v2) cw(0) cp(14)) {level 15}  {cost 750} {fore 1.0}}
-{"ha-to"            ("vs" c(0) t(all artillery heavyart) 	s(jap) n(5) g(12) sc(1150.00) b(v2) cw(0) cp(7.5)) {level 18} {cost 1150} {fore 1.0}}
+{"ha-to"            ("vs" c(0) t(all artillery heavyart) 	s(jap) n(5) g(12) sc(1350.00) b(v2) cw(0) cp(7.5)) {level 18} {cost 1150} {fore 1.0}}
 
 
 ;°°°Button 3°°°
