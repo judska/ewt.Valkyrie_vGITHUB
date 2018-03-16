@@ -15,7 +15,7 @@
 		}
 	}
 	{aimRange 130}
-	{maxRange 130}
+	{maxRange 140}
 	{rechargeTime 10}
 	{gravity 6}
 	{ZeroingAccuracy 0.95 0.9 0.85}
