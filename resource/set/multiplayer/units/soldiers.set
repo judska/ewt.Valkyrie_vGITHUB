@@ -178,6 +178,7 @@
 {"mp/chn/rifle4" ("rifle_lowcp" side(chn))}
 {"mp/hun/rifle4" ("rifle_lowcp" side(hun))}
 
+{"mp/chn/rifle5" ("rifle_lowcp" side(chn))}
 
 (define "smg"
     {tags   "smg %side infantry man"}
@@ -247,6 +248,7 @@
 
 {"mp/chn/smg6" ("smg_lowcp" side(chn))}
 
+{"mp/chn/smg7" ("smg_lowcp" side(chn))}
 
 (define "squadleader"
     {tags   "smg %side infantry man"}
@@ -868,6 +870,17 @@
 )
 {"mp/fra/oficer2" ("oficer2" side(fra))}
 
+
+(define "oficer3"
+    {tags   "oficer %side spec infantry man"}
+    {cp     -15.0}
+    {score  460.00}
+    {basic}
+    {breed}
+    {cw 10.0}
+)
+
+{"mp/chn/oficer3" ("oficer3" side(chn))}
 
 
 (define "bazooker"

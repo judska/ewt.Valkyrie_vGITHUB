@@ -432,14 +432,15 @@
         {"hero2_chn" "PzKpfw I Ausf.B"}
         {"hero3_chn" "Willys AT"}
         {"hero4_chn" "Guerilla Uprising"}
+        {"hero4_chn1" "Red Squadron"}
         {"hero5_chn" "<c(ee852f)><e(shadow)>Korean Rebels</e></c>"}
         {"hero6_chn" "SU-12"}
         {"hero7_chn" "Burma Road Soliders"}
         {"hero8_chn" "122mm A-19"}
         {"hero9_chn" "Radio Operator"}
-        {"hero10_chn" "United Chinese Front"}
+        {"hero10_chn" "United Front"}
         {"hero11_chn" "Foreign Aid"}
-        {"hero12_chn" "WZ-111"}
+        
 
         {"hero1_anz" "Boyes .55 carrier"}
         {"hero2_anz" "Volunteer Rifles"}
