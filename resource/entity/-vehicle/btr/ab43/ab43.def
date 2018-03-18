@@ -94,12 +94,12 @@
 	{mass 8130}
 	{Chassis
 		{Locomotion ("locomotion")
-			{MaxSpeed	41}
-	  		{maxSpeedAtMaxTurn 15}		
+			{MaxSpeed	48}
+	  		{maxSpeedAtMaxTurn 25}		
 			{StartTime	11}
 			{BrakeTime	1.5}	
 			{StopTime	3}
-			{TurnRadius	5}
+			{TurnRadius	3}
 		}
 		{FuelBag
 			{volume 110}
@@ -115,7 +115,7 @@
 	}
 	{Extension "ab43.mdl"}
 	{bone "turret"
-		{speed 0.007}
+		{speed 0.010}
 	}
 	{bone "gun_rot"
 		{speed 0.003}

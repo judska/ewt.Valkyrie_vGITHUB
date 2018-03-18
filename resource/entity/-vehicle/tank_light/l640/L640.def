@@ -85,6 +85,6 @@
 		{speed 0.007}
 	}
 	{bone "turret"
-		{speed 0.003}
+		{speed 0.010}
 	}
 }

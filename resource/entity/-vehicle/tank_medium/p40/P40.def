@@ -63,17 +63,17 @@
 	{Chassis
 		("tank_trace" fx("tracks_mid") step(0.52) len(0.7))
 		{Locomotion ("locomotion")
-			{MaxSpeed	 28}
-			{maxSpeedAtMaxTurn 12}
+			{MaxSpeed	 30}
+			{maxSpeedAtMaxTurn 15}
 			{StartTime	  14}
-			{TurnTime  	  8}
+			{TurnTime  	  6}
     		{TurnStart   1.7} 
     		{BrakeTime    1} 
     		{StopTime     2} 
-    		{TurnRadius   9} 
+    		{TurnRadius  6} 
     		{TurnStop   0.9}
-     		{Gears  0.05 0.1 0.25 0.625} 
-    		{RearGears 0.05 0.17}
+     		{Gears  0.2 0.4 1.0}
+     		{RearGears 0.1 0.45}
 		}
 		(mod "mp"
 			{FuelBag

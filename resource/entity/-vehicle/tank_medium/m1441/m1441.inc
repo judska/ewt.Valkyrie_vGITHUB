@@ -90,16 +90,16 @@
 				(mod "mp"
 					{maxspeed   27}
 				)
-			{maxSpeedAtMaxTurn 12}
+			{maxSpeedAtMaxTurn 20}
 			{StartTime 	 13}
-			{TurnTime  	 7}
+			{TurnTime  	 6}
     		{TurnStart 1.4}
-     		{BrakeTime   1} 
+     		{BrakeTime   1.5} 
     		{StopTime    2}
      		{TurnRadius  8} 
     		{TurnStop   0.7}
-     		{Gears  0.1 0.25 0.5}
-     		{RearGears 0.17}
+     		{Gears  0.2 0.4 1.0}
+     		{RearGears 0.1 0.45}
 		}
 		(mod "mp"
 			{FuelBag
@@ -109,13 +109,13 @@
 				{fuel "fuel"}
 			}
 		    {speed
-        		{Normal  10}
+        		{Normal  12}
     		}
 		)
 	}
 	{Extension "m1441.mdl"}
 	{bone "turret"
-		 {speed 0.007}
+		 {speed 0.010}
 	}
 	{bone "gun_rot"
 		 {speed 0.002}

@@ -69,13 +69,13 @@
 			{maxSpeedAtMaxTurn 12}
 			{StartTime	14}
 			{TurnStart	1.6}
-			{TurnTime	8}
+			{TurnTime	6}
     		{StopTime   2} 
-    		{TurnRadius 9} 
+    		{TurnRadius 6} 
     		{TurnStop   0.8}
     		{BrakeTime  1.5} 
-     		{Gears  0.1 0.25 0.625}
-     		{RearGears  0.17}
+     		{Gears  0.2 0.4 1.0}
+     		{RearGears 0.1 0.45}
 		}
 		{FuelBag
 			{volume 310 }	
