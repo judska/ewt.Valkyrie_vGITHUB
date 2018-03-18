@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "$/model/skr/wood_wheel"}
+	{bump "$/model/skr/wood_wheel_bp"}
+	{blend none}
+}

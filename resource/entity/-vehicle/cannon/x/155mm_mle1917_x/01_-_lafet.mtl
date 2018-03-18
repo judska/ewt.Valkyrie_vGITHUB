@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/model/skr/main_x"}
+	{bump "$/model/skr/main_bp"}
+	{specular "$/model/skr/main_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

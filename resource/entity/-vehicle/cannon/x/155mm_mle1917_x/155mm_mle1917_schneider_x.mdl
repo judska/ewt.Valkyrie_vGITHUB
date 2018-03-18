@@ -1,0 +1,218 @@
+;Exported by: Sergey
+;Date:        Sun Dec 07 11:17:46 2014
+;File:        C:\Users\Sergey\Documents\3dsmax\scenes\_Artillery\Canon de 155 C mle 1917 Schneider\Canon de 155 C mle 1917 Schneider_x.max
+{Skeleton
+	{animation
+		{sequence "close" {speed 0.1}}
+		{sequence "recoil" {speed 0.4}}
+	}
+	{bone revolute "basis"
+		{speed 0.007}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "body"
+			{parameters "ID=body;"}
+			{Position 0.0942955	0.280909	15.027}
+			{VolumeView "body.ply"}
+			{bone "pivot_front"
+				{Position -0.251556	-0.293107	-3.15065}
+				{VolumeView "pivot_front.ply"}
+				{bone revolute "wheelr"
+					{parameters "ID=wheelright;Radius=0.61;support=1;"}
+					{Matrix34
+						-1	0	0
+						0	0	1
+						0	1	0
+						0.0586474	-15.2562	0.0650873
+					}
+					{VolumeView "wheelr.ply"}
+				}
+				{bone revolute "wheell"
+					{parameters "ID=wheelleft;Radius=0.61;support=1;"}
+					{Matrix34
+						-1	0	0
+						0	0	1
+						0	-1	0
+						0.0586472	14.0005	0.0650864
+					}
+					{VolumeView "wheell.ply"}
+				}
+				{bone revolute "turret"
+					{parameters "ID=body;"}
+					{limits -3 3}
+					{speed 0.001}
+					{Position 0.0180511	0.0121775	0.00481796}
+					{VolumeView "turret.ply"}
+					{bone "shield"
+						{parameters "ID=shield;"}
+						{Matrix34
+							0	1	0
+							0	0	1
+							1	0	0
+							13.8488	0.136124	13.6996
+						}
+						{VolumeView "shield.ply"}
+						{bone revolute "covershield"
+							{Matrix34
+								-0.439881	0.365645	0.820249
+								0.898056	0.179098	0.40177
+								0	0.913361	-0.407152
+								10.834	2.42107	-8.89942
+							}
+							{VolumeView "covershield.ply"}
+						}
+						{bone "detail2"
+							{Matrix34
+								1	0	0
+								0	0.918183	-0.396155
+								0	0.396155	0.918184
+								-8.12671	-6.47879	-1.80902
+							}
+							{VolumeView "detail2.ply"}
+						}
+						{bone "detail1"
+							{Matrix34
+								-1	0	0
+								0	0.916004	-0.401168
+								0	-0.401168	-0.916004
+								-13.7094	7.33911	-11.2884
+							}
+							{VolumeView "detail1.ply"}
+						}
+					}
+					{bone revolute "gun_rot"
+						{parameters "ID=gun_rot;"}
+						{animation
+							{sequence "break" {file "gunrot_b.anm"} {speed 0.6}}
+						}
+						{limits 0 42}
+						{speed 0.003}
+						{Matrix34
+							1	0	0
+							0	0	1
+							0	-1	0
+							-1.08058	0.00582115	13.2714
+						}
+						{VolumeView "gun_rot.ply"}
+						{bone "gun"
+							{parameters "ID=gun;"}
+							{Matrix34
+								1	0	0
+								0	0	-1
+								0	1	0
+								10.558	0.70595	0.00580215
+							}
+							{VolumeView "gun.ply"}
+						}
+						{bone "pricel"
+							{Matrix34
+								-1	0	0
+								0	1	0
+								0	0	-1
+								0.00209999	0.00219536	-8.54527
+							}
+							{VolumeView "pricel.ply"}
+						}
+					}
+					{bone revolute "soshnik"
+						{Matrix34
+							-0.682452	0	-0.73093
+							-0.73093	0	0.682452
+							0	1	0
+							-82.6387	1.14365	-8.005
+						}
+						{VolumeView "soshnik.ply"}
+					}
+					{bone revolute "stoporl"
+						{Matrix34
+							-1	0	0
+							0	0	1
+							0	1	0
+							-26.5826	4.97742	2.01154
+						}
+						{VolumeView "stoporl.ply"}
+					}
+					{bone revolute "stoporr"
+						{Matrix34
+							-1	0	0
+							0	0	1
+							0	-1	0
+							-26.5826	-4.94891	2.01153
+						}
+						{VolumeView "stoporr.ply"}
+					}
+					{bone "detail3"
+						{Matrix34
+							-0.991037	0.0338063	-0.129243
+							-0.0306909	-0.99919	-0.0260229
+							-0.130018	-0.021823	0.991271
+							-28.9772	6.13305	-2.60859
+						}
+						{VolumeView "detail3.ply"}
+					}
+					{bone "detail4"
+						{Matrix34
+							-0.989423	0.00554166	-0.144951
+							-0.145056	-0.0414844	0.988553
+							-0.000534969	0.999124	0.0418495
+							-23.9632	-5.61234	-3.73939
+						}
+					}
+				}
+			}
+		}
+		{bone "peredok"
+			{parameters "ID=perdok;"}
+			{Position -110.068	0.0241304	13.861}
+			{VolumeView "peredok.ply"}
+			{bone revolute "wheelr1"
+				{parameters "ID=wheelright;Radius=0.61;support=1;"}
+				{Matrix34
+					-1	0	0
+					0	0	1
+					0	1	0
+					-5.47385	-15.1881	-1.72313
+				}
+				{VolumeView "wheelr1.ply"}
+				{bone "fxtracer2"
+					{Matrix34
+						0	0	1
+						0	1	0
+						-1	0	0
+						-0.0829468	-11.9414	0.112227
+					}
+				}
+			}
+			{bone revolute "wheell1"
+				{parameters "ID=wheelleft;Radius=0.61;support=1;"}
+				{Matrix34
+					-1	0	0
+					0	0	1
+					0	-1	0
+					-5.52205	13.5303	-1.85774
+				}
+				{VolumeView "wheell1.ply"}
+				{bone "fxtracel2"
+					{Matrix34
+						0	0	-1
+						0	1	0
+						-1	0	0
+						-0.0542984	-11.9415	-1.18169
+					}
+				}
+			}
+			{bone revolute "upor"
+				{Matrix34
+					1	0	0
+					0	0	1
+					0	-1	0
+					-45.2485	-0.0240756	-2.13234
+				}
+				{VolumeView "upor.ply"}
+			}
+		}
+	}
+}
