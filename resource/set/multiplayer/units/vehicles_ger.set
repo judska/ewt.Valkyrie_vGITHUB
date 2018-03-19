@@ -63,9 +63,10 @@
 {"stug3g"           ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f2) sc(550.00) b(v5) cw(0) cp(10)) {level 1} {cost 550} {fore 1.0}}
 
 {"stug4g"           ("v" c(0) t(all medium) 	s(ger) n1(3) n2(1) g(f2) sc(570.00) b(v5) cw(0) cp(10)) {level 1} {cost 570} {fore 1.0}}
-{"jagdpziv_70"      ("v" c(0) t(all heavy)		s(ger) n1(3) n2(1) g(f3) sc(900.00) b(v5) cw(0) cp(10)) {level 1} {cost 900} {fore 1.0}} 				
+{"sdkfz8_flak"      ("v" c(0) t(all heavy)		s(ger) n1(3) n2(1) g(f3) sc(800.00) b(v5) cw(0) cp(10)) {level 1} {cost 800} {fore 1.0}} 
+{"jagdpziv_70"      ("v" c(0) t(all heavy)		s(ger) n1(3) n2(1) g(f3) sc(900.00) b(v5) cw(0) cp(10)) {level 1} {cost 900} {fore 1.0}} 
+				
 {"nashorn"          ("v" c(0) t(all heavy) 	    s(ger) n1(3) n2(1) g(f4) sc(950.00) b(v5) cw(0) cp(10)) {level 1} {cost 950} {fore 1.0}}  			
-
 {"jagdpanther"      ("v" c(0) t(all heavy) 		s(ger) n1(3) n2(1) g(f5) sc(1550.00) b(v5) cw(0) cp(20)) {level 1} {cost 1550} {fore 1.0}} 	
 {"jagdtiger"        ("v" c(0) t(all sheavy) 	s(ger) n1(3) n2(1) g(f7) sc(1900.00) b(v5) cw(0) cp(25)) {level 1} {cost 1900} {fore 1.0}} 	
 
