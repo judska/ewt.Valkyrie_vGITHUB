@@ -51,8 +51,9 @@
                 {"marder139" "The Marder III is the name for a series of World War II German tank destroyers built on the chassis of the Panzer 38(t)."}
                 {"zrinyi1" "Zrinyi was a Hungarian assault gun of the World War II period.The 44M Zrinyi I, incorporated a long 43M 75 mm gun."}
                 {"zrinyi1" "Zrinyi was a Hungarian assault gun of the World War II period.The 44M Zrinyi I, incorporated a long 43M 75 mm gun."}
-
-
+		{"mercedes_hun" "This is an ammo truck where you will find infantry ammo, grenades and mortar shells."}
+		{"mg13_stan" "A heavy MG designed to suppress enemies or mow down oncoming attacks."}
+		{"13mm_hotchkiss_hun" "This machine gun fires large-caliber 13mm rounds, easily capable of kiling infantry, and is also capable of killing some light vehicles."}
 
 
 
