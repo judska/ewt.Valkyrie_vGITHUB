@@ -109,6 +109,12 @@
     {content "%c1 ( mp/%s/%n1 mp/%s/%n2 mp/%s/%n3 mp/%s/%n4 ) %c2 ( mp/%s/%n1 mp/%s/%n2 mp/%s/%n3 mp/%s/%n4 )"}
 )
 
+; 2 vehicles - 4 infantry types
+(define "24v1"
+    ("generic_h" c(%c) t(%t %s) g(%g) b(%b))
+    {content "%c1 ( mp/%s/%n1 mp/%s/%n2 mp/%s/%n3 mp/%s/%n4 ) %c2 ( mp/%s/%n1 )"}
+)
+
 ; 1 vehicle - 2 infantry types
 (define "v1"
     ("generic_h" c(%c) t(%t %s) g(%g) b(%b))

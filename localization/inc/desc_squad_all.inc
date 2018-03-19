@@ -323,9 +323,8 @@
 
 		{"hero1_ger" "<c(ee852f)><e(shadow)>Veteran Sniper</e></c>"}
 		{"hero2_ger1" "German Youth"}
-		{"hero3_ger1" "Flammpanzerwagen"}
+		{"hero3_ger" "Panzerjaeger"}
 		{"hero4_ger" "<c(ee852f)><e(shadow)>Brandenburger</e></c>"}
-		{"hero5_ger1" "<c(ee852f)><e(shadow)>Otto Skorzeny</e></c>"}
         {"hero5_ger" "Fallschirmjager"}
 		{"hero6_ger" "Nebelwerfer 41"}
 		{"hero7_ger" "Radio Operator"}

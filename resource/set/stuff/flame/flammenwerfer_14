@@ -7,7 +7,7 @@
 		{weight 100 }
 		{fsm "smg"}
 	}
-	{entity "flame_thrower"}
+	{entity "flammenwerfer_14"}
 	{mass 100} ; kg
 	{fireSound "flame/shot"}
 	{Automatic}
