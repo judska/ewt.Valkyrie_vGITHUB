@@ -3,6 +3,7 @@
 	{fireSound "gun/120mm_type97"}
 	{reloadSound "tankgun_r04"}
 	("range_grazing_howitzer")
+    {gravity 5}
 	
 	{range 130 140}
 	("accuracy_minimum")
