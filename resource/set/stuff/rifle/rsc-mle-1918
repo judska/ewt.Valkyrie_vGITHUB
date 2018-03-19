@@ -1,7 +1,7 @@
 {from "pattern rifle"
 	{entity "rsc-mle-1918"}
 	{filling "ammo rifle" 5}
-	{fireSound "rifle/rsc-mle-1918"}
+	{fireSound "rifle/rsc-mle-1918(gsm)"}
 	{reloadSound "m1carbine"}
 	{mass 3.3}
 
