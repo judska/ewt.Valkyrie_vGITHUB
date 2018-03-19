@@ -46,7 +46,6 @@
 	}
 	{inventory
 		{item "type100smg" filled}
-		{item "type96_triple" 1}
 		{item "ammo pistol" 500}
 		{item "bandage" 3}
 		{item "grenade type97" 2}

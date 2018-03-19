@@ -12,14 +12,14 @@
 				{"flamer2" "flamethrower support infantry"}
 				{"home_guard" "peasent"}
 				{"home_guard2" "peasent"}
-                                {"home_guard3" "Rice Farmer"}
+                {"home_guard3" "Rice Farmer"}
 				{"home_guard4" "Rice Farmer"}
 				{"mgun" "machine Gunner"}
 				{"mgun2" "machine gunner"}
 				{"mgun3" "machine gunner"}
 				{"medic" "medic"}
 				{"oficer" "Officer"}
-                                {"oficer3" "Communist Officer"}
+                {"oficer3" "communist warlord"}
 				{"rifle" "rifleman"}
 				{"rifle2" "rifleman"}
 				{"rifle3" "rifleman"}

@@ -1,42 +1,43 @@
 {entity
-	(include "/properties/car.ext")
+        (include "/properties/3ro.ext")
 	(include "/properties/selection/vehicle.inc"  scale(1.1))
 	{collider "truck"}
-	{props "vehicle" "car" "truck" "wheeled" "with_gun" "vision_vehicle_medium" "muzzle_medium"}
-	{able "emit_on_attack"}
-	("armor_medium" args 1.0)
+	{props "vehicle" "car" "truck" "turret" "turret_rotator" "wheeled" "with_gun" "vision_vehicle_low" "muzzle_small"}
+	{targetClass "armoredcar" "ap fg bullet"}
+        {targetSelector "tank"}
+	("armor_light" args 1.0)
 
-	
+	("crew_2_human")
+	("board_animation"
+		place(driver)
+		board_begin(board_big-midcar)
+		board_end(seat_driver_car)
+		base(doorright)
+	)
+	("board_animation"
+		place(commander)
+		board_begin(board_big-midcar_driver)
+		board_end(seat_passenger)
+		base(doorleft)
+	)
+	{placer	
+		{place "gunner" {visor "main"} {useVision 0}}
+		{place "commander" {visor "main"} {useVision 0}}
+	}
 	{boarder
-		{anm "driver"
-			{forward	{begin	"board_SdKfz251-1"} {end "seat_driver_car"}}
-			{reverse 	{end	"emit_body" 1}}
+		{anm "charger"
+			{forward	{begin	"board_body"}{end "cannon_m8_gunlayer" 10}}
+			;{forward	{begin	"board_body"}{end "seat_armor" 10}}
+			{reverse 	{end	"emit_body"}}
 		}
 		{anm "gunner"
-			{forward	{begin	"board_SdKfz251-1"} {end "pose_flak41_gunlayer" 10}}
-			{reverse 	{end	"emit_body" 1}}
-		}
-		{anm "charger"
-			{forward	{begin	"board_SdKfz251-1"} {end "pose_pdr25_gunlayer" 10}}
-			{reverse 	{end	"emit_body" 1}}
+			{forward	{begin	"board_body"}{end "pose_61K_gunlayer_left" 10} {base "doorback"}}
+			{reverse 	{end	"emit_body"} {base "doorback" -1}}
 		}
 	}
-	(define "crew_human"
-		{placer
-			{place "%place" {group "%group"} {linkbone "%bone"} {turnoff {sensor} {shadow}}}
-		}
-		{boarder
-			{door "%door"}
-			{link "%door" "%place" {anm "%animation"} {forward putoff} {reverse puton}}
-		}
-	)
-	{placer
-		{place "driver" {visor "driver"}}
-		{place "gunner" {visor "main"}}
-	}
-	("crew_human" place(driver)	door(emit1) bone(driver) animation(driver)		group(crew))
-	("crew_human" place(gunner)	door(emit2) bone(gunner) animation(gunner)		group(crew))	
-	("crew_human" place(charger)	door(emit1) bone(charger) animation(charger)		group(crew))
+
+	("crew_human" place(gunner)		bone(gunner)	door(emit4) animation(charger))
+	("crew_human" place(charger)		bone(charger)	door(emit3) animation(charger))
 	
 	{sensor
 		{visor "main"
@@ -92,15 +93,25 @@
 	{volume "body"
 		{tags "body"}
 		{component "body"}
-		{thickness 15} 
+		{thickness 5} 
 	}
 	{Volume "body2"
 		{tags "body"}
 		{component "body"}
-		{thickness 15}
+		{thickness 5}
+        }
+	{volume "turret"
+		{component "turret"}
+		{tags "turret"}
+		{thickness 10
+		    {front 15}
+                }
 	}
 	{component "cabin"	
 		{RepairTime 12}
+        }
+	{component "turret"
+		{RepairTime 20}
 	}
 	{volume "cabin"
 		{thickness 3}
@@ -115,15 +126,27 @@
 		{thickness 5}
 	}
 	{Volume "gun"
+                {tags "gun"}
+		{component "gun"}
 		{thickness 5}
+        }
+	{component "gun"
+		{RepairTime 20}
 	}
-	{volume "sheld"
+	{volume "shield"
 		{tags "turret"}
 		{component "turret"}
-		{thickness 15}
+		{thickness 5}
 	}
 	{Volume "turret"
 		{thickness 10}
+        }
+	{component "turret"
+		{RepairTime 20}
 	}
 	{Extension "3ro.mdl"}
+       
+          {bone "turret"
+		{speed 0.018}
+	}
 }

@@ -3072,3 +3072,69 @@
 	}
 	("burn_by_engine" args 0.3)	
 }
+{"np_sdkfz251_16"
+    {on spawn   
+        {add_view "flamer_fire" "flame1" "foresight9"}
+        {add_view "flamer_fire_barrel" "fire1" "foresight9"}
+        {add_view "flamer_fire" "flame2" "foresight10"}
+        {add_view "flamer_fire_barrel" "fire2" "foresight10"}
+        {view show   "fire1"}
+        {view start   "fire1"}
+        {view show   "fire2"}
+        {view start   "fire2"}
+    }
+    {on break_armor
+        {if name "blast"
+            {if volume "body"
+                {call "explosion"}
+            }
+                        }
+    }
+    {on bullet_hit
+        {if volume "body"
+            {if  tagged "isbodypierced"
+                {if rand 0.3
+                    {call "_explosion"}
+                    {tags remove "isbodypierced"}
+                }
+            }
+        }
+    }
+    {on "_explosion"
+        {call "__explosion"}
+        {spawn "fuel_die"}
+        {blastwave c4 5 r0 4 r1 15}
+        {fire radius 5 time 15 heating 10}
+    }
+    {on "__explosion"
+        {set "big_explosion" 0}
+        {if explosive_amount 50         
+            {blastwave c4 30 r0 8 r1 16}     
+            {blastwave c4 3 r0 20 r1 30}
+            {spawn "train_die" "basis"}
+            {set "big_explosion" 1}
+        }
+    }
+    {on fire "flamer1"
+        {view start "flame1"}
+        {kill_delay "fire1"}
+        {delay 1 "fire1"
+            {view pause "flame1"}
+        }
+    }
+    {on fire "flamer2"
+        {view start "flame2"}
+        {kill_delay "fire2"}
+        {delay 1 "fire2"
+            {view pause "flame2"}
+        }
+    }
+    {on operatable on   
+        {view start "fire1"}
+        {view start "fire2"}
+    }   
+    {on operatable off      
+        {view stop  "fire1"}
+        {view stop  "fire2"}
+    }
+}
