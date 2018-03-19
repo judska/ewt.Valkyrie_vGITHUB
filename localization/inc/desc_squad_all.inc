@@ -418,8 +418,7 @@
         {"hero3_ita" "Carro Armato L35/L.F."}
         {"hero4_ita" "45mm Brixia Modello 35"}
         {"hero5_ita" "<c(ee852f)><e(shadow)>ARMIR</e></c>"}
-        {"hero6_ita" "PzKpfw KV-1B 756(r)"}
-        {"hero6_ita1" "Ceirano 7.5"}
+        {"hero6_ita" "Lancia 3 Cannone 90mm"}
         {"hero7_ita" "PzKpfw III Ausf.N"}
         {"hero7_ita1" "Autocannone"}
         {"hero8_ita" "Radio Operator"}
