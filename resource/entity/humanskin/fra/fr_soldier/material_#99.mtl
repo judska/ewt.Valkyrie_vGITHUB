@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "fra_rifle_1940"}
+	{blend none}
+}

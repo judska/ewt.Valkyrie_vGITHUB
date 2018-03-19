@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "ger_rifleman"}
+	{specular "ger_rifleman_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

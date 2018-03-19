@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "fra_mgunner_1940"}
+	{blend none}
+}
