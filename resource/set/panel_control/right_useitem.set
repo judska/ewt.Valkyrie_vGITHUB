@@ -39,6 +39,9 @@
 	{french_defence_gun
 		{condition "human"}
         }
+	{type96_triple
+		{condition "human"}
+        }
 	{hedgehog
 	}
 	{plant

@@ -1,0 +1,66 @@
+{game_entity
+	(include "/properties/cannon.ext")
+	{props "vehicle" "cannon" "flak" "turret" "vision_cannon_low"}
+
+	{collider "cannon_small"}
+
+	("armor_medium")
+
+	("crew_2_human")
+
+	{Boarder
+		{anm "gunner"
+			{forward	{end "seat_driver_car"}}
+		}
+		{anm "commander"
+			{forward	{end "seat_driver_car"}}
+		}
+		{place "gunner"}
+		{door "emit1"}
+		{link "emit1" "gunner"	{forward putoff} {reverse puton} {anm "gunner"}}
+		{place "commander"}
+		{door "emit2"}
+		{link "emit2" "commander"	{forward putoff} {reverse puton} {anm "commander"}}
+	}
+
+	{Volume "body"
+		{thickness 10}
+		{tags "body"}
+	}
+	{volume "gun"
+		{thickness 5
+			{front  10}
+		}
+	}
+	{Volume "gun_rot"
+		{thickness 5}
+	}
+	{volume "shield1"
+		{thickness 10}
+	}
+	{volume "shield2"
+		{thickness 10}
+	}
+	{extender "inventory"
+		{box
+			{clear}
+			{size 4 2}
+			{item "ammo bullet20 zenite" 900}
+		}
+	}
+	{Weaponry
+		{place "gun"
+			{weapon "25mm_type96_triple" filled}
+			{Barrels 3}
+			{foresight "foresight1"}
+			{gunner "gunner"}
+			{charger "commander"}
+			{Rotate}
+			("abm_zenite")
+		}
+	}
+
+	{mass 1000}
+	{Extension "type96_3.mdl"}
+	(include "/properties/selection/cannon.inc"  scale(0.7))
+}

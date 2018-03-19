@@ -1,0 +1,25 @@
+{game_entity
+	{Extension "landsverk180_xx.mdl"}
+	{Volume "body"
+	}
+	{Volume "engine"
+	}
+	{Volume "gun"
+	}
+	{Volume "mantlet"
+	}
+	{Volume "turret"
+	}
+	{Volume "wheelleft1"
+	}
+	{Volume "wheelleft2"
+	}
+	{Volume "wheelleft3"
+	}
+	{Volume "wheelright1"
+	}
+	{Volume "wheelright2"
+	}
+	{Volume "wheelright3"
+	}
+}

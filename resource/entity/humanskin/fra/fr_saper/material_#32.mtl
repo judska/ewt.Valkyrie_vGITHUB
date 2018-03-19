@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "rukzak1"}
+	;{specular "rukzak_difuz_1"}
+	{color "229 229 229 25"}
+	{blend none}
+}

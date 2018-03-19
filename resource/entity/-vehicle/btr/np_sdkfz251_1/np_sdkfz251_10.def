@@ -3,7 +3,7 @@
 	(include "/properties/selection/vehicle.inc"  scale(1.0))
 	{Extension "sdkfz251_10.mdl"}
 	{extension "crew1.ext"}
-	{props "vehicle" "armored_car" "tank" "turret" "wheeled" "explosion_throw_crew" "vision_cannon_medium" "muzzle_medium"}
+	{props "vehicle" "armored_car" "tank" "turret" "wheeled" "explosion_throw_crew" "vision_cannon_medium" "muzzle_minimum"}
 	
 	{extender "enumerator"
 		{digit_folder "ger2"}
@@ -170,7 +170,7 @@
 		{Locomotion ("locomotion")
 			{MaxSpeed	33}
 	  		{maxSpeedAtMaxTurn 16}	
-			{StartTime	10}
+			{StartTime 20}
 			{BrakeTime	1.5}	
 			{StopTime	2.5}
 			{TurnRadius	8}
@@ -191,4 +191,5 @@
 	}
 	{mass 8500}
 	("turret_speed_medium35")	
+	("ger_1_sight")
 }

@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "fin_t4"}
+	{specular "flamer_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+	{tile}
+}

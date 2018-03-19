@@ -88,8 +88,8 @@
 			{StartTime	10}
 			{TurnTime	13}
 			{TurnStart  2} 
-    		{BrakeTime  5}
-     		{StopTime   5} 
+    		{BrakeTime  1}
+     		{StopTime   2} 
     		{TurnRadius 11} 
     		{TurnStop   1}
 		{Gears      0.1 0.5 1.0}

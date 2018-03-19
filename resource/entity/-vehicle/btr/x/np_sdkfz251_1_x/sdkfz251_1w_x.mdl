@@ -8,6 +8,7 @@
 			0	-1	0
 			0	0	1
 		}
+		{Extension "/properties/damage_components.ext"}
 		{bone "link2"
 			{Matrix34
 				-1	0	0
