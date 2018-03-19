@@ -15,6 +15,7 @@
 			0	-1	0
 			0	0	1
 		}
+		{Extension "/properties/damage_components.ext"}
 		{bone "link2"
 			{Matrix34
 				-1	0	0
@@ -238,6 +239,14 @@
 								0.999982	-3.35893e-005	-0.00596237
 								0	0.999979	-0.00648941
 								0.194141	-0.0248453	25.8391
+							}
+						}
+						{bone "fx_invers"
+							{Matrix34
+								0.00500739	-0.00647882	-0.999966
+								0	0.999979	-0.00647891
+								0.999987	3.40038e-005	0.00500728
+								0.158592	0.0279578	-8.51772
 							}
 						}
 						{bone "visor1"
@@ -721,6 +730,7 @@
 		}
 	}
 }
+{Extension "/properties/damage_components_vol.ext"}
 {Volume "body10"
 	{Polyhedron "body10.vol"}
 	{Bone "body"}

@@ -1,0 +1,11 @@
+{actor
+	(include "/properties/stuff_small.ext")
+	{extension "repair_kit.mdl"}
+	{extender "stuff"
+		{item "type96_triple"}
+	}
+	{volume "body"
+		{thickness 2}
+	}
+	{lodclass "human"}
+}

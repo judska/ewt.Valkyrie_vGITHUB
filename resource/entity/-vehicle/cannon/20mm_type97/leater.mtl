@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/model/skr/leather3"}
+	{specular "$/model/skr/leather_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

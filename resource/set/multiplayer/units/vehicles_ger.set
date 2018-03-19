@@ -74,7 +74,7 @@
 
 {"hero1_ger"        ("i1" c(120)				                   t(all hero) s(ger) n1(sniper2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero2_ger1"       ("i3" c(120)				                   t(all hero) s(ger) n1(home_guard3:2) n2(home_guard4:2) n3(mgun2:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
-{"hero3_ger1"        ("v1" c(120) c1(pz3f) 		           t(all hero) s(ger) n1(tankman:2) n2(tankman2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}  
+{"hero3_ger1"        ("v1" c(120) c1(pz3e) 		           t(all hero) s(ger) n1(tankman:2) n2(tankman2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}  
 
 {"hero4_ger"        ("i3" c(240)				                   t(all hero) s(ger) n1(elite4:3) n2(elite5:4) n3(elite6:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero5_ger1"        ("i3" c(360)				                   t(all hero) s(ger) n1(sturmovik12:1) n2(rifle3:3) n3(smg4:3) g(h3) b(hero)) {level 1} {cost 2.0} {fore -0.5}}

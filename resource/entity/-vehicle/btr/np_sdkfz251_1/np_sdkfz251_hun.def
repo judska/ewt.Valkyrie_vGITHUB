@@ -116,8 +116,8 @@
 			{item "smoke" "grenade" 10}
 			{item "bandage" 10}
 			{item "dynamite"}
-			{item "mg34" filled {user "mgun"}}
-			{item "mg34" "ammo" 2500}
+			{item "mg13" filled {user "mgun"}}
+			{item "mgun" "ammo" 2500}
 		}
 	}
 	{Weaponry
@@ -151,7 +151,7 @@
 		{Locomotion ("locomotion")
 			{MaxSpeed	33}
 	  		{maxSpeedAtMaxTurn 16}	
-			{StartTime	10}
+			{StartTime 20}
 			{BrakeTime	1.5}	
 			{StopTime	2.5}
 			{TurnRadius	8}

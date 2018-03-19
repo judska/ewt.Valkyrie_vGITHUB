@@ -18,9 +18,9 @@
 {"maxson"           ("vs" c(300) t(all cannon) 	s(usa) n(1) g(c2) sc(125.00) b(v2) cw(2) cp(5)) {level 3} {cost 125} {fore 0.5}}
 {"m1mortar"         ("vs" c(0) t(all cannon mediumcan) 	s(usa) n(2) g(c3) sc(280.00) b(v2) cw(2) cp(5)) {level 5} {cost 280} {fore 1.0}}
 
-{"50_browning_m2hb" ("vs" c(0) t(all cannon mediumcan) 	s(usa) n(2) g(c5) sc(150.00) b(v2) cw(2) cp(5)) {level 1} {cost 150} {fore 1.0}}
+{"50_browning_m2hb" ("vs" c(0) t(all cannon mediumcan) 	s(usa) n(2) g(c5) sc(130.00) b(v2) cw(2) cp(5)) {level 1} {cost 130} {fore 1.0}}
 {"m3cannon"         ("vs" c(0) t(all cannon) 	s(usa) n(2) g(c4) sc(135.00)  b(v2) cw(2) cp(5)) {level 1} {cost 135} {fore 1.0}}
-{"m5"               ("vs" c(0) t(all cannon heavycan) 	s(usa) n(2) g(c6) sc(350.00) b(v2) cw(2) cp(15)) {level 1} {cost 350} {fore 1.0}}
+{"m5cannon"      ("vs" c(0) t(all cannon heavycan) 	s(usa) n(2) g(c6) sc(350.00) b(v2) cw(2) cp(15)) {level 1} {cost 350} {fore 1.0}}
 
 ("how" side(usa) name(how_aa) c(0) c1(gmc_cckw) c2(bofors)  	t(all cannon heavycan heavyaa) g(c7) b(v2) level(3) cost(260) f(1.0))
 ("how" side(usa) name(how_b) c(0) c1(gmc_cckw) c2(m2a1l) 		t(all artillery) g(c8) b(v2) level(6) cost(600) f(1.0))

@@ -1,0 +1,65 @@
+;Exported by: Sergey
+;Date:        Sat Oct 13 00:48:43 2012
+;File:        D:\Documents\3dsmax\scenes\Solothurn S18-1000\Type 97_xx.max
+{Skeleton
+	{bone revolute "basis"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{bone "ruchka_front"
+			{Matrix34
+				0.999506	0	0.0314336
+				-0.0314336	0	0.999506
+				0	-1	0
+				-20.4029	-10.8802	0.301799
+			}
+			{VolumeView "ruchka_front.ply"}
+		}
+		{bone "ruchka_back"
+			{Matrix34
+				-0.93131	0	0.364227
+				0.364227	0	0.93131
+				0	-1	0
+				25.6453	-9.18198	0.210515
+			}
+			{VolumeView "ruchka_back.ply"}
+		}
+		{bone "gun"
+			{parameters "ID=gun;"}
+			{Position -3.92564	0	0.0160675}
+			{VolumeView "type_97_at.ply"}
+		}
+	}
+}
+{Volume "gun"
+	{Box 38.3858 2.95276 3.64173}
+	{Bone "gun"}
+	{Matrix34
+		1	0	0
+		0	0	1
+		0	-1	0
+		11.8826	-0.166697	2.45693
+	}
+}
+{Volume "ruchka_back"
+	{Box 11.2613 9.40815 2.70841}
+	{Bone "ruchka_back"}
+	{Matrix34
+		-0.93131	0.364227	0
+		0	0	-1
+		0.364227	0.93131	0
+		4.13836	-0.390427	-0.0936199
+	}
+}
+{Volume "ruchka_front"
+	{Box 15.3239 8.69541 1.71057}
+	{Bone "ruchka_front"}
+	{Matrix34
+		0.999506	-0.0314337	0
+		0	0	-1
+		0.0314337	0.999506	0
+		6.67851	0.343731	-0.0812541
+	}
+}

@@ -6,11 +6,11 @@
 	{item_in_box}
 	{ShowCount}	
 	
-	
 	{button}
 	{AimEntities}	
 	{abledrag}
 	{ShowCount}
+
 	{instructions
 		{bind range 5}
 		{disable_action_restart}
