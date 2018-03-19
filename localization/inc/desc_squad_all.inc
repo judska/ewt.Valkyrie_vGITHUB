@@ -323,10 +323,10 @@
 
 		{"hero1_ger" "<c(ee852f)><e(shadow)>Veteran Sniper</e></c>"}
 		{"hero2_ger1" "German Youth"}
-		{"hero3_ger1" "Blitzkrieg!"}
+		{"hero3_ger1" "Flammpanzerwagen"}
 		{"hero4_ger" "<c(ee852f)><e(shadow)>Brandenburger</e></c>"}
 		{"hero5_ger1" "<c(ee852f)><e(shadow)>Otto Skorzeny</e></c>"}
-                {"hero5_ger" "Fallschirmjager"}
+        {"hero5_ger" "Fallschirmjager"}
 		{"hero6_ger" "Nebelwerfer 41"}
 		{"hero7_ger" "Radio Operator"}
 		{"hero8_ger1" "StuH 42"}
@@ -341,7 +341,7 @@
 		{"hero4_jap" "Homeland Fury"}
 		{"hero5_jap1" "Na-To"}
 	    {"hero6_jap" "Type 97 Mortar"}
-	    {"hero7_jap" "Marine Tank"}
+	    {"hero7_jap1" "Triple-A Gunners"}
 		{"hero8_jap" "Marine Paratroopers"}
 		{"hero9_jap" "Radio Operator"}
 		{"hero10_jap" "Banzai!"}
@@ -358,7 +358,7 @@
 		{"hero8_rus" "Radio Operator"}
 		{"hero9_rus" "KV-2"}
 		{"hero10_rus" "BM-8-24"}
-		{"hero11_rus" "Moscow Guards"}
+		{"hero11_rus" "To Berlin!"}
 		{"hero12_rus" "203mm B-4M"}
 
 		{"hero1_usa" "M8 Howitzer"}
@@ -374,7 +374,7 @@
 		{"hero11_usa" "M1 155mm Long Tom"}
 		{"hero12_usa" "Super Pershing"}
 
-        {"hero1_hun" "Csaba 40M"}
+        {"hero1_hun" "Csaba 39m"}
 		{"hero2_hun" "Calarasi"}
 		{"hero3_hun" "Szent Laszlo Infantry"}
 		{"hero4_hun" "<c(ee852f)><e(shadow)>Arrow Cross Fanatics</e></c>"}
@@ -387,11 +387,11 @@
         {"hero11_hun" "PzKpfw VI (P) Kingtiger"}
 		{"hero12_hun" "Brummbar"}
 
-        {"hero1_fra" "Maginot Line Defenders"}
-		{"hero2_fra" "Mortier de 50mm"}
+        {"hero1_fra" "Maginot Defenders"}
+		{"hero2_fra" "AMR35 25mm"}
 		{"hero3_fra" "<c(ee852f)><e(shadow)>Viva La France!</e></c>"}
 		{"hero4_fra" "Renault DCA 37mm Shneider"}
-        {"hero5_fra" "Dywizja Grenadierow"}	
+        {"hero5_fra" "Polish Volunteers"}	
         {"hero6_fra" "Demi Brigade"}
 		{"hero7_fra" "Puissance Filloux"}
 		{"hero8_fra" "Char-Bis Revolver"}

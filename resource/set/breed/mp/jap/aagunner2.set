@@ -20,7 +20,7 @@
 		}
 		{"speed" 0.9
 		}
-		{"tank"	0.8
+		{"tank"	1.0
 		}
 		{"vehicle" 1.0
 		}
@@ -31,7 +31,7 @@
 		}
 		{"smg" lvl_2
 		}
-		{"mgun" lvl_1
+		{"mgun" lvl_2
 		}
 		{"rifle" lvl_1
 		}
@@ -46,11 +46,10 @@
 	}
 	{inventory
 		{item "type100smg" filled}
-		{item "ammo pistol" 500}
+		{item "ammo pistol" 300}
 		{item "bandage" 3}
-		{item "grenade type97" 2}
-		{item "grenade type3at_a" 1}
-		{item "smoke grenade" 1}
+		{item "grenade type97" 1}
+		{item "grenade type3at_a"}
 		{in_hands 0}
 	}
 }

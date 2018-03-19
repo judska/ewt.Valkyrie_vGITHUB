@@ -26,8 +26,7 @@
 
 	{extender "inventory"
 		{box
-			{item "bullet20_jap ap" 50}
-			{item "bullet20_jap fg" 20}
+			{item "ammo ptr" 60}
 		}
 	}
 	

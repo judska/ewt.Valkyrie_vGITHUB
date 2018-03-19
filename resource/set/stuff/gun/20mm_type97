@@ -1,0 +1,25 @@
+{from "pattern gun"		; 20 pst kiv/39 "Norsupyssy"
+	{filling "ammo ptr" 7}	
+	{fireSound	"rifle/ptr/type97at"}
+	{reloadSound "ptrd"}
+	{recoveryTime 0.85}  
+	{rechargeTime 6.5}
+	
+	
+	("speed" s(750))
+	("caliber_zenite")
+	("recoveryTime" r(30))
+	{projectileDamage 30}
+	("damage" a(40) b(31) c(23) d(16) e(13))
+	{range 110 120}
+	{AimingTolerance 1}
+	{parameters "fg"	
+		{range 80 90}
+	}
+	
+	
+	
+	{RelaxationTime 1}
+	{ZeroingAccuracy 0.8 0.4 0.2}
+	("accuracy_zenite_medium")
+}
