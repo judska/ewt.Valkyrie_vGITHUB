@@ -456,8 +456,8 @@
 		{"chevrolet_art" "Truck that comes tank and artillery ammo."}
 		{"chevrolet_eng" "Truck that comes with Sandbags, Barricades and Barbed Wire."}
 		{"m17_stan" "A mounted Browning HMG used for infantry killing and suppression."}
-		{"zpu-4" " A large AA gun that comes with four 14mm Autocannons, very useful for killing infantry and light vehicles."}
-		{"pak_35_chn" ""The 37mm Pak 36(r) was a German anti-tank gun used by the Wehrmacht in World War II. Useful for killing light vehicles, but nothing else."}
+		{"zpu-4" "A large AA gun that comes with four 14mm Autocannons, very useful for killing infantry and light vehicles."}
+		{"pak_35_chn" "The 37mm Pak 36(r) was a German anti-tank gun used by the Wehrmacht in World War II. Useful for killing light vehicles, but nothing else."}
 		{"cannone4732_chn" "This very accurate medium Italian AT gun is capable of engaging enemy medoum tanks from the side, or from the front in close distance."}
 		{"zis3_chn" "The ZIS-3 was the world's first conveyor-assembled artillery piece. It was highly praised by artillery specialists and, on February 12, 1942, it entered service with the Red Army. Firing armor-piercing rounds, it was able to penetrate 70mm of armor at medium range, while its high-explosive shells demonstrated high stopping power and a great damage radius."}
 		{"type_97_150mm_chn" "The captured Japanese Type 97 150mm Mortar is a heavy emplacement capable of raining down 150mm shells. This weapon can quickly dispatch even the toughest of infantry, killing entire squads with a single shell, but retaining a solid rate of fire. This weaponry will shatter our enemies morale!"}
