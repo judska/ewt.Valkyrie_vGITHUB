@@ -83,16 +83,16 @@
 		{Locomotion ("locomotion")
 			(mod "mp" 
 				{maxspeed   30}
-				{maxSpeedAtMaxTurn 18}
+				{maxSpeedAtMaxTurn 19}
 				{StartTime  12}
-				{TurnTime   7}
+				{TurnTime   5}
 				{TurnStart  0.9}			
 				{TurnRadius 6} 
 	    		{TurnStop   0.5}
 				{BrakeTime  1}
 				{StopTime   2}
-     			{Gears  0.1 0.25 0.625}
-				{RearGears  0.17}
+     			{Gears  0.3 0.5 1}
+				{RearGears  0.2 0.4}
 			)
 		}
 		(mod "mp"

@@ -363,7 +363,7 @@
 		{"hero1_usa" "M8 Howitzer"}
 		{"hero2_usa" ".30 cal Browning A6"}
 		{"hero3_usa1" "Marauders"}
-		{"hero4_usa" "Marine Assault"}
+		{"hero4_usa" "U.S. Marines"}
 		{"hero5_usa1" "M15 \"Special\""}
 		{"hero6_usa" "<c(ee852f)><e(shadow)>Devil's Brigade</e></c>"}
 		{"hero7_usa" "M4A3R2 Croc"}
@@ -383,14 +383,14 @@
 		{"hero8_hun" "Rapid Corps"}
 		{"hero9_hun" "Radio Operator"}		
         {"hero10_hun" "15 cm sIG 33"}
-        {"hero11_hun" "PzKpfw VI (P) Kingtiger"}
+        {"hero11_hun" "Defend Hungary"}
 		{"hero12_hun" "Brummbar"}
 
-        {"hero1_fra" "Maginot Defenders"}
-		{"hero2_fra" "AMR35 25mm"}
+        {"hero1_fra" "Maginot Pillbox"}
+		{"hero2_fra" "Dunkirk Rearguard"}
 		{"hero3_fra" "<c(ee852f)><e(shadow)>Viva La France!</e></c>"}
 		{"hero4_fra" "Renault DCA 37mm Shneider"}
-        {"hero5_fra" "Polish Volunteers"}	
+        {"hero5_fra" "Sikorski's Poles"}	
         {"hero6_fra" "Demi Brigade"}
 		{"hero7_fra" "Puissance Filloux"}
 		{"hero8_fra" "Char-Bis Revolver"}
@@ -410,7 +410,7 @@
         {"hero9_fin" "Nebelwefer 42"}
         {"hero10_fin" "Modified KV-1"}
         {"hero11_fin" "Captured SU-152"}
-        {"hero12_fin" "Pin-prick artillery"}
+        {"hero12_fin" "Pin-Prick Artillery"}
 
         {"hero1_ita" "Polizia Militare"}
         {"hero2_ita" "Caccia Carri"}
@@ -439,7 +439,6 @@
         {"hero10_chn" "United Front"}
         {"hero11_chn" "Foreign Aid"}
         
-
         {"hero1_anz" "Boyes .55 carrier"}
         {"hero2_anz" "Volunteer Rifles"}
         {"hero3_anz" "Jungle Gun!"}
