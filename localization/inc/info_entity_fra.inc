@@ -61,9 +61,10 @@
                 {"b1bis_3" "The Char B1 was a specialised heavy break-through vehicle, originally conceived as a self-propelled gun with a 75 mm howitzer in the hull; later a 47 mm gun in a turret was added, to allow it to function also as a Char de Bataille. Starting in the early twenties, its development and production were repeatedly delayed, resulting in a vehicle that was both technologically complex and expensive, and already obsolescent when real mass-production of a derived version, the Char B1 bis, started in the late thirties. Although a second uparmoured version, the Char B1 ter, was developed, only two prototypes were built."}
                 {"lorraine_47" "A tank destroyer varient of Lorraine 37L APC, the Lorraine 37L ER was armed with a 47 mm SA 47 guns. With a relative fast speed and a decent gun, the Lorraine can be annoying AF."}
                 {"b1bis_at" "Anti-tank variant of the Char B1 fitted with a 75mm. Only one was produced beofre production ceased on the B1 series."}
-
-
-
+		{"gnome" A light motocycle used for supporting infantry. Comes armed with a prominent machine gun, but is quickly taken down by entrenched enemies."}
+		{"laffly_v15t" "This is a very fast jeeped aimed for shock attacks on enemy troops. Very fast and mobile, this jeep could be easily suppressed by strong enemy fortifications, so use it wisely."}
+		("m3_fra" "This armored half-truck was produced by the US from 1941 onwards, and used as a transport vehicle for tank corps and artillery divisions. Some vehicles were delivered to USSR as part of a lend-lease program. The spacious hull was made open-top. Along with a compartment designed to take eight soldiers, it housed a large-calibre machinegun, with mounts for additional machineguns on the rear and sides. The M3 proved to be a fast and reliable vehicle, well-suited for use in the harsh conditions of war."}
+		{"hotchkiss_stan" "A Heavy MG used for infantry supression. While cheap and powerful, this MG is vulnerable to grenades or artillery."}
 
 
 
