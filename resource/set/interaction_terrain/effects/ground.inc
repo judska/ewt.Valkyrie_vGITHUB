@@ -1,3 +1,4 @@
+;SDL
 {"ground"
   {on hit
     {if min_mass 100
@@ -11,16 +12,7 @@
     }
   }
   {on detonate
-{if stuff "mortar_fg_light"
-{spawn "mortar_fg_light_ground"}
-
-else stuff "mortar_fg_light_60"
-{spawn "mortar_fg_light_ground_60"}
-
-else stuff "mortar_fg_heavy"
-{spawn "mortar_fg_heavy_ground"}
-
- else stuff "molotov_coctail"
+    {if stuff "molotov_coctail"
       {spawn "ex_molot"}
       {spawn "fire_molot_ground"}
       {spawn "fire_shellhole"}
@@ -108,6 +100,8 @@ else stuff "mortar_fg_heavy"
     else stuff "tnt_bag"
       {spawn "ex_bomb_big"}
       {spawn "shellhole_big"}
+    else stuff "flaerammo2"
+	  {spawn "naval_bombardment"}
     else stuff "flaerammo"
 	  {spawn "artillery_explosion_flaer"}
     }

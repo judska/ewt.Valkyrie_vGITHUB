@@ -1,23 +1,14 @@
 ;SDL
 {"road"
-  	{on hit
-    		{spawn "spheredust_small_short"}
-  	}
-  	{on detonate
-{if stuff "mortar_fg_light"
-{spawn "mortar_fg_light_ground"}
-
-else stuff "mortar_fg_light_60"
-{spawn "mortar_fg_light_ground_60"}
-
-else stuff "mortar_fg_heavy"
-{spawn "mortar_fg_heavy_ground"}
-
-else stuff "molotov_coctail"
-      		{spawn "ex_molot"}
-      		{spawn "fire_molot_ground"}
-      		{spawn "fire_shellhole"}
-     else stuff "big smoke"
+  {on hit
+    {spawn "spheredust_small_short"}
+  }
+  {on detonate
+    {if stuff "molotov_coctail"
+      {spawn "ex_molot"}
+      {spawn "fire_molot_ground"}
+      {spawn "fire_shellhole"}
+    else stuff "big smoke"
 	{spawn "ex_arm_big"}
 	{spawn "smoke_shell"}
     else stuff "dynamite"
@@ -98,6 +89,8 @@ else stuff "molotov_coctail"
       {spawn "shellhole_big_road"}
     else stuff "flaerammo"
 	  {spawn "artillery_explosion_flaer"}
+     else stuff "flaerammo2"
+	  {spawn "naval_bombardment"}
     }
   }
 }
@@ -195,7 +188,8 @@ else stuff "molotov_coctail"
 	else stuff "mine clockwork"
 		{spawn "ex_anti_big"}
 		{spawn "shellhole_big"}
-    else stuff "dynamite"
+     
+      else stuff "dynamite"
       {spawn "ex_bomb_big"}
       {spawn "shellhole_big"}
     else stuff "dynamite_clockwork"
@@ -206,6 +200,9 @@ else stuff "molotov_coctail"
       {spawn "shellhole_big"}
     else stuff "flaerammo"
 	  {spawn "artillery_explosion_flaer"}
+     else stuff "flaerammo2"
+	  {spawn "naval_bombardment"}
+   
     }
   }
 }

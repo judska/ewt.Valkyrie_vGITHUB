@@ -19,6 +19,10 @@
 	("distance_1" r1(3.50) r2(8.00) r3(12.50))
 )
 
+(define "accuracy_flaergun3"
+	("distance_3" r1(10.50) r2(24.00) r3(30.50))
+)
+
 (define "accuracy_pistol"
 	("distance_1" r1(0.20) r2(0.80) r3(1.50))
 )

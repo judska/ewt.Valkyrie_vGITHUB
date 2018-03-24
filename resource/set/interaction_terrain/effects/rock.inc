@@ -1,32 +1,22 @@
 ;SDL
 {"rock"
-  	{on hit
-    		{if min_mass 100
-      			{if effector "tree"
-        			{spawn "tree_crush"}
-      			else
-        			{spawn "spheredust_small"}
-      			}
-    		else min_mass 10
-      			{spawn "spheredust_small_short"}
-    		}
-  	}
-
-  	{on detonate
-{if stuff "mortar_fg_light"
-{spawn "mortar_fg_light_ground"}
-
-else stuff "mortar_fg_light_60"
-{spawn "mortar_fg_light_ground_60"}
-
-else stuff "mortar_fg_heavy"
-{spawn "mortar_fg_heavy_ground"}
-
-else stuff "molotov_coctail"
-      		{spawn "ex_molot"}
-      		{spawn "fire_molot_ground"}
-      		{spawn "fire_shellhole"}
-   else stuff "dynamite"
+  {on hit
+    {if min_mass 100
+      {if effector "tree"
+        {spawn "tree_crush"}
+      else
+        {spawn "spheredust_small"}
+      }
+    else min_mass 10
+      {spawn "spheredust_small_short"}
+    }
+  }
+  {on detonate
+    {if stuff "molotov_coctail"
+      {spawn "ex_molot"}
+      {spawn "fire_molot_ground"}
+      {spawn "fire_shellhole"}
+    else stuff "dynamite"
       {spawn "ex_bomb_big"}
       {spawn "shellhole_medium"}
     else stuff "grenade big"
@@ -112,6 +102,8 @@ else stuff "molotov_coctail"
     else stuff "tnt_bag"
       {spawn "ex_bomb_big"}
       {spawn "shellhole_medium"}
+   else stuff "flaerammo2"
+	  {spawn "naval_bombardment"}
     else stuff "flaerammo"
 	  {spawn "artillery_explosion_flaer"}
     }

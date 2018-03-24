@@ -101,6 +101,8 @@
     else stuff "tnt_bag"
       {spawn "ex_bomb_big"}
       {spawn "shellhole_big"}
+    else stuff "flaerammo2"
+	  {spawn "naval_bombardment"}
     else stuff "flaerammo"
 	  {spawn "artillery_explosion_flaer"}
     }

@@ -319,11 +319,12 @@
 		{"hero9_eng" "M4A4 Tulip"}
 		{"hero10_eng" "Churchill Crocodile"}
 		{"hero11_eng" "Churchill AVRE"}
+                {"hero11_eng1" "5 Inch Gun Naval Barrage"}
 		{"hero12_eng" "Black Prince"}
 
 		{"hero1_ger" "<c(ee852f)><e(shadow)>Veteran Sniper</e></c>"}
 		{"hero2_ger1" "German Youth"}
-		{"hero3_ger" "Panzerjaeger"}
+		{"hero3_ger1" "Blitzkrieg!"}
 		{"hero4_ger" "<c(ee852f)><e(shadow)>Brandenburger</e></c>"}
         {"hero5_ger" "Fallschirmjager"}
 		{"hero6_ger" "Nebelwerfer 41"}

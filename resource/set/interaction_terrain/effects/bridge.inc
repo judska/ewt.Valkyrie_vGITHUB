@@ -4,19 +4,7 @@
 		{spawn "spheredust_small_short"}
 	}
 	{on detonate
-{if stuff "mortar_fg_light"
-{spawn "mortar_fg_light_ground"}
-
-else stuff "mortar_fg_light_60"
-{spawn "mortar_fg_light_ground_60"}
-
-
-else stuff "mortar_fg_heavy"
-{spawn "mortar_fg_heavy_ground"}
-
-else stuff "mortar_fg_heavy_150"
-{spawn "mortar_fg_heavy_ground_150"}
-                else stuff "molotov_coctail"
+		{if stuff "molotov_coctail"
 			{spawn "ex_molot"}
 			{spawn "fire_molot_ground"}
                 else stuff "big smoke"
@@ -135,8 +123,10 @@ else stuff "mortar_fg_heavy_150"
 			{spawn "ex_anti_big_wood"}
 		else stuff "dynamite"
 			{spawn "ex_bomb_big_wood"}
-		else stuff "flaerammo"
-			{spawn "artillery_explosion_flaer"}
+		else stuff "flaerammo2"
+	  {spawn "naval_bombardment"}
+    else stuff "flaerammo"
+	  {spawn "artillery_explosion_flaer"}
 		}
 	}
 }
