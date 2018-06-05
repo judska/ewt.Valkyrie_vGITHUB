@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/humanskin/chi/xie_viet"}
+	{bump "$/humanskin/chi/xie_bp"}
+	{specular "$/humanskin/chi/xie_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

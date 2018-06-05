@@ -8,15 +8,10 @@
 	
 	("speed" s(750))
 	("caliber_zenite")
-	("recoveryTime" r(30))
 	{projectileDamage 30}
-	("damage" a(40) b(31) c(23) d(16) e(13))
-	{range 110 120}
+	("damage_100" a(40) b(31) c(23) d(16) e(13))
+	("range_zenite")
 	{AimingTolerance 1}
-	{parameters "fg"	
-		{range 80 90}
-	}
-	
 	
 	
 	{RelaxationTime 1}

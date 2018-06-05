@@ -4,7 +4,7 @@
 	{reloadSound "gun_r03"}
 	("range_light_howitzer")
 	{rechargeTime 5.0}
-	{gravity 8}
+	{gravity 6.9}
 	{speed 120}
 	("caliber_medium")
 }

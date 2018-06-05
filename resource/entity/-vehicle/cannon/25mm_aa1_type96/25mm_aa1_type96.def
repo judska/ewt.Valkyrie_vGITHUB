@@ -18,9 +18,7 @@
 	}
 	{extender "inventory"
 		{box
-			{size 8 6}
 			{item "bullet20 zenite" 180}
-			{item "sandbag_kit2"}
 		}
 	}
 	{Weaponry
@@ -48,7 +46,7 @@
 	}
 ;	{Texmod "bo4"}
 	{bone "gun_rot"
-		  {speed 0.025}
+		  {speed 0.005}
 	}
 }
 

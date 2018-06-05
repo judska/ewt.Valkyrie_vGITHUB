@@ -862,8 +862,8 @@
 
 (define "oficer2"
     {tags   "oficer %side spec infantry man"}
-    {cp     0.0}
-    {score  460.00}
+    {cp     10.0}
+    {score  230.00}
     {basic}
     {breed}
     {cw 10.0}
@@ -873,8 +873,8 @@
 
 (define "oficer3"
     {tags   "oficer %side spec infantry man"}
-    {cp     -15.0}
-    {score  460.00}
+    {cp     -10.0}
+    {score  230.00}
     {basic}
     {breed}
     {cw 10.0}
@@ -963,3 +963,18 @@
     {cw 1.0}
 )
 {"mp/jap/kamikaze" ("kamikaze" side(jap))}
+
+
+
+
+(define "aagunner"
+    {tags   "aagunner %side spec infantry man"}
+    {cp     5.0}
+    {score  75.0}
+    {basic}
+    {breed}
+    {cw 1.0}
+)
+{"mp/jap/aagunner" ("aagunner" side(jap))}
+
+{"mp/jap/aagunner2" ("aagunner" side(jap))}

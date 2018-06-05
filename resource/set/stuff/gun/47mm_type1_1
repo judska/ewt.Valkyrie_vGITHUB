@@ -1,6 +1,6 @@
 {from "pattern gun"		; "chi-ha47"
 	{filling "bullet47"}
-	{fireSound "gun/47mm_type97"}
+	{fireSound "gun/47mm_sa1937"}
 	{reloadSound "gun_r02"}
 	{rechargeTime 3.3}
 	("range_medium")

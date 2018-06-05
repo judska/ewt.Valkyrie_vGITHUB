@@ -7,6 +7,7 @@
 	{Weaponry
 		{place "mgun"
 			{weapon "browning" filled}
+			{Rotate}
 		}
 	}
 {boarder

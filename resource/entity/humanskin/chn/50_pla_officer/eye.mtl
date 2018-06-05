@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/humanskin/chi/pla_m_ar_eye_001_d"}
+	{specular "$/humanskin/chi/pla_m_ar_eye_001_d"}
+	{color "229 229 229 25"}
+	{blend none}
+}

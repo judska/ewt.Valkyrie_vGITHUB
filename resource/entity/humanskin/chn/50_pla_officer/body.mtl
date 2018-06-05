@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/humanskin/chi/50_pla_soldier"}
+	{bump "$/humanskin/chi/50_pla_soldier_bp"}
+	{specular "$/humanskin/chi/50_pla_soldier_sp"}
+	{color "229 229 229 25"}
+	{blend none}
+}

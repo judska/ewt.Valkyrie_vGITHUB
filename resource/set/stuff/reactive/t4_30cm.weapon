@@ -7,7 +7,7 @@
 	
 	{fireSound "reactive/hato"}
 	{spreading
-		{SpreadRadius 5.0}
+		{SpreadRadius 10.0}
 	}
 	{aimtype adaptive}
 	{gravity 1}

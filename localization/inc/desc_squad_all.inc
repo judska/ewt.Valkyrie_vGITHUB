@@ -197,7 +197,7 @@
 		{"smgs3(chn)" "Demolition specialists"}
 	    {"smgs3(anz)" "Demolition specialists"}
         {"elites2(eng)" "Veteran rifleman"}
-		{"elites2(ger)" "Veteran machine gunner"}
+		{"elites2(ger)" "Veteran smg"}
 		{"elites2(jap)" "Veteran smg"}
 		{"elites2(rus)" "Veteran rifleman"}
 		{"elites2(usa)" "Veteran rifleman"}
@@ -315,16 +315,15 @@
 		{"hero5_eng" "Royal Commandos"}
 		{"hero6_eng" "Cromwell Mk. VI"}
 		{"hero7_eng" "Radio Operator"}
-		{"hero8_eng" "Royal Artillery"}
+		{"hero8_eng" "Royal Anti-Tank"}
 		{"hero9_eng" "M4A4 Tulip"}
 		{"hero10_eng" "Churchill Crocodile"}
 		{"hero11_eng" "Churchill AVRE"}
-                {"hero11_eng1" "5 Inch Gun Naval Barrage"}
 		{"hero12_eng" "Black Prince"}
 
 		{"hero1_ger" "<c(ee852f)><e(shadow)>Veteran Sniper</e></c>"}
 		{"hero2_ger1" "German Youth"}
-		{"hero3_ger1" "Blitzkrieg!"}
+		{"hero3_ger1" "Panzerjager"}
 		{"hero4_ger" "<c(ee852f)><e(shadow)>Brandenburger</e></c>"}
         {"hero5_ger" "Fallschirmjager"}
 		{"hero6_ger" "Nebelwerfer 41"}
@@ -341,7 +340,7 @@
 		{"hero4_jap" "Homeland Fury"}
 		{"hero5_jap1" "Na-To"}
 	    {"hero6_jap" "Type 97 Mortar"}
-	    {"hero7_jap1" "Triple-A Gunners"}
+	    {"hero7_jap1" "Type 96 AA"}
 		{"hero8_jap" "Marine Paratroopers"}
 		{"hero9_jap" "Radio Operator"}
 		{"hero10_jap" "Banzai!"}
@@ -391,7 +390,7 @@
 		{"hero2_fra" "Dunkirk Rearguard"}
 		{"hero3_fra" "<c(ee852f)><e(shadow)>Viva La France!</e></c>"}
 		{"hero4_fra" "Renault DCA 37mm Shneider"}
-        {"hero5_fra" "Sikorski's Poles"}	
+        {"hero5_fra" "Polish Brigade"}	
         {"hero6_fra" "Demi Brigade"}
 		{"hero7_fra" "Puissance Filloux"}
 		{"hero8_fra" "Char-Bis Revolver"}
@@ -431,7 +430,7 @@
         {"hero2_chn" "PzKpfw I Ausf.B"}
         {"hero3_chn" "Willys AT"}
         {"hero4_chn" "Guerilla Uprising"}
-        {"hero4_chn1" "Red Squadron"}
+        {"hero4_chn1" "People's Liberation Army"}
         {"hero5_chn" "<c(ee852f)><e(shadow)>Korean Rebels</e></c>"}
         {"hero6_chn" "SU-12"}
         {"hero7_chn" "Burma Road Soliders"}
