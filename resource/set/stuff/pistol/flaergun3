@@ -2,7 +2,7 @@
 	{filling "ammo flaer2" 15}
 	{entity "flaergun"}
 	{fireSound	"pistol/flaer"}
-	{range 100 110}
+	{range 130 140}
 	{gravity 2}
 	{curve "cumulative"}
 	{projectileDamage 1}
