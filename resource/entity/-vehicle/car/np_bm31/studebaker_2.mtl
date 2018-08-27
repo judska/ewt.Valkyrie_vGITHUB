@@ -1,4 +1,0 @@
-{material simple
-	{diffuse "$/model/all_wheels01"}
-	{blend test}
-}

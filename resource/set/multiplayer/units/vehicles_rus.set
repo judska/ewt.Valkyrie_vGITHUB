@@ -28,17 +28,19 @@
 
 {"su122"            ("v" c(0) t(all artillery) 			 s(rus) n1(3) n2(1) g(c10) sc(750.00) b(v2) cw(0) cp(20)) {level 1} {cost 750} {fore 1.0}}
 {"isu152"           ("v"  c(0) t(all artillery heavyart) s(rus) n1(4) n2(1) g(c11) sc(1210.00) b(v2) cw(0) cp(30)) {level 1} {cost 1210} {fore 1.0}} 	
-{"bm13"             ("vs" c(0) t(all artillery heavyart) s(rus) n(2) g(c12) sc(800) b(v2) cw(0) cp(20)) {level 18} {cost 800} {fore 1.0}}
+{"bm_8_24"             ("vs" c(0) t(all artillery heavyart) s(rus) n(3) g(c12) sc(800) b(v2) cw(0) cp(30)) {level 18} {cost 800} {fore 1.0}}
 
 
 ;같캛utton 3같�
 
 {"ba64"             ("v" c(150) t(all light) 		s(rus) n1(1) n2(1) g(d1) sc(130.00)  b(v3) cw(0) cp(5)) {level 1} {cost 130} {fore 0.6}}
 {"ba11"             ("v" c(150) t(all light) 		s(rus) n1(3) n2(1) g(d2) sc(170.00) b(v3) cw(0) cp(5)) {level 1} {cost 170} {fore 0.4}}
-{"t70"              ("v" c(150) t(all light) 		s(rus) n1(1) n2(1) g(d5) sc(270.00) b(v3) cw(0) cp(5)) {level 1} {cost 270} {fore 0}}
+{"t26"              ("v" c(150) t(all light arcade) s(rus) n1(2) n2(1) g(d3) sc(200) b(v3) cw(0) cp(5)) {level 1} {cost 200} {fore 0}}
 
-{"t60"              ("v" c(210) t(all light) 		s(rus) n1(1) n2(1) g(d6) sc(280.00) b(v3) cw(0) cp(5)) {level 1} {cost 280} {fore 0}}
+{"t70"              ("v" c(150) t(all light) 		s(rus) n1(1) n2(1) g(d5) sc(270.00) b(v3) cw(0) cp(5)) {level 1} {cost 270} {fore 0}}
+{"t60"              ("v" c(210) t(all light) 		s(rus) n1(1) n2(1) g(d6) sc(260.00) b(v3) cw(0) cp(5)) {level 1} {cost 260} {fore 0}}
 {"bt7a"             ("v" c(150) t(all medium) 		s(rus) n1(2) n2(1) g(d1) sc(300.00) b(v3) cw(0) cp(10)) {level 1} {cost 300} {fore 1.0}}
+
 {"zsu37"            ("v" c(210) t(all medium) 		s(rus) n1(3) n2(1) g(d7) sc(320.00) b(v3) cw(0) cp(15)) {level 1} {cost 320} {fore 0}}
 
 
@@ -55,7 +57,8 @@
 {"kv85"             ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e7) sc(930.00) b(v4) cw(0) cp(25)) {level 1} {cost 930} {fore 1.0}}
 {"is1"              ("v" c(0) t(all heavy) 		    s(rus) n1(3) n2(1) g(e8) sc(1000.00) b(v4) cw(0) cp(25)) {level 1} {cost 1000} {fore 1.0}} 	
 {"is2"              ("v" c(0) t(all heavy) 		    s(rus) n1(4) n2(1) g(e9) sc(1300.00) b(v4) cw(0) cp(30)) {level 1} {cost 1300} {fore 1.0}}
-	
+
+{"is3"              ("v" c(0) t(all sheavy arcade) 	s(rus) n1(4) n2(1) g(e10) sc(2200) b(v4) cw(0) cp(40)) {level 1} {cost 2200} {fore 1.0}} 		
 
 ;같캛utton 5같�
 
@@ -72,16 +75,16 @@
 
 {"hero1_rus"        ("i1" c(120)			     t(all hero) s(rus) n1(scout:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero2_rus"        ("i2" c(120)			     t(all hero) s(rus) n1(smg3:3) n2(flamer3:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
-{"hero4_rus"        ("v1" c(240) c1(gaz67)       t(all hero) s(rus) n1(sniper2:2) n2(tankman2:0) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"hero4_rus"        ("v1" c(240) c1(gaz67)       t(all hero) s(rus) n1(sniper2:2) n2(tankman2:0) g(h1) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 
 {"hero5_rus"        ("i3" c(240)			     t(all hero) s(rus) n1(elite4:4) n2(elite5:2) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero6_rus"        ("i2" c(240) 		         t(all hero) s(rus) n1(squadleader:1) n2(rifle3:19) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
-{"hero3_rus1"       ("v4" c(360) c1(m3) 		 t(all hero) s(rus) n1(elite:5) n2(elite2:2) n3(elite3:2) n4(elite_at:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
+{"hero3_rus1"       ("v4" c(360) c1(m3) 		 t(all hero) s(rus) n1(elite:5) n2(elite2:2) n3(elite3:2) n4(elite_at:1) g(h2) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
 
 {"hero7_rus"        ("2v" c(480) c1(t20) c2(bs3) t(all hero) s(rus) n1(vehicle_supporter:2) n2(vehicle_supporter:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero8_rus"        ("i2" c(480)		         t(all hero) s(rus) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero9_rus"        ("v1" c(600) c1(kv2) 	     t(all hero) s(rus) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 
-{"hero10_rus"       ("v1" c(600) c1(bm_8_24)	 t(all hero) s(rus) n1(tankman:1) n2(tankman2:1) g(h5) b(hero)) {level 15} {cost 5.0} {fore -0.5}}
-{"hero11_rus"       ("v2" c(1080) c1(is2_berlin) t(all hero) s(rus) n1(tankman:4) n2(smg6:4) g(h9) b(hero)) {level 20} {cost 9.0} {fore -0.5}}
+{"hero10_rus"       ("v1" c(600) c1(bm13)	 t(all hero) s(rus) n1(tankman:1) n2(tankman2:1) g(h5) b(hero)) {level 15} {cost 5.0} {fore -0.5}}
+{"hero11_rus1"        ("v23" c(720) c1(t34_3_siberian) 		t(all hero) s(rus) n1(tankman:3) n2(tankman:1) n3(smg6:4) g(h7) b(hero)) {level 20} {cost 6.0} {fore -0.5}}
 {"hero12_rus"  	    ("v1" c(1080) c1(203b4)      t(all hero) s(rus) n1(vehicle_supporter:2) n2(tankman2:0) g(h9) b(hero)) {level 1} {cost 9.0} {fore -0.5}}

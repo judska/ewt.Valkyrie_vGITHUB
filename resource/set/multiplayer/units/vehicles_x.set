@@ -10,7 +10,7 @@
 {"churchill_avre"  		("extra" t() sc(1000.00) cw(0) cp(30))}	;6
 {"black_prince"  		("extra" t() sc(1350.00) cw(0) cp(30))}	;9
 
-{"panzerjager"          ("extra" t() sc(180.00) cw(0) cp(10))}	;4
+{"panzerjager"          ("extra" t() sc(180.00) cw(0) cp(15))}	;4
 {"nebelwerfer41"        ("extra" t() sc(440.00) cw(0) cp(10))}	;4
 {"stuh42"	        	("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"pak43"        		("extra" t() sc(750.00) cw(0) cp(15))}	;5
@@ -28,8 +28,8 @@
 {"m3"        	        ("extra" t() sc(150.00) cw(0) cp(5))}	;1
 {"bs3"        			("extra" t() sc(700.00) cw(0) cp(15))}	;4
 {"kv2"        			("extra" t() sc(750.00) cw(0) cp(30))}	;5
-{"bm_8_24"        		("extra" t() sc(750.00) cw(0) cp(15))}	;5
-{"t34_1"        	    ("extra" t() sc(700.00) cw(0) cp(15))}	;6
+{"bm13"        		("extra" t() sc(800.00) cw(0) cp(16))}	;5
+{"t34_3_siberian"        	    ("extra" t() sc(700.00) cw(0) cp(15))}	;6
 {"203b4"        		("extra" t() sc(2000.00) cw(0) cp(40))}	;10
 
 {"m8_howitzer"        	("extra" t() sc(150.00) cw(0) cp(5))}	;1
@@ -126,5 +126,6 @@
 {"t20_fin"  			("extra" t() sc(0.00) cw(0) cp(0))}
 
 {"fiat35"  			    ("extra" t() sc(0.00) cw(0) cp(0))}
+
 
 

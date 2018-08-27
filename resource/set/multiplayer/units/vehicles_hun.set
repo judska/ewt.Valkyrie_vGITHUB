@@ -56,18 +56,20 @@
 
 {"hero1_hun"         ("v1" c(120) c1(csaba39m)	        t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h1) b(hero))) {level 1} {cost 1.0} {fore -0.5}}
 {"hero2_hun"         ("i2" c(120)			            t(all hero) s(hun) n1(smg4:3) n2(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
-{"hero3_hun"         ("i3" c(240)			            t(all hero) s(hun) n1(elite4:4) n2(elite5:2) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"hero3_hun"         ("i3" c(240)			            t(all hero) s(hun) n1(rifle4:8) n2(rifle3:8) g(h1) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 
-{"hero4_hun"         ("i2" c(240)  	                    t(all hero) s(hun) n1(rifle4:8) n2(rifle3:8) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"hero4_hun"         ("i2" c(240)  	                    t(all hero) s(hun) n1(elite4:4) n2(elite5:2) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+
 {"hero5_hun"         ("v1" c(240) c1(sdkfz250_9_hun) 	t(all hero) s(hun) n1(tankman:2) n2(tankman2:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}  
-{"hero6_hun"         ("v1" c(360) c1(hetzer_hun) 	    t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
+{"heronew5_hun1"         ("v1" c(240) c1(pak40_hun) 	t(all hero) s(hun) n1(vehicle_supporter:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}  
 
+{"hero6_hun"         ("v1" c(360) c1(hetzer_hun) 	    t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
 {"hero7_hun"         ("v1" c(360) c1(turan2) 		    t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}  
 {"hero8_hun"         ("v4" c(360) c1(np_sdkfz251_hun) 	t(all hero) s(hun) n1(elite:4) n2(elite2:2) n3(elite3:2) n4(elite_at:2) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}} 
-{"hero9_hun"         ("i2" c(480)                       t(all hero) s(hun) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 
+{"hero9_hun"         ("i2" c(480)                       t(all hero) s(hun) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero10_hun"        ("2v" c(480) c1(np_sig33)	        t(all hero) s(hun) n1(vehicle_supporter:2) n2(vehicle_supporter:0) g(h4) b(hero))) {level 1} {cost 4.0} {fore -0.5}}
 {"hero12_hun"        ("v1" c(840) c1(brummbar)       	t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h7) b(hero)) {level 1} {cost 7.0} {fore -0.5}}
-{"hero11_hun"        ("v1" c(1080) c1(pz6b) 		    t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h9) b(hero)) {level 1} {cost 9.0} {fore -0.5}}
+
   
  

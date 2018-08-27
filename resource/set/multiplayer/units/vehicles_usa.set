@@ -1,4 +1,4 @@
-;----- USA -----
+﻿;----- USA -----
 
 
 ;°°°Button 1°°°
@@ -28,6 +28,7 @@
 
 {"m7"               ("v" c(0) t(all artillery) 		s(usa) n1(3) n2(1) g(c10) sc(660.00) b(v2) cw(0) cp(12)) {level 12} {cost 660} {fore 1.0}}
 {"m12gmc"           ("v" c(0) t(all artillery heavyart) s(usa) n1(3) n2(1) g(c11) sc(900.00) b(v2) cw(0) cp(12)) {level 15} {cost 900} {fore 1.0}}
+{"m4a3_105" 	     ("v" c(0) t(all artillery heavyart) s(usa) n1(4) n2(1) g(c12) sc(900.00) b(v2) cw(0) cp(22)) {level 18} {cost 900} {fore 1.0}}
 {"m4a3c"            ("v" c(0) t(all artillery heavyart) s(usa) n1(3) n2(1) g(c12) sc(1600.00) b(v2) cw(0) cp(22)) {level 18} {cost 1600} {fore 1.0}}
 
 
@@ -66,13 +67,15 @@
 {"hero2_usa"       ("i2" c(120)			                        t(all hero) s(usa) n1(rifle:5) n2(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero3_usa1"      ("i3" c(120)			                        t(all hero) s(usa) n1(elite7:2) n2(elite8:1) n3(elite9:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
-{"hero5_usa1"      ("v1" c(240)  c1(m15a1) 	                    t(all hero) s(usa) n1(tankman:3) n2(tankman2:1) g(h2) b(hero)) {level 2} {cost 2.0} {fore -0.5}}
-{"hero6_usa"       ("i2" c(240)					                t(all hero) s(usa) n1(scout:2) n2(scout2:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"hero3_usa2"      ("v1" c(120)	 c1(gmc_art)		                        t(all hero) s(usa) n1(vehicle_supporter:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero4_usa"       ("i4" c(240)	 		                        t(all hero) s(usa) n1(elite4:3) n2(elite5:4) n3(elite6:1) n4(elite10:1) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
+{"hero5_usa1"      ("v1" c(240)  c1(m15a1) 	                    t(all hero) s(usa) n1(tankman:3) n2(tankman2:1) g(h2) b(hero)) {level 2} {cost 2.0} {fore -0.5}}
 
+
+{"hero6_usa"       ("i2" c(240)					                t(all hero) s(usa) n1(scout:2) n2(scout2:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero7_usa"       ("v1" c(360)  c1(m4a3_zippo) 	            t(all hero) s(usa) n1(tankman:4) n2(tankman2:1) g(h3) b(hero)) {level 2} {cost 3.0} {fore -0.5}}
 {"hero8_usa"       ("i2" c(480)			                        t(all hero) s(usa) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 5} {cost 4.0} {fore -0.5}}
-{"hero9_usa"       ("v1" c(600)  c1(m4a3_105) 	                t(all hero) s(usa) n1(tankman:4) n2(tankman2:1) g(h5) b(hero)) {level 2} {cost 5.0} {fore -0.5}}
+
 
 {"hero10_usa"  	   ("v1" c(600)  c1(m4a3e8_fury) 	            t(all hero) s(usa) n1(tankman:4) n2(tankman2:1) g(h5) b(hero)) {level 15} {cost 5.0} {fore -0.5}}
 {"hero11_usa"      ("2v" c(600)  c1(m4hst) c2(155mm_longtom) 	t(all hero) s(usa) n1(vehicle_supporter:3) n2(vehicle_supporter:2) g(h5) b(hero)) {level 15} {cost 5.0} {fore -0.5}}

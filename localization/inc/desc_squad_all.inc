@@ -315,7 +315,7 @@
 		{"hero5_eng" "Royal Commandos"}
 		{"hero6_eng" "Cromwell Mk. VI"}
 		{"hero7_eng" "Radio Operator"}
-		{"hero8_eng" "Royal Anti-Tank"}
+		{"hero8_eng" "Royal Artillery"}
 		{"hero9_eng" "M4A4 Tulip"}
 		{"hero10_eng" "Churchill Crocodile"}
 		{"hero11_eng" "Churchill AVRE"}
@@ -323,7 +323,7 @@
 
 		{"hero1_ger" "<c(ee852f)><e(shadow)>Veteran Sniper</e></c>"}
 		{"hero2_ger1" "German Youth"}
-		{"hero3_ger1" "Panzerjager"}
+		{"hero3_ger1" "BlitzKrieg!"}
 		{"hero4_ger" "<c(ee852f)><e(shadow)>Brandenburger</e></c>"}
         {"hero5_ger" "Fallschirmjager"}
 		{"hero6_ger" "Nebelwerfer 41"}
@@ -340,7 +340,7 @@
 		{"hero4_jap" "Homeland Fury"}
 		{"hero5_jap1" "Na-To"}
 	    {"hero6_jap" "Type 97 Mortar"}
-	    {"hero7_jap1" "Type 96 AA"}
+	    {"hero7_jap" "Marine Tank"}
 		{"hero8_jap" "Marine Paratroopers"}
 		{"hero9_jap" "Radio Operator"}
 		{"hero10_jap" "Banzai!"}
@@ -356,13 +356,14 @@
         {"hero7_rus" "BS-3"}
 		{"hero8_rus" "Radio Operator"}
 		{"hero9_rus" "KV-2"}
-		{"hero10_rus" "BM-8-24"}
-		{"hero11_rus" "To Berlin!"}
-		{"hero12_rus" "203mm B-4M"}
+		{"hero10_rus" "Stalin's Organs"}
+		{"hero11_rus1" "Siberian Front"}
+		{"hero12_rus" "203mm Assault Gun"}
 
 		{"hero1_usa" "M8 Howitzer"}
 		{"hero2_usa" ".30 cal Browning A6"}
 		{"hero3_usa1" "Marauders"}
+		{"hero3_usa2" "Mass Production!"}
 		{"hero4_usa" "U.S. Marines"}
 		{"hero5_usa1" "M15 \"Special\""}
 		{"hero6_usa" "<c(ee852f)><e(shadow)>Devil's Brigade</e></c>"}
@@ -373,11 +374,12 @@
 		{"hero11_usa" "M1 155mm Long Tom"}
 		{"hero12_usa" "Super Pershing"}
 
-        {"hero1_hun" "Csaba 39m"}
+        {"hero1_hun" "Csaba 40m"}
 		{"hero2_hun" "Calarasi"}
-		{"hero3_hun" "Szent Laszlo Infantry"}
-		{"hero4_hun" "<c(ee852f)><e(shadow)>Arrow Cross Fanatics</e></c>"}
+		{"hero3_hun" "Arrow Cross Fanatics"}
+		{"hero4_hun" "<c(ee852f)><e(shadow)>Szent Laszlo Div.</e></c>"}
 		{"hero5_hun" "SdKfz 250/9"}
+		{"heronew5_hun1" "Hold Buda!"}
 		{"hero6_hun" "Hetzer"}
 		{"hero7_hun" "Turan 2"}
 		{"hero8_hun" "Rapid Corps"}
@@ -400,19 +402,19 @@
 		{"hero12_fra" "AMX-50/100"}
 
         {"hero1_fin" "Swedish Volunteers"}
-        {"hero2_fin" "Indirect Maxim Support"}
+        {"hero2_fin" "MG Nest"}
         {"hero3_fin" "Trench Clearers"}
         {"hero4_fin" "76mm M1909"}
         {"hero5_fin" "<c(ee852f)><e(shadow)>White Death</e></c>"}
         {"hero6_fin" "Prototype BT-42"}
-        {"hero7_fin" "Toerni Detachement"}
+        {"hero7_fin" "Torni Detachement"}
         {"hero8_fin" "Radio Operator"}
         {"hero9_fin" "Nebelwefer 42"}
         {"hero10_fin" "Modified KV-1"}
         {"hero11_fin" "Captured SU-152"}
         {"hero12_fin" "Pin-Prick Artillery"}
 
-        {"hero1_ita" "Polizia Militare"}
+        {"hero1_ita" "Libyan Infantry"}
         {"hero2_ita" "Caccia Carri"}
         {"hero3_ita" "Carro Armato L35/L.F."}
         {"hero4_ita" "45mm Brixia Modello 35"}

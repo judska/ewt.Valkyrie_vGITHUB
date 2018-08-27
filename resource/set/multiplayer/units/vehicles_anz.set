@@ -43,7 +43,7 @@
 {"m3grant_anz"      ("v" c(0) t(all medium)	        s(anz) n1(3) n2(1) g(e2) sc(350.00) b(v4) cw(0) cp(15)) {level 1} {cost 350} {fore 1.0}}
 {"ram"              ("v" c(0) t(all medium)	        s(anz) n1(3) n2(1) g(e2) sc(550.00) b(v4) cw(0) cp(15)) {level 1} {cost 550} {fore 1.0}}
 
-{"m4a4_firefly"     ("v" c(0) t(all medium) 	    s(anz) n1(3) n2(1) g(e4) sc(780.00) b(v4) cw(0) cp(15)) {level 1} {cost 780} {fore 1.0}}
+{"m4a4_firefly_veteran"     ("v" c(0) t(all medium) 	    s(anz) n1(3) n2(1) g(e4) sc(780.00) b(v4) cw(0) cp(15)) {level 1} {cost 780} {fore 1.0}}
 
 
 ;°°°Button 5°°°
