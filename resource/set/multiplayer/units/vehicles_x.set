@@ -10,7 +10,7 @@
 {"churchill_avre"  		("extra" t() sc(1000.00) cw(0) cp(30))}	;6
 {"black_prince"  		("extra" t() sc(1350.00) cw(0) cp(30))}	;9
 
-{"panzerjager"          ("extra" t() sc(180.00) cw(0) cp(15))}	;4
+{"pz3f"          ("extra" t() sc(180.00) cw(0) cp(15))}	;4
 {"nebelwerfer41"        ("extra" t() sc(440.00) cw(0) cp(10))}	;4
 {"stuh42"	        	("extra" t() sc(750.00) cw(0) cp(15))}	;5
 {"pak43"        		("extra" t() sc(750.00) cw(0) cp(15))}	;5

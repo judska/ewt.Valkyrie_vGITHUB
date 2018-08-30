@@ -55,7 +55,7 @@
 ;°°°Button Hero°°°
 
 {"hero1_fin"            ("i3" c(120)				     t(all hero) s(fin) n1(smg2:3) n2(rifle2:3) n3(mgun3:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
-{"hero2_fin"            ("v1" c(120) c1(maxim_1910_30)  	 t(all hero) s(fin) n1(vehicle_supporter:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
+{"hero2_fin"            ("v1" c(120) c1(maxim_1910_30)  	 t(all hero) s(fin) n1(vehicle_supporter:2) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero3_fin"            ("i3" c(240)					 t(all hero) s(fin) n1(elite4:2) n2(elite5:6) n3(elite6:2) g(h1) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 
 {"hero5_fin"            ("i1" c(240)					 t(all hero) s(fin) n1(sniper2:1)  g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
