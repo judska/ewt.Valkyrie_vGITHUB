@@ -54,7 +54,8 @@
 {"b1bis_2"        		 ("extra" t() sc(600.00) cw(0) cp(15))}	;4
 {"amx-13-90"             ("extra" t() sc(800.00) cw(0) cp(15))} ;5
 {"155gpf2"               ("extra" t() sc(500.00) cw(0) cp(15))} ;6
-{"amx50-100"        	 ("extra" t() sc(1500.00) cw(0) cp(35))} ;8
+{"m4a3e2_falgayrac"        	 ("extra" t() sc(1400.00) cw(0) cp(35))} ;8
+
 
 {"maxim_ind"        	 ("extra" t() sc(75.00) cw(0) cp(2.5))}	;1
 {"76mm_m1909_fin"	     ("extra" t() sc(350.00) cw(0) cp(10))}	;2

@@ -42,10 +42,11 @@
 
 {"d2"                   ("v" c(0) t(all medium) 	s(fra) n1(2) n2(1) g(e3) sc(275.00) b(v4) cw(0) cp(15)) {level 1} {cost 275} {fore 1.0}}
 {"s35"                  ("v" c(0) t(all medium) 	s(fra) n1(2) n2(1) g(e4) sc(290.00) b(v4) cw(0) cp(15)) {level 1} {cost 290} {fore 1.0}}
-{"b1bis"                ("v" c(0) t(all heavy) 	    s(fra) n1(3) n2(1) g(e5) sc(390.00) b(v4) cw(0) cp(15)) {level 1} {cost 390} {fore 1.0}} 
+{"b1bis"                ("v" c(0) t(all heavy) 	        s(fra) n1(3) n2(1) g(e5) sc(390.00) b(v4) cw(0) cp(15)) {level 1} {cost 390} {fore 1.0}} 
 
-{"b1bis_3"              ("v" c(0) t(all heavy)    	s(fra) n1(3) n2(1) g(e6) sc(530.00) b(v4) cw(0) cp(15)) {level 1} {cost 530} {fore 1.0}} 
-{"arl44"                ("v" c(0) t(all sheavy) 	s(fra) n1(3) n2(1) g(e6) sc(1530.00) b(v4) cw(0) cp(30)) {level 1} {cost 1530} {fore 1.0}} 
+{"b1bis_3"              ("v" c(0) t(all heavy)    	s(fra) n1(3) n2(1) g(e6) sc(530.00) b(v4) cw(0) cp(15)) {level 1} {cost 530} {fore 1.0}}
+{"m4a3e8_fra"           ("v" c(0) t(all medium) 	s(fra) n1(3) n2(1) g(e6) sc(650.00) b(v4) cw(0) cp(15)) {level 1} {cost 650} {fore 1.0}} 
+{"arl44"                ("v" c(0) t(all sheavy) 	s(fra) n1(3) n2(1) g(e6) sc(1530.00) b(v4) cw(0) cp(30)) {level 1} {cost 1530} {fore 1.0}}
  
 
 ;°°°Button 5°°°
@@ -68,7 +69,7 @@
 {"hero8_fra"       ("v1" c(360) c1(b1bis_2)             t(all hero) s(fra) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
 {"hero9_fra"       ("i2" c(480)	                        t(all hero) s(fra) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 
-{"hero10_fra"      ("v1" c(600) c1(amx-13-90)           t(all hero) s(fra) n1(tankman:2) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
+{"hero10_fra"      ("2v" c(600) c1(universal_carrier) c2(vickers)           t(all hero) s(fra) n1(vehicle_supporter:3) n2(vehicle_supporter:2) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 {"hero11_fra"      ("4v" c(600) c1(105mm_m1913)		    t(all hero) s(fra) n1(vehicle_supporter:2) n2(vehicle_supporter:0) g(h6) b(hero)) {level 20} {cost 5.0} {fore -0.5}}
-{"hero12_fra"  	   ("v1" c(960) c1(amx50-100)           t(all hero) s(fra) n1(tankman:3) n2(tankman2:1) g(h8) b(hero)) {level 1} {cost 8.0} {fore -0.5}}
+{"hero12_fra"  	   ("v1" c(960) c1(m4a3e2_falgayrac)           t(all hero) s(fra) n1(tankman:3) n2(tankman2:1) g(h8) b(hero)) {level 1} {cost 8.0} {fore -0.5}}
 

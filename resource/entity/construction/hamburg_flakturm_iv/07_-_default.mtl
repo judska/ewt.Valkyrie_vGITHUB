@@ -1,4 +1,0 @@
-{material simple
-	{diffuse "wall_exterior"}
-	{blend none}
-}

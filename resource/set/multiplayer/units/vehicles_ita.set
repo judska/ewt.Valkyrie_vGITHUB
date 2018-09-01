@@ -19,7 +19,7 @@
 
 {"cannone4732"               ("vs" c(0) t(all cannon) 	        s(ita) n(2) g(c4) sc(180.00)  b(v2) cw(2) cp(10)) {level 1} {cost 180} {fore 1.0}}
 {"cannone7532"               ("vs" c(0) t(all cannon mediumcan) s(ita) n(2) g(c5) sc(280.00) b(v2) cw(2) cp(15)) {level 1} {cost 280} {fore 1.0}}
-{"cannone7546"               ("vs" c(0) t(all cannon) 	        s(ita) n(2) g(c4) sc(140.00)  b(v2) cw(2) cp(5)) {level 1} {cost 140} {fore 1.0}}
+{"cannone7546"               ("vs" c(0) t(all cannon) 	        s(ita) n(4) g(c4) sc(340.00)  b(v2) cw(2) cp(5)) {level 1} {cost 340} {fore 1.0}}
 
 {"cannone9053"               ("vs" c(0) t(all canonn heavycan) 	s(ita) n(2) g(c6) sc(670.00) b(v2) cw(2) cp(10)) {level 1} {cost 670} {fore 1.0}} 
 ("how" side(ita) name(how_b) c(0) c1(fiat35) c2(lefh18)  	    t(all artillery) g(c8) b(v2) level(6) cost(650) f(1.0))
@@ -33,7 +33,7 @@
 {"l640"            ("v" c(210) t(all light) 		s(ita) n1(1) n2(1) g(d3) sc(250.00) b(v3) cw(0) cp(5)) {level 1} {cost 250} {fore 0}} 
 
 {"m1441"           ("v" c(150) t(all light)         s(ita) n1(4) n2(1) g(d4) sc(250.00)  b(v3) cw(0) cp(5)) {level 1} {cost 250} {fore 0.6}}
-{"pz38tita"        ("v" c(150) t(all light) 	    s(ita) n1(3) n2(1) g(e1) sc(255.00) b(v3) cw(0) cp(5)) {level 1} {cost 255} {fore 1.0}}
+{"p38tita"        ("v" c(150) t(all light) 	    s(ita) n1(3) n2(1) g(e1) sc(255.00) b(v3) cw(0) cp(5)) {level 1} {cost 255} {fore 1.0}}
 {"fiataa35"        ("v" c(180) t(all light)      	s(ita) n1(3) n2(1) g(d6) sc(180.00) b(v3) cw(0) cp(5)) {level 1} {cost 180} {fore 0}}
 
  

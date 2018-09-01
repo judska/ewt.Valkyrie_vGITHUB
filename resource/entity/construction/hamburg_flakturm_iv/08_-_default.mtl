@@ -1,4 +1,0 @@
-{material simple
-	{diffuse "stairs_floor"}
-	{blend none}
-}

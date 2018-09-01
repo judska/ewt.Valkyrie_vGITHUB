@@ -48,7 +48,6 @@
 {"ho-i"             ("v" c(0) t(all medium) 		s(jap) n1(3) n2(1) g(e2) sc(350.00) b(v4) cw(0) cp(15)) {level 4} {cost 350} {fore 1.0}}
 {"chi-nu"           ("v" c(0) t(all medium) 		s(jap) n1(3) n2(1) g(e3) sc(400.00) b(v4) cw(0) cp(15)) {level 1} {cost 400} {fore 1.0}}
 
-{"chi-ha120"        ("v" c(0) t(all medium) 		s(jap) n1(4) n2(1) g(e4) sc(430.00) b(v4) cw(0) cp(15)) {level 1} {cost 430} {fore 1.0}}
 {"chi-to"           ("v" c(0) t(all medium) 		s(jap) n1(4) n2(1) g(e4) sc(800.00) b(v4) cw(0) cp(15)) {level 1} {cost 800} {fore 1.0}} 
 {"chi-ri"           ("v" c(0) t(all heavy) 		    s(jap) n1(4) n2(1) g(e5) sc(1320.00) b(v4) cw(0) cp(30)) {level 15} {cost 1320} {fore 1.0}} 	
 
