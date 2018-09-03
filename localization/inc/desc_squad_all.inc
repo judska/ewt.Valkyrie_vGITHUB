@@ -388,18 +388,18 @@
         {"hero11_hun" "Defend Hungary"}
 		{"hero12_hun" "Brummbar"}
 
-        {"hero1_fra" "Maginot Pillbox"}
+        {"hero1_fra" "Maginot Line"}
 		{"hero2_fra" "Dunkirk Rearguard"}
 		{"hero3_fra" "<c(ee852f)><e(shadow)>Viva La France!</e></c>"}
 		{"hero4_fra" "Renault DCA 37mm Shneider"}
-        {"hero5_fra" "Polish Brigade"}	
+        {"hero5_fra" "Polish Regiment"}	
         {"hero6_fra" "Demi Brigade"}
 		{"hero7_fra" "Puissance Filloux"}
 		{"hero8_fra" "Char-Bis Revolver"}
 		{"hero9_fra" "Radio Operator"}
-		{"hero10_fra" "AMX-13/75"}
+		{"hero10_fra" "3.7 Inch Quick Fire"}
 		{"hero11_fra" "Grand Battery"}
-		{"hero12_fra" "AMX-50/100"}
+		{"hero12_fra" "Lt.Falgayrac!"}
 
         {"hero1_fin" "Swedish Volunteers"}
         {"hero2_fin" "MG Nest"}

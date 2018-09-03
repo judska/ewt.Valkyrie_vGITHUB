@@ -3,7 +3,7 @@
 	{portrait "ita_soldier1"}
 	{icon "ita_soldier1"}
 	{icon_priority 0}
-	{nationality ita}
+	{nationality ger}
 	{armors
 		{head helmet_ger_m40_afr}
 	}
@@ -45,7 +45,7 @@
 		("veterancy_1")
 	}
 	{inventory
-		{item "mab_38a" filled}
+		{item "mp40" filled}
 		{item "ammo pistol" 500}
 		{item "bandage" 3}
 		{item "breda35" 2}

@@ -4,11 +4,13 @@
 ;°°°Button 1°°°
 
 {"willysmb_eng"     ("vs" c(60) t(all)		s(eng) n(3) g(b1) sc(110.00) b(v1) cw(0) cp(0)) {level 1} {cost 110} {fore 1.0}}
+{"np_lrdg"     ("vs" c(60) t(all)		s(eng) n(3) g(b1) sc(160.00) b(v1) cw(0) cp(0)) {level 1} {cost 160} {fore 1.0}}
 {"dodgewc55"        ("vs" c(60) t(all) 		s(eng) n(4) g(b2) sc(250.00) b(v1) cw(0) cp(0)) {level 1} {cost 250} {fore 1.0}}
-{"m3_eng"           ("vs" c(300) t(all) 	s(eng) n(2) g(b3) sc(150.00) b(v1) cw(0) cp(0)) {level 1} {cost 150} {fore 0.5}}
 
+{"m3_eng"           ("vs" c(300) t(all) 	s(eng) n(2) g(b3) sc(150.00) b(v1) cw(0) cp(0)) {level 1} {cost 150} {fore 0.5}}
 {"bedford"	        ("vs" c(60) t(all supply) 	s(eng) n(2) g(b4) sc(50.00)  b(v1) cw(0) cp(0)) {level 1} {cost 50} {fore 1.0}}
 {"bedford_art"      ("vs" c(60) t(all supply) 	s(eng) n(2) g(b5) sc(200.00)  b(v1) cw(0) cp(0)) {level 1} {cost 200} {fore 1.0}}
+
 {"bedford_eng"      ("vs" c(60) t(all supply) 	s(eng) n(2) g(b6) sc(125.00)  b(v1) cw(0) cp(0)) {level 1} {cost 125} {fore 0.0}}
 
 

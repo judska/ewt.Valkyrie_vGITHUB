@@ -5,7 +5,7 @@
 	{icon "radioman"}
 	{icon_priority 5}
 	{armors
-		{head "radioman_hat"}
+		{head "cap_fra_radiohead"}
 	}
 	{perks
 		{"health" "300%"

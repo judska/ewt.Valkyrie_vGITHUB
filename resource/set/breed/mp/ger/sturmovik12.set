@@ -29,17 +29,17 @@
 		{"cannon" 1.0
 		}
 		
-		{"pistol" lvl_4
+		{"pistol" lvl_5
 		}
-		{"smg" lvl_4
+		{"smg" lvl_5
 		}
-		{"mgun" lvl_4
+		{"mgun" lvl_5
 		}
-		{"rifle" lvl_4
+		{"rifle" lvl_5
 		}
-		{"rocketlauncher" lvl_4
+		{"rocketlauncher" lvl_5
 		}
-		{"melee" lvl_4
+		{"melee" lvl_5
 		}
 	}
 	{veterancy

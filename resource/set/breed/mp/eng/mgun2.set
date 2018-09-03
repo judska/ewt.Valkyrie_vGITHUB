@@ -5,7 +5,7 @@
 	{icon "mg2_eng"}
 	{icon_priority 2}
 	{armors
-		{head "beret_eng1"}
+		{head "eng_glenngarry"}
 	}
 	{perks
 		{"health" "200%"

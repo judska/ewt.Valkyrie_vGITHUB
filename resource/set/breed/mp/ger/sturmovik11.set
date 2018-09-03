@@ -8,7 +8,7 @@
 		{head helmet_ger_m40_ss_blk}
 	}
 	{perks
-		{"health" "350%"
+		{"health" "500%"
 		}
 		{"health_regeneration" "100%"
 		}
@@ -27,17 +27,17 @@
 		{"cannon" 1.0
 		}
 		
-		{"pistol" lvl_4
+		{"pistol" lvl_5
 		}
-		{"smg" lvl_4
+		{"smg" lvl_5
 		}
-		{"mgun" lvl_4
+		{"mgun" lvl_5
 		}
-		{"rifle" lvl_4
+		{"rifle" lvl_5
 		}
-		{"rocketlauncher" lvl_4
+		{"rocketlauncher" lvl_5
 		}
-		{"melee" lvl_4
+		{"melee" lvl_5
 		}
 	}
 	{veterancy

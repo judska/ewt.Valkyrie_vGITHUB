@@ -1,5 +1,0 @@
-{material envmap
-	{diffuse "$/model/pz6bh/pz6bh_body_am"}
-	{mask "$/model/pz6bh/pz6bh_body_gmm"}
-	{blend test}
-}

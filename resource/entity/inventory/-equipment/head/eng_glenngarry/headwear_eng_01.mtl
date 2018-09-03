@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "$/humanskin/eng_headgear_diff"}
+	{bump "$/humanskin/eng_headgear_bump"}
+	{blend none}
+}

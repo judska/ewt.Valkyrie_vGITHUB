@@ -361,4 +361,5 @@
 		{"zis5inf" "ZiS-5"}
 		{"zsu37" "ZSU-37"}
 		{"zis_30" "ZiS-30"}
+		{"m4a3e8_fra" "M4A3E8(76)W Sherman"}
 	   	;----- VAN

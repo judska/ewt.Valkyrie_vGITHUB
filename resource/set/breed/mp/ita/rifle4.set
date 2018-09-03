@@ -3,7 +3,7 @@
 	{portrait "ita_soldier1"}
 	{icon "ita_soldier1"}
 	{icon_priority 0}
-	{nationality ita}
+	{nationality ger}
 	{armors
 		{head helmet_ger_m40_afr}
 	}
@@ -45,7 +45,7 @@
 		("veterancy_1")
 	}
 	{inventory
-		{item "carcano_m91" filled}
+		{item "mauzer" filled}
 		{item "ammo rifle" 100}
 		{item "ammo mgun" 50}		
                 {item "bandage" 3}
