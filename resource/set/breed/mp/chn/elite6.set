@@ -1,12 +1,12 @@
 {breed
-	{skin "kor_rifle2"}
+	{skin "cha_elite2"}
 	{portrait "chn_elite1"}
 	{icon "riflemans1"}
 	{icon_priority 0}
 	{nationality chn}
 	{voice chn}
 	{armors
-		{head helmet1_klr}
+		{head fieldcap1_kor}
 	}
 	{perks
 		{"health" "300%"

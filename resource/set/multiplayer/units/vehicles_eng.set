@@ -30,6 +30,7 @@
 
 {"bishop"           ("v"  c(0) t(all artillery) 		s(eng) n1(3) n2(1) g(c10) sc(610.00) b(v2) cw(0) cp(15)) {level 1} {cost 610} {fore 1.0}}
 {"m7_eng"           ("v" c(0) t(all artillery heavyart) s(eng)  n1(3) n2(1) g(c11) sc(660.00) b(v2) cw(0) cp(15)) {level 1} {cost 660} {fore 1.0}}
+{"churchill_avre"   ("v" c(0) t(all artillery heavyart) s(eng) n1(3) n2(1) g(c11) sc(1000) b(v2) cw(0) cp(20)) {level 15} {cost 1000} {fore 1.0}}
 ("how" side(eng) name(land_mattress) c(0) c1(universal_carrier) c2(land_mattress)   t(all artillery heavyart) g(c12) b(v2) level(1) cost(1250) f(1.0))
 
 
@@ -72,13 +73,13 @@
 {"hero3_eng"        ("i2" c(120) 			                t(all hero) s(eng) n1(smg5:3) n2(bazooker3:3) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
 {"herogrc_eng"      ("i3" c(240)                            t(all hero) s(eng) n1(elite4:3) n2(elite5:5) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
-{"hero5_eng"        ("v4" c(360) c1(m3_eng) 		        t(all hero) s(eng) n1(elite:5) n2(elite2:2) n3(elite3:2) n4(elite_at:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
-{"hero6_eng"	    ("v1" c(480) c1(cromwell_mk_vi)         t(all hero) s(eng) n1(tankman:3) n2(tankman2:1) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
+{"hero5_eng"        ("v4" c(360) c1(m3_eng) 		        t(all hero) s(eng) n1(elite:5) n2(elite2:2) n3(elite3:2) n4(elite_at:1) g(h2) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
+{"hero6_eng"	    ("v1" c(480) c1(cromwell_mk_vi)         t(all hero) s(eng) n1(tankman:3) n2(tankman2:1) g(h2) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 
 {"hero7_eng"        ("i2" c(480)					        t(all hero) s(eng) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
+{"hero7new_eng"     ("i4" c(1480)					        t(all hero) s(eng) n1(sturmovik8:1) n2(sturmovik8b:4) n3(sturmovik9:5) g(h1) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero8_eng"        ("v2" c(600) c1(pdr25) 			        t(all hero) s(eng) n1(vehicle_supporter:2) n2(tankman2:0) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
-{"hero9_eng"	    ("v1" c(600) c1(m4a4_tulip)		        t(all hero) s(eng) n1(tankman:4) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 
+{"hero9_eng"	    ("v1" c(600) c1(m4a4_tulip)		        t(all hero) s(eng) n1(tankman:4) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 {"hero10_eng"       ("v1" c(600) c1(churchill_crocodile) 	t(all hero) s(eng) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
-{"hero11_eng"       ("v1" c(720) c1(churchill_avre)         t(all hero) s(eng) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
 {"hero12_eng"       ("v1" c(960) c1(black_prince)           t(all hero) s(eng) n1(tankman:3) n2(tankman2:1) g(h9) b(hero)) {level 1} {cost 8.0} {fore -0.5}}

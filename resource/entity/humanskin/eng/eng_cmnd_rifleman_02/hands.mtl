@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/humanskin/basearms_01_diff"}
+	{bump "$/humanskin/basearms_01_bump"}
+	{specular "$/humanskin/basearms_01_spc"}
+	{color "229 229 229 25"}
+	{blend none}
+}

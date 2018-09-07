@@ -48,7 +48,7 @@
 	}
 	{inventory
 		{item "welrod" filled}
-		{item "weapon piatrocket" filled}
+		{item "weapon bazooka" filled}
 		{item "ammo pistol" 200}
 		{item "bandage" 5}
 		{item "grenade mk1" 4}
@@ -58,7 +58,7 @@
 		{item "grenade molotov_coctail" 2}
 		{item "dynamite" 1}
 		{item "knife_union" 1}
-		{item "ammo piatrocket" 3}
+		{item "ammo bazooka" 3}
 		{in_hands 0}
 	}
 }

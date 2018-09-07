@@ -1,11 +1,11 @@
 {breed
-	{skin "ita-officer"}
+	{skin "ita-afr-eritrean-rfl"}
 	{portrait "ita_soldier1"}
 	{icon "ita_soldier1"}
 	{icon_priority 0}
 	{nationality ita}
 	{armors
-		{head cap_ita_carabinieri}
+		{head cap_ita_tabusc}
 	}
 	{perks
 		{"health" "150%"

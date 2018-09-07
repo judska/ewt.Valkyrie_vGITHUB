@@ -5,7 +5,7 @@
 	{icon "elite4"}
 	{icon_priority 3}
 	{armors
-		{head cap_eng_keffiyeh}
+		{head beret_eng_para}
 	}
 	{perks
 		{"health" "350%"
@@ -49,7 +49,6 @@
 		{item "ammo pistol" 500}
 		{item "bandage" 3}
 		{item "grenade mk1" 2}
-        {item "mask_ger_afr" 1}
 		{item "weapon piatrocket" filled}
 		{item "ammo piatrocket" 5}
 		{in_hands 0}

@@ -1,8 +1,7 @@
-{Actor
+{actor
 	(include "/properties/stuff_small.ext")
 	{extender "stuff"
-		{item "cha_cap"}
+		{item "fieldcap1_kor"}
 	}
-	{Extension "cha_cap.mdl"}
-
+	{Extension "fieldcap1_jap.mdl"}
 }

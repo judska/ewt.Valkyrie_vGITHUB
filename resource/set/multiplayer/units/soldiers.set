@@ -716,7 +716,11 @@
 {"mp/chn/sturmovik7b" ("sturmovik" side(chn))}
 {"mp/anz/sturmovik7b" ("sturmovik" side(anz))}
 
+{"mp/eng/sturmovik8" ("sturmovik" side(eng))}
 
+{"mp/eng/sturmovik8b" ("sturmovik" side(eng))}
+
+{"mp/eng/sturmovik9" ("sturmovik" side(eng))}
 
 (define "sturmovik_lowcp"
     {tags   "sturmovik %side spec infantry man"}

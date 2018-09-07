@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "$/humanskin/italian/eritrean"}
+	{color "229 229 229 152"}
+	{blend test}
+}

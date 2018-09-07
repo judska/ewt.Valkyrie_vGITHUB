@@ -5,7 +5,7 @@
 	{icon "elite4"}
 	{icon_priority 3}
 	{armors
-		{head cap_eng_keffiyeh}
+		{head beret_eng_para}
            
 	}
 	{perks
@@ -50,7 +50,6 @@
 		{item "ammo rifle" 100}
 		{item "ammo mgun" 100}
 		{item "bandage" 5}
-           {item "mask_ger_afr" 1}
 		{item "grenade mk1" 4}
 		{item "grenade n73at" 2}
 		{item "smoke grenade" 2}

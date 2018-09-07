@@ -1,11 +1,11 @@
 {breed
-	{skin "8lu_rifle3"}
+	{skin "cha_hmg1"}
 	{portrait "chn_elite1"}
 	{icon "elite_rifle"}
 	{icon_priority 0}
 	{nationality chn}
 	{armors
-		{head helmet1_chi}
+		{head helmet1_cha}
 	}
 	{perks
 		{"health" "250%"

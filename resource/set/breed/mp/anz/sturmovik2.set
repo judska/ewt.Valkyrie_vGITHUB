@@ -5,7 +5,7 @@
 	{icon "elite4"}
 	{icon_priority 3}
 	{armors
-		{head cap_eng_keffiyeh}
+		{head beret_eng_para}
 	}
 	{perks
 		{"health" "350%"
@@ -48,7 +48,6 @@
 		{item "winchester_1897_ms" filled}
 		{item "ammo shotgun" 90}
 		{item "bandage" 5}
-        {item "mask_ger_afr" 1}
 		{item "grenade mk1" 1}
 		{in_hands 0}
 	}

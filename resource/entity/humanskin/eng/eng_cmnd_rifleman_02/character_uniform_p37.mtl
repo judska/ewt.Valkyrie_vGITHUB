@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/humanskin/eng_p37tunic_diff"}
+	{bump "$/humanskin/eng_p37tunic_bump"}
+	{specular "$/humanskin/eng_p37tunic_spc"}
+	{color "229 229 229 25"}
+	{blend none}
+}

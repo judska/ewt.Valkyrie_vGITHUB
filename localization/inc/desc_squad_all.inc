@@ -280,7 +280,7 @@
 		{"stormtroopers2(chn)" "Elite AT infantry"}
 		{"stormtroopers3(chn)" "Elite support infantry"}
 		{"stormtroopers4(chn)" "Elite CQB infantry"}
-        {"stormtroopers(anz)" "SASR"}
+        {"stormtroopers(anz)" "Australian Commandos"}
 		{"stormtroopers1(anz)" "Elite marksmen"}
 		{"stormtroopers2(anz)" "Elite AT infantry"}
 		{"stormtroopers3(anz)" "Elite support infantry"}
@@ -315,6 +315,7 @@
 		{"hero5_eng" "Royal Commandos"}
 		{"hero6_eng" "Cromwell Mk. VI"}
 		{"hero7_eng" "Radio Operator"}
+		{"hero7new_eng" "<c(ee852f)><e(shadow)>1st SAS!</e></c>"}
 		{"hero8_eng" "Royal Artillery"}
 		{"hero9_eng" "M4A4 Tulip"}
 		{"hero10_eng" "Churchill Crocodile"}
@@ -431,7 +432,7 @@
         {"hero1_chn" "Hui Muslims"}
         {"hero2_chn" "PzKpfw I Ausf.B"}
         {"hero3_chn" "Willys AT"}
-        {"hero4_chn" "Guerilla Uprising"}
+        {"hero12_chn" "Guerilla Uprising"}
         {"hero4_chn1" "People's Liberation Army"}
         {"hero5_chn" "<c(ee852f)><e(shadow)>Korean Rebels</e></c>"}
         {"hero6_chn" "SU-12"}

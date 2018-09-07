@@ -1,0 +1,52 @@
+;Exported by: Kalinski
+;Date:        Sun Oct 08 21:58:57 2017
+;File:        C:\Users\Kalinski\Desktop\modshit\ita\tabusc exp.max
+{Skeleton
+	{bone "cap_ita_tabusc"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "cap_ita_tabusc.ply"}
+	}
+}
+{Volume "body"
+	{Polyhedron "body.vol"}
+	{Bone "cap_ita_tabusc"}
+	{Position 0	6.15179	0}
+}
+{Volume "select"
+	{Box 5.59662 5.08766 5.14459}
+	{Bone "cap_ita_tabusc"}
+	{Matrix34
+		1.0387	0	0
+		0	1.0387	0
+		0	0	1.0387
+		0.485603	0.260123	4.6627
+	}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 5.95561	-5.24393	4.63832}
+			{lookat 0.683383	-0.262597	4.57601}
+			{fov 45}
+			{horizon -0.239848}
+		}
+		{lights
+			{"0"
+				{type directional}
+				{direction -0.362654	0.341561	-0.042641}
+			}
+			{"1"
+				{type point}
+				{position 1.3762	-2.3209	5.06038}
+			}
+			{"2"
+				{type point}
+				{position 2.83572	-1.25747	4.28831}
+			}
+		}
+	}
+}

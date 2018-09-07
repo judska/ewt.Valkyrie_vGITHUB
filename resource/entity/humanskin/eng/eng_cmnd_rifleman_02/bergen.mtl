@@ -1,0 +1,5 @@
+{material bump
+	{diffuse "$/humanskin/eng_bergen_diff"}
+	{bump "$/humanskin/eng_bergen_bump"}
+	{blend none}
+}

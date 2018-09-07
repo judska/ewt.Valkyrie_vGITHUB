@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/humanskin/cha/zb4c3"}
+	{bump "$/humanskin/cha/zb_nrm"}
+	{specular "$/humanskin/cha/zb-sn"}
+	{color "229 229 229 25"}
+	{blend none}
+}

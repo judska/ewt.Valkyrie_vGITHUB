@@ -1,11 +1,11 @@
 {breed
-	{skin "civil_4"}
+	{skin "civil_1"}
 	{portrait "chn_soldier1"}
 	{icon "home_guard"}
 	{icon_priority 0}
 	{nationality chn}
 	{armors
-		{head cha_strawhat}
+		{head cha_civil_strawhat1}
 	}
 	{perks
 		{"health" "100%"
