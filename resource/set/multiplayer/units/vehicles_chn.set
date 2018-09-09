@@ -34,7 +34,7 @@
 {"bt5_chn"          ("v" c(150) t(all light) 		s(chn) n1(2) n2(1) g(d5) sc(180.00) b(v3) cw(0) cp(5)) {level 1} {cost 180} {fore 0.4}}
 {"amr35-13mm_chn"   ("v" c(180) t(all light) 		s(chn) n1(1) n2(1) g(d4) sc(190.00) b(v3) cw(0) cp(5)) {level 1} {cost 190} {fore 0.4}}
  
-{"sdkfz222a"        ("v" c(180) t(all light) 		s(chn) n1(1) n2(1) g(d4) sc(240.00) b(v3) cw(0) cp(5)) {level 1} {cost 240} {fore 0}}      
+{"sdkfz222a"        ("v" c(180) t(all light) 		s(chn) n1(1) n2(1) g(d4) sc(210.00) b(v3) cw(0) cp(5)) {level 1} {cost 210} {fore 0}}      
 {"m5a1_chn"         ("v" c(150) t(all light) 		s(chn) n1(3) n2(1) g(d8) sc(280.00) b(v3) cw(0) cp(5)) {level 1} {cost 280} {fore 1.0}} 	  
 {"m24_chn"          ("v" c(150) t(all light) 		s(chn) n1(3) n2(1) g(d9) sc(300.00) b(v3) cw(0) cp(5)) {level 1} {cost 300} {fore 0}}
  
@@ -46,7 +46,7 @@
 
 ;°°°Button 5°°°
 
-{"m18_chn"         ("v" c(0) t(all medium) 		     s(chn) n1(4) n2(1) g(f1) sc(475.00) b(v5) cw(0) cp(10)) {level 1} {cost 475} {fore 1.0}} 	
+{"m18_chn"         ("v" c(0) t(all medium) 		     s(chn) n1(4) n2(1) g(f1) sc(375.00) b(v5) cw(0) cp(10)) {level 1} {cost 375} {fore 1.0}} 	
 
 
 ;°°°Button Hero°°°
