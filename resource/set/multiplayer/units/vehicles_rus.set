@@ -83,10 +83,10 @@
 {"hero6_rus"        ("i2" c(240) 		         t(all hero) s(rus) n1(squadleader:1) n2(rifle3:19) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero3_rus1"       ("v4" c(360) c1(m3) 		 t(all hero) s(rus) n1(elite:5) n2(elite2:2) n3(elite3:2) n4(elite_at:1) g(h2) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
 
-{"hero7_rus"        ("2v" c(480) c1(t20) c2(bs3) t(all hero) s(rus) n1(vehicle_supporter:2) n2(vehicle_supporter:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
-{"hero8_rus"        ("i2" c(480)		         t(all hero) s(rus) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
-{"hero9_rus"        ("v1" c(600) c1(kv2) 	     t(all hero) s(rus) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
+{"hero7_rus"        ("2v" c(480) c1(t20) c2(bs3) t(all hero) s(rus) n1(vehicle_supporter:2) n2(vehicle_supporter:2) g(h3) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
+{"hero8_rus"        ("i2" c(480)		         t(all hero) s(rus) n1(radioman:1) n2(smg:2) g(h3) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
+{"hero9_rus"        ("v1" c(600) c1(kv2) 	     t(all hero) s(rus) n1(tankman:3) n2(tankman2:1) g(h4) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 
-{"hero10_rus"       ("v1" c(600) c1(bm13)	 t(all hero) s(rus) n1(tankman:1) n2(tankman2:1) g(h5) b(hero)) {level 15} {cost 5.0} {fore -0.5}}
-{"hero11_rus1"        ("v23" c(720) c1(t34_3_siberian) 		t(all hero) s(rus) n1(tankman:3) n2(tankman:1) n3(smg6:4) g(h7) b(hero)) {level 20} {cost 5.0} {fore -0.5}}
-{"hero12_rus"  	    ("v1" c(1080) c1(203b4)      t(all hero) s(rus) n1(vehicle_supporter:2) n2(tankman2:0) g(h9) b(hero)) {level 1} {cost 8.0} {fore -0.5}}
+{"hero10_rus"       ("v1" c(600) c1(bm13)	 t(all hero) s(rus) n1(tankman:1) n2(tankman2:1) g(h4) b(hero)) {level 15} {cost 5.0} {fore -0.5}}
+{"hero11_rus1"        ("v23" c(720) c1(t34_3_siberian) 		t(all hero) s(rus) n1(tankman:3) n2(tankman:1) n3(smg6:4) g(h5) b(hero)) {level 20} {cost 5.0} {fore -0.5}}
+{"hero12_rus"  	    ("v1" c(1080) c1(203b4)      t(all hero) s(rus) n1(vehicle_supporter:2) n2(tankman2:0) g(h6) b(hero)) {level 1} {cost 8.0} {fore -0.5}}

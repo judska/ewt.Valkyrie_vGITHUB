@@ -64,7 +64,7 @@
 
 {"hero7_hun"         ("v1" c(360) c1(turan2) 		    t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}  
 {"hero8_hun"         ("v4" c(360) c1(np_sdkfz251_hun) 	t(all hero) s(hun) n1(elite:4) n2(elite2:2) n3(elite3:2) n4(elite_at:2) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}} 
-{"hero6_hun"         ("v1" c(480) c1(hetzer_hun) 	    t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
+{"hero6_hun"         ("v1" c(360) c1(hetzer_hun) 	    t(all hero) s(hun) n1(tankman:3) n2(tankman2:1) g(h3) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
 
 {"hero9_hun"         ("i2" c(480)                       t(all hero) s(hun) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero10_hun"        ("2v" c(480) c1(np_sig33)	        t(all hero) s(hun) n1(vehicle_supporter:2) n2(vehicle_supporter:0) g(h4) b(hero))) {level 1} {cost 4.0} {fore -0.5}}

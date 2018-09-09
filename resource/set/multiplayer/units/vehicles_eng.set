@@ -76,8 +76,8 @@
 {"hero5_eng"        ("v4" c(360) c1(m3_eng) 		        t(all hero) s(eng) n1(elite:5) n2(elite2:2) n3(elite3:2) n4(elite_at:1) g(h2) b(hero)) {level 1} {cost 3.0} {fore -0.5}}
 {"hero6_eng"	    ("v1" c(480) c1(cromwell_mk_vi)         t(all hero) s(eng) n1(tankman:3) n2(tankman2:1) g(h2) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 
-{"hero7_eng"        ("i2" c(480)					        t(all hero) s(eng) n1(radioman:1) n2(smg:2) g(h4) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
-{"hero7new_eng"     ("i4" c(1480)					        t(all hero) s(eng) n1(sturmovik8:1) n2(sturmovik8b:4) n3(sturmovik9:5) g(h1) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
+{"hero7_eng"        ("i2" c(480)					        t(all hero) s(eng) n1(radioman:1) n2(smg:2) g(h3) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
+{"hero7new_eng"     ("i4" c(480)					        t(all hero) s(eng) n1(sturmovik8:1) n2(sturmovik8b:4) n3(sturmovik9:5) g(h3) b(hero)) {level 1} {cost 4.0} {fore -0.5}}
 {"hero8_eng"        ("v2" c(600) c1(pdr25) 			        t(all hero) s(eng) n1(vehicle_supporter:2) n2(tankman2:0) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 
 {"hero9_eng"	    ("v1" c(600) c1(m4a4_tulip)		        t(all hero) s(eng) n1(tankman:4) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}

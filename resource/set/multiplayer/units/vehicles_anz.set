@@ -58,7 +58,7 @@
 {"hero2_anz"        ("i2" c(120)					            t(all hero) s(anz) n1(elite7:1) n2(elite8:7) n3(mgun2:1) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 {"hero3_anz"        ("v1" c(120) c1(qf13)                       t(all hero) s(anz) n1(vehicle_supporter:2) n2(bazooker:0) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}
 
-{"hero4_anz"        ("v1" c(120) c1(m3a1scout_us)               t(all hero) s(anz) n1(vehicle_supporter:4) g(h1) b(hero)) {level 1} {cost 1.0} {fore -0.5}}    
+{"hero4_anz"        ("v1" c(120) c1(m3a1scout_us)               t(all hero) s(anz) n1(vehicle_supporter:4) g(h2) b(hero)) {level 1} {cost 1.0} {fore -0.5}}    
 {"hero5_anz"        ("i3" c(240) 			                    t(all hero) s(anz) n1(elite4:2) n2(elite5:8) n3(elite6:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 {"hero6_anz"	    ("2v" c(240) c1(universal_carrier_anz) c2(bofors_anz) t(all hero) s(anz) n1(vehicle_supporter:2) n2(tankman2:2) g(h2) b(hero)) {level 1} {cost 2.0} {fore -0.5}}
 
@@ -68,5 +68,5 @@
 
 {"hero10_anz"       ("v1" c(600) c1(staghound_e1)               t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
 {"hero11_anz"       ("v1" c(600) c1(churchill_mk_v_cs)          t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
-{"hero12_anz"	    ("v1" c(720) c1(sexton)                     t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h5) b(hero)) {level 1} {cost 5.0} {fore -0.5}}
+{"hero12_anz"	    ("v1" c(720) c1(sexton)                     t(all hero) s(anz) n1(tankman:3) n2(tankman2:1) g(h6) b(hero)) {level 1} {cost 6.0} {fore -0.5}}
 
