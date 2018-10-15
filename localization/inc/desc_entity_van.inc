@@ -51,6 +51,8 @@
 		{"chi-he" "Chi-He"}
 		{"chi-nu" "Chi-Nu"}
 		{"chi-nu_kai" "Chi-Nu Kai"}
+		{"np_lrdg" "Lrdg"}
+		{"gazaaa4m" "Gaz Maxim X4"}
 		{"chi-ri" "Chi-Ri"}
 		{"chi-to" "Chi-To"}
 		{"churchill_avre" "Churchill AVRE"}
